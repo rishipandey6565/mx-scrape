@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, time
 from concurrent.futures import ThreadPoolExecutor
 import pytz
 
-BASE_URL = "https://mi.tv/br/async/channel"
+BASE_URL = "https://mi.tv/mx/async/channel/"
 TIMEZONE = pytz.timezone("America/Sao_Paulo")
 
 START_DAY = time(5, 30)
