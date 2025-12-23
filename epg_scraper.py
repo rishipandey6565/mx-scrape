@@ -7,8 +7,8 @@ from datetime import datetime, timedelta, time
 from concurrent.futures import ThreadPoolExecutor
 import pytz
 
-BASE_URL = "https://mi.tv/mx/async/channel/"
-TIMEZONE = pytz.timezone("America/Sao_Paulo")
+BASE_URL = "https://mi.tv/mx/async/channel"
+TIMEZONE = pytz.timezone("America/Mexico_City")
 
 START_DAY = time(5, 30)
 END_DAY = time(23, 59)
@@ -129,8 +129,6 @@ def process_channel(channel):
 
         filename = channel.lower().replace("_", "-") + ".json"
         channel_name = channel.replace("-", " ").title()
-
-        # -------- NEW LOGIC (ONLY CHANGE) -------- #
 
         if not today_schedule:
             log(f"SKIPPED today → {channel} (no shows found)")
