@@ -7,6 +7,8 @@ from datetime import datetime, timedelta, time
 from concurrent.futures import ThreadPoolExecutor
 import pytz
 
+# ---------------- CONFIG ---------------- #
+
 BASE_URL = "https://mi.tv/mx/async/channel"
 TIMEZONE = pytz.timezone("America/Mexico_City")
 
@@ -23,6 +25,8 @@ os.makedirs("schedule/today", exist_ok=True)
 os.makedirs("schedule/tomorrow", exist_ok=True)
 
 LOG_FILE = "epg.log"
+
+# --------------------------------------- #
 
 
 def log(msg):
@@ -106,9 +110,9 @@ def process_channel(channel):
     try:
         log(f"START channel: {channel}")
 
-        html_y = fetch_html(f"{BASE_URL}/{channel}/ontem/330")
+        html_y = fetch_html(f"{BASE_URL}/{channel}/ayer/330")
         html_t = fetch_html(f"{BASE_URL}/{channel}/330")
-        html_tm = fetch_html(f"{BASE_URL}/{channel}/amanha/330")
+        html_tm = fetch_html(f"{BASE_URL}/{channel}/manana/330")
 
         shows_y = parse_shows(html_y)
         shows_t = parse_shows(html_t)
