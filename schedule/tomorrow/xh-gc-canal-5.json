@@ -3,60 +3,44 @@
   "date": "25/12/2025",
   "schedule": [
     {
-      "show_name": "Iron Man: Aventuras de hierro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Animación",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Un joven intenta equilibrar la presión de la vida adolescente con los deberes de ser un superhéroe."
-    },
-    {
-      "show_name": "Prodigiosa: las aventuras de Ladybug",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_prodigiosa-las-aventuras-de-ladybug-1_l_m.jpg",
-      "show_category": "Infantil",
-      "start_time": "02:00",
+      "show_name": "La estrella de Belén",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-estrella-de-belen-2017_l_m.jpg",
+      "show_category": "The Star",
+      "start_time": "01:15",
       "end_time": "03:00",
-      "episode_description": "Marinette conoce al guardián de los Miraculous, y descubre la existencia de otros accesorios de poder y superhéroes que le pueden ser de ayuda en misiones particularmente difíciles."
+      "episode_description": "Un burrito que anhela una vida más allá de su rutina diaria reúne el coraje necesario para cumplir la aventura de sus sueños. Conocera a otros excéntricos animales y todos se convertirán en los héroes no reconocidos de la primera Navidad."
     },
     {
-      "show_name": "Bob Esponja",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
-      "show_category": "Infantil",
+      "show_name": "El origen de los guardianes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-origen-de-los-guardianes-2012_l_m.jpg",
+      "show_category": "Rise of the Guardians",
       "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
+      "end_time": "05:00",
+      "episode_description": "Los Guardianes Inmortales son un grupo que poseen extraordinarias facultades. Cuando Pitch, un espíritu maligno, acepta el reto de destruir el mundo, tendrán que unir sus fuerzas por primera vez para proteger a los niños de todo el mundo."
     },
     {
-      "show_name": "Realmente amor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_realmente-amor-2003_l_m.jpg",
-      "show_category": "Love Actually",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "El amor está en todas partes: entre políticos, viudos, jóvenes que sueñan con encontrarlo y parejas que no saben en qué momento lo perdieron. Éste es el recuento de varias historias no siempre alegres y en muchas ocasiones inesperadas."
+      "show_name": "El Grinch",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-grinch-2000_l_m.jpg",
+      "show_category": "How the Grinch Stole Christmas",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Cuando el Grinch, un ogro que odia la Navidad, decide robarse los regalos, conoce a una niña que tampoco siente el espíritu navideño. Ambos tienen muchas cosas en común y juntos van a descubrirlas."
     },
     {
-      "show_name": "Guerra de papás",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guerra-de-papas-2015_l_m.jpg",
-      "show_category": "Daddy's Home",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Si de criar niños se trata, Dusty y Brad por fin han aprendido a trabajar en equipo. Esto es, hasta que sus propios papás caen de visita y los ponen a prueba en esta hilarante comedia."
-    },
-    {
-      "show_name": "Vacaciones",
+      "show_name": "Lilo, Lilo, Cocodrilo",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
-      "show_category": "Película / 6.7",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": ""
+      "show_category": "Lyle, Lyle, Crocodile",
+      "start_time": "07:15",
+      "end_time": "09:30",
+      "episode_description": "La familia Primm se muda a Nueva York, donde Josh, el pequeño de la casa, tiene problemas para adaptarse a la escuela y hacer amigos. Todo cambia cuando Josh conoce a Lilo, un cocodrilo al que le apasiona la música, bañarse y el caviar."
     },
     {
-      "show_name": "Contacto deportivo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-contacto-deportivo_l_m.jpg",
-      "show_category": "Contacto deportivo",
-      "start_time": "11:00",
+      "show_name": "Clifford, el gran perro rojo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Clifford, the Big Red Dog",
+      "start_time": "09:30",
       "end_time": "11:30",
-      "episode_description": "Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional."
+      "episode_description": "Cuando Emily conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York."
     },
     {
       "show_name": "Inova",
@@ -75,20 +59,12 @@
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
-      "show_category": "Publicidad",
+      "show_name": "México nuevo siglo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-nuevo-siglo_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
-    },
-    {
-      "show_name": "CV directo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
-      "show_category": "Publicidad",
-      "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "La serie sigue fiel a su concepto original, respetando el rigor en la investigación documental, testimonial y de contenidos, pero extiende su atención, a momentos o personajes de cualquier época de la historia de nuestro país."
     },
     {
       "show_name": "CV directo",
@@ -195,36 +171,36 @@
       "episode_description": "Bugs Bunny y Lola Bunny manejan un equipo de constructores ineptos. Al trabajar juntos como equipo, Daffy Duck, Porky Pig, Tweety y otros llevan a cabo algunos de los trabajos de construcción más locos de la historia."
     },
     {
-      "show_name": "100% lobo: el libro de Hath",
+      "show_name": "La casa de muñecas de Gabby",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "19:30",
       "end_time": "20:30",
-      "episode_description": "Freddy y la manada Howlington se enfrentan con la magia oscura ancestral en una batalla épica a través del tiempo y el espacio para salvar a Milford, a los hombres lobo y al mundo tal como lo conocemos."
+      "episode_description": "¡Gatos lindos, manualidades divertidas y magia colorida! Únete a Gabby y a Pandy Patas en esta serie de aventuras animadas."
+    },
+    {
+      "show_name": "Tortugas Ninja: historias mutantes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Animación",
+      "start_time": "20:30",
+      "end_time": "22:00",
+      "episode_description": "Sigue las aventuras de Leo, Raph, Donnie y Mikey que, mientras lidian con su rol de héroes, deben superar las presiones que les significa asistir al Instituto en Nueva York."
+    },
+    {
+      "show_name": "The Loud House",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-loud-house_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "22:00",
+      "end_time": "23:30",
+      "episode_description": "Lincoln Loud es un chico de once años que vive con sus diez hermanas. Con la ayuda de su confiable amigo Clyde, Lincoln encuentra nuevas y distintas maneras de sobrevivir a diario en una familia gigante."
     },
     {
       "show_name": "Bob Esponja",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
       "show_category": "Infantil",
-      "start_time": "20:30",
-      "end_time": "22:00",
+      "start_time": "23:30",
+      "end_time": "01:00",
       "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
-    },
-    {
-      "show_name": "El Chavo animado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo-animado_l_m.jpg",
-      "show_category": "D.Animados",
-      "start_time": "22:00",
-      "end_time": "23:15",
-      "episode_description": "Chavo vive en una vecindad mexicana, junto a sus amigos Popis, Ñoño, Patty y Quico, y vivirá situaciones alocadas en cada episodio."
-    },
-    {
-      "show_name": "Operación regalo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-regalo-2011_l_m.jpg",
-      "show_category": "Arthur Christmas",
-      "start_time": "23:15",
-      "end_time": "01:15",
-      "episode_description": "Arthur Claus, el hijo torpe de Papá Noel, descubre que una niña no ha recibido su regalo por una falla técnica. En respuesta, se embarca en una misión para salvar su navidad, acompañado de su abuelo, un elfo y ocho renos mágicos."
     }
   ]
 }
