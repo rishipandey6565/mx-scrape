@@ -1,0 +1,86 @@
+name: Deploy Data to WordPress
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 1. Compress the directories locally to save bandwidth
+      - name: Compress directories
+        run: |
+          # Compress downloaded-images folder
+          # This creates an archive that contains the folder structure 'downloaded-images/...'
+          if [ -d "downloaded-images" ]; then
+            tar -czf downloaded-images.tar.gz downloaded-images
+          else
+            echo "Directory downloaded-images not found!"
+          fi
+
+          # Compress schedule folder
+          if [ -d "schedule" ]; then
+            tar -czf schedule.tar.gz schedule
+          else
+            echo "Directory schedule not found!"
+          fi
+
+      # 2. Upload the compressed files via SCP
+      - name: Upload files via SCP
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          # Upload only the tar.gz files
+          source: "downloaded-images.tar.gz,schedule.tar.gz"
+          # Target destination
+          target: "/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads/"
+
+      # 3. Unzip, Place files, Run WP Command, and Clean up
+      - name: Extract and Run Commands via SSH
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            # Define paths
+            UPLOADS_DIR="/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads"
+            SITE_ROOT="/home/programaciontv/htdocs/programaciontv.com.mx/"
+
+            # Go to uploads directory
+            cd $UPLOADS_DIR
+
+            # Unzip downloaded-images if it exists
+            if [ -f "downloaded-images.tar.gz" ]; then
+              echo "Extracting downloaded-images..."
+              # overwrite existing files without prompting
+              tar -xzf downloaded-images.tar.gz --overwrite
+              # Delete the gz file
+              rm downloaded-images.tar.gz
+            fi
+
+            # Unzip schedule if it exists
+            if [ -f "schedule.tar.gz" ]; then
+              echo "Extracting schedule..."
+              tar -xzf schedule.tar.gz --overwrite
+              rm schedule.tar.gz
+            fi
+
+            # Go to site root and run the WP import command
+            cd $SITE_ROOT
+            echo "Running WP Schedule Import..."
+            
+            # Assuming 'wp' is in your global path. If not, use the full path (e.g., /usr/local/bin/wp)
+            wp schedule import
+
+            echo "Deployment complete."
