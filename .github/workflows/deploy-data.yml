@@ -76,6 +76,6 @@ jobs:
             echo "Running WP Schedule Import..."
             
             # Run the import
-            wp schedule import
+            wp schedule import --allow-root
 
             echo "Deployment complete."
