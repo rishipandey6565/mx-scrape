@@ -6,6 +6,7 @@ import pytz
 import os
 from pathlib import Path
 import time
+import re
 
 # Configuration
 LINEUP_ID = "3129"  # StarTV Mexico
@@ -17,7 +18,6 @@ def read_channel_ids():
     """Read channel IDs from filter.txt file"""
     try:
         with open(FILTER_FILE, 'r') as f:
-            # Read lines and strip whitespace, filter empty lines
             channel_ids = [line.strip() for line in f if line.strip()]
         return channel_ids
     except FileNotFoundError:
@@ -53,10 +53,47 @@ def fetch_schedule(channel_id, date, start_hour="00:00"):
         print(f"Error fetching schedule for channel {channel_id}: {e}")
         return None
 
-def parse_schedule(html_content, date):
-    """Parse HTML content and extract schedule information"""
-    if not html_content:
+def parse_datetime(datetime_text, target_date):
+    """
+    Parse datetime from format '22/01 03:02hs.' and filter by target date
+    Returns (date_str, time_str) or None if date doesn't match
+    """
+    try:
+        # Extract date and time using regex
+        # Format: "22/01 03:02hs."
+        match = re.search(r'(\d{2})/(\d{2})\s+(\d{2}):(\d{2})', datetime_text)
+        if not match:
+            return None
+        
+        day = match.group(1)
+        month = match.group(2)
+        hour = match.group(3)
+        minute = match.group(4)
+        
+        # Get year from target_date
+        target_date_obj = datetime.strptime(target_date, '%Y-%m-%d')
+        year = target_date_obj.year
+        
+        # Construct full date
+        program_date = f"{day}/{month}/{year}"
+        program_time = f"{hour}:{minute}"
+        
+        # Check if this matches our target date
+        program_date_obj = datetime.strptime(program_date, '%d/%m/%Y')
+        
+        if program_date_obj.date() == target_date_obj.date():
+            return program_date, program_time
+        else:
+            return None
+            
+    except Exception as e:
+        print(f"Error parsing datetime '{datetime_text}': {e}")
         return None
+
+def parse_schedule(html_content, target_date):
+    """Parse HTML content and extract schedule information for target date only"""
+    if not html_content:
+        return None, []
     
     soup = BeautifulSoup(html_content, 'html.parser')
     programs = []
@@ -76,6 +113,8 @@ def parse_schedule(html_content, date):
             # Extract show logo
             logo_elem = item.find('img', class_='evento_imagen')
             show_logo = logo_elem.get('src', '') if logo_elem else ''
+            if show_logo:
+                show_logo = show_logo if show_logo.startswith('http') else f"https://www.reportv.com.ar{show_logo}"
             
             # Extract show title
             title_elem = item.find('p', class_='evento_titulo texto_a_continuacion dotdotdot')
@@ -89,14 +128,12 @@ def parse_schedule(html_content, date):
             datetime_elem = item.find('p', class_='fechaHora')
             datetime_text = datetime_elem.get_text(strip=True) if datetime_elem else ''
             
-            # Parse datetime (format: "22/01 03:02hs.")
-            start_time = ""
-            if datetime_text:
-                try:
-                    time_part = datetime_text.split()[-1].replace('hs.', '').strip()
-                    start_time = time_part
-                except:
-                    pass
+            # Parse and filter by date
+            parsed = parse_datetime(datetime_text, target_date)
+            if not parsed:
+                continue  # Skip programs not on target date
+            
+            program_date, start_time = parsed
             
             if show_name and start_time:
                 programs.append({
@@ -105,20 +142,38 @@ def parse_schedule(html_content, date):
                     "show_category": show_category,
                     "start_time": start_time,
                     "end_time": "",  # Will be calculated
-                    "episode_description": ""  # Not available in list view
+                    "episode_description": ""
                 })
         except Exception as e:
             print(f"Error parsing program item: {e}")
             continue
+    
+    # Sort programs by start time
+    programs.sort(key=lambda x: x['start_time'])
     
     # Calculate end times
     for i in range(len(programs)):
         if i < len(programs) - 1:
             programs[i]["end_time"] = programs[i + 1]["start_time"]
         else:
+            # Last program ends at next day 00:00 or 23:59
             programs[i]["end_time"] = "23:59"
     
     return channel_name, programs
+
+def filter_24hour_schedule(programs):
+    """Filter to keep only programs within 00:00 to 23:59"""
+    filtered = []
+    for program in programs:
+        try:
+            # Parse start time
+            start_hour = int(program['start_time'].split(':')[0])
+            # Keep programs that start within the day (00:00 - 23:59)
+            if 0 <= start_hour <= 23:
+                filtered.append(program)
+        except:
+            continue
+    return filtered
 
 def save_schedule(channel_name, date, programs, folder):
     """Save schedule to JSON file"""
@@ -131,7 +186,9 @@ def save_schedule(channel_name, date, programs, folder):
     formatted_date = date_obj.strftime('%d/%m/%Y')
     
     # Create filename from channel name (sanitize)
-    filename = channel_name.lower().replace(' ', '_').replace('/', '_') + '.json'
+    filename = channel_name.lower().replace(' ', '_').replace('/', '_').replace('\\', '_')
+    filename = re.sub(r'[^\w\s-]', '', filename).strip()
+    filename = filename + '.json'
     filepath = folder_path / filename
     
     # Prepare output data
@@ -173,21 +230,29 @@ def main():
         
         # Fetch and save today's schedule
         print(f"  → Fetching today's schedule...")
-        html_today = fetch_schedule(channel_id, today)
+        html_today = fetch_schedule(channel_id, today, "00:00")
         if html_today:
             channel_name, programs_today = parse_schedule(html_today, today)
             if programs_today:
+                # Filter to 24-hour schedule
+                programs_today = filter_24hour_schedule(programs_today)
                 save_schedule(channel_name, today, programs_today, "schedule/today")
+            else:
+                print(f"  ⚠ No programs found for today")
         
         time.sleep(1)  # Be nice to the server
         
         # Fetch and save tomorrow's schedule
         print(f"  → Fetching tomorrow's schedule...")
-        html_tomorrow = fetch_schedule(channel_id, tomorrow)
+        html_tomorrow = fetch_schedule(channel_id, tomorrow, "00:00")
         if html_tomorrow:
             channel_name, programs_tomorrow = parse_schedule(html_tomorrow, tomorrow)
             if programs_tomorrow:
+                # Filter to 24-hour schedule
+                programs_tomorrow = filter_24hour_schedule(programs_tomorrow)
                 save_schedule(channel_name, tomorrow, programs_tomorrow, "schedule/tomorrow")
+            else:
+                print(f"  ⚠ No programs found for tomorrow")
         
         time.sleep(1)  # Be nice to the server
     
