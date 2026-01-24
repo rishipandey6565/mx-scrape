@@ -1,81 +1,72 @@
-name: Deploy Data to WordPress (Password Auth)
+name: Deploy Schedule and Images to WordPress
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  schedule:
+    # 6:00 AM Mexico City Time (CST/CDT)
+    # CST is UTC-6. So 12:00 PM UTC.
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allows manual trigger for testing
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Compress the directories locally
-      - name: Compress directories
+      - name: Prepare and Compress Folders
         run: |
-          # Compress downloaded-images
-          if [ -d "downloaded-images" ]; then
-            tar -czf downloaded-images.tar.gz downloaded-images
+          # 1. Logic for Even/Odd naming
+          DAY=$(date +%d)
+          if [ $((DAY % 2)) -eq 0 ]; then
+            echo "Today is EVEN ($DAY). Today -> even, Tomorrow -> odd"
+            mv schedule/today even
+            mv schedule/tomorrow odd
           else
-            echo "Directory downloaded-images not found!"
+            echo "Today is ODD ($DAY). Today -> odd, Tomorrow -> even"
+            mv schedule/today odd
+            mv schedule/tomorrow even
           fi
 
-          # Compress schedule
-          if [ -d "schedule" ]; then
-            tar -czf schedule.tar.gz schedule
-          else
-            echo "Directory schedule not found!"
-          fi
+          # 2. Create GZ archives
+          # -cvzf: compress, verbose, zip-file
+          tar -cvzf even.tar.gz even/
+          tar -cvzf odd.tar.gz odd/
+          tar -cvzf downloaded-images.tar.gz downloaded-images/
 
-      # 2. Upload files via SCP using Password
-      - name: Upload files via SCP
-        uses: appleboy/scp-action@master
+      - name: Upload Archives to Server
+        uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          source: "downloaded-images.tar.gz,schedule.tar.gz"
-          target: "/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads/"
+          source: "even.tar.gz,odd.tar.gz,downloaded-images.tar.gz"
+          target: "/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads/temp_deploy"
 
-      # 3. Unzip, Run Commands, and Clean up via SSH using Password
-      - name: Extract and Run Commands via SSH
-        uses: appleboy/ssh-action@master
+      - name: Extract and Execute Remote Commands
+        uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            # Define paths
-            UPLOADS_DIR="/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads"
-            SITE_ROOT="/home/programaciontv/htdocs/programaciontv.com.mx/"
-
-            # Go to uploads directory
-            cd $UPLOADS_DIR
-
-            # Unzip downloaded-images if it exists
-            if [ -f "downloaded-images.tar.gz" ]; then
-              echo "Extracting downloaded-images..."
-              tar -xzf downloaded-images.tar.gz --overwrite
-              rm downloaded-images.tar.gz
-            fi
-
-            # Unzip schedule if it exists
-            if [ -f "schedule.tar.gz" ]; then
-              echo "Extracting schedule..."
-              tar -xzf schedule.tar.gz --overwrite
-              rm schedule.tar.gz
-            fi
-
-            # Go to site root and run the WP import command
-            cd $SITE_ROOT
-            echo "Running WP Schedule Import..."
+            # Set target paths
+            BASE_PATH="/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads"
+            TEMP_PATH="$BASE_PATH/temp_deploy"
             
-            # Run the import
-            wp schedule import --allow-root
-
-            echo "Deployment complete."
+            # Extract Schedule files
+            mkdir -p $BASE_PATH/schedule
+            tar -xzf $TEMP_PATH/even.tar.gz -C $BASE_PATH/schedule/
+            tar -xzf $TEMP_PATH/odd.tar.gz -C $BASE_PATH/schedule/
+            
+            # Extract Images (this will merge/overwrite into existing folder)
+            tar -xzf $TEMP_PATH/downloaded-images.tar.gz -C $BASE_PATH/
+            
+            # Import WP-CLI Command
+            cd /home/programaciontv/htdocs/programaciontv.com.mx/
+            wp tv-schedule import --allow-root
+            
+            # Cleanup temp files on server
+            rm -rf $TEMP_PATH
