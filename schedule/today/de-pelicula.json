@@ -1,126 +1,118 @@
 {
-  "channel": "De Pelicula",
+  "channel": "De Película",
   "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "El extra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-extra-1962_l_m.jpg",
-      "show_category": "Comedia / 1962",
-      "start_time": "00:05",
-      "end_time": "02:11",
-      "episode_description": "Decidido a triunfar en el mundo del cine, Rogaciano acepta un papel de extra en varias producciones, en las que tiene que interpretar personajes muy variados. Su celo en el trabajo provoca la antipatía de los sucesivos directores."
-    },
-    {
-      "show_name": "El castillo de los monstruos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-castillo-de-los-monstruos-1958_l_m.jpg",
-      "show_category": "Comedia / 1958 / 6.0",
-      "start_time": "02:11",
-      "end_time": "03:52",
-      "episode_description": "Una pareja es obligada a quedarse en un castillo embrujado lleno de monstruos, entre los que se encuentran vampiros y hombres lobo."
-    },
-    {
-      "show_name": "El traficante",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
-      "show_category": "Drama / 1983 / 5.5",
-      "start_time": "03:52",
-      "end_time": "05:29",
-      "episode_description": "Un narcotraficante muere durante una redada, lo que da lugar a una masacre a causa de los deseos de venganza de la familia del muerto."
-    },
-    {
-      "show_name": "El contrabando del paso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-contrabando-del-paso-1980_l_m.jpg",
-      "show_category": "Acción / 1980",
-      "start_time": "05:29",
-      "end_time": "05:59",
-      "episode_description": "Un malvado hombre planea utilizar a tres buenas personas, contra su voluntad, en un plan perverso de contrabando."
-    },
-    {
-      "show_name": "Juana la cubana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_juana-la-cubana-1994_l_m.jpg",
-      "show_category": "Acción / 1994 / 4.5",
-      "start_time": "07:13",
-      "end_time": "09:17",
-      "episode_description": "Juana la Cubana es la cantante más famosa de su país, una isla que sufrió un golpe de estado. Pero los rebeldes la conocen como la Comandante Z, una guerrera que busca derrocar al dictador y luchar por la libertad del pueblo."
-    },
-    {
-      "show_name": "Nosotros los pelados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_nosotros-los-pelados-1984_l_m.jpg",
-      "show_category": "Comedia / 1984 / 5.0",
-      "start_time": "09:17",
-      "end_time": "11:07",
-      "episode_description": "El dolor por la muerte de su padre ha hecho de Laura una mujer fría, altanera y rencorosa. Todo eso, junto con el descubrimiento de una dolorosa verdad en el pasado de su padre, hacen a Laura vulnerable a perder sus valores."
-    },
-    {
-      "show_name": "Día de difuntos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dia-de-difuntos-1988_l_m.jpg",
-      "show_category": "Drama / 1988",
-      "start_time": "11:07",
-      "end_time": "12:50",
-      "episode_description": "En un panteón el día de muertos, el licenciado Talamantes va a colocar una cruz en la tumba de su madre, ahí convive con otros asistentes que conmemoran a sus deudos: el albañil, el poeta, el zapatero Zacarías, el plomero Baltazar y Pedro."
-    },
-    {
       "show_name": "Alas doradas",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_alas-doradas-1976_l_m.jpg",
-      "show_category": "Drama / 1976 / 5.0",
-      "start_time": "12:50",
-      "end_time": "14:24",
+      "show_category": "Drama / 1976 /5.0",
+      "start_time": "01:20",
+      "end_time": "02:54",
       "episode_description": "Dos amigos de la Fuerza Aérea obtienen sus Alas Doradas, pero con un futuro incierto. Luis logra finalizar su carrera como piloto con honores, manteniendo a la par una vida amorosa, mientras que Manolo atraviesa grandes dificultades."
     },
     {
       "show_name": "Esa mujer me vuelve loco",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_esa-mujer-me-vuelve-loco-1991_l_m.jpg",
       "show_category": "Comedia / 1991",
-      "start_time": "14:24",
-      "end_time": "15:57",
+      "start_time": "02:54",
+      "end_time": "04:27",
       "episode_description": "Dedicado por completo a su esposa, pero con una gran debilidad por las mujeres, Carlos encuentra a una dama que lo impacta y busca por todos los medios conocerla. Cuando por fin lo logra, se lleva una gran sorpresa."
     },
     {
       "show_name": "En mil pedazos",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "En Mil Pedazos",
-      "start_time": "15:57",
-      "end_time": "17:30",
+      "start_time": "04:27",
+      "end_time": "06:00",
       "episode_description": "Jorge Sueiro es un detective privado que busca vengarse de Da Costa, delincuente por cuya culpa murió su hija. Jorge acepta la proposición de seguir a una mujer solo porque le recuerda a ella."
     },
     {
       "show_name": "Blue Demon destructor de espías",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_blue-demon-destructor-de-espias-1968_l_m.jpg",
-      "show_category": "Thriller / 1968 / 4.9",
-      "start_time": "17:30",
-      "end_time": "19:04",
+      "show_category": "Thriller / 1968 /4.9",
+      "start_time": "06:00",
+      "end_time": "07:34",
       "episode_description": "Una organización criminal intenta usar un gas letal para envenenar a todo el mundo y Blue Demon luchará por derrotarlos en una nueva aventura de espionaje."
     },
     {
       "show_name": "Vuelven los cinco halcones",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_vuelven-los-cinco-halcones-1962_l_m.jpg",
-      "show_category": "Western / 1962 / 4.9",
-      "start_time": "19:04",
-      "end_time": "20:47",
+      "show_category": "Western / 1962 /4.9",
+      "start_time": "07:34",
+      "end_time": "09:17",
       "episode_description": "Robos y violencias se suceden en el pueblo Los Álamos. Don Rosendo se entrevista con Fernando, el presidente Municipal, Joaquín, el Comisario, Demetrio, el médico, Javier y Mauricio. Los cinco jóvenes intentaran devolver la paz al pueblo."
     },
     {
       "show_name": "El extra",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-extra-1962_l_m.jpg",
       "show_category": "Comedia / 1962",
-      "start_time": "20:47",
-      "end_time": "22:53",
+      "start_time": "09:17",
+      "end_time": "11:23",
       "episode_description": "Decidido a triunfar en el mundo del cine, Rogaciano acepta un papel de extra en varias producciones, en las que tiene que interpretar personajes muy variados. Su celo en el trabajo provoca la antipatía de los sucesivos directores."
     },
     {
       "show_name": "Señoritas",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_senoritas-1959_l_m.jpg",
       "show_category": "Drama / 1959",
-      "start_time": "22:53",
-      "end_time": "00:37",
+      "start_time": "11:23",
+      "end_time": "13:07",
       "episode_description": "Un grupo de chicas, quizá no en su mayoría señoritas, comparten algo en común: todas tienen problemas."
+    },
+    {
+      "show_name": "El chanfle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chanfle-1979_l_m.jpg",
+      "show_category": "El Chanfle",
+      "start_time": "13:07",
+      "end_time": "14:57",
+      "episode_description": "El Chanfle es un utilero del equipo de fútbol América, él es buen hombre, sencillo y honrado, vive con su esposa Tere, quien siempre busca ahorrar dinero."
+    },
+    {
+      "show_name": "El médico módico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-medico-modico-1971_l_m.jpg",
+      "show_category": "Comedia / 1971",
+      "start_time": "14:57",
+      "end_time": "16:32",
+      "episode_description": "Capulina es mecánico de ambulancias pero, tras tomar un curso, el director del hospital lo asciende a enfermero. Entonces, al atender a Don Ascencio se encontará con unos maleantes que le complicarán la vida dentro del hospital."
+    },
+    {
+      "show_name": "El bombero atómico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-bombero-atomico-1952_l_m.jpg",
+      "show_category": "Comedia / 1952 /7.3",
+      "start_time": "16:32",
+      "end_time": "18:22",
+      "episode_description": "En una choza situada en la selva, Silverio dicta su testamento poco antes de morir. El notario toma apuntes de su postrera voluntad. Unos ricos campos petrolíferos deben ser para su hija Rosario, que vive en el pueblo de Santa Rosa."
     },
     {
       "show_name": "El chivo",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chivo-1992_l_m.jpg",
       "show_category": "Comedia / 1992",
-      "start_time": "05:52",
-      "end_time": "06:22",
+      "start_time": "18:22",
+      "end_time": "19:59",
       "episode_description": "Un cacique controla el pueblo de San Isidro de las Veredas y hace lo que quiere impunemente, pues todos los habitantes le deben dinero. El cura del pueblo pide ayuda a los tres alegres hermanos Macías para buscar una solución."
+    },
+    {
+      "show_name": "Rosas blancas para mi hermana negra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rosas-blancas-para-mi-hermana-negra-1970_l_m.jpg",
+      "show_category": "Drama / 1970 /7.3",
+      "start_time": "19:59",
+      "end_time": "21:48",
+      "episode_description": "Una cantante blanca se opone a la relación entre su hija y un médico de color, pero luego irá contra sus sentimientos cuando su hija enferme y acepte un trasplante de corazón de parte de una amiga condenada a morir."
+    },
+    {
+      "show_name": "El rey de la vecindad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 1985 /7.1",
+      "start_time": "21:48",
+      "end_time": "23:42",
+      "episode_description": "Para aumentar sus ingresos, el dueño de una vecindad decide echar a sus inquilinos."
+    },
+    {
+      "show_name": "Internado para señoritas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_internado-para-senoritas-2003_l_m.jpg",
+      "show_category": "Comedia / 2003",
+      "start_time": "23:42",
+      "end_time": "01:26",
+      "episode_description": "En un colegio para señoritas, las alumnas se divierten haciendo travesuras y haciendo desesperar a su director. Todo cambia cuando dos prófugos de la ley se adentran en sus habitaciones."
     }
   ]
 }

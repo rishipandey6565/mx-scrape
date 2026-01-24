@@ -1,18 +1,20 @@
-2026-01-23T07:41:16.304250 | START channel: fx
-2026-01-23T07:41:16.304310 | START channel: de-pelicula
-2026-01-23T07:41:16.305320 | START channel: discovery-kids
-2026-01-23T07:41:16.305765 | START channel: discovery-channel
-2026-01-23T07:41:16.306086 | START channel: espn-hd
-2026-01-23T07:41:16.310203 | START channel: history
-2026-01-23T07:41:17.100137 | SKIPPED today → espn-hd (no shows found)
-2026-01-23T07:41:17.108614 | SKIPPED tomorrow → espn-hd (no shows found)
-2026-01-23T07:41:17.148457 | SAVED today → schedule/today/fx.json (13 shows)
-2026-01-23T07:41:17.148865 | SAVED tomorrow → schedule/tomorrow/fx.json (13 shows)
-2026-01-23T07:41:17.443445 | SAVED today → schedule/today/history.json (33 shows)
-2026-01-23T07:41:17.492544 | SAVED today → schedule/today/de-pelicula.json (15 shows)
-2026-01-23T07:41:17.513784 | SAVED tomorrow → schedule/tomorrow/history.json (33 shows)
-2026-01-23T07:41:17.524164 | SAVED tomorrow → schedule/tomorrow/de-pelicula.json (16 shows)
-2026-01-23T07:41:17.549781 | SAVED today → schedule/today/discovery-channel.json (28 shows)
-2026-01-23T07:41:17.596100 | SAVED tomorrow → schedule/tomorrow/discovery-channel.json (28 shows)
-2026-01-23T07:41:17.648764 | SAVED today → schedule/today/discovery-kids.json (100 shows)
-2026-01-23T07:41:17.649696 | SAVED tomorrow → schedule/tomorrow/discovery-kids.json (90 shows)
+Starting Scraper run at 2026-01-23 22:51:16.337557-03:00
+[2026-01-23 22:51:16] Processing channel: fx
+[2026-01-23 22:51:17] Saved: schedule/today/fx.json
+[2026-01-23 22:51:17] Saved: schedule/tomorrow/fx.json
+[2026-01-23 22:51:17] Processing channel: de-pelicula
+[2026-01-23 22:51:19] Saved: schedule/today/de-pelicula.json
+[2026-01-23 22:51:19] Saved: schedule/tomorrow/de-pelicula.json
+[2026-01-23 22:51:19] Processing channel: discovery-kids
+[2026-01-23 22:51:20] Saved: schedule/today/discovery-kids.json
+[2026-01-23 22:51:20] Saved: schedule/tomorrow/discovery-kids.json
+[2026-01-23 22:51:20] Processing channel: discovery-channel
+[2026-01-23 22:51:20] Saved: schedule/today/discovery-channel.json
+[2026-01-23 22:51:20] Saved: schedule/tomorrow/discovery-channel.json
+[2026-01-23 22:51:20] Processing channel: espn-hd
+[2026-01-23 22:51:21] Warning: No schedule found for espn-hd (Today)
+[2026-01-23 22:51:21] Warning: No schedule found for espn-hd (Tomorrow)
+[2026-01-23 22:51:21] Processing channel: history
+[2026-01-23 22:51:22] Saved: schedule/today/history.json
+[2026-01-23 22:51:22] Saved: schedule/tomorrow/history.json
+[2026-01-23 22:51:22] Scraper finished.
