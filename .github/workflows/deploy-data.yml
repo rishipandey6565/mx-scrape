@@ -66,7 +66,7 @@ jobs:
             
             # Import WP-CLI Command
             cd /home/programaciontv/htdocs/programaciontv.com.mx/
-            wp tv-schedule import --allow-root
+            wp schedule import --allow-root
             
             # Cleanup temp files on server
             rm -rf $TEMP_PATH
