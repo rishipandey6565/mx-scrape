@@ -8,7 +8,7 @@ from io import BytesIO
 from PIL import Image, ImageOps
 
 BASE_UPLOAD_URL = "https://programaciontv.com.mx/wp-content/uploads/downloaded-images"
-FALLBACK_REPLACEMENT = "https://programaciontv.com.mx/wp-content/uploads/2026/1.webp"
+FALLBACK_REPLACEMENT = "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp"
 MAX_THREADS = 15
 TIMEOUT = 20
 ROOT_DIR = os.getcwd()
