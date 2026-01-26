@@ -1,19 +1,60 @@
-name: Deploy Schedule and Images to WordPress
+name: Master Daily Workflow (Scrape -> Image -> Deploy)
 
 on:
   schedule:
-    # 6:00 AM Mexico City Time (CST/CDT)
-    # CST is UTC-6. So 12:00 PM UTC.
-    - cron: '0 12 * * *'
-  workflow_dispatch: # Allows manual trigger for testing
+    # 5:20 AM Mexico City Time (UTC-6) = 11:20 AM UTC
+    - cron: '20 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  deploy:
+  master-process:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
+      # --- SETUP ---
+      - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install all dependencies
+        run: |
+          pip install requests beautifulsoup4 pytz pillow
+
+      # --- STEP 1: EPG SCRAPER ---
+      - name: Run EPG scraper
+        run: |
+          python epg_scraper.py
+
+      - name: Commit and push updated schedules
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add schedule/ epg.log
+          # The '|| exit 0' ensures the workflow continues if there are no new changes to commit
+          git commit -m "Auto update Mexico EPG schedules" || exit 0
+          git push
+
+      # --- STEP 2: DOWNLOAD IMAGES ---
+      - name: Run image downloader
+        run: |
+          python download_show_images.py
+
+      - name: Commit image changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add downloaded-images schedule
+          git commit -m "Download images, deduplicate URLs, convert to WebP" || exit 0
+          git push
+
+      # --- STEP 3: DEPLOY TO WORDPRESS ---
       - name: Prepare and Compress Folders
         run: |
           # 1. Logic for Even/Odd naming
@@ -29,7 +70,6 @@ jobs:
           fi
 
           # 2. Create GZ archives
-          # -cvzf: compress, verbose, zip-file
           tar -cvzf even.tar.gz even/
           tar -cvzf odd.tar.gz odd/
           tar -cvzf downloaded-images.tar.gz downloaded-images/
