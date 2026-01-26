@@ -1,0 +1,72 @@
+name: Deploy Schedule and Images to WordPress
+
+on:
+  schedule:
+    # 6:00 AM Mexico City Time (CST/CDT)
+    # CST is UTC-6. So 12:00 PM UTC.
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Prepare and Compress Folders
+        run: |
+          # 1. Logic for Even/Odd naming
+          DAY=$(date +%d)
+          if [ $((DAY % 2)) -eq 0 ]; then
+            echo "Today is EVEN ($DAY). Today -> even, Tomorrow -> odd"
+            mv schedule/today even
+            mv schedule/tomorrow odd
+          else
+            echo "Today is ODD ($DAY). Today -> odd, Tomorrow -> even"
+            mv schedule/today odd
+            mv schedule/tomorrow even
+          fi
+
+          # 2. Create GZ archives
+          # -cvzf: compress, verbose, zip-file
+          tar -cvzf even.tar.gz even/
+          tar -cvzf odd.tar.gz odd/
+          tar -cvzf downloaded-images.tar.gz downloaded-images/
+
+      - name: Upload Archives to Server
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
+          source: "even.tar.gz,odd.tar.gz,downloaded-images.tar.gz"
+          target: "/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads/temp_deploy"
+
+      - name: Extract and Execute Remote Commands
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
+          script: |
+            # Set target paths
+            BASE_PATH="/home/programaciontv/htdocs/programaciontv.com.mx/wp-content/uploads"
+            TEMP_PATH="$BASE_PATH/temp_deploy"
+            
+            # Extract Schedule files
+            mkdir -p $BASE_PATH/schedule
+            tar -xzf $TEMP_PATH/even.tar.gz -C $BASE_PATH/schedule/
+            tar -xzf $TEMP_PATH/odd.tar.gz -C $BASE_PATH/schedule/
+            
+            # Extract Images (this will merge/overwrite into existing folder)
+            tar -xzf $TEMP_PATH/downloaded-images.tar.gz -C $BASE_PATH/
+            
+            # Import WP-CLI Command
+            cd /home/programaciontv/htdocs/programaciontv.com.mx/
+            wp schedule import --allow-root
+            
+            # Cleanup temp files on server
+            rm -rf $TEMP_PATH
