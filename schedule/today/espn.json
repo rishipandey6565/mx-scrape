@@ -1,26 +1,58 @@
 {
   "channel": "ESPN",
-  "date": "27/01/2026",
+  "date": "28/01/2026",
   "schedule": [
     {
-      "show_name": "Octavos de final, Melbourne Park, Melbourne, Australia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/octavos-de-final-melbourne-park-melbourne-australia.webp",
-      "show_category": "Abierto de Australia",
-      "start_time": "02:00",
-      "end_time": "02:00",
-      "episode_description": "Vive las emociones del primer Grand Slam de 2026 desde Melbourne Park. Los mejores del mundo y nuevas estrellas chocan en las canchas duras. Gloria, historia y el primer título mayor de la temporada están en juego."
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Octavos de final, Melbourne Park, Melbourne, Australia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/octavos-de-final-melbourne-park-melbourne-australia.webp",
-      "show_category": "Abierto de Australia",
-      "start_time": "02:00",
-      "end_time": "07:00",
-      "episode_description": "Vive las emociones del primer Grand Slam de 2026 desde Melbourne Park. Los mejores del mundo y nuevas estrellas chocan en las canchas duras. Gloria, historia y el primer título mayor de la temporada están en juego."
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "Fenerbahce vs. Göztepe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 19, Estadio Sukru Saracoglu",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -28,79 +60,87 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Goles de la Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-serie-a_l_m.jpg",
+      "show_category": "Goles de la Serie A",
       "start_time": "09:00",
-      "end_time": "09:50",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "end_time": "10:00",
+      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
     },
     {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
-      "start_time": "09:50",
-      "end_time": "10:20",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+      "show_name": "Atl. San Luis vs. Tijuana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 5, Estadio Alfonso Lastras",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
     },
     {
-      "show_name": "Bielorrusia vs. España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "UEFA Futsal Euro",
-      "start_time": "10:20",
-      "end_time": "12:30",
-      "episode_description": "La élite del fútbol sala europeo choca en un torneo histórico en Letonia, Lituania y Eslovenia. Pies rápidos, maestría táctica y acción sin fin definen la lucha por la corona continental, con Portugal defendiendo el título."
+      "show_name": "Juventus vs. Napoli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Allianz Stadium",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "Eslovenia vs. España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "UEFA Futsal Euro",
-      "start_time": "12:30",
-      "end_time": "13:50",
-      "episode_description": "La élite del fútbol sala europeo choca en un torneo histórico en Letonia, Lituania y Eslovenia. Pies rápidos, maestría táctica y acción sin fin definen la lucha por la corona continental, con Portugal defendiendo el título."
-    },
-    {
-      "show_name": "Norwich City vs. Coventry City",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 29, Carrow Road",
-      "start_time": "13:50",
+      "show_name": "New England Patriots vs. Denver Broncos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Finales de Conferencia, Empower Field at Mile High",
+      "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "episode_description": "Vive los partidos de la edición 106º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos."
     },
     {
       "show_name": "Melbourne Park, Melbourne, Australia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Australian Open Highlights",
       "start_time": "16:00",
       "end_time": "18:00",
       "episode_description": "Disfruta de los mejores momentos del Abierto de Australia 2026, el primer Grand Slam de la temporada de tenis, celebrado en Melbourne Park en Melbourne, Australia."
     },
     {
-      "show_name": "Orlando Magic vs. Cleveland Cavaliers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Rocket Mortgage FieldHouse",
+      "show_name": "NFL Semanal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "NFL Semanal",
       "start_time": "18:00",
-      "end_time": "20:30",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+      "end_time": "18:30",
+      "episode_description": "Resumen semanal de los partidos de la National Football League."
     },
     {
-      "show_name": "Golden State Warriors vs. Minnesota Timberwolves",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Target Center",
-      "start_time": "20:30",
+      "show_name": "Capitanes de Ciudad de México vs. Iowa Wolves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-capitanes-de-ciudad-de-mexico-vs-iowa-wolves-wells-fargo-arena-des-moines-ia-usa_l_m.jpg",
+      "show_category": "Wells Fargo Arena, Des Moines, IA, USA",
+      "start_time": "18:30",
+      "end_time": "21:00",
+      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "23:00",
       "end_time": "00:00",

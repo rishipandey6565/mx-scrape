@@ -1,18 +1,18 @@
 {
   "channel": "ESPN",
-  "date": "28/01/2026",
+  "date": "29/01/2026",
   "schedule": [
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Fenerbahce vs. Göztepe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 19, Estadio Sukru Saracoglu",
+      "show_name": "PSV vs. NAC Breda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 20, Philips Stadion",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -60,71 +60,95 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Goles de la Serie A",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/goles-de-la-serie-a.webp",
-      "show_category": "Goles de la Serie A",
+      "show_name": "PGA Tour Highlights - The American Express",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_golf-pga-tour-highlights-the-american-express_l_m.jpg",
+      "show_category": "PGA Tour Highlights - The American Express",
       "start_time": "09:00",
       "end_time": "10:00",
-      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
+      "episode_description": "Disfrute de los mejores momentos de The American Express 2025, un torneo de golf profesional del PGA Tour, que se celebra en La Quinta Country Club en La Quinta, California, Estados Unidos."
     },
     {
-      "show_name": "Atl. San Luis vs. Tijuana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 5, Estadio Alfonso Lastras",
+      "show_name": "Goles de la Eredivisie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-eredivisie_l_m.jpg",
+      "show_category": "Goles de la Eredivisie",
       "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
+      "end_time": "11:00",
+      "episode_description": "Los goles del fútbol holandés."
     },
     {
-      "show_name": "Juventus vs. Napoli",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 22, Allianz Stadium",
-      "start_time": "12:00",
-      "end_time": "14:00",
+      "show_name": "Genoa vs. Bologna",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Estadio Luigi Ferraris",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "New England Patriots vs. Denver Broncos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Finales de Conferencia, Empower Field at Mile High",
-      "start_time": "14:00",
-      "end_time": "16:00",
-      "episode_description": "Vive los partidos de la edición 106º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos."
-    },
-    {
-      "show_name": "Melbourne Park, Melbourne, Australia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Australian Open Highlights",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": "Disfruta de los mejores momentos del Abierto de Australia 2026, el primer Grand Slam de la temporada de tenis, celebrado en Melbourne Park en Melbourne, Australia."
-    },
-    {
-      "show_name": "NFL Semanal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "NFL Semanal",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Resumen semanal de los partidos de la National Football League."
-    },
-    {
       "show_name": "Capitanes de Ciudad de México vs. Iowa Wolves",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/capitanes-de-ciudad-de-méxico-vs-iowa-wolves.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-capitanes-de-ciudad-de-mexico-vs-iowa-wolves-wells-fargo-arena-des-moines-ia-usa_l_m.jpg",
       "show_category": "Wells Fargo Arena, Des Moines, IA, USA",
-      "start_time": "18:30",
-      "end_time": "21:00",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
     },
     {
+      "show_name": "PGA Tour Highlights - The American Express",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_golf-pga-tour-highlights-the-american-express_l_m.jpg",
+      "show_category": "PGA Tour Highlights - The American Express",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Disfrute de los mejores momentos de The American Express 2025, un torneo de golf profesional del PGA Tour, que se celebra en La Quinta Country Club en La Quinta, California, Estados Unidos."
+    },
+    {
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
+    },
+    {
+      "show_name": "EFL Highlights",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-efl-highlights_l_m.jpg",
+      "show_category": "EFL Highlights",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Revive los mejores momentos de los partidos de la segunda división de Inglaterra, la English Football League Championship, con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+    },
+    {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Raymond Muratalla vs. Andy Cruz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": "Los mejores combates de boxeo y MMA."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -132,19 +156,19 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }
   ]
 }

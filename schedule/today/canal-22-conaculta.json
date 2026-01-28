@@ -1,42 +1,66 @@
 {
   "channel": "Canal 22",
-  "date": "27/01/2026",
+  "date": "28/01/2026",
   "schedule": [
     {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Jazz",
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias-marilyn-monroe-en-mexico_l_m.jpg",
+      "show_category": "- Marilyn Monroe en México",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+      "end_time": "00:30",
+      "episode_description": "La visita de la actriz estadounidense a tierras mexicanas y algunos testimonios de testigos."
     },
     {
-      "show_name": "Música hecha en México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "01:00",
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+    },
+    {
+      "show_name": "Marquesina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
+      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
     },
     {
-      "show_name": "Especiales del 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/especiales-del-22.webp",
-      "show_category": "Biográfico",
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Un segmento especial que presenta detalles sobre los artistas favoritos. El público podrá descubrir sus historias, sus temas más exitosos y datos sobre sus presentaciones, así como también sus videos musicales."
+      "end_time": "02:30",
+      "episode_description": "Documentales que buscan refrescar la memoria de los espectadores, exhibiendo hechos de momentos trascendentales en la historia reciente de México, los cuales han influido notoriamente en su población."
     },
     {
-      "show_name": "Cinema 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cinema-22.webp",
-      "show_category": "Película",
-      "start_time": "03:00",
+      "show_name": "Naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_naturaleza_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": "Transmisión que llevará al televidente a recorrer lugares poco conocidos por el hombre y a saber más acerca de la vida de algunas especies. Muestra la situación en que se encuentra la flora y fauna del planeta tierra."
+    },
+    {
+      "show_name": "Visión periférica con Jacaranda Correa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": "Jacaranda Correa presenta documentales de diversos países, que retratan diferentes realidades, exponen casos extraordinarios o cuentan historias de interés social."
+    },
+    {
+      "show_name": "Rodando caminos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "De Charles Chaplin a Wong Kar Wai. De Emilio \"El indio\" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22."
+      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,7 +68,7 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -52,7 +76,7 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
@@ -60,71 +84,71 @@
     },
     {
       "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
       "end_time": "09:00",
       "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
     },
     {
-      "show_name": "Vida saludable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/vida-saludable.webp",
-      "show_category": "Salud",
+      "show_name": "Humanismo Mexicano y memoria histórica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Educativo",
       "start_time": "09:00",
       "end_time": "09:30",
-      "episode_description": "Serie que aborda diversos temas para prevenir y corregir malos hábitos en relación a la salud y otros temas relacionados con mantener un bienestar físico y también, mental."
+      "episode_description": ""
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Pantalla de cristal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/pantalla-de-cristal.webp",
+      "show_name": "Tratos y retratos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tratos-y-retratos_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de las producciones audiovisuales de México, con notas de interés y novedades."
+      "episode_description": "Conducido por Silvia lemus, este ciclo de entrevistas representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad."
     },
     {
       "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
       "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
     },
     {
-      "show_name": "África, continente enigmático",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/áfrica-continente-enigmático.webp",
-      "show_category": "- Botswana Dxavango",
+      "show_name": "Piedras que hablan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_piedras-que-hablan-paquime-cueva-de-la-olla_l_m.jpg",
+      "show_category": "- Paquimé, cueva de la olla",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Muestra la majestuosidad de los ecosistemas africanos, así como las tradiciones y la cultura de los habitantes de este continente. Recorre paisajes inexplorados de Tanzania y Botsuana, y visita las ciudades más modernas de África."
+      "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
     },
     {
       "show_name": "México global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/méxico-global.webp",
-      "show_category": "Temporada 10 - Anel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-tanya-moss_l_m.jpg",
+      "show_category": "- Tanya Moss",
       "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
     },
     {
-      "show_name": "NCC Salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/ncc-salud.webp",
-      "show_category": "Salud",
+      "show_name": "¡Llegamos todas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Rosa Beltrán, escritora, académica y una de las voces literarias más poderosas del país",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+      "episode_description": "Cada episodio es una ventana a la vida y trayectoria de una mujer que ha desafiado las diferentes barreras de género, redefiniendo el liderazgo en México. Es un espacio donde la cercanía y la reflexión son protagonistas."
     },
     {
       "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "14:00",
       "end_time": "14:30",
@@ -132,47 +156,47 @@
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
       "episode_description": "Un espacio para niñxs."
     },
     {
-      "show_name": "África, continente enigmático",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/áfrica-continente-enigmático.webp",
-      "show_category": "- Botswana Dxavango",
+      "show_name": "Piedras que hablan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_piedras-que-hablan-paquime-cueva-de-la-olla-y-el-coporo_l_m.jpg",
+      "show_category": "- Paquimé, Cueva de la Olla y El Cóporo",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Muestra la majestuosidad de los ecosistemas africanos, así como las tradiciones y la cultura de los habitantes de este continente. Recorre paisajes inexplorados de Tanzania y Botsuana, y visita las ciudades más modernas de África."
+      "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
     },
     {
       "show_name": "La independencia inconclusa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Período 1990 - 2010",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Una producción que aborda los grandes temas pendientes de una América Latina que aún no cumple el sueño emancipador de los Libertadores, pero que en su Bicentenario sigue luchando por una independencia definitiva."
+      "episode_description": "Se evoca una época de continuos desafíos para la emancipación plena, donde se exploran las deudas históricas y las luchas contemporáneas en el continente."
     },
     {
-      "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
+      "show_name": "Tamayo 40",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El boom mediático",
       "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+      "episode_description": "Serie que ofrece situaciones reflexivas y de aprendizaje colectivo de la mano de curadores, artistas, ex directores y otros personajes alrededor de situaciones críticas, anecdóticas y humorísticas desde el surgimiento del Museo Tamayo."
     },
     {
-      "show_name": "La raíz doble",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-raíz-doble.webp",
-      "show_category": "- Aquí la esperanza es de las abejas que no olvidan: Acteal, Chiapas",
+      "show_name": "La oveja eléctrica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-electrica-s18e00-algodon-transgenico-y-el-microbioma-de-las-chinches_l_m.jpg",
+      "show_category": "Temporada 18 - Algodón transgénico y el microbioma de las chinches",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
+      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -180,27 +204,27 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Las políticas arancelarias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 60 - Historia y humanismo: Leona Vicario, madre de la patria",
       "start_time": "21:00",
       "end_time": "22:00",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
       "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/punto-de-referencia.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
       "show_category": "Político",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
     },
     {
-      "show_name": "DOCTV Latinoamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/doctv-latinoamérica.webp",
-      "show_category": "- El vuelo del Azacuán",
+      "show_name": "Shorts México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shorts-mexico-synthetize-me-siete-al-dia-un-siglo-el-pulmo-1_l_m.jpg",
+      "show_category": "- Synthetize Me / Siete al día / Un siglo / El pulmo",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Segmento que busca fomentar la producción y teledifusión del documental latinoamericano."
+      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
     }
   ]
 }
