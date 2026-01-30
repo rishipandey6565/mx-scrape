@@ -3,32 +3,32 @@
   "date": "31/01/2026",
   "schedule": [
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "Chamuco TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_chamuco-tv_l_m.jpg",
+      "show_category": "Comedia",
       "start_time": "01:00",
       "end_time": "02:00",
+      "episode_description": "¿Cómo reír ante la catástrofe? Hazlo de forma inteligente, por mucho tiempo la caricatura ha caracterizado a aquellos personajes públicos que han brillado por sus desatines, no te pierdas el único programa de moneros."
+    },
+    {
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "02:00",
+      "end_time": "03:00",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/leémelo.webp",
-      "show_category": "Educativo",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
-    },
-    {
-      "show_name": "Cinema 22 mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/cinema-22-mexicano.webp",
+      "show_name": "Cinema 22 del mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Película",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Un espacio con las mejores producciones del cine mexicano e internacional. El público podrá disfrutar de las películas más emocionantes y que actuan como reflejo de la actualidad."
+      "episode_description": "Un espacio que presenta películas mexicanas, iberoaméricanas, de autor, clásicas y reconocidas internacionalmente. A través del programa, el público podrá descubrir toto tipo de historias y relidades de la mano de diversos cineastas."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -36,155 +36,139 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "Fin de transmisión."
     },
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "África, continente enigmático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_africa-continente-enigmatico-botswana-dxavango_l_m.jpg",
+      "show_category": "- Botswana Dxavango",
       "start_time": "06:30",
       "end_time": "07:30",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+      "episode_description": "Muestra la majestuosidad de los ecosistemas africanos, así como las tradiciones y la cultura de los habitantes de este continente. Recorre paisajes inexplorados de Tanzania y Botsuana, y visita las ciudades más modernas de África."
     },
     {
-      "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "Enamórate de Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 4 - Villa Sola de Vega",
       "start_time": "07:30",
-      "end_time": "09:00",
-      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
+      "end_time": "08:00",
+      "episode_description": "Recorrido por este pueblo oaxaqueño lleno de tradiciones, música y hospitalidad."
     },
     {
-      "show_name": "Suave patria",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
-      "start_time": "09:00",
+      "show_name": "La magia de los pueblos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 4 - Atlixco",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Un espectáculo visual para descubrir la cultura, historia, tradiciones, colores y gente de México. En esta ocasión, espacios llenos de carácter y espíritu exploran cada rincón en un viaje aventurero por Atlixco."
+    },
+    {
+      "show_name": "Consulta directa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_consulta-directa_l_m.jpg",
+      "show_category": "Salud",
+      "start_time": "08:30",
       "end_time": "09:30",
-      "episode_description": "Tanto escritores como personas comunes prestan su voz para que obras de la literatura cobren vida. En este espacio, el público podrá disfrutar de diversos pasajes de la obra La suave Patria, de Ramón López Velarde."
+      "episode_description": "Un espacio en donde especialistas médicos responden de manera directa las dudas de la población entorno al COVID-19 a través de una consulta directa vía telefónica o mensaje de WhatsApp."
     },
     {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "La hora nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "09:30",
       "end_time": "10:30",
-      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
+      "episode_description": "La hora nacional es un programa que busca fortalecer la integración nacional a través del idioma, la cultura, las tradiciones y la creación artística. Los conductores reciben a diversas personalidades destacadas para reflexionar."
     },
     {
-      "show_name": "La raíz doble",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/la-raíz-doble.webp",
-      "show_category": "Cultural",
+      "show_name": "Soy fugitivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 - Los Nómadas Rabari, migramos con los cuidadores de camellos de la India",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
-    },
-    {
-      "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
-    },
-    {
-      "show_name": "Luces, cámara, ¡revolución! Toscanito, coleccionista de historias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/luces-cámara-revolución-toscanito-coleccionista-de-historias.webp",
-      "show_category": "Documental / 2022",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "Este documental dirigido por Gregorio Rocha toma como punto de partida el hallazgo de 509 tarjetas pertenecientes al pionero del cine mexicano, Salvador Toscano, las cuales contienen datos y fotogramas de la película Historia de la..."
-    },
-    {
-      "show_name": "México global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/méxico-global.webp",
-      "show_category": "Temporada 10 - Anel",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
-    },
-    {
-      "show_name": "Crónica animal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Laura Barrera protagoniza una serie sobre la relación entre los seres humanos y los animales. El programa se enfoca en temas de bienestar animal, la cultura del cuidado, y la presencia de animales emblemáticos en la identidad mexicana."
-    },
-    {
-      "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
+      "episode_description": "Dany es un viajero que realiza expediciones a lugares poco comunes, mostrando culturas y tradiciones, algunas casi extintas. Junto a él, el público podrá descubrir la riqueza natural de los sitios visitados."
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
-      "start_time": "14:30",
-      "end_time": "17:00",
+      "start_time": "11:00",
+      "end_time": "16:00",
       "episode_description": "Un espacio para niñxs."
     },
     {
-      "show_name": "La piel de la ciudad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/la-piel-de-la-ciudad.webp",
-      "show_category": "Temporada 1 Episodio 3 - El trabajo",
-      "start_time": "17:00",
+      "show_name": "Escenarios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Conciertos de Bellas Artes en el FCE. Concierto en piano con Héctor Rojas",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Colombia, tierra de contrastes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "En la ciudad hay infinidades de trabajos pero no todos son iguales, aveces son unos mejores y otros peores, pero lo que más cuenta es la pasión que le tengas a la labor."
+      "episode_description": "Descubra el instrumento o expresión musical más significativo de cada región."
     },
     {
-      "show_name": "Leer, una hora inesperada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/leer-una-hora-inesperada.webp",
-      "show_category": "Interés general",
+      "show_name": "Tamayo 40",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El boom mediático",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Desde la librería Rosario Castellanos, en la Ciudad de México, Paco Ignacio Taibo II, escritor y director del Fondo de Cultura Económica, conduce Leer, una hora inesperada, un programa dedicado a la pasión por la lectura."
+      "end_time": "18:30",
+      "episode_description": "Serie que ofrece situaciones reflexivas y de aprendizaje colectivo de la mano de curadores, artistas, ex directores y otros personajes alrededor de situaciones críticas, anecdóticas y humorísticas desde el surgimiento del Museo Tamayo."
     },
     {
-      "show_name": "Grandes figuras del arte mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/grandes-figuras-del-arte-mexicano.webp",
-      "show_category": "- Octavio Paz, el hombre y su tiempo",
+      "show_name": "Una de amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 2 - Carlos y Tete",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Carlos y Tete se cruzaron no solo para compartir el amor sino tambien su pasión por el tango."
+    },
+    {
+      "show_name": "Leémelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_leemelo_l_m.jpg",
+      "show_category": "Educativo",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Más allá del Premio Nobel, Octavio Paz fue una figura que marcó la escena política, intelectual y social de México."
+      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
     },
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "La dichosa palabra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-dichosa-palabra_l_m.jpg",
+      "show_category": "Talk Show",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
     },
     {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Constitución de 1917 ¿Justicia o utopía?",
+      "show_name": "La independencia inconclusa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Período 1810 - 1830",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
+      "episode_description": "Aborda de diversas miradas los procesos revolucionarios para la independencia en América Latina, encabezados por próceres como Simón Bolivar, José de San Martín o Antonio de Sucre, entre heroísmo y traiciones a los libertadores."
     },
     {
-      "show_name": "Punto de referencia - Tu noticiero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Las pioneras cineastas del CCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Monse / A la misma hora",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
+      "end_time": "23:30",
+      "episode_description": "Ciclo de cine organizado por el Centro de Capacitación Cinematográfica (CCC) en noviembre-diciembre de 2025, para celebrar y visibilizar el trabajo de las primeras directoras formadas en esa institución desde 1975."
     },
     {
-      "show_name": "Plaza París",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/plaza-parís.webp",
-      "show_category": "Praça Paris",
-      "start_time": "23:00",
+      "show_name": "Shorts México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shorts-mexico-cangrejos-en-el-aire-home-again-lolo_l_m.jpg",
+      "show_category": "- Cangrejos en el aire / Home Again / Lolo",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Gloria, nacida y criada en las favelas de Providencia, queda a cargo de su hermano, un traficante. Por su parte, Camila, una psicoanalista portuguesa, comienza a atender a Gloria en su consulta. Pronto, entre ambas se creará un vínculo."
+      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
     }
   ]
 }
