@@ -3,236 +3,228 @@
   "date": "02/02/2026",
   "schedule": [
     {
-      "show_name": "Showbiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/showbiz.webp",
-      "show_category": "- Ojo crítico: Oliver Laxe",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Juan Carlos Arciniegas conversa con el director español Oliver Laxe sobre la película \"Sirat\", con la cual España espera conseguir una nominación al Óscar. En la charla se habla sobre la presentación de la producción y los planes a..."
-    },
-    {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Programación a confirmar."
-    },
-    {
-      "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/conclusiones.webp",
+      "show_name": "México opina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-opina_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
-    },
-    {
-      "show_name": "Mirador mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/mirador-mundial.webp",
-      "show_category": "Noticiero",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Monitorea los acontecimientos globales, siguiendo las noticias del momento y cubriendo procesos electorales y otros movimientos populares que transforman la faz política del mundo."
-    },
-    {
-      "show_name": "Néstor Lorenzo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/néstor-lorenzo.webp",
-      "show_category": "Triunfadores del deporte",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "El programa dedicado a los amantes del deporte que brinda la oportunidad de saber más de sus ídolos. Un espacio que irá más allá de los resultados y tiene como objetivo descubrir a la persona detrás del atleta."
-    },
-    {
-      "show_name": "Showbiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/showbiz.webp",
-      "show_category": "- Ojo crítico: Oliver Laxe",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Juan Carlos Arciniegas conversa con el director español Oliver Laxe sobre la película \"Sirat\", con la cual España espera conseguir una nominación al Óscar. En la charla se habla sobre la presentación de la producción y los planes a..."
-    },
-    {
-      "show_name": "Vive la salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/vive-la-salud.webp",
-      "show_category": "Salud",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Espacio semanal conducido por la Dra. Marisa Azaret, en el que se explora la salud y el bienestar."
-    },
-    {
-      "show_name": "La historia completa con Anderson Cooper",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 68 - Los exorcistas",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "David Culver profundiza en los exorcismos modernos en Estados Unidos y revela cómo están reviviendo antiguos rituales de purificación religiosa como último recurso para quienes buscan alivio del trauma y el abuso."
-    },
-    {
-      "show_name": "Mirador mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/mirador-mundial.webp",
-      "show_category": "Noticiero",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Monitorea los acontecimientos globales, siguiendo las noticias del momento y cubriendo procesos electorales y otros movimientos populares que transforman la faz política del mundo."
-    },
-    {
-      "show_name": "Néstor Lorenzo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/néstor-lorenzo.webp",
-      "show_category": "Triunfadores del deporte",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "El programa dedicado a los amantes del deporte que brinda la oportunidad de saber más de sus ídolos. Un espacio que irá más allá de los resultados y tiene como objetivo descubrir a la persona detrás del atleta."
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Presenta las encuestas y sondeos del pulso de la nación tomados de CNNMéxico.com y pone a los televidentes en medio del debate. Cada semana, Mario González invita a expertos para discutir los temas que generan el mayor interés en el sitio."
     },
     {
       "show_name": "Oppenheimer presenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/oppenheimer-presenta.webp",
-      "show_category": "Episodio 640 - John Bolton",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "John Bolton, exasesor de seguridad nacional de Donald Trump en su primer mandato, habla sobre la situación en Venezuela, la amenaza de anexar Groenlandia y las tensiones con Irán."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_oppenheimer-presenta_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social."
     },
     {
-      "show_name": "Conectados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Abordamos las problemáticas de la región y del mundo, interconectando las historias y eventos más relevantes. Las noticias que suceden a millones de kilómetros o a la vuelta de la esquina y su impacto real en la ciudadanía."
+      "show_name": "Néstor Lorenzo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_entrevista-nestor-lorenzo_l_m.jpg",
+      "show_category": "Triunfadores del deporte",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "El programa dedicado a los amantes del deporte que brinda la oportunidad de saber más de sus ídolos. Un espacio que irá más allá de los resultados y tiene como objetivo descubrir a la persona detrás del atleta."
+    },
+    {
+      "show_name": "Globo economía",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_globo-economia-s00e543-los-mercados-financieros-en-2026_l_m.jpg",
+      "show_category": "Episodio 543 - Los mercados financieros en 2026",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Jorge Amato, director de Tecnologías de la Información de Andes Wealth Management, analiza qué se espera para los principales mercados financieros del mundo en las primeras semanas de 2026."
     },
     {
       "show_name": "Choque de opiniones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/choque-de-opiniones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_choque-de-opiniones_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": "Prepárate a vivir el debate político más interesante de la televisión. Aquí confrontarán los puntos de vista opuestos sobre temas claves de Estados Unidos en la región. Un debate marcado por el rigor, la pasión y la veracidad."
     },
     {
-      "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/conclusiones.webp",
+      "show_name": "La historia completa con Anderson Cooper",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 64 - EE.UU. vs. Harvard",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "Omar Jiménez informa desde Harvard sobre cómo el hostigamiento de la administración Trump contra el mundo académico llegó a su punto álgido..."
+    },
+    {
+      "show_name": "México opina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-opina_l_m.jpg",
       "show_category": "Periodístico",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Presenta las encuestas y sondeos del pulso de la nación tomados de CNNMéxico.com y pone a los televidentes en medio del debate. Cada semana, Mario González invita a expertos para discutir los temas que generan el mayor interés en el sitio."
+    },
+    {
+      "show_name": "Néstor Lorenzo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_entrevista-nestor-lorenzo_l_m.jpg",
+      "show_category": "Triunfadores del deporte",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "El programa dedicado a los amantes del deporte que brinda la oportunidad de saber más de sus ídolos. Un espacio que irá más allá de los resultados y tiene como objetivo descubrir a la persona detrás del atleta."
+    },
+    {
+      "show_name": "Café CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
+    },
+    {
+      "show_name": "Café CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
+    },
+    {
+      "show_name": "Oppenheimer presenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_oppenheimer-presenta_l_m.jpg",
+      "show_category": "Político",
       "start_time": "09:00",
       "end_time": "10:00",
-      "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
+      "episode_description": "Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social."
     },
     {
       "show_name": "Destinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/destinos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_destinos_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:00",
       "end_time": "10:30",
       "episode_description": "El programa semanal de viajes lleva al espectador a los sitios más exóticos y emocionantes del globo, explorando no sólo los rincones turísticos y tesoros históricos más populares, sino también los más remotos paraísos románticos."
     },
     {
-      "show_name": "Showbiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/showbiz.webp",
-      "show_category": "- Ojo crítico: Oliver Laxe",
+      "show_name": "Mercado sur",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mercado-sur_l_m.jpg",
+      "show_category": "Economía",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Juan Carlos Arciniegas conversa con el director español Oliver Laxe sobre la película \"Sirat\", con la cual España espera conseguir una nominación al Óscar. En la charla se habla sobre la presentación de la producción y los planes a..."
-    },
-    {
-      "show_name": "Mercado México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/mercado-méxico.webp",
-      "show_category": "Economía",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Segmento que aborda los temas y tendencias más importantes de México, una de las economías más influyentes de la región latinoamericana. Ofrece entrevistas exclusivas de importantes líderes empresariales, políticos y emprendedores."
-    },
-    {
-      "show_name": "Globo economía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/globo-economía.webp",
-      "show_category": "Economía",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Brinda una perspectiva nueva de las tendencias que forjan el mundo financiero. Este programa, producido en Madrid, examina los eventos, anuncios y negociaciones europeas, estadounidenses y asiáticas, y su impacto en las Américas."
+      "episode_description": "Un programa que cubre las tendencias macroeconómicas que impactan en la región y explora las industrias y corporaciones."
     },
     {
       "show_name": "Choque de opiniones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/choque-de-opiniones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_choque-de-opiniones_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "12:00",
-      "end_time": "13:00",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "episode_description": "Prepárate a vivir el debate político más interesante de la televisión. Aquí confrontarán los puntos de vista opuestos sobre temas claves de Estados Unidos en la región. Un debate marcado por el rigor, la pasión y la veracidad."
     },
     {
-      "show_name": "Conectados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
+      "show_name": "Redacción con Nacho Girón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
+    },
+    {
+      "show_name": "Redacción con Nacho Girón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "Abordamos las problemáticas de la región y del mundo, interconectando las historias y eventos más relevantes. Las noticias que suceden a millones de kilómetros o a la vuelta de la esquina y su impacto real en la ciudadanía."
+      "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
     },
     {
-      "show_name": "La historia completa con Anderson Cooper",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 68 - Los exorcistas",
+      "show_name": "Conclusiones",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "14:00",
       "end_time": "15:00",
-      "episode_description": "David Culver profundiza en los exorcismos modernos en Estados Unidos y revela cómo están reviviendo antiguos rituales de purificación religiosa como último recurso para quienes buscan alivio del trauma y el abuso."
+      "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
-      "show_name": "Oppenheimer presenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/oppenheimer-presenta.webp",
-      "show_category": "Episodio 640 - John Bolton",
+      "show_name": "Néstor Lorenzo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_entrevista-nestor-lorenzo_l_m.jpg",
+      "show_category": "Triunfadores del deporte",
       "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "John Bolton, exasesor de seguridad nacional de Donald Trump en su primer mandato, habla sobre la situación en Venezuela, la amenaza de anexar Groenlandia y las tensiones con Irán."
+      "end_time": "15:30",
+      "episode_description": "El programa dedicado a los amantes del deporte que brinda la oportunidad de saber más de sus ídolos. Un espacio que irá más allá de los resultados y tiene como objetivo descubrir a la persona detrás del atleta."
     },
     {
-      "show_name": "México opina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/méxico-opina.webp",
-      "show_category": "Periodístico",
+      "show_name": "Globo economía",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_globo-economia-1_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Brinda una perspectiva nueva de las tendencias que forjan el mundo financiero. Este programa, producido en Madrid, examina los eventos, anuncios y negociaciones europeas, estadounidenses y asiáticas, y su impacto en las Américas."
+    },
+    {
+      "show_name": "Directo USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "Presenta las encuestas y sondeos del pulso de la nación tomados de CNNMéxico.com y pone a los televidentes en medio del debate. Cada semana, Mario González invita a expertos para discutir los temas que generan el mayor interés en el sitio."
+      "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
-      "show_name": "Mirador mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/mirador-mundial.webp",
+      "show_name": "Perspectivas de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Monitorea los acontecimientos globales, siguiendo las noticias del momento y cubriendo procesos electorales y otros movimientos populares que transforman la faz política del mundo."
+      "episode_description": "Un programa que aborda los hechos más relevantes de la agenda de noticias de México. El periodista Mario González informa al público sobre los acontecimientos diarios más relevantes y construyue un análisis crítico de los mismos."
     },
     {
-      "show_name": "Conectados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
+      "show_name": "Directo USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Abordamos las problemáticas de la región y del mundo, interconectando las historias y eventos más relevantes. Las noticias que suceden a millones de kilómetros o a la vuelta de la esquina y su impacto real en la ciudadanía."
+      "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
-      "show_name": "La historia completa con Anderson Cooper",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 64 - EE.UU. vs. Harvard",
+      "show_name": "Panorama mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Omar Jiménez informa desde Harvard sobre cómo el hostigamiento de la administración Trump contra el mundo académico llegó a su punto álgido..."
+      "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     },
     {
-      "show_name": "Oppenheimer presenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/oppenheimer-presenta.webp",
-      "show_category": "Político",
+      "show_name": "Conclusiones",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social."
+      "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
-      "show_name": "Voto 2026 Costa Rica - Elecciones presidenciales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Especial",
+      "show_name": "Aristegui",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aristegui_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": "Mira la cobertura del desarrollo de las elecciones presidenciales de Costa Rica del 2026."
+      "end_time": "21:30",
+      "episode_description": "Carmen Aristegui recibe cada día a las personalidades más influyentes e interesantes del país para analizar y discutir los sucesos que hacen noticia en México, conociendo, así, la opinión de los protagonistas de la actualidad."
     },
     {
-      "show_name": "La historia completa con Anderson Cooper",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 64 - EE.UU. vs. Harvard",
+      "show_name": "Deportes CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
+      "show_category": "Deportes CNN",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
+    },
+    {
+      "show_name": "Perspectivas de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Un programa que aborda los hechos más relevantes de la agenda de noticias de México. El periodista Mario González informa al público sobre los acontecimientos diarios más relevantes y construyue un análisis crítico de los mismos."
+    },
+    {
+      "show_name": "Directo USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Omar Jiménez informa desde Harvard sobre cómo el hostigamiento de la administración Trump contra el mundo académico llegó a su punto álgido..."
+      "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     }
   ]
 }
