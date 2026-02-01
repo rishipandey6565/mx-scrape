@@ -1,0 +1,51 @@
+name: Update Mexico EPG
+
+on:
+  schedule:
+    # Runs automatically every day at 10:00 UTC (4:00 AM Mexico City Time)
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    
+    # GRANT WRITE PERMISSIONS
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+
+      - name: Run EPG Script
+        # REPLACE 'your_script_name.py' with the actual name of your python file
+        run: python main.py
+
+      - name: Commit and Push changes
+        run: |
+          # Configure the bot user
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add the output directory (schedule/today and schedule/tomorrow)
+          git add schedule/
+          
+          # Check if there are changes; if yes, commit and push.
+          # If no changes, do nothing (prevents workflow failure).
+          if [[ -n $(git status -s) ]]; then
+            git commit -m "Auto-update EPG schedules [skip ci]"
+            git push
+          else
+            print("No changes to commit.")
+          fi
