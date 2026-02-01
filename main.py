@@ -50,18 +50,16 @@ def parse_xmltv_date(date_str):
         return None
     
     # Remove space before timezone if present for both + and - offsets
-    # Example: "20231010120000 -0600" becomes "20231010120000-0600"
     date_str = date_str.replace(" +", "+").replace(" -", "-")
     
     try:
-        # %z handles the offset (e.g., -0600) automatically
         dt = datetime.strptime(date_str, "%Y%m%d%H%M%S%z")
         return dt
     except ValueError:
         return None
 
 def sanitize_filename(name):
-    """Converts 'Canal 5' to 'Canal-5' and removes illegal chars"""
+    """Converts 'Sky Serie' to 'Sky-Serie' and removes illegal chars"""
     clean_name = re.sub(r'[^a-zA-Z0-9]', '-', name).strip('-')
     # Collapse multiple hyphens into one
     clean_name = re.sub(r'-+', '-', clean_name)
@@ -89,6 +87,11 @@ def extract_schedule():
             # Use display name if available, otherwise fallback to ID
             c_name = display_name.text if display_name is not None else c_id
             
+            # --- NEW: Remove 'Canal ' prefix if present ---
+            # This regex removes "Canal" followed by whitespace at the start of the string (Case Insensitive)
+            if c_name:
+                c_name = re.sub(r'^Canal\s+', '', c_name, flags=re.IGNORECASE)
+            
             if c_id:
                 channel_id_map[c_id] = c_name
 
@@ -103,15 +106,13 @@ def extract_schedule():
             if channel_id in channel_id_map:
                 channel_name_clean = channel_id_map[channel_id]
                 
-                # Times (The XML parser handles the -0600 offset here)
                 start_raw = parse_xmltv_date(prog.get('start'))
                 stop_raw = parse_xmltv_date(prog.get('stop'))
                 
                 if not start_raw or not stop_raw:
                     continue
 
-                # Convert from the XML timezone (likely CST) to Mexico City Time
-                # Note: 'astimezone' handles the conversion accurately regardless of the source offset
+                # Convert to Mexico City Time
                 start_mx = start_raw.astimezone(TZ_MEXICO)
                 stop_mx = stop_raw.astimezone(TZ_MEXICO)
                 
@@ -126,7 +127,7 @@ def extract_schedule():
                     "show_name": title_el.text if title_el is not None else "No Title",
                     "description": desc_el.text if desc_el is not None else "",
                     "category": cat_el.text if cat_el is not None else "",
-                    "start_dt": start_mx, # Keep as object for sorting/filtering
+                    "start_dt": start_mx, 
                     "end_dt": stop_mx,
                     "logo_url": icon_el.get('src') if icon_el is not None else "",
                     "episode": ep_el.text if ep_el is not None else ""
@@ -139,7 +140,7 @@ def extract_schedule():
         
         print(f"Extracted {count_progs} programs.")
 
-    # 3. Process and Save Data (Today/Tomorrow Split)
+    # 3. Process and Save Data
     now_mexico = datetime.now(TZ_MEXICO)
     today_date = now_mexico.date()
     tomorrow_date = today_date + timedelta(days=1)
@@ -148,7 +149,7 @@ def extract_schedule():
     os.makedirs(OUTPUT_DIR_TODAY, exist_ok=True)
     os.makedirs(OUTPUT_DIR_TOMORROW, exist_ok=True)
     
-    print(f"Saving schedules for {today_date} and {tomorrow_date} (Mexico City Time)...")
+    print(f"Saving schedules for {today_date} and {tomorrow_date}...")
 
     files_saved = 0
     for ch_name, programs in all_extracted_data.items():
@@ -158,7 +159,6 @@ def extract_schedule():
         for target_date, folder in [(today_date, OUTPUT_DIR_TODAY), (tomorrow_date, OUTPUT_DIR_TOMORROW)]:
             daily_schedule = []
             
-            # Define Day Start and End in Mexico City time
             day_start = TZ_MEXICO.localize(datetime.combine(target_date, time.min))
             day_end = TZ_MEXICO.localize(datetime.combine(target_date, time.max))
             
@@ -166,10 +166,7 @@ def extract_schedule():
                 p_start = p['start_dt']
                 p_end = p['end_dt']
                 
-                # Check overlap (Start is before day end AND End is after day start)
                 if p_start <= day_end and p_end >= day_start:
-                    
-                    # Clip start time for display if it starts before today
                     display_start = p_start
                     if p_start < day_start:
                         display_start = day_start
