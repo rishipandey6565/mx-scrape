@@ -1,18 +1,18 @@
 {
   "channel": "ESPN",
-  "date": "01/02/2026",
+  "date": "02/02/2026",
   "schedule": [
     {
-      "show_name": "ESPN Knockout, el show",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/espn-knockout-el-show.webp",
-      "show_category": "ESPN Knockout, el show",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana."
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,147 +20,131 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Bristol City vs. Derby County",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 30, Ashton Gate Stadium",
-      "start_time": "04:00",
-      "end_time": "06:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Tennis Highlights",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/tennis-highlights.webp",
-      "show_category": "Tennis Highlights",
-      "start_time": "09:00",
-      "end_time": "09:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "AZ vs. NEC Nijmegen",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 21, Afas Stadion",
-      "start_time": "09:20",
-      "end_time": "11:30",
-      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
-    },
-    {
-      "show_name": "Kansas City Chiefs vs. Philadelphia Eagles",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/kansas-city-chiefs-vs-philadelphia-eagles.webp",
-      "show_category": "Super Bowl LIX",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Los mejores momentos del Super Bowl."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "ESPN Knockout, el show",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/espn-knockout-el-show.webp",
-      "show_category": "ESPN Knockout, el show",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": "El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana."
-    },
-    {
-      "show_name": "Bryan Flores vs. Starling Castillo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
-      "start_time": "15:00",
-      "end_time": "16:55",
-      "episode_description": "Los mejores combates de boxeo y MMA."
-    },
-    {
-      "show_name": "Sultanes Femenil vs. Diablos Rojos Femenil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Estadio Alfredo Harp Helú, Ciudad de México, México",
-      "start_time": "16:55",
-      "end_time": "19:30",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
-    },
-    {
       "show_name": "Dallas Mavericks vs. Houston Rockets",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Temporada regular, Toyota Center",
-      "start_time": "19:30",
-      "end_time": "22:00",
+      "start_time": "03:00",
+      "end_time": "05:00",
       "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
-      "show_name": "New England Patriots vs. Seattle Seahawks",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/new-england-patriots-vs-seattle-seahawks.webp",
-      "show_category": "Super Bowl XLIX Highlights, State Farm Stadium, USA",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Los mejores momentos del Super Bowl."
+      "show_name": "Excelsior vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 21, Van Donge & De Roo Stadion",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "Kansas City Chiefs vs. Philadelphia Eagles",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/kansas-city-chiefs-vs-philadelphia-eagles.webp",
-      "show_category": "Super Bowl LIX",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Los mejores momentos del Super Bowl."
+      "show_name": "Excelsior vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 21, Van Donge & De Roo Stadion",
+      "start_time": "05:00",
+      "end_time": "07:15",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "PSV vs. Feyenoord",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 21, Philips Stadion",
+      "start_time": "07:15",
+      "end_time": "09:30",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "Aryna Sabalenka (Blr) vs. Elena Rybakina (Kaz)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final, Melbourne Park, Melbourne, Australia",
+      "start_time": "09:30",
+      "end_time": "10:50",
+      "episode_description": "Vive las emociones del primer Grand Slam de 2026 desde Melbourne Park. Los mejores del mundo y nuevas estrellas chocan en las canchas duras. Gloria, historia y el primer título mayor de la temporada están en juego."
+    },
+    {
+      "show_name": "Cremonese vs. Inter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 23, Stadio Giovanni Zini",
+      "start_time": "10:50",
+      "end_time": "12:50",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+    },
+    {
+      "show_name": "Flamengo vs. Corinthians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final, Estádio Nacional Mané Garrincha",
+      "start_time": "12:50",
+      "end_time": "15:00",
+      "episode_description": "Vive las emociones de la 9º edición de la Supercopa de Brasil, una competición de fútbol brasilera organizada por la CBF que reúne a los equipos ganadores del Campeonato Brasilero y la Copa de Brasil tan disputada del año anterior."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Kansas City Chiefs vs. Philadelphia Eagles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-americano-kansas-city-chiefs-vs-philadelphia-eagles-super-bowl-lix_l_m.jpg",
+      "show_category": "Super Bowl LIX",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Los mejores momentos del Super Bowl."
+    },
+    {
+      "show_name": "Rolex Sydney Hobart Yacht Race",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_yatismo-rolex-sydney-hobart-yacht-race_l_m.jpg",
+      "show_category": "Spirit of Yachting",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Explora algunos de los eventos más emocionantes en el mundo de la navegación. Contando las historias humanas detrás de la carrera, la emoción y la dedicación necesarias para participar en cualquier evento deportivo de clase mundial"
+    },
+    {
+      "show_name": "Parma vs. Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 23, Stadio Ennio Tardini",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Atl. San Luis vs. Guadalajara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 4, Estadio Alfonso Lastras",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026."
     }
   ]
 }

@@ -1,166 +1,182 @@
 {
   "channel": "TV UNAM",
-  "date": "31/01/2026",
+  "date": "01/02/2026",
   "schedule": [
     {
       "show_name": "Tiempo de filmoteca de la UNAM",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/tiempo-de-filmoteca-de-la-unam.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-filmoteca-de-la-unam_l_m.jpg",
       "show_category": "Documental",
       "start_time": "00:00",
       "end_time": "00:15",
       "episode_description": "Un espacio para la difusión del cine a través del abordaje de las obras de diferentes cineastas.Al final de cada proyección de las cintas, la actriz Alejandra Toussaint entrevista a distintos invitados para comentar las historias."
     },
     {
-      "show_name": "Media 20.1",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/media-201.webp",
-      "show_category": "- Con Gabriel Sosa Plata",
+      "show_name": "Mextranjeros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mextranjeros_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "00:15",
-      "end_time": "00:45",
-      "episode_description": "Un análisis del panor AMa informativo de los medios de comunicación. Conducido por Gabriel Sosa Plata."
+      "end_time": "01:15",
+      "episode_description": "Programa de análisis y debate. En cada emisión, se convocará a cuatro corresponsales extranjeros con el objetivo de analizar la coyuntura informativa y explorar cómo se ve a México en el resto del mundo."
     },
     {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "00:45",
-      "end_time": "00:45",
+      "start_time": "01:15",
+      "end_time": "01:15",
       "episode_description": "Un programa sin contenido ni programación."
     },
     {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "00:45",
+      "start_time": "01:15",
       "end_time": "08:00",
       "episode_description": "Un programa sin contenido ni programación."
     },
     {
-      "show_name": "Eurojazz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/eurojazz.webp",
-      "show_category": "- Hanne Tveter Quinteto (Noruega)",
+      "show_name": "Visión futuro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vision-futuro_l_m.jpg",
+      "show_category": "Educativo",
       "start_time": "08:00",
-      "end_time": "09:30",
-      "episode_description": "La Secretaría de Cultura, a través del Centro Nacional de las Artes (Cenart), y la Unión Europea (UE) presentan la programación de la vigésima tercera edición del Festival Eurojazz."
+      "end_time": "08:30",
+      "episode_description": "Es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Exploramos el mundo de las imágenes virtuales."
     },
     {
-      "show_name": "La lista de Erick",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/la-lista-de-erick.webp",
-      "show_category": "Episodio 58 - Por los cielos de Moscú",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Erick tiene una aventura por los aires, con varios artefactos: aprende a volar drones, se monta en una avioneta para pilotarla, asiste a un festival de vuelo y se monta a un globo aerostático y pasea por Moscú desde las alturas."
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
     },
     {
       "show_name": "Ventana mirador universitario",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/ventana-mirador-universitario.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ventana-mirador-universitario-1_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "09:00",
+      "end_time": "10:00",
       "episode_description": "Brinda información, asesoría y apoyo en diversos ámbitos, tales como el educativo, social, familiar y de salud, todo para asegurar el pleno desarrollo de las familias mexicanas, así como también del resto del mundo."
     },
     {
-      "show_name": "Especial - 78 aniversario luctuoso Gandhi",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- \"Un mundo\" - Gandhi",
+      "show_name": "La villa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Programa que busca el rescate de la historia de las calles y plazas de la anteriormente conocida como \"la villa de las Aguas Calientes\"."
+    },
+    {
+      "show_name": "Fuerza latina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 167 - Cyntia Mora Izaguirre. Canadienses, estadounidenses y europeos en Costa Rica",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan."
+    },
+    {
+      "show_name": "Ópera: Mozart",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_opera-mozart-la-flauta-magica-de-mozart_l_m.jpg",
+      "show_category": "- La Flauta Mágica de Mozart",
       "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Emisión especial con motivo del 78 aniversario luctuoso de Mahatma Gandhi, quien se convirtió en un símbolo de lucha pacífica por la libertad nacional y en el líder más influyente del movimiento de independencia de la India."
-    },
-    {
-      "show_name": "Sherlock Holmes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- El caso del detective que se esfumó (1955)",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "El profesor Moriarty secuestra a un científico suizo para robarle una nueva bomba. Sherlock Holmes y el Dr. Watson tienen que descifrar un código secreto para salvar el país"
-    },
-    {
-      "show_name": "La matiné",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Muerte desde una distancia de Frank R. Strayer",
-      "start_time": "12:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Revista de la Universidad de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/revista-de-la-universidad-de-méxico.webp",
-      "show_category": "Cultural",
+      "show_name": "Rock Lab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Dra. Michel Breda y Jessy Bulbo",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Espacio de reflexión y diálogo que reúne mensualmente distintas voces y, desde numerosos puntos de vista, a veces opuestos, aborda temas relevantes que permiten entender mejor nuestro mundo."
-    },
-    {
-      "show_name": "La UNAM responde",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/la-unam-responde.webp",
-      "show_category": "Noticiero",
-      "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
+      "episode_description": "Serie en colaboración con la Dirección de Divulgación de la Ciencia donde científicos muestran su lado rockero. Conduce Manuel Suárez Lastra, quien explora la conexión entre ciencia y música en México."
     },
     {
-      "show_name": "Ópera: Mozart",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/ópera-mozart.webp",
-      "show_category": "- La Flauta Mágica de Mozart",
+      "show_name": "Súbele a la ciencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "15:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maestros detrás de las ideas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/maestros-detrás-de-las-ideas.webp",
-      "show_category": "- Sergio García Ramírez. Derecho, justicia, ciencia penal",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Sergio García Ramírez fue un abogado y académico mexicano experto en derecho constitucional, derechos humanos y jurisprudencia. Fue miembro de la SCJN y ha tenido una destacada carrera judicial y académica."
-    },
-    {
-      "show_name": "La UNAM responde",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/la-unam-responde.webp",
-      "show_category": "Noticiero",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
-    },
-    {
-      "show_name": "Sherlock Holmes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- El caso del detective que se esfumó (1955)",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "El profesor Moriarty secuestra a un científico suizo para robarle una nueva bomba. Sherlock Holmes y el Dr. Watson tienen que descifrar un código secreto para salvar el país"
+      "end_time": "16:00",
+      "episode_description": "Un programa que propone entrevistas a investigadores acerca de temas de interés en el marco de diversos bachilleratos universitarios. El programa pretende acercarle al público, el trabajo de investigación que se realiza en México."
     },
     {
       "show_name": "Historia: ítalo americanos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/historia-ítalo-americanos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_historia-italo-americanos-s00e04-el-sueno-americano-1945-hoy_l_m.jpg",
       "show_category": "Episodio 4 - El sueño americano 1945 - Hoy",
-      "start_time": "19:30",
-      "end_time": "20:30",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": "Conoce las diferentes historias de personas europeas que emigraron al continente americano, buscando nuevas oportunidades."
     },
     {
-      "show_name": "Revista de la Universidad de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/revista-de-la-universidad-de-méxico.webp",
-      "show_category": "Cultural",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Espacio de reflexión y diálogo que reúne mensualmente distintas voces y, desde numerosos puntos de vista, a veces opuestos, aborda temas relevantes que permiten entender mejor nuestro mundo."
+      "show_name": "A 30 años de la reactivación del Popocatépetl",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 4 - La ciencia a pie del volcán: Las nuevas miradas del Popocatépelt",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Una producción documental que aborda los 30 años de actividad del volcán Popocatépetl y que explora su historia, impacto y el avance la vulcanología en México."
     },
     {
-      "show_name": "Mextranjeros",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/today/mextranjeros.webp",
+      "show_name": "El mundo real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Misión Tambopata, ¿cuál es el destino de las guacamayas?",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Espacio dedicado a reseñar algunos pueblos del mundo que, a pesar de la situación crítica que padecen, luchan por conservar sus tradiciones y mantener sus costumbres."
+    },
+    {
+      "show_name": "#EnTrending",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_entrending-1_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Programa de análisis y debate. En cada emisión, se convocará a cuatro corresponsales extranjeros con el objetivo de analizar la coyuntura informativa y explorar cómo se ve a México en el resto del mundo."
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Programa conducido por nuestros reporteros universitarios, quienes abordan los temas coyunturales de las redes sociales desde una perspectiva universitaria."
     },
     {
-      "show_name": "El sabor de la cereza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Ta'm E Guilass",
+      "show_name": "Clic cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Educativo",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Revista semanal que presenta la oferta cultural de la Universidad Nacional Autónoma de México. El programa destaca las actividades de la Coordinación de Difusión Cultural, mostrando la misión de la UNAM como un eje cultural importante."
+    },
+    {
+      "show_name": "Los imprescindibles - Los grandes maestros de la pintura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 2 - Degas",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": "Los grandes maestros de la pintura, sus biografías, obras y secretos."
+    },
+    {
+      "show_name": "Vindictas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vindictas_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Recupera la vida y obra de las mujeres más destacadas de la vida social, política y cultural de México, para reivindicar sus biografías y contrarrestar la normalización del olvido, la discriminación y la invisibilización."
+    },
+    {
+      "show_name": "UNAMirada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "La Universidad Nacional de México emite una programación exclusiva para presentar y compartir el quehacer de los científicos a toda la comunidad a modo de periódicos. Avances, tecnología, innovaciones e información sin precedentes."
+    },
+    {
+      "show_name": "Ensayo de orquesta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ensayo-de-orquesta-1978_l_m.jpg",
+      "show_category": "Prova d'orchestra",
       "start_time": "22:00",
-      "end_time": "00:00",
-      "episode_description": "La historia de un hombre que desea morir en una sociedad en la que el suicidio es considerado una aberración. El viaje de un personaje desesperado por encontrar a alguien que pueda enterrar su cuerpo luego de su suicidio."
+      "end_time": "23:30",
+      "episode_description": "Una orquesta se prepara para un ensayo de rutina. Pero el aparente clima de refinada sensibilidad se ve alterado por las internas que precipitan la intolerancia y el egoísmo. Las consecuencias serán sorpresivas y demoledoras."
+    },
+    {
+      "show_name": "Tiempo de filmoteca de la UNAM",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-filmoteca-de-la-unam_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "23:30",
+      "end_time": "00:45",
+      "episode_description": "Un espacio para la difusión del cine a través del abordaje de las obras de diferentes cineastas.Al final de cada proyección de las cintas, la actriz Alejandra Toussaint entrevista a distintos invitados para comentar las historias."
     }
   ]
 }
