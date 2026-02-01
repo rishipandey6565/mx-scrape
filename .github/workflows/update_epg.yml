@@ -29,7 +29,7 @@ jobs:
           pip install requests pytz
 
       - name: Run EPG Script
-        # REPLACE 'your_script_name.py' with the actual name of your python file
+        # REPLACE 'main.py' with the actual name of your python file
         run: python main.py
 
       - name: Commit and Push changes
@@ -42,10 +42,9 @@ jobs:
           git add schedule/
           
           # Check if there are changes; if yes, commit and push.
-          # If no changes, do nothing (prevents workflow failure).
           if [[ -n $(git status -s) ]]; then
             git commit -m "Auto-update EPG schedules [skip ci]"
             git push
           else
-            print("No changes to commit.")
+            echo "No changes to commit."
           fi
