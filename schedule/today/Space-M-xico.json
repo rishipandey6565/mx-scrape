@@ -1,141 +1,126 @@
 {
-  "channel_name": "Space (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Space (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Flash",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:39:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:39",
+      "episode_description": ""
     },
     {
       "show_name": "La Liga de la Justicia",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_liga_de_la_justicia.jpg",
-      "start_time": "2026-02-02 00:39:00",
-      "end_time": "2026-02-02 02:44:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas."
+      "start_time": "00:39",
+      "end_time": "02:44",
+      "episode_description": "Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas."
     },
     {
       "show_name": "La Liga de la Justicia",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_liga_de_la_justicia.jpg",
-      "start_time": "2026-02-02 02:44:00",
-      "end_time": "2026-02-02 04:44:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas."
+      "start_time": "02:44",
+      "end_time": "04:44",
+      "episode_description": "Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas."
     },
     {
       "show_name": "Guerra de containers",
       "show_logo": "",
-      "start_time": "2026-02-02 04:44:00",
-      "end_time": "2026-02-02 05:08:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:44",
+      "end_time": "05:08",
+      "episode_description": ""
     },
     {
       "show_name": "Guerra de containers",
       "show_logo": "",
-      "start_time": "2026-02-02 05:08:00",
-      "end_time": "2026-02-02 05:29:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:08",
+      "end_time": "05:29",
+      "episode_description": ""
     },
     {
       "show_name": "Guerra de containers",
       "show_logo": "",
-      "start_time": "2026-02-02 05:29:00",
-      "end_time": "2026-02-02 05:51:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:29",
+      "end_time": "05:51",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 05:51:00",
-      "end_time": "2026-02-02 06:53:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:51",
+      "end_time": "06:53",
+      "episode_description": ""
     },
     {
       "show_name": "Batman regresa",
       "show_logo": "",
-      "start_time": "2026-02-02 06:53:00",
-      "end_time": "2026-02-02 09:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:53",
+      "end_time": "09:05",
+      "episode_description": ""
     },
     {
       "show_name": "Superman regresa",
       "show_logo": "",
-      "start_time": "2026-02-02 09:05:00",
-      "end_time": "2026-02-02 11:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:05",
+      "end_time": "11:45",
+      "episode_description": ""
     },
     {
       "show_name": "Red De Corrupción",
       "show_logo": "",
-      "start_time": "2026-02-02 11:45:00",
-      "end_time": "2026-02-02 13:33:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:45",
+      "end_time": "13:33",
+      "episode_description": ""
     },
     {
       "show_name": "Difícil de matar",
       "show_logo": "",
-      "start_time": "2026-02-02 13:33:00",
-      "end_time": "2026-02-02 15:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:33",
+      "end_time": "15:12",
+      "episode_description": ""
     },
     {
       "show_name": "La colonia",
       "show_logo": "",
-      "start_time": "2026-02-02 15:12:00",
-      "end_time": "2026-02-02 16:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:12",
+      "end_time": "16:50",
+      "episode_description": ""
     },
     {
       "show_name": "Flash",
       "show_logo": "",
-      "start_time": "2026-02-02 16:50:00",
-      "end_time": "2026-02-02 19:29:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:50",
+      "end_time": "19:29",
+      "episode_description": ""
     },
     {
       "show_name": "Aquaman",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg",
-      "start_time": "2026-02-02 19:29:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
+      "start_time": "19:29",
+      "end_time": "22:00",
+      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
     },
     {
       "show_name": "Black Adam",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/black_adam.jpg",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-03 00:08:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Casi 5000 años después de que los dioses antiguos le confirieran los poderes todopoderosos y lo encarcelaran con la misma rapidez – Black Adam (Dwayne Johnson) es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno."
+      "start_time": "22:00",
+      "end_time": "00:08",
+      "episode_description": "Casi 5000 años después de que los dioses antiguos le confirieran los poderes todopoderosos y lo encarcelaran con la misma rapidez – Black Adam (Dwayne Johnson) es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno."
     }
   ]
 }

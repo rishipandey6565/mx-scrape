@@ -1,186 +1,166 @@
 {
-  "channel_name": "Golf Channel (Latinoamérica)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Golf Channel (Latinoamérica)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf's Greatest Holes",
       "show_logo": "",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "S3 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "S2026 E26",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "S2026 E26",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "S2026 E26",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Today",
       "show_logo": "",
-      "start_time": "2026-02-02 13:30:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Today",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 17:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Golf fix",
       "show_logo": "",
-      "start_time": "2026-02-02 17:30:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Argentina Golf Destination",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "International Golf",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "International Golf",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 20:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
     },
     {
       "show_name": "International Golf",
       "show_logo": "",
-      "start_time": "2026-02-02 20:30:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paco Aleman Confidencial",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 21:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Golf fix",
       "show_logo": "",
-      "start_time": "2026-02-02 21:30:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "01:00",
+      "episode_description": ""
     }
   ]
 }

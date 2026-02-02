@@ -1,213 +1,190 @@
 {
-  "channel_name": "AMC (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "AMC (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Non-Stop: Sin Escalas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/non-stop_sin_escalas.jpg",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:55:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
+      "start_time": "00:00",
+      "end_time": "00:55",
+      "episode_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
     },
     {
       "show_name": "Condena brutal",
       "show_logo": "",
-      "start_time": "2026-02-03 00:55:00",
-      "end_time": "2026-02-03 02:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:55",
+      "end_time": "02:55",
+      "episode_description": ""
     },
     {
       "show_name": "Ten cuidado a quién llamas",
       "show_logo": "",
-      "start_time": "2026-02-03 02:55:00",
-      "end_time": "2026-02-03 03:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:55",
+      "end_time": "03:55",
+      "episode_description": ""
     },
     {
       "show_name": "Machete",
       "show_logo": "",
-      "start_time": "2026-02-03 03:55:00",
-      "end_time": "2026-02-03 05:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:55",
+      "end_time": "05:50",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 05:50:00",
-      "end_time": "2026-02-03 06:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:50",
+      "end_time": "06:25",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 06:25:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:25",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:35",
+      "episode_description": ""
     },
     {
       "show_name": "The Ark",
       "show_logo": "",
-      "start_time": "2026-02-03 11:35:00",
-      "end_time": "2026-02-03 12:25:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:35",
+      "end_time": "12:25",
+      "episode_description": ""
     },
     {
       "show_name": "Por el honor",
       "show_logo": "",
-      "start_time": "2026-02-03 12:25:00",
-      "end_time": "2026-02-03 14:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:25",
+      "end_time": "14:15",
+      "episode_description": ""
     },
     {
       "show_name": "¿Y dónde están las rubias?",
       "show_logo": "",
-      "start_time": "2026-02-03 14:15:00",
-      "end_time": "2026-02-03 16:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:15",
+      "end_time": "16:15",
+      "episode_description": ""
     },
     {
       "show_name": "Jungle",
       "show_logo": "",
-      "start_time": "2026-02-03 16:15:00",
-      "end_time": "2026-02-03 18:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:15",
+      "end_time": "18:20",
+      "episode_description": ""
     },
     {
       "show_name": "Amenaza roja",
       "show_logo": "",
-      "start_time": "2026-02-03 18:20:00",
-      "end_time": "2026-02-03 19:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:20",
+      "end_time": "19:55",
+      "episode_description": ""
     },
     {
       "show_name": "Non-Stop: Sin Escalas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/non-stop_sin_escalas.jpg",
-      "start_time": "2026-02-03 19:55:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
+      "start_time": "19:55",
+      "end_time": "22:00",
+      "episode_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
     },
     {
       "show_name": "Respira",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 23:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:35",
+      "episode_description": ""
     },
     {
       "show_name": "Machete",
       "show_logo": "",
-      "start_time": "2026-02-03 23:35:00",
-      "end_time": "2026-02-04 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:35",
+      "end_time": "01:30",
+      "episode_description": ""
     }
   ]
 }

@@ -1,285 +1,254 @@
 {
-  "channel_name": "WOBI",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "WOBI",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Revolution Wine",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "World innovation enterprises",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "World changing agencies",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Design X Ray",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "Experts in Seven",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WBF Madrid",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WLF Lisboa",
       "show_logo": "",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mark it social media",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Spotlight Ben Shahar",
       "show_logo": "",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ad factory Mr. President",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Innovation Lab Intelligent",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Revolution Wine",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "World innovation enterprises",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "World changing agencies",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Design X Ray",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Experts in Seven",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WBF Madrid",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WLF Lisboa",
       "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mark it social media",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Spotlight Ben Shahar",
       "show_logo": "",
-      "start_time": "2026-02-02 09:30:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ad factory Mr. President",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Innovation Lab Intelligent",
       "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Revolution Wine",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "World innovation enterprises",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "World changing agencies",
       "show_logo": "",
-      "start_time": "2026-02-02 12:30:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Design X Ray",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Experts in Seven",
       "show_logo": "",
-      "start_time": "2026-02-02 13:30:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WBF Madrid",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ideas on stage WLF Lisboa",
       "show_logo": "",
-      "start_time": "2026-02-02 14:30:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mark it social media",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Spotlight Ben Shahar",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "15:30",
+      "episode_description": ""
     }
   ]
 }

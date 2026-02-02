@@ -1,366 +1,326 @@
 {
-  "channel_name": "Discovery World Latinoamérica",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Discovery World Latinoamérica",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Pantano Se vende",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:12",
+      "episode_description": ""
     },
     {
       "show_name": "El mejor hotel",
       "show_logo": "",
-      "start_time": "2026-02-02 00:12:00",
-      "end_time": "2026-02-02 00:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:12",
+      "end_time": "00:36",
+      "episode_description": ""
     },
     {
       "show_name": "¿Podría vivir ahí?",
       "show_logo": "",
-      "start_time": "2026-02-02 00:36:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:36",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Playas alrededor del mundo",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:24",
+      "episode_description": ""
     },
     {
       "show_name": "Pantano Se vende",
       "show_logo": "",
-      "start_time": "2026-02-02 01:24:00",
-      "end_time": "2026-02-02 01:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:24",
+      "end_time": "01:48",
+      "episode_description": ""
     },
     {
       "show_name": "Regreso al mundo chino",
       "show_logo": "",
-      "start_time": "2026-02-02 01:48:00",
-      "end_time": "2026-02-02 02:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:48",
+      "end_time": "02:36",
+      "episode_description": ""
     },
     {
       "show_name": "1000 Lugares que ver antes de morir",
       "show_logo": "",
-      "start_time": "2026-02-02 02:36:00",
-      "end_time": "2026-02-02 03:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:36",
+      "end_time": "03:24",
+      "episode_description": ""
     },
     {
       "show_name": "1000 Lugares que ver antes de morir",
       "show_logo": "",
-      "start_time": "2026-02-02 03:24:00",
-      "end_time": "2026-02-02 04:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:24",
+      "end_time": "04:12",
+      "episode_description": ""
     },
     {
       "show_name": "El poder de la comida",
       "show_logo": "",
-      "start_time": "2026-02-02 04:12:00",
-      "end_time": "2026-02-02 04:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:12",
+      "end_time": "04:36",
+      "episode_description": ""
     },
     {
       "show_name": "Buying Hawaii",
       "show_logo": "",
-      "start_time": "2026-02-02 04:36:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:36",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Playas alrededor del mundo",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 05:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:24",
+      "episode_description": ""
     },
     {
       "show_name": "Piscinas fabulosas",
       "show_logo": "",
-      "start_time": "2026-02-02 05:24:00",
-      "end_time": "2026-02-02 05:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:24",
+      "end_time": "05:48",
+      "episode_description": ""
     },
     {
       "show_name": "¿Podría vivir ahí?",
       "show_logo": "",
-      "start_time": "2026-02-02 05:48:00",
-      "end_time": "2026-02-02 06:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:48",
+      "end_time": "06:12",
+      "episode_description": ""
     },
     {
       "show_name": "Pantano Se vende",
       "show_logo": "",
-      "start_time": "2026-02-02 06:12:00",
-      "end_time": "2026-02-02 06:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:12",
+      "end_time": "06:36",
+      "episode_description": ""
     },
     {
       "show_name": "1000 Lugares que ver antes de morir",
       "show_logo": "",
-      "start_time": "2026-02-02 06:36:00",
-      "end_time": "2026-02-02 07:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:36",
+      "end_time": "07:24",
+      "episode_description": ""
     },
     {
       "show_name": "Rincones secretos para nadar",
       "show_logo": "",
-      "start_time": "2026-02-02 07:24:00",
-      "end_time": "2026-02-02 08:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:24",
+      "end_time": "08:12",
+      "episode_description": ""
     },
     {
       "show_name": "El poder de la comida",
       "show_logo": "",
-      "start_time": "2026-02-02 08:12:00",
-      "end_time": "2026-02-02 08:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:12",
+      "end_time": "08:36",
+      "episode_description": ""
     },
     {
       "show_name": "Tocinolandia",
       "show_logo": "",
-      "start_time": "2026-02-02 08:36:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:36",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Fast Food Mania",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 09:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:24",
+      "episode_description": ""
     },
     {
       "show_name": "Pantano Se vende",
       "show_logo": "",
-      "start_time": "2026-02-02 09:24:00",
-      "end_time": "2026-02-02 09:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:24",
+      "end_time": "09:48",
+      "episode_description": ""
     },
     {
       "show_name": "El mejor hotel",
       "show_logo": "",
-      "start_time": "2026-02-02 09:48:00",
-      "end_time": "2026-02-02 10:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:48",
+      "end_time": "10:12",
+      "episode_description": ""
     },
     {
       "show_name": "Playas alrededor del mundo",
       "show_logo": "",
-      "start_time": "2026-02-02 10:12:00",
-      "end_time": "2026-02-02 10:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:12",
+      "end_time": "10:36",
+      "episode_description": ""
     },
     {
       "show_name": "1000 Lugares que ver antes de morir",
       "show_logo": "",
-      "start_time": "2026-02-02 10:36:00",
-      "end_time": "2026-02-02 11:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:36",
+      "end_time": "11:24",
+      "episode_description": ""
     },
     {
       "show_name": "Pantano Se vende",
       "show_logo": "",
-      "start_time": "2026-02-02 11:24:00",
-      "end_time": "2026-02-02 11:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:24",
+      "end_time": "11:48",
+      "episode_description": ""
     },
     {
       "show_name": "La vida en la playa",
       "show_logo": "",
-      "start_time": "2026-02-02 11:48:00",
-      "end_time": "2026-02-02 12:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:48",
+      "end_time": "12:12",
+      "episode_description": ""
     },
     {
       "show_name": "El mejor hotel",
       "show_logo": "",
-      "start_time": "2026-02-02 12:12:00",
-      "end_time": "2026-02-02 12:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:12",
+      "end_time": "12:36",
+      "episode_description": ""
     },
     {
       "show_name": "Tocinolandia",
       "show_logo": "",
-      "start_time": "2026-02-02 12:36:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:36",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Fast Food Mania",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 13:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:24",
+      "episode_description": ""
     },
     {
       "show_name": "La vida en la playa",
       "show_logo": "",
-      "start_time": "2026-02-02 13:24:00",
-      "end_time": "2026-02-02 13:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:24",
+      "end_time": "13:48",
+      "episode_description": ""
     },
     {
       "show_name": "¿Podría vivir ahí?",
       "show_logo": "",
-      "start_time": "2026-02-02 13:48:00",
-      "end_time": "2026-02-02 14:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:48",
+      "end_time": "14:12",
+      "episode_description": ""
     },
     {
       "show_name": "Secretos de la isla",
       "show_logo": "",
-      "start_time": "2026-02-02 14:12:00",
-      "end_time": "2026-02-02 14:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:12",
+      "end_time": "14:36",
+      "episode_description": ""
     },
     {
       "show_name": "Mi casa en la playa",
       "show_logo": "",
-      "start_time": "2026-02-02 14:36:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:36",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tocinolandia",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:24",
+      "episode_description": ""
     },
     {
       "show_name": "Buying Alaska",
       "show_logo": "",
-      "start_time": "2026-02-02 15:24:00",
-      "end_time": "2026-02-02 15:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:24",
+      "end_time": "15:48",
+      "episode_description": ""
     },
     {
       "show_name": "El poder de la comida",
       "show_logo": "",
-      "start_time": "2026-02-02 15:48:00",
-      "end_time": "2026-02-02 16:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:48",
+      "end_time": "16:12",
+      "episode_description": ""
     },
     {
       "show_name": "Mi casa en la montaña",
       "show_logo": "",
-      "start_time": "2026-02-02 16:12:00",
-      "end_time": "2026-02-02 16:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:12",
+      "end_time": "16:36",
+      "episode_description": ""
     },
     {
       "show_name": "¿Podría vivir ahí?",
       "show_logo": "",
-      "start_time": "2026-02-02 16:36:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:36",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Renuévelo usted mismo",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 17:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:24",
+      "episode_description": ""
     },
     {
       "show_name": "Renuévelo usted mismo",
       "show_logo": "",
-      "start_time": "2026-02-02 17:24:00",
-      "end_time": "2026-02-02 17:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:24",
+      "end_time": "17:48",
+      "episode_description": ""
     },
     {
       "show_name": "La vida en la playa",
       "show_logo": "",
-      "start_time": "2026-02-02 17:48:00",
-      "end_time": "2026-02-02 18:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:48",
+      "end_time": "18:12",
+      "episode_description": ""
     }
   ]
 }

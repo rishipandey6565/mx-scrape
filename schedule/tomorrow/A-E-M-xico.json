@@ -1,546 +1,486 @@
 {
-  "channel_name": "A&E (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "A&E (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "S3 E32",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:20:00",
-      "episode_number": "S3 E33",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:20",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 00:20:00",
-      "end_time": "2026-02-03 00:45:00",
-      "episode_number": "S2 E21",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:20",
+      "end_time": "00:45",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 00:45:00",
-      "end_time": "2026-02-03 01:05:00",
-      "episode_number": "S2 E22",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:45",
+      "end_time": "01:05",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 01:05:00",
-      "end_time": "2026-02-03 01:25:00",
-      "episode_number": "S2 E23",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:05",
+      "end_time": "01:25",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 01:25:00",
-      "end_time": "2026-02-03 01:45:00",
-      "episode_number": "S2 E24",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:25",
+      "end_time": "01:45",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 01:45:00",
-      "end_time": "2026-02-03 02:10:00",
-      "episode_number": "S2 E25",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:45",
+      "end_time": "02:10",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 02:10:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "S2 E26",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:10",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 02:50:00",
-      "episode_number": "S2 E88",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "02:50",
+      "episode_description": ""
     },
     {
       "show_name": "Ira en el camino",
       "show_logo": "",
-      "start_time": "2026-02-03 02:50:00",
-      "end_time": "2026-02-03 03:10:00",
-      "episode_number": "S2 E89",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:50",
+      "end_time": "03:10",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 03:10:00",
-      "end_time": "2026-02-03 03:35:00",
-      "episode_number": "S2 E18",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:10",
+      "end_time": "03:35",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 03:35:00",
-      "end_time": "2026-02-03 03:55:00",
-      "episode_number": "S2 E19",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:35",
+      "end_time": "03:55",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 03:55:00",
-      "end_time": "2026-02-03 04:15:00",
-      "episode_number": "S2 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:55",
+      "end_time": "04:15",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 04:15:00",
-      "end_time": "2026-02-03 04:35:00",
-      "episode_number": "S2 E21",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:15",
+      "end_time": "04:35",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 04:35:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "S2 E22",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:35",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:20:00",
-      "episode_number": "S2 E23",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:20",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 05:20:00",
-      "end_time": "2026-02-03 05:40:00",
-      "episode_number": "S2 E24",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:20",
+      "end_time": "05:40",
+      "episode_description": ""
     },
     {
       "show_name": "Clientes en furia",
       "show_logo": "",
-      "start_time": "2026-02-03 05:40:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "S2 E25",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:40",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Acumuladores compulsivos",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "S16 E151",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 07:50:00",
-      "episode_number": "S14 E311",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "07:50",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 07:50:00",
-      "end_time": "2026-02-03 08:15:00",
-      "episode_number": "S14 E312",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:50",
+      "end_time": "08:15",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 08:15:00",
-      "end_time": "2026-02-03 08:35:00",
-      "episode_number": "S14 E313",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:15",
+      "end_time": "08:35",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 08:35:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "S14 E314",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:35",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:20:00",
-      "episode_number": "S10 E233",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:20",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 09:20:00",
-      "end_time": "2026-02-03 09:45:00",
-      "episode_number": "S10 E234",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:20",
+      "end_time": "09:45",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 09:45:00",
-      "end_time": "2026-02-03 10:05:00",
-      "episode_number": "S10 E235",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:45",
+      "end_time": "10:05",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 10:05:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "S10 E236",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:05",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 10:50:00",
-      "episode_number": "S10 E199",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "10:50",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 10:50:00",
-      "end_time": "2026-02-03 11:15:00",
-      "episode_number": "S10 E200",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:50",
+      "end_time": "11:15",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 11:15:00",
-      "end_time": "2026-02-03 11:40:00",
-      "episode_number": "S10 E201",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:15",
+      "end_time": "11:40",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 11:40:00",
-      "end_time": "2026-02-03 12:05:00",
-      "episode_number": "S10 E202",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:40",
+      "end_time": "12:05",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 12:05:00",
-      "end_time": "2026-02-03 12:25:00",
-      "episode_number": "S10 E203",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:05",
+      "end_time": "12:25",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 12:25:00",
-      "end_time": "2026-02-03 12:50:00",
-      "episode_number": "S10 E204",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:25",
+      "end_time": "12:50",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 12:50:00",
-      "end_time": "2026-02-03 13:10:00",
-      "episode_number": "S10 E205",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:50",
+      "end_time": "13:10",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 13:10:00",
-      "end_time": "2026-02-03 13:35:00",
-      "episode_number": "S10 E206",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:10",
+      "end_time": "13:35",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 13:35:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "S10 E210",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:35",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 14:25:00",
-      "episode_number": "S10 E211",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:25",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 14:25:00",
-      "end_time": "2026-02-03 14:50:00",
-      "episode_number": "S10 E212",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:25",
+      "end_time": "14:50",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 14:50:00",
-      "end_time": "2026-02-03 15:10:00",
-      "episode_number": "S10 E213",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:50",
+      "end_time": "15:10",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 15:10:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "S10 E214",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:10",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 15:55:00",
-      "episode_number": "S10 E215",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "15:55",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 15:55:00",
-      "end_time": "2026-02-03 16:20:00",
-      "episode_number": "S10 E216",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:55",
+      "end_time": "16:20",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 16:20:00",
-      "end_time": "2026-02-03 16:45:00",
-      "episode_number": "S10 E217",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:20",
+      "end_time": "16:45",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 16:45:00",
-      "end_time": "2026-02-03 17:10:00",
-      "episode_number": "S10 E218",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:45",
+      "end_time": "17:10",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 17:10:00",
-      "end_time": "2026-02-03 17:35:00",
-      "episode_number": "S10 E219",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:10",
+      "end_time": "17:35",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 17:35:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "S10 E220",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:35",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 18:20:00",
-      "episode_number": "S10 E221",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "18:20",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 18:20:00",
-      "end_time": "2026-02-03 18:45:00",
-      "episode_number": "S10 E222",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:20",
+      "end_time": "18:45",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 18:45:00",
-      "end_time": "2026-02-03 19:10:00",
-      "episode_number": "S10 E223",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:45",
+      "end_time": "19:10",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 19:10:00",
-      "end_time": "2026-02-03 19:35:00",
-      "episode_number": "S10 E224",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:10",
+      "end_time": "19:35",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 19:35:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "S14 E313",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:35",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 20:25:00",
-      "episode_number": "S14 E314",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "20:25",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 20:25:00",
-      "end_time": "2026-02-03 20:50:00",
-      "episode_number": "S15 E315",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:25",
+      "end_time": "20:50",
+      "episode_description": ""
     },
     {
       "show_name": "¿Quién da má$?",
       "show_logo": "",
-      "start_time": "2026-02-03 20:50:00",
-      "end_time": "2026-02-03 21:15:00",
-      "episode_number": "S15 E316",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:50",
+      "end_time": "21:15",
+      "episode_description": ""
     },
     {
       "show_name": "Patrulla policial",
       "show_logo": "",
-      "start_time": "2026-02-03 21:15:00",
-      "end_time": "2026-02-03 21:40:00",
-      "episode_number": "S3 E43",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:15",
+      "end_time": "21:40",
+      "episode_description": ""
     },
     {
       "show_name": "Patrulla policial",
       "show_logo": "",
-      "start_time": "2026-02-03 21:40:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "S3 E44",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:40",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Patrulla policial",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 22:25:00",
-      "episode_number": "S3 E45",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:25",
+      "episode_description": ""
     },
     {
       "show_name": "Patrulla policial",
       "show_logo": "",
-      "start_time": "2026-02-03 22:25:00",
-      "end_time": "2026-02-03 22:45:00",
-      "episode_number": "S3 E46",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:25",
+      "end_time": "22:45",
+      "episode_description": ""
     },
     {
       "show_name": "Los asesinatos de una viuda",
       "show_logo": "",
-      "start_time": "2026-02-03 22:45:00",
-      "end_time": "2026-02-03 23:35:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:45",
+      "end_time": "23:35",
+      "episode_description": ""
     },
     {
       "show_name": "Los asesinatos de una viuda",
       "show_logo": "",
-      "start_time": "2026-02-03 23:35:00",
-      "end_time": "2026-02-04 00:20:00",
-      "episode_number": "E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:35",
+      "end_time": "00:20",
+      "episode_description": ""
     }
   ]
 }

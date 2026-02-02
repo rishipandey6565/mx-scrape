@@ -1,168 +1,150 @@
 {
-  "channel_name": "TV Chile",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "TV Chile",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Destinos Turísticos",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-02 00:15:00",
-      "end_time": "2026-02-02 01:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:15",
+      "end_time": "01:45",
+      "episode_description": ""
     },
     {
       "show_name": "Había una Vez",
       "show_logo": "",
-      "start_time": "2026-02-02 01:45:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:45",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "24 horas tu mañana",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Buenos Días a Todos",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "24 Tarde",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Programa Pagado",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Programa Pagado",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:55",
+      "episode_description": ""
     },
     {
       "show_name": "24 Horas Central",
       "show_logo": "",
-      "start_time": "2026-02-02 18:55:00",
-      "end_time": "2026-02-02 19:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:55",
+      "end_time": "19:45",
+      "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
-      "start_time": "2026-02-02 19:45:00",
-      "end_time": "2026-02-02 20:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:45",
+      "end_time": "20:45",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-02 20:45:00",
-      "end_time": "2026-02-02 21:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:45",
+      "end_time": "21:45",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-02 21:45:00",
-      "end_time": "2026-02-02 23:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:45",
+      "end_time": "23:45",
+      "episode_description": ""
     },
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
-      "start_time": "2026-02-02 23:45:00",
-      "end_time": "2026-02-03 00:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:45",
+      "end_time": "00:45",
+      "episode_description": ""
     }
   ]
 }

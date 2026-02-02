@@ -1,321 +1,286 @@
 {
-  "channel_name": "Milenio TV",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Milenio TV",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:45",
+      "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
-      "start_time": "2026-02-02 00:45:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:45",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:45",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Mercados Perspectiva",
       "show_logo": "",
-      "start_time": "2026-02-02 01:45:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:45",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:45",
+      "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
-      "start_time": "2026-02-02 02:45:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:45",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:45",
+      "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
-      "start_time": "2026-02-02 03:45:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:45",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:45",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Mercados Perspectiva",
       "show_logo": "",
-      "start_time": "2026-02-02 04:45:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:45",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias con Zeleny Ibarra",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias Samuel Cuervo",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias Josué Becerra",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias del Mediodía",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Tania Díaz",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Joel Valdez",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:45",
+      "episode_description": ""
     },
     {
       "show_name": "La Afición los Entrenamientos",
       "show_logo": "",
-      "start_time": "2026-02-02 15:45:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:45",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Rodrigo Rico",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Jaime Núñez",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 19:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "19:45",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Emprende",
       "show_logo": "",
-      "start_time": "2026-02-02 19:45:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:45",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Pedro Gamboa",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 20:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "20:45",
+      "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
-      "start_time": "2026-02-02 20:45:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:45",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio Noticias Elisa Alanís",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 21:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:45",
+      "episode_description": ""
     },
     {
       "show_name": "El asalto a la razón",
       "show_logo": "",
-      "start_time": "2026-02-02 21:45:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:45",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Milenio noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 22:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:45",
+      "episode_description": ""
     },
     {
       "show_name": "Bote Pronto con Carlos Puig",
       "show_logo": "",
-      "start_time": "2026-02-02 22:45:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:45",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias con Paola Barquet",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-02 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
-      "start_time": "2026-02-02 23:30:00",
-      "end_time": "2026-02-02 23:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": ""
     },
     {
       "show_name": "El asalto a la razón",
       "show_logo": "",
-      "start_time": "2026-02-02 23:45:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:45",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

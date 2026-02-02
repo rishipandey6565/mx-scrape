@@ -1,141 +1,126 @@
 {
-  "channel_name": "HBO Family Latinoamérica",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "HBO Family Latinoamérica",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Karate kid",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:50",
+      "episode_description": ""
     },
     {
       "show_name": "El regreso de la nana mágica",
       "show_logo": "",
-      "start_time": "2026-02-02 00:50:00",
-      "end_time": "2026-02-02 02:38:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:50",
+      "end_time": "02:38",
+      "episode_description": ""
     },
     {
       "show_name": "Un motivo para ganar",
       "show_logo": "",
-      "start_time": "2026-02-02 02:38:00",
-      "end_time": "2026-02-02 04:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:38",
+      "end_time": "04:25",
+      "episode_description": ""
     },
     {
       "show_name": "Kung Fu Panda",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda.jpg",
-      "start_time": "2026-02-02 04:25:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Un oso Panda llamado Po (Jack Black) - quien se considera a sí mismo el fan número uno del Kung Fu – un día podrá cumplir su sueño de ser parte de los legendarios Cinco Guerreros: Tigresa, Mono, Mantis, Víbora y Grulla."
+      "start_time": "04:25",
+      "end_time": "06:00",
+      "episode_description": "Un oso Panda llamado Po (Jack Black) - quien se considera a sí mismo el fan número uno del Kung Fu – un día podrá cumplir su sueño de ser parte de los legendarios Cinco Guerreros: Tigresa, Mono, Mantis, Víbora y Grulla."
     },
     {
       "show_name": "Hotel Transylvania",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:35",
+      "episode_description": ""
     },
     {
       "show_name": "La casa con un reloj en sus",
       "show_logo": "",
-      "start_time": "2026-02-02 07:35:00",
-      "end_time": "2026-02-02 09:23:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:35",
+      "end_time": "09:23",
+      "episode_description": ""
     },
     {
       "show_name": "Open Season",
       "show_logo": "",
-      "start_time": "2026-02-02 09:23:00",
-      "end_time": "2026-02-02 10:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:23",
+      "end_time": "10:50",
+      "episode_description": ""
     },
     {
       "show_name": "Karate Kid: Leyendas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/karate_kid_leyendas.jpg",
-      "start_time": "2026-02-02 10:50:00",
-      "end_time": "2026-02-02 12:27:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales."
+      "start_time": "10:50",
+      "end_time": "12:27",
+      "episode_description": "En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales."
     },
     {
       "show_name": "Jovenes Titanes en acción!",
       "show_logo": "",
-      "start_time": "2026-02-02 12:27:00",
-      "end_time": "2026-02-02 13:53:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:27",
+      "end_time": "13:53",
+      "episode_description": ""
     },
     {
       "show_name": "DC Liga de Súpermascotas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dc_liga_de_supermascotas.jpg",
-      "start_time": "2026-02-02 13:53:00",
-      "end_time": "2026-02-02 15:41:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes."
+      "start_time": "13:53",
+      "end_time": "15:41",
+      "episode_description": "En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes."
     },
     {
       "show_name": "Tom y Jerry",
       "show_logo": "",
-      "start_time": "2026-02-02 15:41:00",
-      "end_time": "2026-02-02 17:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:41",
+      "end_time": "17:25",
+      "episode_description": ""
     },
     {
       "show_name": "Hotel Transylvania",
       "show_logo": "",
-      "start_time": "2026-02-02 17:25:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:25",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Minions",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/minions.jpg",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:34:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación."
+      "start_time": "19:00",
+      "end_time": "20:34",
+      "episode_description": "La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación."
     },
     {
       "show_name": "Karate Kid: Leyendas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/karate_kid_leyendas.jpg",
-      "start_time": "2026-02-02 20:34:00",
-      "end_time": "2026-02-02 22:11:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales."
+      "start_time": "20:34",
+      "end_time": "22:11",
+      "episode_description": "En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales."
     },
     {
       "show_name": "Rey Richard Una familia",
       "show_logo": "",
-      "start_time": "2026-02-02 22:11:00",
-      "end_time": "2026-02-03 00:38:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:11",
+      "end_time": "00:38",
+      "episode_description": ""
     }
   ]
 }

@@ -1,141 +1,126 @@
 {
-  "channel_name": "HBO Family Latinoamérica",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "HBO Family Latinoamérica",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Rey Richard Una familia",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:38:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:38",
+      "episode_description": ""
     },
     {
       "show_name": "Zoom y los superhéroes",
       "show_logo": "",
-      "start_time": "2026-02-03 00:38:00",
-      "end_time": "2026-02-03 02:09:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:38",
+      "end_time": "02:09",
+      "episode_description": ""
     },
     {
       "show_name": "El regreso del Capitán Garfio",
       "show_logo": "",
-      "start_time": "2026-02-03 02:09:00",
-      "end_time": "2026-02-03 04:34:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:09",
+      "end_time": "04:34",
+      "episode_description": ""
     },
     {
       "show_name": "Jovenes Titanes en acción!",
       "show_logo": "",
-      "start_time": "2026-02-03 04:34:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:34",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "La vida secreta",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 07:28:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:28",
+      "episode_description": ""
     },
     {
       "show_name": "El cadáver de la novia",
       "show_logo": "",
-      "start_time": "2026-02-03 07:28:00",
-      "end_time": "2026-02-03 08:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:28",
+      "end_time": "08:48",
+      "episode_description": ""
     },
     {
       "show_name": "Pie Pequeño",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg",
-      "start_time": "2026-02-03 08:48:00",
-      "end_time": "2026-02-03 10:26:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Pie pequeño pone patas arriba la leyenda de Pie grande cuando un brillante joven Yeti encuentra algo que creía que no existía – un ser humano. Las noticias de este \"pie pequeño\" le dan fama y una oportunidad con la chica de sueños. También arroja a la simple comunidad Yeti en un alboroto sobre qué más podría estar allí en un gran mundo más allá de su aldea nevada, en una historia alegre sobre la amistad, el coraje y la alegría del descubrimiento."
+      "start_time": "08:48",
+      "end_time": "10:26",
+      "episode_description": "Pie pequeño pone patas arriba la leyenda de Pie grande cuando un brillante joven Yeti encuentra algo que creía que no existía – un ser humano. Las noticias de este \"pie pequeño\" le dan fama y una oportunidad con la chica de sueños. También arroja a la simple comunidad Yeti en un alboroto sobre qué más podría estar allí en un gran mundo más allá de su aldea nevada, en una historia alegre sobre la amistad, el coraje y la alegría del descubrimiento."
     },
     {
       "show_name": "El hombre araña 2",
       "show_logo": "",
-      "start_time": "2026-02-03 10:26:00",
-      "end_time": "2026-02-03 12:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:26",
+      "end_time": "12:35",
+      "episode_description": ""
     },
     {
       "show_name": "¡Scooby!",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/scooby.jpg",
-      "start_time": "2026-02-03 12:35:00",
-      "end_time": "2026-02-03 14:11:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "¡Scooby! Revela cómo se conocieron los amigos de toda la vida, Scooby (Frank Welker) y Shaggy (Will Forte), y cómo se unieron a los jóvenes detectives Fred (Zac Efron), Velma (Gina Rodriguez) y Daphne (Amanda Seyfried) para formar el famoso Mistery Inc. Ahora, con cientos de casos resueltos y aventuras compartidas, Scooby y la pandilla enfrentan su misterio más grande y desafiante: un complot para dar rienda suelta al perro fantasma Cerbero sobre el mundo. Mientras corren para detener este \"apocalipsis de perros\" global, la pandilla descubre que Scooby tiene un legado secreto y un destino épico más grande de lo que nadie imaginó."
+      "start_time": "12:35",
+      "end_time": "14:11",
+      "episode_description": "¡Scooby! Revela cómo se conocieron los amigos de toda la vida, Scooby (Frank Welker) y Shaggy (Will Forte), y cómo se unieron a los jóvenes detectives Fred (Zac Efron), Velma (Gina Rodriguez) y Daphne (Amanda Seyfried) para formar el famoso Mistery Inc. Ahora, con cientos de casos resueltos y aventuras compartidas, Scooby y la pandilla enfrentan su misterio más grande y desafiante: un complot para dar rienda suelta al perro fantasma Cerbero sobre el mundo. Mientras corren para detener este \"apocalipsis de perros\" global, la pandilla descubre que Scooby tiene un legado secreto y un destino épico más grande de lo que nadie imaginó."
     },
     {
       "show_name": "Los pitufos",
       "show_logo": "",
-      "start_time": "2026-02-03 14:11:00",
-      "end_time": "2026-02-03 15:56:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:11",
+      "end_time": "15:56",
+      "episode_description": ""
     },
     {
       "show_name": "La vida secreta",
       "show_logo": "",
-      "start_time": "2026-02-03 15:56:00",
-      "end_time": "2026-02-03 17:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:56",
+      "end_time": "17:25",
+      "episode_description": ""
     },
     {
       "show_name": "Shrek 2",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg",
-      "start_time": "2026-02-03 17:25:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
+      "start_time": "17:25",
+      "end_time": "19:00",
+      "episode_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
     },
     {
       "show_name": "Sing: ¡Ven y Canta!",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:51:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo."
+      "start_time": "19:00",
+      "end_time": "20:51",
+      "episode_description": "Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo."
     },
     {
       "show_name": "Harold y su Crayón Mágico",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/harold_y_su_crayon_magico.jpg",
-      "start_time": "2026-02-03 20:51:00",
-      "end_time": "2026-02-03 22:24:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "En el interior de su libro, el aventurero Harold (Zachary Levi) puede hacer que cualquier cosa cobre vida con solo dibujarla. Cuando crece y se dibuja a sí mismo fuera de las páginas de libro y entra en el mundo físico, Harold descubre que tiene mucho que aprender sobre la vida real y que su fiel crayón morado puede desencadenar travesuras más divertidas de las que creía posibles. Cuando el poder de la imaginación ilimitada cae en las manos equivocadas, Harold y sus amigos necesitarán toda la creatividad para salvar tanto el mundo real como el suyo propio."
+      "start_time": "20:51",
+      "end_time": "22:24",
+      "episode_description": "En el interior de su libro, el aventurero Harold (Zachary Levi) puede hacer que cualquier cosa cobre vida con solo dibujarla. Cuando crece y se dibuja a sí mismo fuera de las páginas de libro y entra en el mundo físico, Harold descubre que tiene mucho que aprender sobre la vida real y que su fiel crayón morado puede desencadenar travesuras más divertidas de las que creía posibles. Cuando el poder de la imaginación ilimitada cae en las manos equivocadas, Harold y sus amigos necesitarán toda la creatividad para salvar tanto el mundo real como el suyo propio."
     },
     {
       "show_name": "Hombres de Negro",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro.jpg",
-      "start_time": "2026-02-03 22:24:00",
-      "end_time": "2026-02-04 00:05:00",
-      "episode_number": "",
       "show_category": "Aventura",
-      "show_description": "Sigue las hazañas de los agentes Kay (Tommy Lee Jones) y Jay (Will Smith), miembros de una organización ultra secreta establecida para monitorear la actividad alienígena en la Tierra. Los dos MiB se encuentran en medio de la trama mortal de un terrorista intergaláctico, Edgar (Vincent D'Onofrio) que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas."
+      "start_time": "22:24",
+      "end_time": "00:05",
+      "episode_description": "Sigue las hazañas de los agentes Kay (Tommy Lee Jones) y Jay (Will Smith), miembros de una organización ultra secreta establecida para monitorear la actividad alienígena en la Tierra. Los dos MiB se encuentran en medio de la trama mortal de un terrorista intergaláctico, Edgar (Vincent D'Onofrio) que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas."
     }
   ]
 }

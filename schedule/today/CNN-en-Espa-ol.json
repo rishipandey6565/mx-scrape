@@ -1,249 +1,222 @@
 {
-  "channel_name": "CNN en Español",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "CNN en Español",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La historia completa",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "México Opina",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Oppenheimer presenta",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mirador Mundial",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Choque de Opiniones",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Conecta2",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "México Opina",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "GloboEconomía",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Café CNN",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Oppenheimer presenta",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Destinos",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mercado Sur",
       "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Choque de Opiniones",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Redacción con Nacho Girón",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Conclusiones",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "GloboEconomía",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Directo USA con Juan Lopez",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Perspectivas desde Mexico",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Directo USA con Juan Lopez",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Panorama Mundial",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Conclusiones",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Perspectivas desde Mexico",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Directo USA con Juan Lopez",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

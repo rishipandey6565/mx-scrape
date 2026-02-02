@@ -1,186 +1,166 @@
 {
-  "channel_name": "Antena 3",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Antena 3",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "El chiringuito internacional",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:02",
+      "episode_description": ""
     },
     {
       "show_name": "Zapeando",
       "show_logo": "",
-      "start_time": "2026-02-03 00:02:00",
-      "end_time": "2026-02-03 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:02",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias de la mañana",
       "show_logo": "",
-      "start_time": "2026-02-03 01:30:00",
-      "end_time": "2026-02-03 01:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "01:55",
+      "episode_description": ""
     },
     {
       "show_name": "Espejo público",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
-      "start_time": "2026-02-03 01:55:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
+      "start_time": "01:55",
+      "end_time": "04:00",
+      "episode_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
     },
     {
       "show_name": "Espejo público",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
     },
     {
       "show_name": "Cocina abierta",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "El chiringuito internacional",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias 1",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:45",
+      "episode_description": ""
     },
     {
       "show_name": "Espejo público",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
-      "start_time": "2026-02-03 08:45:00",
-      "end_time": "2026-02-03 11:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
+      "start_time": "08:45",
+      "end_time": "11:45",
+      "episode_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
     },
     {
       "show_name": "Tu tiempo con Roberto Brasero",
       "show_logo": "",
-      "start_time": "2026-02-03 11:45:00",
-      "end_time": "2026-02-03 12:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:45",
+      "end_time": "12:15",
+      "episode_description": ""
     },
     {
       "show_name": "Cocina abierta",
       "show_logo": "",
-      "start_time": "2026-02-03 12:15:00",
-      "end_time": "2026-02-03 12:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:15",
+      "end_time": "12:45",
+      "episode_description": ""
     },
     {
       "show_name": "Pasapalabra",
       "show_logo": "",
-      "start_time": "2026-02-03 12:45:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:45",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias 2",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 14:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:45",
+      "episode_description": ""
     },
     {
       "show_name": "Y ahora Sonsoles",
       "show_logo": "",
-      "start_time": "2026-02-03 14:45:00",
-      "end_time": "2026-02-03 16:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:45",
+      "end_time": "16:15",
+      "episode_description": ""
     },
     {
       "show_name": "Sueños de libertad",
       "show_logo": "",
-      "start_time": "2026-02-03 16:15:00",
-      "end_time": "2026-02-03 17:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:15",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "La ruleta de la suerte",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg",
-      "start_time": "2026-02-03 17:30:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "",
       "show_category": "Concursos",
-      "show_description": "Un programa de concursos presentado por Jorge Fernández donde tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes en donde el participante puede decir la palabra o frase que él cree que es o si no seguir rodando la ruleta siempre y cuanto le dé opción de seguir ya sea comprando una letra o adivinado directamente la palabra o frase.Además a diario los concursantes tendrán la opción de ganar un automóvil al cual uno de los tres concursantes podrá optar por ese juego."
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": "Un programa de concursos presentado por Jorge Fernández donde tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes en donde el participante puede decir la palabra o frase que él cree que es o si no seguir rodando la ruleta siempre y cuanto le dé opción de seguir ya sea comprando una letra o adivinado directamente la palabra o frase.Además a diario los concursantes tendrán la opción de ganar un automóvil al cual uno de los tres concursantes podrá optar por ese juego."
     },
     {
       "show_name": "Pasapalabra",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "episode_description": ""
     },
     {
       "show_name": "El hormiguero",
       "show_logo": "",
-      "start_time": "2026-02-03 19:30:00",
-      "end_time": "2026-02-03 20:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:30",
+      "end_time": "20:15",
+      "episode_description": ""
     },
     {
       "show_name": "Equipo de investigación",
       "show_logo": "",
-      "start_time": "2026-02-03 20:15:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:15",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "El chiringuito internacional",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

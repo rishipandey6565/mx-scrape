@@ -1,267 +1,238 @@
 {
-  "channel_name": "Discovery Channel (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Discovery Channel (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Estómagos de hierro",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:20:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:20",
+      "episode_description": ""
     },
     {
       "show_name": "A prueba de todo",
       "show_logo": "",
-      "start_time": "2026-02-03 00:20:00",
-      "end_time": "2026-02-03 01:10:00",
-      "episode_number": "S6 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:20",
+      "end_time": "01:10",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 01:10:00",
-      "end_time": "2026-02-03 01:58:00",
-      "episode_number": "S10 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:10",
+      "end_time": "01:58",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 01:58:00",
-      "end_time": "2026-02-03 02:46:00",
-      "episode_number": "S10 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:58",
+      "end_time": "02:46",
+      "episode_description": ""
     },
     {
       "show_name": "Extraídos",
       "show_logo": "",
-      "start_time": "2026-02-03 02:46:00",
-      "end_time": "2026-02-03 03:33:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:46",
+      "end_time": "03:33",
+      "episode_description": ""
     },
     {
       "show_name": "Carrera por Alaska",
       "show_logo": "",
-      "start_time": "2026-02-03 03:33:00",
-      "end_time": "2026-02-03 04:20:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:33",
+      "end_time": "04:20",
+      "episode_description": ""
     },
     {
       "show_name": "Desolado con Ed Stafford",
       "show_logo": "",
-      "start_time": "2026-02-03 04:20:00",
-      "end_time": "2026-02-03 05:07:00",
-      "episode_number": "S3 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:20",
+      "end_time": "05:07",
+      "episode_description": ""
     },
     {
       "show_name": "Supervivencia al Desnudo Espa",
       "show_logo": "",
-      "start_time": "2026-02-03 05:07:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:07",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Pequeños gigantes de la natur",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:25:00",
-      "episode_number": "E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": ""
     },
     {
       "show_name": "Hombres del Ártico",
       "show_logo": "",
-      "start_time": "2026-02-03 06:25:00",
-      "end_time": "2026-02-03 07:14:00",
-      "episode_number": "S2 E12",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:25",
+      "end_time": "07:14",
+      "episode_description": ""
     },
     {
       "show_name": "Operación Alaska",
       "show_logo": "",
-      "start_time": "2026-02-03 07:14:00",
-      "end_time": "2026-02-03 07:59:00",
-      "episode_number": "S9 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:14",
+      "end_time": "07:59",
+      "episode_description": ""
     },
     {
       "show_name": "Fiebre del oro",
       "show_logo": "",
-      "start_time": "2026-02-03 07:59:00",
-      "end_time": "2026-02-03 08:50:00",
-      "episode_number": "S10 E19",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:59",
+      "end_time": "08:50",
+      "episode_description": ""
     },
     {
       "show_name": "Tiburones jurásicos mundo sub",
       "show_logo": "",
-      "start_time": "2026-02-03 08:50:00",
-      "end_time": "2026-02-03 09:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:50",
+      "end_time": "09:40",
+      "episode_description": ""
     },
     {
       "show_name": "A prueba de todo",
       "show_logo": "",
-      "start_time": "2026-02-03 09:40:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:40",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Desolado con Ed Stafford",
       "show_logo": "",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 11:20:00",
-      "episode_number": "S2 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:20",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicanicos Estado de México",
       "show_logo": "",
-      "start_time": "2026-02-03 11:20:00",
-      "end_time": "2026-02-03 12:10:00",
-      "episode_number": "E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:20",
+      "end_time": "12:10",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 12:10:00",
-      "end_time": "2026-02-03 13:01:00",
-      "episode_number": "S11 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:10",
+      "end_time": "13:01",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas sobre ruedas por el mun",
       "show_logo": "",
-      "start_time": "2026-02-03 13:01:00",
-      "end_time": "2026-02-03 13:52:00",
-      "episode_number": "E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:01",
+      "end_time": "13:52",
+      "episode_description": ""
     },
     {
       "show_name": "Te debo una celebridades y au",
       "show_logo": "",
-      "start_time": "2026-02-03 13:52:00",
-      "end_time": "2026-02-03 14:43:00",
-      "episode_number": "E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:52",
+      "end_time": "14:43",
+      "episode_description": ""
     },
     {
       "show_name": "Supervivencia al desnudo",
       "show_logo": "",
-      "start_time": "2026-02-03 14:43:00",
-      "end_time": "2026-02-03 16:26:00",
-      "episode_number": "S7 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:43",
+      "end_time": "16:26",
+      "episode_description": ""
     },
     {
       "show_name": "Eden",
       "show_logo": "",
-      "start_time": "2026-02-03 16:26:00",
-      "end_time": "2026-02-03 17:22:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:26",
+      "end_time": "17:22",
+      "episode_description": ""
     },
     {
       "show_name": "África",
       "show_logo": "",
-      "start_time": "2026-02-03 17:22:00",
-      "end_time": "2026-02-03 18:14:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:22",
+      "end_time": "18:14",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 18:14:00",
-      "end_time": "2026-02-03 19:06:00",
-      "episode_number": "S8 E8",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:14",
+      "end_time": "19:06",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 19:06:00",
-      "end_time": "2026-02-03 19:58:00",
-      "episode_number": "S8 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:06",
+      "end_time": "19:58",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicanicos Estado de México",
       "show_logo": "",
-      "start_time": "2026-02-03 19:58:00",
-      "end_time": "2026-02-03 20:50:00",
-      "episode_number": "E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:58",
+      "end_time": "20:50",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 20:50:00",
-      "end_time": "2026-02-03 21:42:00",
-      "episode_number": "S11 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:50",
+      "end_time": "21:42",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas sobre ruedas por el mun",
       "show_logo": "",
-      "start_time": "2026-02-03 21:42:00",
-      "end_time": "2026-02-03 22:34:00",
-      "episode_number": "E9",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:42",
+      "end_time": "22:34",
+      "episode_description": ""
     },
     {
       "show_name": "Te debo una celebridades y au",
       "show_logo": "",
-      "start_time": "2026-02-03 22:34:00",
-      "end_time": "2026-02-03 23:25:00",
-      "episode_number": "E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:34",
+      "end_time": "23:25",
+      "episode_description": ""
     },
     {
       "show_name": "El club de autos de Kevin Hart",
       "show_logo": "",
-      "start_time": "2026-02-03 23:25:00",
-      "end_time": "2026-02-04 00:18:00",
-      "episode_number": "E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:25",
+      "end_time": "00:18",
+      "episode_description": ""
     }
   ]
 }

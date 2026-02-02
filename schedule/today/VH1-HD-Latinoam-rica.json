@@ -1,78 +1,70 @@
 {
-  "channel_name": "VH1 HD (Latinoamérica)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "VH1 HD (Latinoamérica)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Non-Stop Nostalgia",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hits on Shuffle!",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "2005 Replay!",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Non-Stop Nostalgia",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Chillout Zone",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hits Don't Lie!",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Top 20",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Non-Stop Nostalgia",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "02:00",
+      "episode_description": ""
     }
   ]
 }

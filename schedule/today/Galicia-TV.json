@@ -1,204 +1,182 @@
 {
-  "channel_name": "Galicia TV",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Galicia TV",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Código 092: en primeira liña",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Galicia por Diante",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bos Días",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 03:46:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "03:46",
+      "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
-      "start_time": "2026-02-02 03:46:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:46",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "O Termómetro",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 06:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "06:50",
+      "episode_description": ""
     },
     {
       "show_name": "Galicia Noticias Mañá",
       "show_logo": "",
-      "start_time": "2026-02-02 06:50:00",
-      "end_time": "2026-02-02 07:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:50",
+      "end_time": "07:25",
+      "episode_description": ""
     },
     {
       "show_name": "Telexornal mediodía",
       "show_logo": "",
-      "start_time": "2026-02-02 07:25:00",
-      "end_time": "2026-02-02 08:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:25",
+      "end_time": "08:15",
+      "episode_description": ""
     },
     {
       "show_name": "Deportes Mediodía",
       "show_logo": "",
-      "start_time": "2026-02-02 08:15:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:15",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 08:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "08:48",
+      "episode_description": ""
     },
     {
       "show_name": "Atrápame se podes",
       "show_logo": "",
-      "start_time": "2026-02-02 08:48:00",
-      "end_time": "2026-02-02 09:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:48",
+      "end_time": "09:15",
+      "episode_description": ""
     },
     {
       "show_name": "Quen anda aí?",
       "show_logo": "",
-      "start_time": "2026-02-02 09:15:00",
-      "end_time": "2026-02-02 12:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:15",
+      "end_time": "12:40",
+      "episode_description": ""
     },
     {
       "show_name": "Hora galega",
       "show_logo": "",
-      "start_time": "2026-02-02 12:40:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:40",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Telexornal serán",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
-      "start_time": "2026-02-02 14:30:00",
-      "end_time": "2026-02-02 14:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "14:45",
+      "episode_description": ""
     },
     {
       "show_name": "Quen anda aí?",
       "show_logo": "",
-      "start_time": "2026-02-02 14:45:00",
-      "end_time": "2026-02-02 17:32:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:45",
+      "end_time": "17:32",
+      "episode_description": ""
     },
     {
       "show_name": "Atrápame se podes",
       "show_logo": "",
-      "start_time": "2026-02-02 17:32:00",
-      "end_time": "2026-02-02 18:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:32",
+      "end_time": "18:12",
+      "episode_description": ""
     },
     {
       "show_name": "Zigzag Diario",
       "show_logo": "",
-      "start_time": "2026-02-02 18:12:00",
-      "end_time": "2026-02-02 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:12",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Telexornal serán",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 19:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:02",
+      "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
-      "start_time": "2026-02-02 19:02:00",
-      "end_time": "2026-02-02 19:22:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:02",
+      "end_time": "19:22",
+      "episode_description": ""
     },
     {
       "show_name": "Land rober",
       "show_logo": "",
-      "start_time": "2026-02-02 19:22:00",
-      "end_time": "2026-02-02 20:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:22",
+      "end_time": "20:25",
+      "episode_description": ""
     },
     {
       "show_name": "Expediente oculto",
       "show_logo": "",
-      "start_time": "2026-02-02 20:25:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:25",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

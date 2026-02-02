@@ -1,186 +1,166 @@
 {
-  "channel_name": "a+",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "a+",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "El macho biónico",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Naturista Naturalmente",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Napoleoncito",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Gata Salvaje",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Los chicos del preu",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Siete Leguas",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:45",
+      "episode_description": ""
     },
     {
       "show_name": "El Rápido en la frontera",
       "show_logo": "",
-      "start_time": "2026-02-02 17:45:00",
-      "end_time": "2026-02-02 19:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:45",
+      "end_time": "19:45",
+      "episode_description": ""
     },
     {
       "show_name": "Tres amigos",
       "show_logo": "",
-      "start_time": "2026-02-02 19:45:00",
-      "end_time": "2026-02-02 21:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:45",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ahora Más Noticias\nEn Vivo",
       "show_logo": "",
-      "start_time": "2026-02-02 21:30:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Reportera en peligro",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

@@ -1,303 +1,270 @@
 {
-  "channel_name": "Azteca (XHOR)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Azteca (XHOR)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "FBI",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15528073_b_v12_bc.jpg",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:30:00",
-      "episode_number": "",
       "show_category": "Drama",
-      "show_description": "Agentes de primera clase usan sus talentos, intelecto y conocimientos técnicos para investigar casos a gran escala, como terrorismo, delincuencia organizada y contrainteligencia para proteger a Nueva York y al país."
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Agentes de primera clase usan sus talentos, intelecto y conocimientos técnicos para investigar casos a gran escala, como terrorismo, delincuencia organizada y contrainteligencia para proteger a Nueva York y al país."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 00:30:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 01:00:00",
-      "end_time": "2026-02-03 01:30:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 01:30:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 02:00:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:30:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 03:30:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 04:30:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 04:30:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Barras de ajuste",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8055910_b_v8_aa.jpg",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:15:00",
-      "episode_number": "",
       "show_category": "Specials",
-      "show_description": "Programación por anunciarse."
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": "Programación por anunciarse."
     },
     {
       "show_name": "RTC",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p472462_b_v8_aa.jpg",
-      "start_time": "2026-02-03 05:15:00",
-      "end_time": "2026-02-03 05:30:00",
-      "episode_number": "",
       "show_category": "Regular",
-      "show_description": "Espacio del gobierno de México."
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Espacio del gobierno de México."
     },
     {
       "show_name": "Programa pagado",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
-      "start_time": "2026-02-03 05:30:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "Paid Program",
-      "show_description": "Programa que muestra diversos productos para la venta."
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Programa que muestra diversos productos para la venta."
     },
     {
       "show_name": "Plim Plim",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8878308_b_v8_ab.jpg",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "",
       "show_category": "Children",
-      "show_description": "La magia y la realidad se funden con un solo objetivo: aprender sonriendo. Un payasito mágico lleva a los niños a un mundo de alegría y colores."
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "La magia y la realidad se funden con un solo objetivo: aprender sonriendo. Un payasito mágico lleva a los niños a un mundo de alegría y colores."
     },
     {
       "show_name": "Robocar Poli",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p21407048_b_v8_ac.jpg",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Nunca es un día aburrido en Broomstown con el equipo de rescate de Robocar Poli protegiendo los vehículos y ciudadanos de la hermosa ciudad de todo tipo de peligros."
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Nunca es un día aburrido en Broomstown con el equipo de rescate de Robocar Poli protegiendo los vehículos y ciudadanos de la hermosa ciudad de todo tipo de peligros."
     },
     {
       "show_name": "44 gatos",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16208083_b_v11_au.jpg",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "",
       "show_category": "Comedy",
-      "show_description": "Lampo, Milady, Pilou y Polpetta son cuatro gatos que forman parte de una banda de música llamada Buffycats. Los cuatro amigos encuentran soluciones creativas para los problemas cotidianos y ayudan a otros gatos necesitados."
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Lampo, Milady, Pilou y Polpetta son cuatro gatos que forman parte de una banda de música llamada Buffycats. Los cuatro amigos encuentran soluciones creativas para los problemas cotidianos y ayudan a otros gatos necesitados."
     },
     {
       "show_name": "Gigantosaurus",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16345968_b_v12_ab.jpg",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Cuatro curiosos amigos investigan el misterio del Giganotosaurus, el dinosaurio más grande y feroz de todos, y trabajan juntos para resolver problemas."
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Cuatro curiosos amigos investigan el misterio del Giganotosaurus, el dinosaurio más grande y feroz de todos, y trabajan juntos para resolver problemas."
     },
     {
       "show_name": "Bluey",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16030422_b_v12_at.jpg",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Las aventuras de Bluey, una cachorra que vive con su madre, padre y hermana. Su energía y su espíritu adorable generan todo tipo de situaciones divertidas e impredecibles."
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Las aventuras de Bluey, una cachorra que vive con su madre, padre y hermana. Su energía y su espíritu adorable generan todo tipo de situaciones divertidas e impredecibles."
     },
     {
       "show_name": "Masha y el oso",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p794701_b_v8_cf.jpg",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Masha es una niña inquieta que explora el mundo. Un buen día, conoce a Oso, un animal de gran corazón que se convierte en su accidental compañero de aventuras."
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Masha es una niña inquieta que explora el mundo. Un buen día, conoce a Oso, un animal de gran corazón que se convierte en su accidental compañero de aventuras."
     },
     {
       "show_name": "LEGO Friends: El nuevo capítulo",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p24439979_b_v8_bh.jpg",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Aliya, Autumn, Leo, Zac, Nova, Paisley, Olly y Liann cursan su primer año en la escuela secundaria y hacen amigos. Durante ese tiempo, los adolescentes se unen para salvar un edificio en ruinas y convertirlo en un centro comunitario."
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Aliya, Autumn, Leo, Zac, Nova, Paisley, Olly y Liann cursan su primer año en la escuela secundaria y hacen amigos. Durante ese tiempo, los adolescentes se unen para salvar un edificio en ruinas y convertirlo en un centro comunitario."
     },
     {
       "show_name": "Pokémon",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8310449_b_v8_ao.jpg",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "El joven Ash Ketchum da sus primeros pasos en el entrenamiento Pokémon al cumplir 10 años y emprende una aventura para ganar las ocho medallas de los gimnasios que necesita para competir en su primer torneo oficial."
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "El joven Ash Ketchum da sus primeros pasos en el entrenamiento Pokémon al cumplir 10 años y emprende una aventura para ganar las ocho medallas de los gimnasios que necesita para competir en su primer torneo oficial."
     },
     {
       "show_name": "Los padrinos mágicos",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186130_b_v8_bh.jpg",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Las divertidas aventuras de un niño de diez años que tiene unos padrinos mágicos que le conceden todos sus deseos."
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Las divertidas aventuras de un niño de diez años que tiene unos padrinos mágicos que le conceden todos sus deseos."
     },
     {
       "show_name": "Spirit: Cabalgando libre",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14059727_b_v8_bd.jpg",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "En un pequeño pueblo occidental, una joven de la ciudad forma un vínculo estrecho con un caballo salvaje llamado Spirit con quien tiene muchas aventuras."
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "episode_description": "En un pequeño pueblo occidental, una joven de la ciudad forma un vínculo estrecho con un caballo salvaje llamado Spirit con quien tiene muchas aventuras."
     },
     {
       "show_name": "Academia Unicornio",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p25717459_b_v8_an.jpg",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Una valiente adolescente y sus cinco compañeros se alzan para proteger su querida academia mágica de una fuerza oscura que pretende destruir la isla Unicornio."
+      "start_time": "12:30",
+      "end_time": "14:00",
+      "episode_description": "Una valiente adolescente y sus cinco compañeros se alzan para proteger su querida academia mágica de una fuerza oscura que pretende destruir la isla Unicornio."
     },
     {
       "show_name": "El show de Garfield",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p7889800_b_v12_bw.jpg",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Las travesuras de Garfield, un gato naranja y sardónico cuyas únicas aficiones son comer lasaña y dormir."
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "episode_description": "Las travesuras de Garfield, un gato naranja y sardónico cuyas únicas aficiones son comer lasaña y dormir."
     },
     {
       "show_name": "Alvin y las Ardillas",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p11563362_b_v8_ag.jpg",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Las divertidas aventuras del grupo musical formado por tres ardillas cantantes: Alvin, Simon y Theodore."
+      "start_time": "15:30",
+      "end_time": "17:00",
+      "episode_description": "Las divertidas aventuras del grupo musical formado por tres ardillas cantantes: Alvin, Simon y Theodore."
     },
     {
       "show_name": "Dragon Ball Z",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14343421_b_v8_ag.jpg",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "",
       "show_category": "Animated",
-      "show_description": "Las aventuras de Goku, el gran guerrero saiyajin que, junto a su hijo Gohan y sus amigos, protege a la Tierra de las amenazas, con la ayuda de las esferas del dragón."
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Las aventuras de Goku, el gran guerrero saiyajin que, junto a su hijo Gohan y sus amigos, protege a la Tierra de las amenazas, con la ayuda de las esferas del dragón."
     },
     {
       "show_name": "No soy un robot",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14872976_b_v8_ab.jpg",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 19:30:00",
-      "episode_number": "",
       "show_category": "Drama",
-      "show_description": "Un hombre con una condición médica que lo hace alérgico al contacto humano. Un equipo de científicos interesados en su fortuna, le diseñan un robot."
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "episode_description": "Un hombre con una condición médica que lo hace alérgico al contacto humano. Un equipo de científicos interesados en su fortuna, le diseñan un robot."
     },
     {
       "show_name": "Yo soy Betty, la fea",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p533549_b_v8_ac.jpg",
-      "start_time": "2026-02-03 19:30:00",
-      "end_time": "2026-02-03 20:30:00",
-      "episode_number": "",
       "show_category": "Soaps",
-      "show_description": "Beatriz Pinzón tiene un título en finanzas. Para su suerte, consigue empleo en una de las compañías más importantes en el mundo de la moda, Ecomoda. Betty nunca imaginó los constantes desprecios que enfrentaría por su aspecto físico."
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "Beatriz Pinzón tiene un título en finanzas. Para su suerte, consigue empleo en una de las compañías más importantes en el mundo de la moda, Ecomoda. Betty nunca imaginó los constantes desprecios que enfrentaría por su aspecto físico."
     },
     {
       "show_name": "Un día para vivir",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20615912_b_v12_ac.jpg",
-      "start_time": "2026-02-03 20:30:00",
-      "end_time": "2026-02-03 21:30:00",
-      "episode_number": "",
       "show_category": "Soaps",
-      "show_description": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj."
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj."
     },
     {
       "show_name": "Un día para vivir",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20615912_b_v12_ac.jpg",
-      "start_time": "2026-02-03 21:30:00",
-      "end_time": "2026-02-03 22:30:00",
-      "episode_number": "",
       "show_category": "Soaps",
-      "show_description": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj."
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj."
     },
     {
       "show_name": "9-1-1",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14154513_b_v12_bh.jpg",
-      "start_time": "2026-02-03 22:30:00",
-      "end_time": "2026-02-03 23:30:00",
-      "episode_number": "",
       "show_category": "Drama",
-      "show_description": "Un programa que muestra las vidas de policías, bomberos y paramédicos de Los Ángeles, quienes son los que acuden en primera instancia cuando ocurre una tragedia, situaciones que a menudo pueden ser impredecibles y que ponen en riesgo sus vidas."
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Un programa que muestra las vidas de policías, bomberos y paramédicos de Los Ángeles, quienes son los que acuden en primera instancia cuando ocurre una tragedia, situaciones que a menudo pueden ser impredecibles y que ponen en riesgo sus vidas."
     },
     {
       "show_name": "FBI",
       "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15528073_b_v12_bc.jpg",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 00:30:00",
-      "episode_number": "",
       "show_category": "Drama",
-      "show_description": "Agentes de primera clase usan sus talentos, intelecto y conocimientos técnicos para investigar casos a gran escala, como terrorismo, delincuencia organizada y contrainteligencia para proteger a Nueva York y al país."
+      "start_time": "23:30",
+      "end_time": "00:30",
+      "episode_description": "Agentes de primera clase usan sus talentos, intelecto y conocimientos técnicos para investigar casos a gran escala, como terrorismo, delincuencia organizada y contrainteligencia para proteger a Nueva York y al país."
     }
   ]
 }

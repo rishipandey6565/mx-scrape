@@ -1,177 +1,158 @@
 {
-  "channel_name": "TV Chile",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "TV Chile",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:45",
+      "episode_description": ""
     },
     {
       "show_name": "24 noche",
       "show_logo": "",
-      "start_time": "2026-02-03 00:45:00",
-      "end_time": "2026-02-03 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:45",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-03 01:30:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "El especialista responde",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "24 AM",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 04:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:45",
+      "episode_description": ""
     },
     {
       "show_name": "Buenos Días a Todos",
       "show_logo": "",
-      "start_time": "2026-02-03 04:45:00",
-      "end_time": "2026-02-03 07:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:45",
+      "end_time": "07:45",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-03 07:45:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:45",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "24 Tarde",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Programa Pagado",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Programa Pagado",
       "show_logo": "",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "24 Horas Central",
       "show_logo": "",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 19:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:40",
+      "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
-      "start_time": "2026-02-03 19:40:00",
-      "end_time": "2026-02-03 20:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:40",
+      "end_time": "20:45",
+      "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
-      "start_time": "2026-02-03 20:45:00",
-      "end_time": "2026-02-03 21:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:45",
+      "end_time": "21:45",
+      "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
-      "start_time": "2026-02-03 21:45:00",
-      "end_time": "2026-02-03 23:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:45",
+      "end_time": "23:45",
+      "episode_description": ""
     },
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
-      "start_time": "2026-02-03 23:45:00",
-      "end_time": "2026-02-04 00:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:45",
+      "end_time": "00:45",
+      "episode_description": ""
     }
   ]
 }

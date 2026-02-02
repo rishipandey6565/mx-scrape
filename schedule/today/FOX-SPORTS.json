@@ -1,222 +1,198 @@
 {
-  "channel_name": "FOX SPORTS",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "FOX SPORTS",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La última palabra",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
       "show_name": "Central Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "Noticiero",
-      "show_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1987694447.jpg",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
+      "start_time": "01:00",
+      "end_time": "03:30",
+      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
     },
     {
       "show_name": "La última palabra",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
       "show_name": "Fox Fight Club",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505135.jpg",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
     },
     {
       "show_name": "La última palabra",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
       "show_name": "Central Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "Noticiero",
-      "show_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "Fox Fit",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505124.jpg",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
     },
     {
       "show_name": "Fox Fit",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505124.jpg",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
     },
     {
       "show_name": "Central Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "Noticiero",
-      "show_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "La última palabra",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
       "show_name": "Fox Gol México",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505075.jpg",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "Programa de análisis especializado en futbol mexicano, con el resumen previo y el resultado posterior de cada jornada."
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Programa de análisis especializado en futbol mexicano, con el resumen previo y el resultado posterior de cada jornada."
     },
     {
       "show_name": "AEW Dynamite",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/17064946.jpg",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
     },
     {
       "show_name": "Historia del Súper Bowl",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/3201365.jpg",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "Fútbol americano",
-      "show_description": "Los mejores momentos del Super Bowl."
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "episode_description": "Los mejores momentos del Super Bowl."
     },
     {
       "show_name": "Fox Sports Radio",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22587565.jpg",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "Magazine",
-      "show_description": "Se informa y analiza los acontecimientos deportivos que se generan en el día con rigor periodístico, en tono relajado y ameno."
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Se informa y analiza los acontecimientos deportivos que se generan en el día con rigor periodístico, en tono relajado y ameno."
     },
     {
       "show_name": "¿Para qué nos invitan?",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1989425090.jpg",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 17:30:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "No hay información disponible."
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "No hay información disponible."
     },
     {
       "show_name": "Central Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
-      "start_time": "2026-02-02 17:30:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "Noticiero",
-      "show_description": "Show de noticias que compila la información más relevante del mundo deportivo en sus ediciones diarias."
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Show de noticias que compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "Money Line Show",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/23812416.jpg",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "Juegos",
-      "show_description": "Programa enfocado al mundo de las apuestas deportivas, con el objetivo de guiar y enseñar estrategias a la audiencia al momento de llevar a cabo una apuesta."
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Programa enfocado al mundo de las apuestas deportivas, con el objetivo de guiar y enseñar estrategias a la audiencia al momento de llevar a cabo una apuesta."
     },
     {
       "show_name": "Road to the Super Bowl LX",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1989317602.jpg",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "Fútbol americano",
-      "show_description": "Edición en la que podrás enterarte de los detalles, novedades y curiosidades de este multitudinario evento de fútbol americano, con entrevistas, comentarios e imágenes exclusivas."
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Edición en la que podrás enterarte de los detalles, novedades y curiosidades de este multitudinario evento de fútbol americano, con entrevistas, comentarios e imágenes exclusivas."
     },
     {
       "show_name": "NFL GameDay",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1185770620.jpg",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 20:30:00",
-      "episode_number": "",
       "show_category": "Fútbol americano",
-      "show_description": "Mira la reacción y análisis de los periodistas de los partidos de fútbol americano de la NFL. Todas las novedades sobre la actualidad de los equipos y los deportistas que se destacan en este importante juego."
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Mira la reacción y análisis de los periodistas de los partidos de fútbol americano de la NFL. Todas las novedades sobre la actualidad de los equipos y los deportistas que se destacan en este importante juego."
     },
     {
       "show_name": "Los 60 con Pepe",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1989428737.jpg",
-      "start_time": "2026-02-02 20:30:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "Especial",
-      "show_description": "Un recorrido por la trayectoria del reconocido narrador deportivo Pepe Segarra."
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Un recorrido por la trayectoria del reconocido narrador deportivo Pepe Segarra."
     },
     {
       "show_name": "+90",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1619703993.jpg",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "No hay información disponible."
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "No hay información disponible."
     },
     {
       "show_name": "Fox Impacto NFL",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505091.jpg",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "Fútbol americano",
-      "show_description": "Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de los siguientes juegos. ¡Sin impacto no hay NFL!"
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de los siguientes juegos. ¡Sin impacto no hay NFL!"
     },
     {
       "show_name": "La última palabra",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     }
   ]
 }

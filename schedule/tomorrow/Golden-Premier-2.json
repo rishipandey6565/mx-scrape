@@ -1,132 +1,118 @@
 {
-  "channel_name": "Golden Premier 2",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Golden Premier 2",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "El Mediador",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Revenant: El Renacido",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/revenant_el_renacido.jpg",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 02:40:00",
-      "episode_number": "",
       "show_category": "Aventura",
-      "show_description": "En una expedición a tierras americanas inexploradas, el legendario explorador Hugh Glass (Leonardo DiCaprio) es brutalmente atacado por un oso y es dado por muerto por los miembros de su equipo de caza. En su lucha por sobrevivir, Glass tolera un dolor inimaginable, así como la traición de su confidente John Fitzgerald (Tom Hardy). Su gran voluntad y el amor hacia su familia hacen que Glass haga todo lo posible por sobrevivir a un invierno cruel."
+      "start_time": "00:00",
+      "end_time": "02:40",
+      "episode_description": "En una expedición a tierras americanas inexploradas, el legendario explorador Hugh Glass (Leonardo DiCaprio) es brutalmente atacado por un oso y es dado por muerto por los miembros de su equipo de caza. En su lucha por sobrevivir, Glass tolera un dolor inimaginable, así como la traición de su confidente John Fitzgerald (Tom Hardy). Su gran voluntad y el amor hacia su familia hacen que Glass haga todo lo posible por sobrevivir a un invierno cruel."
     },
     {
       "show_name": "The Hot Wives Vol. 4",
       "show_logo": "",
-      "start_time": "2026-02-03 02:40:00",
-      "end_time": "2026-02-03 04:03:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:40",
+      "end_time": "04:03",
+      "episode_description": ""
     },
     {
       "show_name": "La provocación",
       "show_logo": "",
-      "start_time": "2026-02-03 04:03:00",
-      "end_time": "2026-02-03 06:09:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:03",
+      "end_time": "06:09",
+      "episode_description": ""
     },
     {
       "show_name": "Jobs: El hombre que revolucionó al mundo",
       "show_logo": "",
-      "start_time": "2026-02-03 06:09:00",
-      "end_time": "2026-02-03 08:19:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:09",
+      "end_time": "08:19",
+      "episode_description": ""
     },
     {
       "show_name": "Los últimos días en el desierto",
       "show_logo": "",
-      "start_time": "2026-02-03 08:19:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:19",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Walt, el soñador",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 11:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:50",
+      "episode_description": ""
     },
     {
       "show_name": "Por mis bigotes",
       "show_logo": "",
-      "start_time": "2026-02-03 11:50:00",
-      "end_time": "2026-02-03 13:27:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:50",
+      "end_time": "13:27",
+      "episode_description": ""
     },
     {
       "show_name": "Sobreviviendo mis XV",
       "show_logo": "",
-      "start_time": "2026-02-03 13:27:00",
-      "end_time": "2026-02-03 15:11:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:27",
+      "end_time": "15:11",
+      "episode_description": ""
     },
     {
       "show_name": "No se aceptan devoluciones",
       "show_logo": "",
-      "start_time": "2026-02-03 15:11:00",
-      "end_time": "2026-02-03 17:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:11",
+      "end_time": "17:15",
+      "episode_description": ""
     },
     {
       "show_name": "Los Rodríguez y el más allá",
       "show_logo": "",
-      "start_time": "2026-02-03 17:15:00",
-      "end_time": "2026-02-03 19:14:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:15",
+      "end_time": "19:14",
+      "episode_description": ""
     },
     {
       "show_name": "Anton Lazos de amistad",
       "show_logo": "",
-      "start_time": "2026-02-03 19:14:00",
-      "end_time": "2026-02-03 20:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:14",
+      "end_time": "20:55",
+      "episode_description": ""
     },
     {
       "show_name": "Abel",
       "show_logo": "",
-      "start_time": "2026-02-03 20:55:00",
-      "end_time": "2026-02-03 22:19:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:55",
+      "end_time": "22:19",
+      "episode_description": ""
     },
     {
       "show_name": "El viaje de Teo",
       "show_logo": "",
-      "start_time": "2026-02-03 22:19:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:19",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

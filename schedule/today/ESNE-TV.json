@@ -1,276 +1,246 @@
 {
-  "channel_name": "ESNE TV",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "ESNE TV",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Tiempo para Tí",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vidas Ejemplares",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vidas Ejemplares",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Palabras Que Edifican",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Videos musicales",
       "show_logo": "",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Conciertos Católicos",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Coronilla de la Divina Misericordia Cantada",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 05:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
     },
     {
       "show_name": "Desde el Corazón del Papa",
       "show_logo": "",
-      "start_time": "2026-02-02 05:30:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Congresos Católicos",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "En El Corazón De Jesús",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Siempre Alegres",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Palabras Que Edifican",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Enamórate",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santa Misa desde Capilla San Juan Pablo II",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Todo lo Puedo en Cristo",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres de encuentro",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Jesús está vivo hoy",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "La verdad de Guadalupe",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sanando el corazón herido",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Congresos Católicos",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Coronilla y Santo Rosario desde Guadalajara Mexico",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Actualidad y Fé",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santa Misa desde Capilla San Juan Pablo II",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Palabras Que Edifican",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ecclesia on line",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 21:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "En El Corazón De Jesús",
       "show_logo": "",
-      "start_time": "2026-02-02 21:30:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Congresos Católicos",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Enamórate",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

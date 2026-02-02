@@ -1,132 +1,118 @@
 {
-  "channel_name": "Sky Sports 16",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Sky Sports 16",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Athletic Club de Bilbao vs. Rea",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Getafe vs. Celta de Vigo",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "CA Osasuna vs. Villarreal",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Flamengo vs. Palmeiras",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:45",
+      "episode_description": ""
     },
     {
       "show_name": "Espanyol vs. Deportivo Alav",
       "show_logo": "",
-      "start_time": "2026-02-02 05:45:00",
-      "end_time": "2026-02-02 07:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:45",
+      "end_time": "07:45",
+      "episode_description": ""
     },
     {
       "show_name": "RCD Real Oviedo vs. Girona FC",
       "show_logo": "",
-      "start_time": "2026-02-02 07:45:00",
-      "end_time": "2026-02-02 09:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:45",
+      "end_time": "09:45",
+      "episode_description": ""
     },
     {
       "show_name": "Athletic Club de Bilbao vs. Rea",
       "show_logo": "",
-      "start_time": "2026-02-02 09:45:00",
-      "end_time": "2026-02-02 11:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:45",
+      "end_time": "11:45",
+      "episode_description": ""
     },
     {
       "show_name": "Levante vs. Atlético de Madridadr",
       "show_logo": "",
-      "start_time": "2026-02-02 11:45:00",
-      "end_time": "2026-02-02 13:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:45",
+      "end_time": "13:45",
+      "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
-      "start_time": "2026-02-02 13:45:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "RCD Mallorca vs. Sevilla\nEn Vivo",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Getafe vs. Celta de Vigo",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Real Madrid Vs. Rayo Vallecano",
       "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_rayo_vallecano.png",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "Deporte",
-      "show_description": "Desde el estadio Santiago Bernabéu en Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus el Rayo Vallecano de Madrid."
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "episode_description": "Desde el estadio Santiago Bernabéu en Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus el Rayo Vallecano de Madrid."
     },
     {
       "show_name": "CA Osasuna vs. Villarreal",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "RCD Mallorca vs. Sevilla",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

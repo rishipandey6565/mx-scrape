@@ -1,240 +1,214 @@
 {
-  "channel_name": "Bandamax",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Bandamax",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Bandamáximo Dolor",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Las mas sonadas",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:20",
+      "episode_description": ""
     },
     {
       "show_name": "Viejitas pero Sabrosas",
       "show_logo": "",
-      "start_time": "2026-02-03 01:20:00",
-      "end_time": "2026-02-03 01:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:20",
+      "end_time": "01:45",
+      "episode_description": ""
     },
     {
       "show_name": "Colaboreme Compa",
       "show_logo": "",
-      "start_time": "2026-02-03 01:45:00",
-      "end_time": "2026-02-03 02:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:45",
+      "end_time": "02:15",
+      "episode_description": ""
     },
     {
       "show_name": "Las imperdibles BDX",
       "show_logo": "",
-      "start_time": "2026-02-03 02:15:00",
-      "end_time": "2026-02-03 03:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:15",
+      "end_time": "03:35",
+      "episode_description": ""
     },
     {
       "show_name": "Las consagradas de Bandamax",
       "show_logo": "",
-      "start_time": "2026-02-03 03:35:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:35",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Banda y Max",
       "show_logo": "",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 05:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:15",
+      "episode_description": ""
     },
     {
       "show_name": "Bandamáximo Dolor",
       "show_logo": "",
-      "start_time": "2026-02-03 05:15:00",
-      "end_time": "2026-02-03 06:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:15",
+      "end_time": "06:10",
+      "episode_description": ""
     },
     {
       "show_name": "Las mas sonadas",
       "show_logo": "",
-      "start_time": "2026-02-03 06:10:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:10",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Viejitas pero Sabrosas",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mi versión en Bandamax",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:25",
+      "episode_description": ""
     },
     {
       "show_name": "Las imperdibles BDX",
       "show_logo": "",
-      "start_time": "2026-02-03 08:25:00",
-      "end_time": "2026-02-03 09:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:25",
+      "end_time": "09:50",
+      "episode_description": ""
     },
     {
       "show_name": "Ídolos",
       "show_logo": "",
-      "start_time": "2026-02-03 09:50:00",
-      "end_time": "2026-02-03 10:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:50",
+      "end_time": "10:15",
+      "episode_description": ""
     },
     {
       "show_name": "Banda y Max",
       "show_logo": "",
-      "start_time": "2026-02-03 10:15:00",
-      "end_time": "2026-02-03 11:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:15",
+      "end_time": "11:40",
+      "episode_description": ""
     },
     {
       "show_name": "Las mas sonadas",
       "show_logo": "",
-      "start_time": "2026-02-03 11:40:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:40",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vivo Pa'la banda",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Que news Bandamax",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Las consagradas de Bandamax",
       "show_logo": "",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bandamáximo Dolor",
       "show_logo": "",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Las mas sonadas",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:20",
+      "episode_description": ""
     },
     {
       "show_name": "Viejitas pero Sabrosas",
       "show_logo": "",
-      "start_time": "2026-02-03 18:20:00",
-      "end_time": "2026-02-03 18:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:20",
+      "end_time": "18:50",
+      "episode_description": ""
     },
     {
       "show_name": "Las imperdibles BDX",
       "show_logo": "",
-      "start_time": "2026-02-03 18:50:00",
-      "end_time": "2026-02-03 20:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:50",
+      "end_time": "20:15",
+      "episode_description": ""
     },
     {
       "show_name": "Las mas sonadas",
       "show_logo": "",
-      "start_time": "2026-02-03 20:15:00",
-      "end_time": "2026-02-03 21:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:15",
+      "end_time": "21:35",
+      "episode_description": ""
     },
     {
       "show_name": "Las consagradas de Bandamax",
       "show_logo": "",
-      "start_time": "2026-02-03 21:35:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:35",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Banda y Max",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bandamáximo Dolor",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

@@ -1,141 +1,126 @@
 {
-  "channel_name": "TVC Deportes",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "TVC Deportes",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:15",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 01:15:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:15",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "América Bajo Par",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Baloncesto Liga ACB",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol: Previa",
       "show_logo": "",
-      "start_time": "2026-02-02 13:30:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "S2026",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol sin fronteras",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol: Previa",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "S2026",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Tvc Deportes Total",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-02 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
-      "start_time": "2026-02-02 23:30:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

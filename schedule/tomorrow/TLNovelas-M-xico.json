@@ -1,159 +1,142 @@
 {
-  "channel_name": "TLNovelas (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "TLNovelas (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Duelo de pasiones",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Casa al Final de la Calle",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:50",
+      "episode_description": ""
     },
     {
       "show_name": "Mi corazón es tuyo",
       "show_logo": "",
-      "start_time": "2026-02-03 00:50:00",
-      "end_time": "2026-02-03 02:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:50",
+      "end_time": "02:35",
+      "episode_description": ""
     },
     {
       "show_name": "La mentira",
       "show_logo": "",
-      "start_time": "2026-02-03 02:35:00",
-      "end_time": "2026-02-03 03:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:35",
+      "end_time": "03:25",
+      "episode_description": ""
     },
     {
       "show_name": "Rubi",
       "show_logo": "",
-      "start_time": "2026-02-03 03:25:00",
-      "end_time": "2026-02-03 05:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:25",
+      "end_time": "05:05",
+      "episode_description": ""
     },
     {
       "show_name": "La Casa al Final de la Calle",
       "show_logo": "",
-      "start_time": "2026-02-03 05:05:00",
-      "end_time": "2026-02-03 05:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:05",
+      "end_time": "05:55",
+      "episode_description": ""
     },
     {
       "show_name": "Duelo de pasiones",
       "show_logo": "",
-      "start_time": "2026-02-03 05:55:00",
-      "end_time": "2026-02-03 07:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:55",
+      "end_time": "07:40",
+      "episode_description": ""
     },
     {
       "show_name": "Por ella soy Eva",
       "show_logo": "",
-      "start_time": "2026-02-03 07:40:00",
-      "end_time": "2026-02-03 09:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:40",
+      "end_time": "09:20",
+      "episode_description": ""
     },
     {
       "show_name": "Mi corazón es tuyo",
       "show_logo": "",
-      "start_time": "2026-02-03 09:20:00",
-      "end_time": "2026-02-03 10:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:20",
+      "end_time": "10:55",
+      "episode_description": ""
     },
     {
       "show_name": "La mentira",
       "show_logo": "",
-      "start_time": "2026-02-03 10:55:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:55",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Rubi",
       "show_logo": "",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 14:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "14:05",
+      "episode_description": ""
     },
     {
       "show_name": "Duelo de pasiones",
       "show_logo": "",
-      "start_time": "2026-02-03 14:05:00",
-      "end_time": "2026-02-03 15:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:05",
+      "end_time": "15:50",
+      "episode_description": ""
     },
     {
       "show_name": "Mi corazón es tuyo",
       "show_logo": "",
-      "start_time": "2026-02-03 15:50:00",
-      "end_time": "2026-02-03 17:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:50",
+      "end_time": "17:25",
+      "episode_description": ""
     },
     {
       "show_name": "Por ella soy Eva",
       "show_logo": "",
-      "start_time": "2026-02-03 17:25:00",
-      "end_time": "2026-02-03 19:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:25",
+      "end_time": "19:05",
+      "episode_description": ""
     },
     {
       "show_name": "La mentira",
       "show_logo": "",
-      "start_time": "2026-02-03 19:05:00",
-      "end_time": "2026-02-03 20:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:05",
+      "end_time": "20:40",
+      "episode_description": ""
     },
     {
       "show_name": "Rubi",
       "show_logo": "",
-      "start_time": "2026-02-03 20:40:00",
-      "end_time": "2026-02-03 22:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:40",
+      "end_time": "22:15",
+      "episode_description": ""
     },
     {
       "show_name": "Duelo de pasiones",
       "show_logo": "",
-      "start_time": "2026-02-03 22:15:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:15",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

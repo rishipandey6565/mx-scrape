@@ -1,141 +1,126 @@
 {
-  "channel_name": "Cinemax (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Cinemax (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La batalla de Riddick",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:58:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:58",
+      "episode_description": ""
     },
     {
       "show_name": "Oblivion",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/oblivion_el_tiempo_del_olvido.jpg",
-      "start_time": "2026-02-02 00:58:00",
-      "end_time": "2026-02-02 03:02:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "En un planeta tierra de un futuro distante con una superficie destruida luego de décadas de guerras con extraterrestres, un hombre llamado Jack Harper (Tom Cruise), es el técnico encargado de reparar drones de la tierra, descubre los restos de una nave espacial que al inspeccionarla de cerca se hace nuevamente pregunta de todo lo que él creía acerca de la guerra y a lo mejor ahora está en él el destino de la humanidad."
+      "start_time": "00:58",
+      "end_time": "03:02",
+      "episode_description": "En un planeta tierra de un futuro distante con una superficie destruida luego de décadas de guerras con extraterrestres, un hombre llamado Jack Harper (Tom Cruise), es el técnico encargado de reparar drones de la tierra, descubre los restos de una nave espacial que al inspeccionarla de cerca se hace nuevamente pregunta de todo lo que él creía acerca de la guerra y a lo mejor ahora está en él el destino de la humanidad."
     },
     {
       "show_name": "Everest",
       "show_logo": "",
-      "start_time": "2026-02-02 03:02:00",
-      "end_time": "2026-02-02 05:03:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:02",
+      "end_time": "05:03",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 05:03:00",
-      "end_time": "2026-02-02 06:32:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:03",
+      "end_time": "06:32",
+      "episode_description": ""
     },
     {
       "show_name": "El espanta tiburones",
       "show_logo": "",
-      "start_time": "2026-02-02 06:32:00",
-      "end_time": "2026-02-02 08:01:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:32",
+      "end_time": "08:01",
+      "episode_description": ""
     },
     {
       "show_name": "Shrek 2",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg",
-      "start_time": "2026-02-02 08:01:00",
-      "end_time": "2026-02-02 09:31:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
+      "start_time": "08:01",
+      "end_time": "09:31",
+      "episode_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
     },
     {
       "show_name": "Shrek Tercero",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg",
-      "start_time": "2026-02-02 09:31:00",
-      "end_time": "2026-02-02 11:03:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
+      "start_time": "09:31",
+      "end_time": "11:03",
+      "episode_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
     },
     {
       "show_name": "Nosotros Los Nobles",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg",
-      "start_time": "2026-02-02 11:03:00",
-      "end_time": "2026-02-02 12:57:00",
-      "episode_number": "",
       "show_category": "Comedia",
-      "show_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
+      "start_time": "11:03",
+      "end_time": "12:57",
+      "episode_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
     },
     {
       "show_name": "Los Pingüinos de Madagascar",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_pinguinos_de_madagascar.jpg",
-      "start_time": "2026-02-02 12:57:00",
-      "end_time": "2026-02-02 14:27:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Los equipos de súper espías no nacen, se encuban. Descubre los secretos de los más grandes y divertidos pájaros encubiertos del espionaje mundial. En esta nueva aventura de nuestros conocidos agentes: Skipper, Kowalski, Rico y Cabo deberán salvar al mundo del villano Dr. Octavius Brine, quien planea destruir la tierra tal y como la conocemos."
+      "start_time": "12:57",
+      "end_time": "14:27",
+      "episode_description": "Los equipos de súper espías no nacen, se encuban. Descubre los secretos de los más grandes y divertidos pájaros encubiertos del espionaje mundial. En esta nueva aventura de nuestros conocidos agentes: Skipper, Kowalski, Rico y Cabo deberán salvar al mundo del villano Dr. Octavius Brine, quien planea destruir la tierra tal y como la conocemos."
     },
     {
       "show_name": "Sing: ¡Ven y Canta!",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg",
-      "start_time": "2026-02-02 14:27:00",
-      "end_time": "2026-02-02 16:19:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo."
+      "start_time": "14:27",
+      "end_time": "16:19",
+      "episode_description": "Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo."
     },
     {
       "show_name": "Shrek",
       "show_logo": "",
-      "start_time": "2026-02-02 16:19:00",
-      "end_time": "2026-02-02 17:52:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:19",
+      "end_time": "17:52",
+      "episode_description": ""
     },
     {
       "show_name": "Shrek 2",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg",
-      "start_time": "2026-02-02 17:52:00",
-      "end_time": "2026-02-02 19:24:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
+      "start_time": "17:52",
+      "end_time": "19:24",
+      "episode_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
     },
     {
       "show_name": "Shrek Tercero",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg",
-      "start_time": "2026-02-02 19:24:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "Animación",
-      "show_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
+      "start_time": "19:24",
+      "end_time": "21:00",
+      "episode_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
     },
     {
       "show_name": "Nosotros Los Nobles",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:55:00",
-      "episode_number": "",
       "show_category": "Comedia",
-      "show_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
+      "start_time": "21:00",
+      "end_time": "22:55",
+      "episode_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
     },
     {
       "show_name": "American Pie El reencuentro",
       "show_logo": "",
-      "start_time": "2026-02-02 22:55:00",
-      "end_time": "2026-02-03 00:49:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:55",
+      "end_time": "00:49",
+      "episode_description": ""
     }
   ]
 }

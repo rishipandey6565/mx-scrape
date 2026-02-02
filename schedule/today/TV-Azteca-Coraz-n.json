@@ -1,141 +1,126 @@
 {
-  "channel_name": "TV Azteca Corazón",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "TV Azteca Corazón",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Maratón Todo por amor",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres rompiendo el silencio",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Maratón Quiéreme tonto",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Quiéreme tonto",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Lucho en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mientras haya vida",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Todo por amor",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres rompiendo el silencio",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tío Alberto",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Quiéreme tonto",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Lucho en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mientras haya vida",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Todo por amor",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres rompiendo el silencio",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tío Alberto",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     }
   ]
 }

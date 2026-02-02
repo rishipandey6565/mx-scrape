@@ -1,204 +1,182 @@
 {
-  "channel_name": "Discovery Theater (Latinoamérica)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Discovery Theater (Latinoamérica)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Pesca mortal",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:12",
+      "episode_description": ""
     },
     {
       "show_name": "Alaska la última frontera",
       "show_logo": "",
-      "start_time": "2026-02-02 00:12:00",
-      "end_time": "2026-02-02 01:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:12",
+      "end_time": "01:48",
+      "episode_description": ""
     },
     {
       "show_name": "La peligrosa ruta del café",
       "show_logo": "",
-      "start_time": "2026-02-02 01:48:00",
-      "end_time": "2026-02-02 02:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:48",
+      "end_time": "02:36",
+      "episode_description": ""
     },
     {
       "show_name": "El ferrocarril de Alaska",
       "show_logo": "",
-      "start_time": "2026-02-02 02:36:00",
-      "end_time": "2026-02-02 03:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:36",
+      "end_time": "03:24",
+      "episode_description": ""
     },
     {
       "show_name": "Misterios del castillo",
       "show_logo": "",
-      "start_time": "2026-02-02 03:24:00",
-      "end_time": "2026-02-02 04:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:24",
+      "end_time": "04:12",
+      "episode_description": ""
     },
     {
       "show_name": "Misterios en el museo",
       "show_logo": "",
-      "start_time": "2026-02-02 04:12:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:12",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Alaska la última frontera",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:36",
+      "episode_description": ""
     },
     {
       "show_name": "La peligrosa ruta del café",
       "show_logo": "",
-      "start_time": "2026-02-02 06:36:00",
-      "end_time": "2026-02-02 07:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:36",
+      "end_time": "07:24",
+      "episode_description": ""
     },
     {
       "show_name": "El ferrocarril de Alaska",
       "show_logo": "",
-      "start_time": "2026-02-02 07:24:00",
-      "end_time": "2026-02-02 08:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:24",
+      "end_time": "08:12",
+      "episode_description": ""
     },
     {
       "show_name": "Misterios del castillo",
       "show_logo": "",
-      "start_time": "2026-02-02 08:12:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:12",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Misterios en el museo",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 09:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:48",
+      "episode_description": ""
     },
     {
       "show_name": "Expedición a lo desconocido",
       "show_logo": "",
-      "start_time": "2026-02-02 09:48:00",
-      "end_time": "2026-02-02 10:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:48",
+      "end_time": "10:36",
+      "episode_description": ""
     },
     {
       "show_name": "Expedición a lo desconocido",
       "show_logo": "",
-      "start_time": "2026-02-02 10:36:00",
-      "end_time": "2026-02-02 11:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:36",
+      "end_time": "11:24",
+      "episode_description": ""
     },
     {
       "show_name": "El club de los exploradores",
       "show_logo": "",
-      "start_time": "2026-02-02 11:24:00",
-      "end_time": "2026-02-02 12:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:24",
+      "end_time": "12:12",
+      "episode_description": ""
     },
     {
       "show_name": "El museo embrujado",
       "show_logo": "",
-      "start_time": "2026-02-02 12:12:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:12",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "El ferrocarril de Alaska",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 13:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:48",
+      "episode_description": ""
     },
     {
       "show_name": "Genios constructores",
       "show_logo": "",
-      "start_time": "2026-02-02 13:48:00",
-      "end_time": "2026-02-02 14:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:48",
+      "end_time": "14:36",
+      "episode_description": ""
     },
     {
       "show_name": "Clandestinos",
       "show_logo": "",
-      "start_time": "2026-02-02 14:36:00",
-      "end_time": "2026-02-02 15:24:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:36",
+      "end_time": "15:24",
+      "episode_description": ""
     },
     {
       "show_name": "Historias Animales",
       "show_logo": "",
-      "start_time": "2026-02-02 15:24:00",
-      "end_time": "2026-02-02 16:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:24",
+      "end_time": "16:12",
+      "episode_description": ""
     },
     {
       "show_name": "Cal Fire contra el fuego",
       "show_logo": "",
-      "start_time": "2026-02-02 16:12:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:12",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tu basura, mi fortuna negocio redondo",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 17:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:48",
+      "episode_description": ""
     },
     {
       "show_name": "Mega Carga",
       "show_logo": "",
-      "start_time": "2026-02-02 17:48:00",
-      "end_time": "2026-02-02 18:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:48",
+      "end_time": "18:36",
+      "episode_description": ""
     }
   ]
 }

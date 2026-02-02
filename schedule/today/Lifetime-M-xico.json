@@ -1,150 +1,134 @@
 {
-  "channel_name": "Lifetime (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Lifetime (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La cara que no puedo olvidar",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:20",
+      "episode_description": ""
     },
     {
       "show_name": "Complot para matar a mi madre",
       "show_logo": "",
-      "start_time": "2026-02-02 01:20:00",
-      "end_time": "2026-02-02 02:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:20",
+      "end_time": "02:50",
+      "episode_description": ""
     },
     {
       "show_name": "La reina de la cocaína",
       "show_logo": "",
-      "start_time": "2026-02-02 02:50:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:50",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Secreto de la esposa",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Amores que engañan",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "S2 E12",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "La mamá equivocada",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 08:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:40",
+      "episode_description": ""
     },
     {
       "show_name": "La cara que no puedo olvidar",
       "show_logo": "",
-      "start_time": "2026-02-02 08:40:00",
-      "end_time": "2026-02-02 10:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:40",
+      "end_time": "10:20",
+      "episode_description": ""
     },
     {
       "show_name": "El secreto de mi esposo",
       "show_logo": "",
-      "start_time": "2026-02-02 10:20:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:20",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Secreto de la esposa",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:40",
+      "episode_description": ""
     },
     {
       "show_name": "Mis octillizos",
       "show_logo": "",
-      "start_time": "2026-02-02 13:40:00",
-      "end_time": "2026-02-02 15:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:40",
+      "end_time": "15:20",
+      "episode_description": ""
     },
     {
       "show_name": "Concebido en mentiras",
       "show_logo": "",
-      "start_time": "2026-02-02 15:20:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:20",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Un crush equivocado",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:40",
+      "episode_description": ""
     },
     {
       "show_name": "Una cita con engaño",
       "show_logo": "",
-      "start_time": "2026-02-02 18:40:00",
-      "end_time": "2026-02-02 20:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:40",
+      "end_time": "20:20",
+      "episode_description": ""
     },
     {
       "show_name": "Cita engañosa",
       "show_logo": "",
-      "start_time": "2026-02-02 20:20:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:20",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cita de pesadilla",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:40",
+      "episode_description": ""
     },
     {
       "show_name": "Verano de amor y muerte",
       "show_logo": "",
-      "start_time": "2026-02-02 23:40:00",
-      "end_time": "2026-02-03 01:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:40",
+      "end_time": "01:20",
+      "episode_description": ""
     }
   ]
 }

@@ -1,402 +1,358 @@
 {
-  "channel_name": "EWTN en Español",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "EWTN en Español",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros a Lourdes",
       "show_logo": "",
-      "start_time": "2026-02-03 00:30:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tertulias de fe",
       "show_logo": "",
-      "start_time": "2026-02-03 01:00:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Herejias",
       "show_logo": "",
-      "start_time": "2026-02-03 02:00:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "La Sagrada Eucaristía",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "S1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:30:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Viviendo las Escrituras",
       "show_logo": "",
-      "start_time": "2026-02-03 03:30:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Donde Dios llora",
       "show_logo": "",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 04:30:00",
-      "episode_number": "S2026 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres en la Biblia",
       "show_logo": "",
-      "start_time": "2026-02-03 04:30:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tertulias de fe",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 06:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "06:50",
+      "episode_description": ""
     },
     {
       "show_name": "Letanía al divino niño Jesús",
       "show_logo": "",
-      "start_time": "2026-02-03 06:50:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:50",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Misa Diaria",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mis Angelitos",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "S2016 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "El Rosario de los Niños",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros a Lourdes",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres en la Biblia",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tertulias de fe",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Donde Dios llora",
       "show_logo": "",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "S2026 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Coronilla de la Divina Misericordia Cantada",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Misa Diaria",
       "show_logo": "",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "El Santo Rosario desde Lourdes - Francia",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Letanía al divino niño Jesús",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 14:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": ""
     },
     {
       "show_name": "Adoración eucarística desde la capilla de EWTN",
       "show_logo": "",
-      "start_time": "2026-02-03 14:20:00",
-      "end_time": "2026-02-03 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:20",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 14:30:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tertulias de fe",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros a Lourdes",
       "show_logo": "",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres en la Biblia",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 17:30:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Viviendo las Escrituras",
       "show_logo": "",
-      "start_time": "2026-02-03 17:30:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Donde Dios llora",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "S2026 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mientras el Mundo Gira",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "S2023 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros a Lourdes",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 20:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres en la Biblia",
       "show_logo": "",
-      "start_time": "2026-02-03 20:30:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 21:30:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "Clásicos Católicos: Viviendo las Escrituras",
       "show_logo": "",
-      "start_time": "2026-02-03 21:30:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Donde Dios llora",
       "show_logo": "",
-      "start_time": "2026-02-03 22:30:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "S2026 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Herejias",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-03 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

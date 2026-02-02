@@ -1,132 +1,118 @@
 {
-  "channel_name": "FOX SPORTS PREMIUM",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "FOX SPORTS PREMIUM",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Power Slap: Main Event",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/46231570.jpg",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
     },
     {
       "show_name": "Red Bull Cliff Diving World Series",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/9360165.jpg",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "",
       "show_category": "D.Extremos",
-      "show_description": "Sé parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros."
+      "start_time": "00:00",
+      "end_time": "05:00",
+      "episode_description": "Sé parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros."
     },
     {
       "show_name": "Latitud Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22587789.jpg",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:30:00",
-      "episode_number": "",
       "show_category": "Periodístico",
-      "show_description": "Programa cultural con toque histórico que se relaciona con el deporte."
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Programa cultural con toque histórico que se relaciona con el deporte."
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1987694447.jpg",
-      "start_time": "2026-02-03 05:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
+      "start_time": "05:30",
+      "end_time": "08:00",
+      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
     },
     {
       "show_name": "Budo Sento Championship",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/15460851.jpg",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "Artes Marciales",
-      "show_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
     },
     {
       "show_name": "Latitud Fox",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22587789.jpg",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "",
       "show_category": "Periodístico",
-      "show_description": "Programa cultural con toque histórico que se relaciona con el deporte."
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Programa cultural con toque histórico que se relaciona con el deporte."
     },
     {
       "show_name": "Fox Fight Club",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505135.jpg",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
     },
     {
       "show_name": "Fox Fight Club",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505135.jpg",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1987694447.jpg",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "Fútbol",
-      "show_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
+      "start_time": "11:30",
+      "end_time": "14:00",
+      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
     },
     {
       "show_name": "AEW Dynamite",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/17064946.jpg",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
     },
     {
       "show_name": "AEW Collision",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/38156003.jpg",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "",
       "show_category": "Lucha",
-      "show_description": "Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro."
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro."
     },
     {
       "show_name": "Red Bull Cliff Diving World Series Highlights",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/9360165.jpg",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "",
       "show_category": "D.Extremos",
-      "show_description": "Un repaso de los mejores momentos de la Serie Mundial de Clavados de Acantilado Red Bull. Los buceadores ejecutan increíbles acrobacias desde alturas de hasta 27 m en la máxima demostración de concentración y habilidad."
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Un repaso de los mejores momentos de la Serie Mundial de Clavados de Acantilado Red Bull. Los buceadores ejecutan increíbles acrobacias desde alturas de hasta 27 m en la máxima demostración de concentración y habilidad."
     },
     {
       "show_name": "Historia del Súper Bowl",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/3201365.jpg",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "Fútbol americano",
-      "show_description": "Los mejores momentos del Super Bowl."
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "episode_description": "Los mejores momentos del Super Bowl."
     },
     {
       "show_name": "Power Slap: Main Event",
       "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/46231570.jpg",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "Deportivo",
-      "show_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
+      "start_time": "22:00",
+      "end_time": "00:00",
+      "episode_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
     }
   ]
 }

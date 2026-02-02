@@ -1,357 +1,318 @@
 {
-  "channel_name": "Clic",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Clic",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mundo metro",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "S1 E36",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Amor X México",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "Rumbo a la meta",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:30:00",
-      "episode_number": "S3 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mesa y cuchara",
       "show_logo": "",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "S1 E42",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Documentales",
       "show_logo": "",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "S1 E12",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Deporte gourmet",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "S1 E24",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 05:30:00",
-      "episode_number": "S1 E9",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-02 05:30:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "S2 E16",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Caza misterios",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 09:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-02 09:30:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Estilo",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Creaciones mágicas",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 11:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-02 11:30:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 12:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-02 12:30:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 13:30:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mesa y cuchara",
       "show_logo": "",
-      "start_time": "2026-02-02 13:30:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Ficción",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Frente a todo",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 16:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-02 16:30:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Documentales",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Rutas de la Vida",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Ficción",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Frente a todo",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "La revolución de la libertad",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Sexo, amor y cachondeo",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Rutas de la Vida",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-02 23:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Pase de abordar",
       "show_logo": "",
-      "start_time": "2026-02-02 23:30:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

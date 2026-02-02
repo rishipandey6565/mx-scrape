@@ -1,402 +1,358 @@
 {
-  "channel_name": "EWTN en Español",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "EWTN en Español",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "Madre Ursula Micaela Morata",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Informe provida",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "De Dos en Dos",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "S1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Canta y No Llores",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "S2019",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "S2008 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "S1 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cenáculos en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Informe provida",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 05:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
     },
     {
       "show_name": "De Dos en Dos",
       "show_logo": "",
-      "start_time": "2026-02-02 05:30:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "S1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 06:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "06:50",
+      "episode_description": ""
     },
     {
       "show_name": "Letanía a la preciosísima sangre de Jesús",
       "show_logo": "",
-      "start_time": "2026-02-02 06:50:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:50",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Misa Diaria",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 08:15:00",
-      "episode_number": "S2023 E25",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:15",
+      "episode_description": ""
     },
     {
       "show_name": "Lukas Storyteller",
       "show_logo": "",
-      "start_time": "2026-02-02 08:15:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "S1 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:15",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "El Rosario de los Niños",
       "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Madre Ursula Micaela Morata",
       "show_logo": "",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cenáculos en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 09:30:00",
-      "end_time": "2026-02-02 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Informe provida",
       "show_logo": "",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "De Dos en Dos",
       "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "S1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
-      "start_time": "2026-02-02 11:30:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "S1 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Coronilla de la Divina Misericordia Cantada",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Misa Diaria",
       "show_logo": "",
-      "start_time": "2026-02-02 12:30:00",
-      "end_time": "2026-02-02 13:45:00",
-      "episode_number": "S2023 E25",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:45",
+      "episode_description": ""
     },
     {
       "show_name": "Sacerdote, Regalo de Dios para el Mundo",
       "show_logo": "",
-      "start_time": "2026-02-02 13:45:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Letanía a la preciosísima sangre de Jesús",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 14:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": ""
     },
     {
       "show_name": "Adoración eucarística desde la capilla de EWTN",
       "show_logo": "",
-      "start_time": "2026-02-02 14:20:00",
-      "end_time": "2026-02-02 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:20",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 14:30:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Informe provida",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "De Dos en Dos",
       "show_logo": "",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 16:00:00",
-      "episode_number": "S1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Madre Ursula Micaela Morata",
       "show_logo": "",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cenáculos en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 16:30:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "S2008 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "S1 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tertulias de fe",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Madre Ursula Micaela Morata",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 20:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cenáculos en familia",
       "show_logo": "",
-      "start_time": "2026-02-02 20:30:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "S2008 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "EWTN Noticias",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "S1 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Herejias",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-02 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santo Rosario",
       "show_logo": "",
-      "start_time": "2026-02-02 23:30:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

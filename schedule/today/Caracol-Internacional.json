@@ -1,231 +1,206 @@
 {
-  "channel_name": "Caracol Internacional",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Caracol Internacional",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Séptimo Día",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "La Sartén por el Mango",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Dolce Vita",
       "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "De Moda con Ericka",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Se dice de mi",
       "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Expediente Final",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "La Finca de Hoy",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:15",
+      "episode_description": ""
     },
     {
       "show_name": "Día a día I",
       "show_logo": "",
-      "start_time": "2026-02-02 04:15:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:15",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias Caracol: Primera edición",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Día a día",
       "show_logo": "",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "El Diario de Diana",
       "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Random 360",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias Caracol: Edición mediodía",
       "show_logo": "",
-      "start_time": "2026-02-02 11:30:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "El cartel de los sapos El origen",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Desafío siglo XXI",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "Las mujeres de mi tierra",
       "show_logo": "",
-      "start_time": "2026-02-02 16:30:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Diario de Diana",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 17:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "Random 360",
       "show_logo": "",
-      "start_time": "2026-02-02 17:30:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Noticias Caracol: Edición central",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "El cartel de los sapos El origen",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Desafío siglo XXI",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "Caracol cine",
       "show_logo": "",
-      "start_time": "2026-02-02 21:30:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Diario de Diana",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Última Edición",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "El cartel de los sapos El origen",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

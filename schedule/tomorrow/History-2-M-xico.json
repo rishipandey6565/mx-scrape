@@ -1,285 +1,254 @@
 {
-  "channel_name": "History 2 (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "History 2 (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Construyendo un Imperio",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:28:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:28",
+      "episode_description": ""
     },
     {
       "show_name": "Carlos El nuevo rey",
       "show_logo": "",
-      "start_time": "2026-02-03 00:28:00",
-      "end_time": "2026-02-03 01:20:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:28",
+      "end_time": "01:20",
+      "episode_description": ""
     },
     {
       "show_name": "Historias Malditas",
       "show_logo": "",
-      "start_time": "2026-02-03 01:20:00",
-      "end_time": "2026-02-03 02:15:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:20",
+      "end_time": "02:15",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros",
       "show_logo": "",
-      "start_time": "2026-02-03 02:15:00",
-      "end_time": "2026-02-03 03:03:00",
-      "episode_number": "S1 E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:15",
+      "end_time": "03:03",
+      "episode_description": ""
     },
     {
       "show_name": "Humanidad la historia de",
       "show_logo": "",
-      "start_time": "2026-02-03 03:03:00",
-      "end_time": "2026-02-03 03:51:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:03",
+      "end_time": "03:51",
+      "episode_description": ""
     },
     {
       "show_name": "Exploración Maya",
       "show_logo": "",
-      "start_time": "2026-02-03 03:51:00",
-      "end_time": "2026-02-03 04:39:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:51",
+      "end_time": "04:39",
+      "episode_description": ""
     },
     {
       "show_name": "Derrochadores Ancestrales",
       "show_logo": "",
-      "start_time": "2026-02-03 04:39:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:39",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Faraones ascenso y caída",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:55:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:55",
+      "episode_description": ""
     },
     {
       "show_name": "Juego de tronos, una historia",
       "show_logo": "",
-      "start_time": "2026-02-03 05:55:00",
-      "end_time": "2026-02-03 06:42:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:55",
+      "end_time": "06:42",
+      "episode_description": ""
     },
     {
       "show_name": "Historias Malditas",
       "show_logo": "",
-      "start_time": "2026-02-03 06:42:00",
-      "end_time": "2026-02-03 07:37:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:42",
+      "end_time": "07:37",
+      "episode_description": ""
     },
     {
       "show_name": "La Ilíada y la Odisea",
       "show_logo": "",
-      "start_time": "2026-02-03 07:37:00",
-      "end_time": "2026-02-03 08:05:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:37",
+      "end_time": "08:05",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros",
       "show_logo": "",
-      "start_time": "2026-02-03 08:05:00",
-      "end_time": "2026-02-03 08:53:00",
-      "episode_number": "S1 E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:05",
+      "end_time": "08:53",
+      "episode_description": ""
     },
     {
       "show_name": "Humanidad la historia de",
       "show_logo": "",
-      "start_time": "2026-02-03 08:53:00",
-      "end_time": "2026-02-03 09:41:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:53",
+      "end_time": "09:41",
+      "episode_description": ""
     },
     {
       "show_name": "Carlos El nuevo rey",
       "show_logo": "",
-      "start_time": "2026-02-03 09:41:00",
-      "end_time": "2026-02-03 10:37:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:41",
+      "end_time": "10:37",
+      "episode_description": ""
     },
     {
       "show_name": "Juego de tronos, una historia",
       "show_logo": "",
-      "start_time": "2026-02-03 10:37:00",
-      "end_time": "2026-02-03 11:28:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:37",
+      "end_time": "11:28",
+      "episode_description": ""
     },
     {
       "show_name": "Construyendo un Imperio",
       "show_logo": "",
-      "start_time": "2026-02-03 11:28:00",
-      "end_time": "2026-02-03 12:23:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:28",
+      "end_time": "12:23",
+      "episode_description": ""
     },
     {
       "show_name": "Juan Carlos La caída del Rey",
       "show_logo": "",
-      "start_time": "2026-02-03 12:23:00",
-      "end_time": "2026-02-03 13:17:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:23",
+      "end_time": "13:17",
+      "episode_description": ""
     },
     {
       "show_name": "Faraones ascenso y caída",
       "show_logo": "",
-      "start_time": "2026-02-03 13:17:00",
-      "end_time": "2026-02-03 14:19:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:17",
+      "end_time": "14:19",
+      "episode_description": ""
     },
     {
       "show_name": "Guerreros",
       "show_logo": "",
-      "start_time": "2026-02-03 14:19:00",
-      "end_time": "2026-02-03 15:14:00",
-      "episode_number": "S1 E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:19",
+      "end_time": "15:14",
+      "episode_description": ""
     },
     {
       "show_name": "Gigantes de la comida",
       "show_logo": "",
-      "start_time": "2026-02-03 15:14:00",
-      "end_time": "2026-02-03 16:07:00",
-      "episode_number": "S5 E57",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:14",
+      "end_time": "16:07",
+      "episode_description": ""
     },
     {
       "show_name": "Boys toys",
       "show_logo": "",
-      "start_time": "2026-02-03 16:07:00",
-      "end_time": "2026-02-03 16:37:00",
-      "episode_number": "S4 E13",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:07",
+      "end_time": "16:37",
+      "episode_description": ""
     },
     {
       "show_name": "Boys toys",
       "show_logo": "",
-      "start_time": "2026-02-03 16:37:00",
-      "end_time": "2026-02-03 17:07:00",
-      "episode_number": "S5 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:37",
+      "end_time": "17:07",
+      "episode_description": ""
     },
     {
       "show_name": "Boys toys",
       "show_logo": "",
-      "start_time": "2026-02-03 17:07:00",
-      "end_time": "2026-02-03 17:37:00",
-      "episode_number": "S5 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:07",
+      "end_time": "17:37",
+      "episode_description": ""
     },
     {
       "show_name": "Boys toys",
       "show_logo": "",
-      "start_time": "2026-02-03 17:37:00",
-      "end_time": "2026-02-03 18:07:00",
-      "episode_number": "S5 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:37",
+      "end_time": "18:07",
+      "episode_description": ""
     },
     {
       "show_name": "Bases Nazis secretas",
       "show_logo": "",
-      "start_time": "2026-02-03 18:07:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "S1 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:07",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Archivos perdidos de la 2da",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 19:53:00",
-      "episode_number": "E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "19:53",
+      "episode_description": ""
     },
     {
       "show_name": "Los últimos días de los nazis",
       "show_logo": "",
-      "start_time": "2026-02-03 19:53:00",
-      "end_time": "2026-02-03 20:44:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:53",
+      "end_time": "20:44",
+      "episode_description": ""
     },
     {
       "show_name": "Carrera hacia la victoria",
       "show_logo": "",
-      "start_time": "2026-02-03 20:44:00",
-      "end_time": "2026-02-03 21:36:00",
-      "episode_number": "S1 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:44",
+      "end_time": "21:36",
+      "episode_description": ""
     },
     {
       "show_name": "Los ingenieros de Hitler",
       "show_logo": "",
-      "start_time": "2026-02-03 21:36:00",
-      "end_time": "2026-02-03 22:29:00",
-      "episode_number": "E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:36",
+      "end_time": "22:29",
+      "episode_description": ""
     },
     {
       "show_name": "Archivos perdidos de la 2da",
       "show_logo": "",
-      "start_time": "2026-02-03 22:29:00",
-      "end_time": "2026-02-03 23:22:00",
-      "episode_number": "E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:29",
+      "end_time": "23:22",
+      "episode_description": ""
     },
     {
       "show_name": "Los últimos días de los nazis",
       "show_logo": "",
-      "start_time": "2026-02-03 23:22:00",
-      "end_time": "2026-02-04 00:10:00",
-      "episode_number": "E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:22",
+      "end_time": "00:10",
+      "episode_description": ""
     }
   ]
 }

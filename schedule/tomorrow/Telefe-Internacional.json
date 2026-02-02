@@ -1,222 +1,198 @@
 {
-  "channel_name": "Telefe Internacional",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Telefe Internacional",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Vidas robadas",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Entre Caníbales",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Montecristo",
       "show_logo": "",
-      "start_time": "2026-02-03 01:00:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "Descubrir America",
       "show_logo": "",
-      "start_time": "2026-02-03 02:00:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vinos y placeres",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:25",
+      "episode_description": ""
     },
     {
       "show_name": "Plano x plano",
       "show_logo": "",
-      "start_time": "2026-02-03 03:25:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:25",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Buen Telefe",
       "show_logo": "",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "A la Barbarossa",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 08:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "08:45",
+      "episode_description": ""
     },
     {
       "show_name": "Ariel en su salsa",
       "show_logo": "",
-      "start_time": "2026-02-03 08:45:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:45",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "El noticiero de la gente",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cortá Por Lozano",
       "show_logo": "",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Sabores de campo",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Descubrir America",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Montecristo",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vidas robadas",
       "show_logo": "",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Telefe Noticias",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Entre Caníbales",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:45",
+      "episode_description": ""
     },
     {
       "show_name": "Montecristo",
       "show_logo": "",
-      "start_time": "2026-02-03 19:45:00",
-      "end_time": "2026-02-03 20:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:45",
+      "end_time": "20:45",
+      "episode_description": ""
     },
     {
       "show_name": "Gravedad Zero",
       "show_logo": "",
-      "start_time": "2026-02-03 20:45:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:45",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Staff",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 21:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": ""
     },
     {
       "show_name": "Staff",
       "show_logo": "",
-      "start_time": "2026-02-03 21:15:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:15",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vinos y placeres",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Plano x plano",
       "show_logo": "",
-      "start_time": "2026-02-03 22:30:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vidas robadas",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

@@ -1,114 +1,102 @@
 {
-  "channel_name": "HBO (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "HBO (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Industry",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:20:00",
-      "episode_number": "S4 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:20",
+      "episode_description": ""
     },
     {
       "show_name": "Sé lo que Hicieron el Verano Pasado",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/se_lo_que_hicieron_el_verano_pasado.jpg",
-      "start_time": "2026-02-02 00:20:00",
-      "end_time": "2026-02-02 02:20:00",
-      "episode_number": "",
       "show_category": "Terror",
-      "show_description": "En un pequeño pueblo lleno de secretos, un grupo de jóvenes son acosados por un misterioso asesino enmascarado un año después de un accidente fatal en su noche de su graduación."
+      "start_time": "00:20",
+      "end_time": "02:20",
+      "episode_description": "En un pequeño pueblo lleno de secretos, un grupo de jóvenes son acosados por un misterioso asesino enmascarado un año después de un accidente fatal en su noche de su graduación."
     },
     {
       "show_name": "Rey Arturo: La leyenda de la espada",
       "show_logo": "",
-      "start_time": "2026-02-02 02:20:00",
-      "end_time": "2026-02-02 04:29:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:20",
+      "end_time": "04:29",
+      "episode_description": ""
     },
     {
       "show_name": "La Aparición",
       "show_logo": "",
-      "start_time": "2026-02-02 04:29:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:29",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "En el corazón del mar",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 08:07:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "08:07",
+      "episode_description": ""
     },
     {
       "show_name": "El Sorprendente Hombre Araña 2: La Amenaza de Electro",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_sorprendente_hombre_arana_2_la_amenaza_de_electro.jpg",
-      "start_time": "2026-02-02 08:07:00",
-      "end_time": "2026-02-02 10:36:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Siempre hemos sabido que la batalla más importante del Hombre Araña ha sido la batalla contra sí mismo: la pelea entre las obligaciones como Peter Parker (Andrew Garfield) y las extraordinarias responsabilidades del Hombre Araña. Pero en El Sorprendente Hombre Araña 2: La Amenaza de Electro, Peter Parker deberá enfrentar un gran conflicto que se aproxima. Esta vez ser el Hombre Araña tiene su precio, solamente el Hombre Araña puede proteger a los ciudadanos de Nueva York de los sorprendentes villanos que amenazan la ciudad. Con la llegada de Electro (Jamie Foxx), Peter se verá las caras con un villano más poderoso que él. Y su viejo amigo, Harry Osborn (Dane DeHaan), regresa, Peter se da cuenta que todos sus enemigos tienen algo en común: OsCorp."
+      "start_time": "08:07",
+      "end_time": "10:36",
+      "episode_description": "Siempre hemos sabido que la batalla más importante del Hombre Araña ha sido la batalla contra sí mismo: la pelea entre las obligaciones como Peter Parker (Andrew Garfield) y las extraordinarias responsabilidades del Hombre Araña. Pero en El Sorprendente Hombre Araña 2: La Amenaza de Electro, Peter Parker deberá enfrentar un gran conflicto que se aproxima. Esta vez ser el Hombre Araña tiene su precio, solamente el Hombre Araña puede proteger a los ciudadanos de Nueva York de los sorprendentes villanos que amenazan la ciudad. Con la llegada de Electro (Jamie Foxx), Peter se verá las caras con un villano más poderoso que él. Y su viejo amigo, Harry Osborn (Dane DeHaan), regresa, Peter se da cuenta que todos sus enemigos tienen algo en común: OsCorp."
     },
     {
       "show_name": "Kraven El Cazador",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kraven_el_cazador.jpg",
-      "start_time": "2026-02-02 10:36:00",
-      "end_time": "2026-02-02 12:53:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man."
+      "start_time": "10:36",
+      "end_time": "12:53",
+      "episode_description": "Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man."
     },
     {
       "show_name": "El Código Da Vinci",
       "show_logo": "",
-      "start_time": "2026-02-02 12:53:00",
-      "end_time": "2026-02-02 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:53",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Jurassic World: El Reino Caído",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_el_reino_caido.jpg",
-      "start_time": "2026-02-02 15:30:00",
-      "end_time": "2026-02-02 17:46:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Han pasado cuatro años desde que el parque temático y complejo de lujo del Mundo Jurásico fue destruido por los dinosaurios fuera de su zona. La Isla Nublar ahora se encuentra abandonada por los humanos mientras los dinosaurios sobrevivientes se las arreglan por si solos en la jungla. Cuando el volcán inactivo de la isla comienza a rugir a la vida, Owen (Chris Pratt) y Claire (Bryce Dallas Howard) montan una campaña para rescatar a los dinosaurios restantes de este evento de extinción. Owen se siente impulsado a encontrar a Blue, su raptor líder quien todavía está desaparecida en la naturaleza y Claire ha tomado un mayor respeto por estas criaturas a las que ahora toma como misión. Al llegar a la isla inestable mientras la lava comienza a cubrir la isla, su expedición descubre una conspiración que podría volver todo nuestro planeta a un clima peligroso no visto desde la prehistoria."
+      "start_time": "15:30",
+      "end_time": "17:46",
+      "episode_description": "Han pasado cuatro años desde que el parque temático y complejo de lujo del Mundo Jurásico fue destruido por los dinosaurios fuera de su zona. La Isla Nublar ahora se encuentra abandonada por los humanos mientras los dinosaurios sobrevivientes se las arreglan por si solos en la jungla. Cuando el volcán inactivo de la isla comienza a rugir a la vida, Owen (Chris Pratt) y Claire (Bryce Dallas Howard) montan una campaña para rescatar a los dinosaurios restantes de este evento de extinción. Owen se siente impulsado a encontrar a Blue, su raptor líder quien todavía está desaparecida en la naturaleza y Claire ha tomado un mayor respeto por estas criaturas a las que ahora toma como misión. Al llegar a la isla inestable mientras la lava comienza a cubrir la isla, su expedición descubre una conspiración que podría volver todo nuestro planeta a un clima peligroso no visto desde la prehistoria."
     },
     {
       "show_name": "No hables con extraños",
       "show_logo": "",
-      "start_time": "2026-02-02 17:46:00",
-      "end_time": "2026-02-02 19:44:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:46",
+      "end_time": "19:44",
+      "episode_description": ""
     },
     {
       "show_name": "Kraven El Cazador",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kraven_el_cazador.jpg",
-      "start_time": "2026-02-02 19:44:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "Acción",
-      "show_description": "Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man."
+      "start_time": "19:44",
+      "end_time": "22:00",
+      "episode_description": "Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man."
     },
     {
       "show_name": "PECADORES",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-03 00:25:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "00:25",
+      "episode_description": ""
     }
   ]
 }

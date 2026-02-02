@@ -1,204 +1,182 @@
 {
-  "channel_name": "Film & Arts",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Film & Arts",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Vera",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "El futuro de la música",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "La curiosa historia de Miho Ha",
       "show_logo": "",
-      "start_time": "2026-02-03 03:30:00",
-      "end_time": "2026-02-03 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-03 04:30:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bookish",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "S32 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "El futuro de la música",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "La curiosa historia de Miho Ha",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "El futuro de la música",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bookish",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vera",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 14:45:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:45",
+      "episode_description": ""
     },
     {
       "show_name": "Vera",
       "show_logo": "",
-      "start_time": "2026-02-03 14:45:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:45",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "S32 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Paul Newman Siempre en Movimie",
       "show_logo": "",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Jacqueline du Pré Genio y tra",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:35",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-03 20:35:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:35",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "A Very Royal Scandal",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "BauHaus",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "S1 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Wallander",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-04 00:45:00",
-      "episode_number": "S2 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:45",
+      "episode_description": ""
     }
   ]
 }

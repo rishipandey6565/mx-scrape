@@ -1,294 +1,262 @@
 {
-  "channel_name": "TV5MONDE",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "TV5MONDE",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:56:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:56",
+      "episode_description": ""
     },
     {
       "show_name": "Savourer",
       "show_logo": "",
-      "start_time": "2026-02-03 00:56:00",
-      "end_time": "2026-02-03 01:42:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:56",
+      "end_time": "01:42",
+      "episode_description": ""
     },
     {
       "show_name": "La grande galerie francophone",
       "show_logo": "",
-      "start_time": "2026-02-03 01:42:00",
-      "end_time": "2026-02-03 02:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:42",
+      "end_time": "02:35",
+      "episode_description": ""
     },
     {
       "show_name": "Un si grand soleil",
       "show_logo": "",
-      "start_time": "2026-02-03 02:35:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:35",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Le Télejournal",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:26:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:26",
+      "episode_description": ""
     },
     {
       "show_name": "Telematin",
       "show_logo": "",
-      "start_time": "2026-02-03 03:26:00",
-      "end_time": "2026-02-03 04:33:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:26",
+      "end_time": "04:33",
+      "episode_description": ""
     },
     {
       "show_name": "Littoral",
       "show_logo": "",
-      "start_time": "2026-02-03 04:33:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:33",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mise au point",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:55",
+      "episode_description": ""
     },
     {
       "show_name": "Curieux bégin",
       "show_logo": "",
-      "start_time": "2026-02-03 05:55:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:55",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "Le Journal de la RTBF",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Telematin",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 07:51:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:51",
+      "episode_description": ""
     },
     {
       "show_name": "Une brique dans le ventre",
       "show_logo": "",
-      "start_time": "2026-02-03 07:51:00",
-      "end_time": "2026-02-03 08:17:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:51",
+      "end_time": "08:17",
+      "episode_description": ""
     },
     {
       "show_name": "Comment ca va le nord?",
       "show_logo": "",
-      "start_time": "2026-02-03 08:17:00",
-      "end_time": "2026-02-03 08:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:17",
+      "end_time": "08:40",
+      "episode_description": ""
     },
     {
       "show_name": "# Version française",
       "show_logo": "",
-      "start_time": "2026-02-03 08:40:00",
-      "end_time": "2026-02-03 09:07:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:40",
+      "end_time": "09:07",
+      "episode_description": ""
     },
     {
       "show_name": "Chef Pays",
       "show_logo": "",
-      "start_time": "2026-02-03 09:07:00",
-      "end_time": "2026-02-03 09:39:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:07",
+      "end_time": "09:39",
+      "episode_description": ""
     },
     {
       "show_name": "Tout le monde veut prendre",
       "show_logo": "",
-      "start_time": "2026-02-03 09:39:00",
-      "end_time": "2026-02-03 10:37:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:39",
+      "end_time": "10:37",
+      "episode_description": ""
     },
     {
       "show_name": "Un si grand soleil",
       "show_logo": "",
-      "start_time": "2026-02-03 10:37:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:37",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "64' Actu",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "64' Débat",
       "show_logo": "",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 12:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:05",
+      "episode_description": ""
     },
     {
       "show_name": "OPJ",
       "show_logo": "",
-      "start_time": "2026-02-03 12:05:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:05",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "Le journal de la rts",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 14:27:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:27",
+      "episode_description": ""
     },
     {
       "show_name": "Slam",
       "show_logo": "",
-      "start_time": "2026-02-03 14:27:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:27",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "TV5Monde le Journal Afrique",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Hep taxi !",
       "show_logo": "",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 16:01:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:01",
+      "episode_description": ""
     },
     {
       "show_name": "Le Point",
       "show_logo": "",
-      "start_time": "2026-02-03 16:01:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:01",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Le Journal de France 2",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 17:31:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:31",
+      "episode_description": ""
     },
     {
       "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
-      "start_time": "2026-02-03 17:31:00",
-      "end_time": "2026-02-03 19:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:31",
+      "end_time": "19:30",
+      "episode_description": ""
     },
     {
       "show_name": "L'actu news",
       "show_logo": "",
-      "start_time": "2026-02-03 19:30:00",
-      "end_time": "2026-02-03 20:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:30",
+      "end_time": "20:02",
+      "episode_description": ""
     },
     {
       "show_name": "La grande librairie",
       "show_logo": "",
-      "start_time": "2026-02-03 20:02:00",
-      "end_time": "2026-02-03 21:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:02",
+      "end_time": "21:36",
+      "episode_description": ""
     },
     {
       "show_name": "#Investigation",
       "show_logo": "",
-      "start_time": "2026-02-03 21:36:00",
-      "end_time": "2026-02-03 23:07:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:36",
+      "end_time": "23:07",
+      "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
-      "start_time": "2026-02-03 23:07:00",
-      "end_time": "2026-02-03 23:32:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:07",
+      "end_time": "23:32",
+      "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
-      "start_time": "2026-02-03 23:32:00",
-      "end_time": "2026-02-04 01:04:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:32",
+      "end_time": "01:04",
+      "episode_description": ""
     }
   ]
 }

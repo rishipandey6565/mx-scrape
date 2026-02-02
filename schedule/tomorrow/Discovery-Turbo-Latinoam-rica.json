@@ -1,267 +1,238 @@
 {
-  "channel_name": "Discovery Turbo (Latinoamérica)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Discovery Turbo (Latinoamérica)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "ADN mecánico",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:33:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:33",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos celebridades",
       "show_logo": "",
-      "start_time": "2026-02-03 00:33:00",
-      "end_time": "2026-02-03 01:21:00",
-      "episode_number": "S8 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:33",
+      "end_time": "01:21",
+      "episode_description": ""
     },
     {
       "show_name": "American Chopper",
       "show_logo": "",
-      "start_time": "2026-02-03 01:21:00",
-      "end_time": "2026-02-03 02:08:00",
-      "episode_number": "S11 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:21",
+      "end_time": "02:08",
+      "episode_description": ""
     },
     {
       "show_name": "Tommy Pike Autos a la medida",
       "show_logo": "",
-      "start_time": "2026-02-03 02:08:00",
-      "end_time": "2026-02-03 02:54:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:08",
+      "end_time": "02:54",
+      "episode_description": ""
     },
     {
       "show_name": "Tommy Pike Autos a la medida",
       "show_logo": "",
-      "start_time": "2026-02-03 02:54:00",
-      "end_time": "2026-02-03 04:13:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:54",
+      "end_time": "04:13",
+      "episode_description": ""
     },
     {
       "show_name": "Overhaulin'",
       "show_logo": "",
-      "start_time": "2026-02-03 04:13:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "S6 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:13",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Te debo una: Celebridades y autos",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:50:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:50",
+      "episode_description": ""
     },
     {
       "show_name": "Sueños mecánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 05:50:00",
-      "end_time": "2026-02-03 06:40:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:50",
+      "end_time": "06:40",
+      "episode_description": ""
     },
     {
       "show_name": "Adicto a los motores",
       "show_logo": "",
-      "start_time": "2026-02-03 06:40:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:40",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Gas Monkey al rescate",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:20:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:20",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas Sobre Ruedas",
       "show_logo": "",
-      "start_time": "2026-02-03 08:20:00",
-      "end_time": "2026-02-03 09:11:00",
-      "episode_number": "S18 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:20",
+      "end_time": "09:11",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas Sobre Ruedas",
       "show_logo": "",
-      "start_time": "2026-02-03 09:11:00",
-      "end_time": "2026-02-03 10:02:00",
-      "episode_number": "S18 E14",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:11",
+      "end_time": "10:02",
+      "episode_description": ""
     },
     {
       "show_name": "ADN mecánico",
       "show_logo": "",
-      "start_time": "2026-02-03 10:02:00",
-      "end_time": "2026-02-03 10:54:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:02",
+      "end_time": "10:54",
+      "episode_description": ""
     },
     {
       "show_name": "Mexicánicos celebridades",
       "show_logo": "",
-      "start_time": "2026-02-03 10:54:00",
-      "end_time": "2026-02-03 11:46:00",
-      "episode_number": "S8 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:54",
+      "end_time": "11:46",
+      "episode_description": ""
     },
     {
       "show_name": "American Chopper",
       "show_logo": "",
-      "start_time": "2026-02-03 11:46:00",
-      "end_time": "2026-02-03 12:38:00",
-      "episode_number": "S11 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:46",
+      "end_time": "12:38",
+      "episode_description": ""
     },
     {
       "show_name": "Tommy Pike Autos a la medida",
       "show_logo": "",
-      "start_time": "2026-02-03 12:38:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:38",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Tommy Pike Autos a la medida",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:22:00",
-      "episode_number": "S1 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:22",
+      "episode_description": ""
     },
     {
       "show_name": "Overhaulin'",
       "show_logo": "",
-      "start_time": "2026-02-03 14:22:00",
-      "end_time": "2026-02-03 15:14:00",
-      "episode_number": "S6 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:22",
+      "end_time": "15:14",
+      "episode_description": ""
     },
     {
       "show_name": "Al estilo Kindig: Detrás de cámaras",
       "show_logo": "",
-      "start_time": "2026-02-03 15:14:00",
-      "end_time": "2026-02-03 16:06:00",
-      "episode_number": "S1 E8",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:14",
+      "end_time": "16:06",
+      "episode_description": ""
     },
     {
       "show_name": "Overhaulin'",
       "show_logo": "",
-      "start_time": "2026-02-03 16:06:00",
-      "end_time": "2026-02-03 16:58:00",
-      "episode_number": "S6 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:06",
+      "end_time": "16:58",
+      "episode_description": ""
     },
     {
       "show_name": "Al estilo Kindig",
       "show_logo": "",
-      "start_time": "2026-02-03 16:58:00",
-      "end_time": "2026-02-03 17:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:58",
+      "end_time": "17:50",
+      "episode_description": ""
     },
     {
       "show_name": "Texas Metal",
       "show_logo": "",
-      "start_time": "2026-02-03 17:50:00",
-      "end_time": "2026-02-03 18:42:00",
-      "episode_number": "S7",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:50",
+      "end_time": "18:42",
+      "episode_description": ""
     },
     {
       "show_name": "Te debo una: Celebridades y autos",
       "show_logo": "",
-      "start_time": "2026-02-03 18:42:00",
-      "end_time": "2026-02-03 19:34:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:42",
+      "end_time": "19:34",
+      "episode_description": ""
     },
     {
       "show_name": "Sueños mecánicos",
       "show_logo": "",
-      "start_time": "2026-02-03 19:34:00",
-      "end_time": "2026-02-03 20:26:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:34",
+      "end_time": "20:26",
+      "episode_description": ""
     },
     {
       "show_name": "Adicto a los motores",
       "show_logo": "",
-      "start_time": "2026-02-03 20:26:00",
-      "end_time": "2026-02-03 21:18:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:26",
+      "end_time": "21:18",
+      "episode_description": ""
     },
     {
       "show_name": "Gas Monkey al rescate",
       "show_logo": "",
-      "start_time": "2026-02-03 21:18:00",
-      "end_time": "2026-02-03 22:10:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:18",
+      "end_time": "22:10",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas Sobre Ruedas",
       "show_logo": "",
-      "start_time": "2026-02-03 22:10:00",
-      "end_time": "2026-02-03 23:02:00",
-      "episode_number": "S18 E15",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:10",
+      "end_time": "23:02",
+      "episode_description": ""
     },
     {
       "show_name": "Joyas Sobre Ruedas",
       "show_logo": "",
-      "start_time": "2026-02-03 23:02:00",
-      "end_time": "2026-02-03 23:54:00",
-      "episode_number": "S18 E16",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:02",
+      "end_time": "23:54",
+      "episode_description": ""
     },
     {
       "show_name": "Te debo una: Celebridades y autos",
       "show_logo": "",
-      "start_time": "2026-02-03 23:54:00",
-      "end_time": "2026-02-04 00:46:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:54",
+      "end_time": "00:46",
+      "episode_description": ""
     }
   ]
 }

@@ -1,213 +1,190 @@
 {
-  "channel_name": "María Visión",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "María Visión",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Coronilla de la Divina",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 03:30:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Sta misa desde Guerrero, Méx",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cadena de amor",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cadena de amor",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 10:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
       "show_name": "Bienhechores M+V",
       "show_logo": "",
-      "start_time": "2026-02-03 10:30:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Santa Misa capilla m+v",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Caravana por la paz",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santa misa, Basílica",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "La Divina Misericordia",
       "show_logo": "",
-      "start_time": "2026-02-03 14:30:00",
-      "end_time": "2026-02-03 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santa misa, Ermita",
       "show_logo": "",
-      "start_time": "2026-02-03 15:30:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "Teología del Cuerpo",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 17:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
-      "start_time": "2026-02-03 17:30:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Coronilla de las Virtudes",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "episode_description": ""
     },
     {
       "show_name": "Catecismo de la Iglesia",
       "show_logo": "",
-      "start_time": "2026-02-03 19:30:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Sta misa, Basílica de Zapopan",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Apóstoles de nuestro tiempo",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-04 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "03:00",
+      "episode_description": ""
     }
   ]
 }

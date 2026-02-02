@@ -1,330 +1,294 @@
 {
-  "channel_name": "Clic",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Clic",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Pase de abordar",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Documentales",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "La revolución de la libertad",
       "show_logo": "",
-      "start_time": "2026-02-03 01:00:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Ficción",
       "show_logo": "",
-      "start_time": "2026-02-03 02:00:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-03 03:30:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 04:30:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-03 04:30:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-03 05:30:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Ficción",
       "show_logo": "",
-      "start_time": "2026-02-03 06:30:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Caza misterios",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Yoga y tu",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "S3 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Azteca fit",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Estilo",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Creaciones mágicas",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cocinísima",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mesa y cuchara",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "S2 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Frente a todo",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 16:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-03 16:00:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "S1 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Documentales",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 18:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Rutas de la Vida",
       "show_logo": "",
-      "start_time": "2026-02-03 18:00:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Frente a todo",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "DocuFIA: Documentales de Fuerza Informativa Azteca",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Sexo, amor y cachondeo",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Rutas de la Vida",
       "show_logo": "",
-      "start_time": "2026-02-03 22:30:00",
-      "end_time": "2026-02-03 23:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Mundo metro",
       "show_logo": "",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

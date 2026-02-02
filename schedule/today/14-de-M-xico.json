@@ -1,222 +1,198 @@
 {
-  "channel_name": "14 de México",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "14 de México",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "La oveja negra",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "El vuelo de la cigüeña",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
       "show_name": "El Santo Oficio",
       "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 03:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "03:40",
+      "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
-      "start_time": "2026-02-02 03:40:00",
-      "end_time": "2026-02-02 05:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:40",
+      "end_time": "05:10",
+      "episode_description": ""
     },
     {
       "show_name": "Clandestino",
       "show_logo": "",
-      "start_time": "2026-02-02 05:10:00",
-      "end_time": "2026-02-02 05:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:10",
+      "end_time": "05:40",
+      "episode_description": ""
     },
     {
       "show_name": "Leer, una hora inesperada",
       "show_logo": "",
-      "start_time": "2026-02-02 05:40:00",
-      "end_time": "2026-02-02 06:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:40",
+      "end_time": "06:55",
+      "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
-      "start_time": "2026-02-02 06:55:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:55",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Conferencia Matutina",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 09:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "09:15",
+      "episode_description": ""
     },
     {
       "show_name": "Mañanera 360",
       "show_logo": "",
-      "start_time": "2026-02-02 09:15:00",
-      "end_time": "2026-02-02 10:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "episode_description": ""
     },
     {
       "show_name": "Mujeres haciendo historia",
       "show_logo": "",
-      "start_time": "2026-02-02 10:15:00",
-      "end_time": "2026-02-02 10:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:15",
+      "end_time": "10:45",
+      "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
-      "start_time": "2026-02-02 10:45:00",
-      "end_time": "2026-02-02 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:45",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Consulta directa",
       "show_logo": "",
-      "start_time": "2026-02-02 11:30:00",
-      "end_time": "2026-02-02 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Saborcito corazón",
       "show_logo": "",
-      "start_time": "2026-02-02 12:30:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "La culta dama",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:35",
+      "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
-      "start_time": "2026-02-02 14:35:00",
-      "end_time": "2026-02-02 16:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:35",
+      "end_time": "16:10",
+      "episode_description": ""
     },
     {
       "show_name": "Cartas para la libertad",
       "show_logo": "",
-      "start_time": "2026-02-02 16:10:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:10",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "Abiertamente",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "Informativo 14",
       "show_logo": "",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Conversando Cristina Pacheco",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mañanera 360",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Punto de referencia",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "TV Migrante Informa",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
     },
     {
       "show_name": "Infodemia",
       "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Un lugar en el sol",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "00:45",
+      "episode_description": ""
     }
   ]
 }

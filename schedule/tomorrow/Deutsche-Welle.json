@@ -1,555 +1,494 @@
 {
-  "channel_name": "Deutsche Welle",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Deutsche Welle",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Eco India",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 00:15:00",
-      "end_time": "2026-02-03 00:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:15",
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "Arts Unveiled",
       "show_logo": "",
-      "start_time": "2026-02-03 00:30:00",
-      "end_time": "2026-02-03 01:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 01:00:00",
-      "end_time": "2026-02-03 01:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:15",
+      "episode_description": ""
     },
     {
       "show_name": "My Body, My Muscles",
       "show_logo": "",
-      "start_time": "2026-02-03 01:15:00",
-      "end_time": "2026-02-03 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:15",
+      "end_time": "02:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 02:00:00",
-      "end_time": "2026-02-03 02:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:00",
+      "end_time": "02:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 02:15:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:15",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "Eco Africa",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:15",
+      "episode_description": ""
     },
     {
       "show_name": "Close upThe Current Affairs",
       "show_logo": "",
-      "start_time": "2026-02-03 03:15:00",
-      "end_time": "2026-02-03 03:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:15",
+      "end_time": "03:45",
+      "episode_description": ""
     },
     {
       "show_name": "Reporter On Location",
       "show_logo": "",
-      "start_time": "2026-02-03 03:45:00",
-      "end_time": "2026-02-03 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:45",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 04:00:00",
-      "end_time": "2026-02-03 04:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "04:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 04:15:00",
-      "end_time": "2026-02-03 04:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:15",
+      "end_time": "04:30",
+      "episode_description": ""
     },
     {
       "show_name": "Tomorrow today the science",
       "show_logo": "",
-      "start_time": "2026-02-03 04:30:00",
-      "end_time": "2026-02-03 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 05:00:00",
-      "end_time": "2026-02-03 05:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": ""
     },
     {
       "show_name": "Cities on the Sea",
       "show_logo": "",
-      "start_time": "2026-02-03 05:15:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:15",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:15",
+      "episode_description": ""
     },
     {
       "show_name": "Close upThe Current Affairs",
       "show_logo": "",
-      "start_time": "2026-02-03 06:15:00",
-      "end_time": "2026-02-03 06:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:15",
+      "end_time": "06:45",
+      "episode_description": ""
     },
     {
       "show_name": "Shift living in the digital",
       "show_logo": "",
-      "start_time": "2026-02-03 06:45:00",
-      "end_time": "2026-02-03 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 07:00:00",
-      "end_time": "2026-02-03 07:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "07:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 07:15:00",
-      "end_time": "2026-02-03 07:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:15",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Eco India",
       "show_logo": "",
-      "start_time": "2026-02-03 07:30:00",
-      "end_time": "2026-02-03 08:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 08:00:00",
-      "end_time": "2026-02-03 08:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 08:15:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:15",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Global Us",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 09:00:00",
-      "end_time": "2026-02-03 09:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 09:15:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:15",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Tomorrow today the science",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 10:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 10:00:00",
-      "end_time": "2026-02-03 10:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:00",
+      "end_time": "10:15",
+      "episode_description": ""
     },
     {
       "show_name": "Close upThe Current Affairs",
       "show_logo": "",
-      "start_time": "2026-02-03 10:15:00",
-      "end_time": "2026-02-03 10:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:15",
+      "end_time": "10:45",
+      "episode_description": ""
     },
     {
       "show_name": "Reporter On Location",
       "show_logo": "",
-      "start_time": "2026-02-03 10:45:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:45",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 11:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 11:15:00",
-      "end_time": "2026-02-03 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
     },
     {
       "show_name": "Rev",
       "show_logo": "",
-      "start_time": "2026-02-03 11:30:00",
-      "end_time": "2026-02-03 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 12:00:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Eco Africa",
       "show_logo": "",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 13:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "13:02",
+      "episode_description": ""
     },
     {
       "show_name": "Eco India",
       "show_logo": "",
-      "start_time": "2026-02-03 13:02:00",
-      "end_time": "2026-02-03 13:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:02",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
       "show_name": "Tomorrow today the science",
       "show_logo": "",
-      "start_time": "2026-02-03 13:30:00",
-      "end_time": "2026-02-03 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 14:00:00",
-      "end_time": "2026-02-03 14:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Day",
       "show_logo": "",
-      "start_time": "2026-02-03 14:30:00",
-      "end_time": "2026-02-03 15:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:30",
+      "end_time": "15:15",
+      "episode_description": ""
     },
     {
       "show_name": "Close upThe Current Affairs",
       "show_logo": "",
-      "start_time": "2026-02-03 15:15:00",
-      "end_time": "2026-02-03 15:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:15",
+      "end_time": "15:45",
+      "episode_description": ""
     },
     {
       "show_name": "Shift living in the digital",
       "show_logo": "",
-      "start_time": "2026-02-03 15:45:00",
-      "end_time": "2026-02-03 16:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:45",
+      "end_time": "16:02",
+      "episode_description": ""
     },
     {
       "show_name": "The Day",
       "show_logo": "",
-      "start_time": "2026-02-03 16:02:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:02",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "The 77 Percent",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 17:00:00",
-      "end_time": "2026-02-03 17:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "17:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 17:15:00",
-      "end_time": "2026-02-03 17:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": ""
     },
     {
       "show_name": "Global Us",
       "show_logo": "",
-      "start_time": "2026-02-03 17:30:00",
-      "end_time": "2026-02-03 18:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "18:02",
+      "episode_description": ""
     },
     {
       "show_name": "The Day",
       "show_logo": "",
-      "start_time": "2026-02-03 18:02:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:02",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Made in Germany",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 19:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "19:15",
+      "episode_description": ""
     },
     {
       "show_name": "Stumbling Stones",
       "show_logo": "",
-      "start_time": "2026-02-03 19:15:00",
-      "end_time": "2026-02-03 20:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:15",
+      "end_time": "20:02",
+      "episode_description": ""
     },
     {
       "show_name": "The Day",
       "show_logo": "",
-      "start_time": "2026-02-03 20:02:00",
-      "end_time": "2026-02-03 20:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:02",
+      "end_time": "20:30",
+      "episode_description": ""
     },
     {
       "show_name": "Global Us",
       "show_logo": "",
-      "start_time": "2026-02-03 20:30:00",
-      "end_time": "2026-02-03 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 21:00:00",
-      "end_time": "2026-02-03 21:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": ""
     },
     {
       "show_name": "Best of DW-online Content",
       "show_logo": "",
-      "start_time": "2026-02-03 21:15:00",
-      "end_time": "2026-02-03 21:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:15",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "Eco Africa",
       "show_logo": "",
-      "start_time": "2026-02-03 21:30:00",
-      "end_time": "2026-02-03 22:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "DW News",
       "show_logo": "",
-      "start_time": "2026-02-03 22:00:00",
-      "end_time": "2026-02-03 22:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "22:15",
+      "episode_description": ""
     },
     {
       "show_name": "Stumbling Stones",
       "show_logo": "",
-      "start_time": "2026-02-03 22:15:00",
-      "end_time": "2026-02-03 23:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:15",
+      "end_time": "23:02",
+      "episode_description": ""
     },
     {
       "show_name": "The Day",
       "show_logo": "",
-      "start_time": "2026-02-03 23:02:00",
-      "end_time": "2026-02-03 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:02",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Made in Germany",
       "show_logo": "",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

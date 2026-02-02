@@ -1,267 +1,238 @@
 {
-  "channel_name": "E! Entertainment Television (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "E! Entertainment Television (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Love Island",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:05:00",
-      "episode_number": "S4 E22",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:05",
+      "episode_description": ""
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
       "show_logo": "",
-      "start_time": "2026-02-03 01:05:00",
-      "end_time": "2026-02-03 01:55:00",
-      "episode_number": "S11 E7",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:05",
+      "end_time": "01:55",
+      "episode_description": ""
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
       "show_logo": "",
-      "start_time": "2026-02-03 01:55:00",
-      "end_time": "2026-02-03 02:45:00",
-      "episode_number": "S11 E8",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:55",
+      "end_time": "02:45",
+      "episode_description": ""
     },
     {
       "show_name": "Escuela imparables",
       "show_logo": "",
-      "start_time": "2026-02-03 02:45:00",
-      "end_time": "2026-02-03 03:35:00",
-      "episode_number": "S2 E8",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:45",
+      "end_time": "03:35",
+      "episode_description": ""
     },
     {
       "show_name": "Escuela imparables",
       "show_logo": "",
-      "start_time": "2026-02-03 03:35:00",
-      "end_time": "2026-02-03 04:25:00",
-      "episode_number": "S2 E9",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:35",
+      "end_time": "04:25",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 04:25:00",
-      "end_time": "2026-02-03 05:15:00",
-      "episode_number": "S15 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:25",
+      "end_time": "05:15",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 05:15:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "S15 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:15",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:50:00",
-      "episode_number": "S15 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:50",
+      "episode_description": ""
     },
     {
       "show_name": "Escuela imparables",
       "show_logo": "",
-      "start_time": "2026-02-03 06:50:00",
-      "end_time": "2026-02-03 07:40:00",
-      "episode_number": "S2 E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:50",
+      "end_time": "07:40",
+      "episode_description": ""
     },
     {
       "show_name": "Escuela imparables",
       "show_logo": "",
-      "start_time": "2026-02-03 07:40:00",
-      "end_time": "2026-02-03 08:30:00",
-      "episode_number": "S2 E11",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:40",
+      "end_time": "08:30",
+      "episode_description": ""
     },
     {
       "show_name": "Project Runway",
       "show_logo": "",
-      "start_time": "2026-02-03 08:30:00",
-      "end_time": "2026-02-03 09:15:00",
-      "episode_number": "S16 E15",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:30",
+      "end_time": "09:15",
+      "episode_description": ""
     },
     {
       "show_name": "Vanderpump Rules",
       "show_logo": "",
-      "start_time": "2026-02-03 09:15:00",
-      "end_time": "2026-02-03 10:05:00",
-      "episode_number": "S4 E19",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:15",
+      "end_time": "10:05",
+      "episode_description": ""
     },
     {
       "show_name": "Vanderpump Rules",
       "show_logo": "",
-      "start_time": "2026-02-03 10:05:00",
-      "end_time": "2026-02-03 10:55:00",
-      "episode_number": "S4 E20",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:05",
+      "end_time": "10:55",
+      "episode_description": ""
     },
     {
       "show_name": "Vanderpump Rules",
       "show_logo": "",
-      "start_time": "2026-02-03 10:55:00",
-      "end_time": "2026-02-03 11:45:00",
-      "episode_number": "S4 E21",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:55",
+      "end_time": "11:45",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 11:45:00",
-      "end_time": "2026-02-03 12:35:00",
-      "episode_number": "S15 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:45",
+      "end_time": "12:35",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 12:35:00",
-      "end_time": "2026-02-03 13:25:00",
-      "episode_number": "S15 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:35",
+      "end_time": "13:25",
+      "episode_description": ""
     },
     {
       "show_name": "Keeping Up with the Kardashians",
       "show_logo": "",
-      "start_time": "2026-02-03 13:25:00",
-      "end_time": "2026-02-03 14:15:00",
-      "episode_number": "S15 E6",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:25",
+      "end_time": "14:15",
+      "episode_description": ""
     },
     {
       "show_name": "Project Runway",
       "show_logo": "",
-      "start_time": "2026-02-03 14:15:00",
-      "end_time": "2026-02-03 15:00:00",
-      "episode_number": "S16 E15",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:15",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Project Runway",
       "show_logo": "",
-      "start_time": "2026-02-03 15:00:00",
-      "end_time": "2026-02-03 15:55:00",
-      "episode_number": "S18 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "15:55",
+      "episode_description": ""
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
       "show_logo": "",
-      "start_time": "2026-02-03 15:55:00",
-      "end_time": "2026-02-03 16:45:00",
-      "episode_number": "S11 E9",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:55",
+      "end_time": "16:45",
+      "episode_description": ""
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
       "show_logo": "",
-      "start_time": "2026-02-03 16:45:00",
-      "end_time": "2026-02-03 17:35:00",
-      "episode_number": "S11 E10",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:45",
+      "end_time": "17:35",
+      "episode_description": ""
     },
     {
       "show_name": "Love Island",
       "show_logo": "",
-      "start_time": "2026-02-03 17:35:00",
-      "end_time": "2026-02-03 18:30:00",
-      "episode_number": "S4 E21",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:35",
+      "end_time": "18:30",
+      "episode_description": ""
     },
     {
       "show_name": "Love Island",
       "show_logo": "",
-      "start_time": "2026-02-03 18:30:00",
-      "end_time": "2026-02-03 19:40:00",
-      "episode_number": "S4 E22",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:30",
+      "end_time": "19:40",
+      "episode_description": ""
     },
     {
       "show_name": "Botched",
       "show_logo": "",
-      "start_time": "2026-02-03 19:40:00",
-      "end_time": "2026-02-03 20:30:00",
-      "episode_number": "S4 E13",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:40",
+      "end_time": "20:30",
+      "episode_description": ""
     },
     {
       "show_name": "Botched",
       "show_logo": "",
-      "start_time": "2026-02-03 20:30:00",
-      "end_time": "2026-02-03 21:20:00",
-      "episode_number": "S4 E14",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:30",
+      "end_time": "21:20",
+      "episode_description": ""
     },
     {
       "show_name": "Botched",
       "show_logo": "",
-      "start_time": "2026-02-03 21:20:00",
-      "end_time": "2026-02-03 22:10:00",
-      "episode_number": "S4 E15",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:20",
+      "end_time": "22:10",
+      "episode_description": ""
     },
     {
       "show_name": "Botched",
       "show_logo": "",
-      "start_time": "2026-02-03 22:10:00",
-      "end_time": "2026-02-03 23:00:00",
-      "episode_number": "S4 E16",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:10",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Love Island",
       "show_logo": "",
-      "start_time": "2026-02-03 23:00:00",
-      "end_time": "2026-02-03 23:50:00",
-      "episode_number": "S4 E23",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "23:50",
+      "episode_description": ""
     },
     {
       "show_name": "Love Island",
       "show_logo": "",
-      "start_time": "2026-02-03 23:50:00",
-      "end_time": "2026-02-04 00:45:00",
-      "episode_number": "S4 E24",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:50",
+      "end_time": "00:45",
+      "episode_description": ""
     }
   ]
 }

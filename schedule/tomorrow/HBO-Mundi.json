@@ -1,114 +1,102 @@
 {
-  "channel_name": "HBO Mundi",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "HBO Mundi",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Magnolia",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Descubriendo a mi hijo",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 04:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:55",
+      "episode_description": ""
     },
     {
       "show_name": "Elizabeth",
       "show_logo": "",
-      "start_time": "2026-02-03 04:55:00",
-      "end_time": "2026-02-03 07:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:55",
+      "end_time": "07:05",
+      "episode_description": ""
     },
     {
       "show_name": "Spencer",
       "show_logo": "",
-      "start_time": "2026-02-03 07:05:00",
-      "end_time": "2026-02-03 09:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:05",
+      "end_time": "09:05",
+      "episode_description": ""
     },
     {
       "show_name": "Las Dos Reinas",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_dos_reinas.jpg",
-      "start_time": "2026-02-03 09:05:00",
-      "end_time": "2026-02-03 11:15:00",
-      "episode_number": "",
       "show_category": "Biografía",
-      "show_description": "Explora la turbulenta vida de la carismática María Estuardo (Saoirse Ronan). Reina de Francia a los 16 y viuda a los 18, Mary desafía la presión para volver a casarse. En cambio, ella regresa a su Escocia natal para reclamar su trono legítimo. Pero Escocia e Inglaterra están bajo el dominio de la convincente Isabel I (Margot Robbie). Cada joven reina contempla a su \"hermana\" con miedo y fascinación. Rivales en el poder y en el amor, y las mujeres regentes en un mundo masculino, las dos deben decidir cómo jugar el juego del matrimonio contra la independencia. Determinada a gobernar como mucho más que una figura decorativa, María I afirma su reclamo al trono inglés, amenazando la soberanía de Isabel I. La traición, la rebelión y las conspiraciones dentro de cada corte ponen en peligro ambos tronos – y el cambio del curso de la historia."
+      "start_time": "09:05",
+      "end_time": "11:15",
+      "episode_description": "Explora la turbulenta vida de la carismática María Estuardo (Saoirse Ronan). Reina de Francia a los 16 y viuda a los 18, Mary desafía la presión para volver a casarse. En cambio, ella regresa a su Escocia natal para reclamar su trono legítimo. Pero Escocia e Inglaterra están bajo el dominio de la convincente Isabel I (Margot Robbie). Cada joven reina contempla a su \"hermana\" con miedo y fascinación. Rivales en el poder y en el amor, y las mujeres regentes en un mundo masculino, las dos deben decidir cómo jugar el juego del matrimonio contra la independencia. Determinada a gobernar como mucho más que una figura decorativa, María I afirma su reclamo al trono inglés, amenazando la soberanía de Isabel I. La traición, la rebelión y las conspiraciones dentro de cada corte ponen en peligro ambos tronos – y el cambio del curso de la historia."
     },
     {
       "show_name": "Lady Bird",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/lady_bird.jpg",
-      "start_time": "2026-02-03 11:15:00",
-      "end_time": "2026-02-03 12:55:00",
-      "episode_number": "",
       "show_category": "Comedia",
-      "show_description": "Excavando tanto el humor como la discusión en el vínculo turbulento entre una madre y su hija adolescente. Christine \"Lady Bird\" MacPherson (Saoirse Ronan) pelea en contra, pero es exactamente como su amorosa, profundamente obstinada y fuerte madre Marion McPherson (Laurie Metcalf), una enfermera que trabaja incansablemente para mantener a flote a su familia después de que el padre Lady, Larry McPherson (Tracy Letts) pierde su trabajo."
+      "start_time": "11:15",
+      "end_time": "12:55",
+      "episode_description": "Excavando tanto el humor como la discusión en el vínculo turbulento entre una madre y su hija adolescente. Christine \"Lady Bird\" MacPherson (Saoirse Ronan) pelea en contra, pero es exactamente como su amorosa, profundamente obstinada y fuerte madre Marion McPherson (Laurie Metcalf), una enfermera que trabaja incansablemente para mantener a flote a su familia después de que el padre Lady, Larry McPherson (Tracy Letts) pierde su trabajo."
     },
     {
       "show_name": "Todo, en todas partes",
       "show_logo": "",
-      "start_time": "2026-02-03 12:55:00",
-      "end_time": "2026-02-03 15:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:55",
+      "end_time": "15:20",
+      "episode_description": ""
     },
     {
       "show_name": "Back to Black",
       "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/back_to_black.jpg",
-      "start_time": "2026-02-03 15:20:00",
-      "end_time": "2026-02-03 17:30:00",
-      "episode_number": "",
       "show_category": "Biografía",
-      "show_description": "La extraordinaria historia del ascenso temprano de Amy Winehouse (Marisa Abela) a la fama desde sus primeros días en Camden hasta la realización de su innovador álbum, Back to Black, que catapultó a Winehouse a la fama mundial. Contada a través de los ojos de Amy e inspirada en sus letras profundamente personales, la película explora y abarca las muchas capas de la artista icónica y la tumultuosa historia de amor en el centro de uno de los álbumes más legendarios de todos los tiempos."
+      "start_time": "15:20",
+      "end_time": "17:30",
+      "episode_description": "La extraordinaria historia del ascenso temprano de Amy Winehouse (Marisa Abela) a la fama desde sus primeros días en Camden hasta la realización de su innovador álbum, Back to Black, que catapultó a Winehouse a la fama mundial. Contada a través de los ojos de Amy e inspirada en sus letras profundamente personales, la película explora y abarca las muchas capas de la artista icónica y la tumultuosa historia de amor en el centro de uno de los álbumes más legendarios de todos los tiempos."
     },
     {
       "show_name": "La sustancia",
       "show_logo": "",
-      "start_time": "2026-02-03 17:30:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:30",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "La cosa del otro mundo",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 21:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:55",
+      "episode_description": ""
     },
     {
       "show_name": "Nosotros",
       "show_logo": "",
-      "start_time": "2026-02-03 21:55:00",
-      "end_time": "2026-02-03 23:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:55",
+      "end_time": "23:55",
+      "episode_description": ""
     },
     {
       "show_name": "1978",
       "show_logo": "",
-      "start_time": "2026-02-03 23:55:00",
-      "end_time": "2026-02-04 01:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:55",
+      "end_time": "01:20",
+      "episode_description": ""
     }
   ]
 }

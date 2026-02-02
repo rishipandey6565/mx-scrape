@@ -1,186 +1,166 @@
 {
-  "channel_name": "Film & Arts",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Film & Arts",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Bel Ami",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "The Answer Man",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:55:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:55",
+      "episode_description": ""
     },
     {
       "show_name": "Hayato Sumino at Budokan",
       "show_logo": "",
-      "start_time": "2026-02-02 01:55:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:55",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tim Burton, un monstruo de cin",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
       "show_name": "Jerry Lewis, el hombre detrás",
       "show_logo": "",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "BauHaus",
       "show_logo": "",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "The Art Mysteries",
       "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 07:30:00",
-      "episode_number": "S32 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": ""
     },
     {
       "show_name": "Bel Ami",
       "show_logo": "",
-      "start_time": "2026-02-02 07:30:00",
-      "end_time": "2026-02-02 09:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:30",
+      "end_time": "09:20",
+      "episode_description": ""
     },
     {
       "show_name": "The Answer Man",
       "show_logo": "",
-      "start_time": "2026-02-02 09:20:00",
-      "end_time": "2026-02-02 12:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:20",
+      "end_time": "12:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hayato Sumino at Budokan",
       "show_logo": "",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Tim Burton, un monstruo de cin",
       "show_logo": "",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
     },
     {
       "show_name": "BauHaus",
       "show_logo": "",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bel Ami",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 17:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "S32 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "El futuro de la música",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "La curiosa historia de Miho Ha",
       "show_logo": "",
-      "start_time": "2026-02-02 20:00:00",
-      "end_time": "2026-02-02 21:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
       "show_name": "Bookish",
       "show_logo": "",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "Vera",
       "show_logo": "",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:45:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:00",
+      "end_time": "23:45",
+      "episode_description": ""
     },
     {
       "show_name": "Vera",
       "show_logo": "",
-      "start_time": "2026-02-02 23:45:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:45",
+      "end_time": "02:30",
+      "episode_description": ""
     }
   ]
 }

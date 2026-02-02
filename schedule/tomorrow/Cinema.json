@@ -1,141 +1,126 @@
 {
-  "channel_name": "Cinema",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Cinema",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Isla para Dos",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:15",
+      "episode_description": ""
     },
     {
       "show_name": "Ave sin rumbo",
       "show_logo": "",
-      "start_time": "2026-02-03 01:15:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:15",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Talpa",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 04:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:45",
+      "episode_description": ""
     },
     {
       "show_name": "Fierecilla",
       "show_logo": "",
-      "start_time": "2026-02-03 04:45:00",
-      "end_time": "2026-02-03 06:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:45",
+      "end_time": "06:00",
+      "episode_description": ""
     },
     {
       "show_name": "Si quiero",
       "show_logo": "",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 07:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:00",
+      "end_time": "07:45",
+      "episode_description": ""
     },
     {
       "show_name": "Si yo fuera millonario",
       "show_logo": "",
-      "start_time": "2026-02-03 07:45:00",
-      "end_time": "2026-02-03 09:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:45",
+      "end_time": "09:30",
+      "episode_description": ""
     },
     {
       "show_name": "Novia a la medida",
       "show_logo": "",
-      "start_time": "2026-02-03 09:30:00",
-      "end_time": "2026-02-03 11:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:30",
+      "end_time": "11:15",
+      "episode_description": ""
     },
     {
       "show_name": "La sonrisa de los pobres",
       "show_logo": "",
-      "start_time": "2026-02-03 11:15:00",
-      "end_time": "2026-02-03 13:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:15",
+      "end_time": "13:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cuando regrese mamá",
       "show_logo": "",
-      "start_time": "2026-02-03 13:00:00",
-      "end_time": "2026-02-03 14:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:00",
+      "end_time": "14:45",
+      "episode_description": ""
     },
     {
       "show_name": "Dos mundos y un amor",
       "show_logo": "",
-      "start_time": "2026-02-03 14:45:00",
-      "end_time": "2026-02-03 16:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:45",
+      "end_time": "16:30",
+      "episode_description": ""
     },
     {
       "show_name": "Amor de la calle",
       "show_logo": "",
-      "start_time": "2026-02-03 16:30:00",
-      "end_time": "2026-02-03 18:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:30",
+      "end_time": "18:15",
+      "episode_description": ""
     },
     {
       "show_name": "El aviador fenómeno",
       "show_logo": "",
-      "start_time": "2026-02-03 18:15:00",
-      "end_time": "2026-02-03 20:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "18:15",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "Mi papá tuvo la culpa",
       "show_logo": "",
-      "start_time": "2026-02-03 20:00:00",
-      "end_time": "2026-02-03 21:45:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:00",
+      "end_time": "21:45",
+      "episode_description": ""
     },
     {
       "show_name": "Soy Charro de Levita",
       "show_logo": "",
-      "start_time": "2026-02-03 21:45:00",
-      "end_time": "2026-02-03 23:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:45",
+      "end_time": "23:30",
+      "episode_description": ""
     },
     {
       "show_name": "Si quiero",
       "show_logo": "",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 01:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:30",
+      "end_time": "01:15",
+      "episode_description": ""
     }
   ]
 }

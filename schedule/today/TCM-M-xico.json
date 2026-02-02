@@ -1,159 +1,142 @@
 {
-  "channel_name": "TCM (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "TCM (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Un Retazo de Azul",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:39:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:39",
+      "episode_description": ""
     },
     {
       "show_name": "Prisionero del Rock and Roll",
       "show_logo": "",
-      "start_time": "2026-02-02 00:39:00",
-      "end_time": "2026-02-02 02:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:39",
+      "end_time": "02:20",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 02:20:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:20",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:10",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 03:10:00",
-      "end_time": "2026-02-02 03:19:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:10",
+      "end_time": "03:19",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 03:19:00",
-      "end_time": "2026-02-02 03:29:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:19",
+      "end_time": "03:29",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-02 03:29:00",
-      "end_time": "2026-02-02 03:37:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:29",
+      "end_time": "03:37",
+      "episode_description": ""
     },
     {
       "show_name": "Bullitt",
       "show_logo": "",
-      "start_time": "2026-02-02 03:37:00",
-      "end_time": "2026-02-02 05:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:37",
+      "end_time": "05:35",
+      "episode_description": ""
     },
     {
       "show_name": "La vuelta al mundo en 80 días",
       "show_logo": "",
-      "start_time": "2026-02-02 05:35:00",
-      "end_time": "2026-02-02 08:31:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:35",
+      "end_time": "08:31",
+      "episode_description": ""
     },
     {
       "show_name": "Once a la medianoche",
       "show_logo": "",
-      "start_time": "2026-02-02 08:31:00",
-      "end_time": "2026-02-02 10:47:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:31",
+      "end_time": "10:47",
+      "episode_description": ""
     },
     {
       "show_name": "Tres Hijos del Diablo",
       "show_logo": "",
-      "start_time": "2026-02-02 10:47:00",
-      "end_time": "2026-02-02 12:39:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:47",
+      "end_time": "12:39",
+      "episode_description": ""
     },
     {
       "show_name": "Mientras la Ciudad Duerme",
       "show_logo": "",
-      "start_time": "2026-02-02 12:39:00",
-      "end_time": "2026-02-02 14:38:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:39",
+      "end_time": "14:38",
+      "episode_description": ""
     },
     {
       "show_name": "Estafa telefónica",
       "show_logo": "",
-      "start_time": "2026-02-02 14:38:00",
-      "end_time": "2026-02-02 16:31:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:38",
+      "end_time": "16:31",
+      "episode_description": ""
     },
     {
       "show_name": "Los hermanos Karamazov",
       "show_logo": "",
-      "start_time": "2026-02-02 16:31:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "16:31",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Alma en suplicio",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 20:58:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:58",
+      "episode_description": ""
     },
     {
       "show_name": "El hombre que venció al miedo",
       "show_logo": "",
-      "start_time": "2026-02-02 20:58:00",
-      "end_time": "2026-02-02 22:27:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:58",
+      "end_time": "22:27",
+      "episode_description": ""
     },
     {
       "show_name": "Dos almas en pugna",
       "show_logo": "",
-      "start_time": "2026-02-02 22:27:00",
-      "end_time": "2026-02-03 00:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:27",
+      "end_time": "00:12",
+      "episode_description": ""
     }
   ]
 }

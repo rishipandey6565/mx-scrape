@@ -1,132 +1,118 @@
 {
-  "channel_name": "TCM (México)",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "TCM (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "Dos almas en pugna",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:12:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:12",
+      "episode_description": ""
     },
     {
       "show_name": "A quemarropa",
       "show_logo": "",
-      "start_time": "2026-02-03 00:12:00",
-      "end_time": "2026-02-03 01:48:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:12",
+      "end_time": "01:48",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-03 01:48:00",
-      "end_time": "2026-02-03 02:23:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:48",
+      "end_time": "02:23",
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
-      "start_time": "2026-02-03 02:23:00",
-      "end_time": "2026-02-03 04:04:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:23",
+      "end_time": "04:04",
+      "episode_description": ""
     },
     {
       "show_name": "The Asphalt Jungle",
       "show_logo": "",
-      "start_time": "2026-02-03 04:04:00",
-      "end_time": "2026-02-03 06:04:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:04",
+      "end_time": "06:04",
+      "episode_description": ""
     },
     {
       "show_name": "Pacto de sangre",
       "show_logo": "",
-      "start_time": "2026-02-03 06:04:00",
-      "end_time": "2026-02-03 07:36:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:04",
+      "end_time": "07:36",
+      "episode_description": ""
     },
     {
       "show_name": "What Ever Happened to Baby Jane?",
       "show_logo": "",
-      "start_time": "2026-02-03 07:36:00",
-      "end_time": "2026-02-03 10:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:36",
+      "end_time": "10:02",
+      "episode_description": ""
     },
     {
       "show_name": "Casablanca",
       "show_logo": "",
-      "start_time": "2026-02-03 10:02:00",
-      "end_time": "2026-02-03 11:54:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:02",
+      "end_time": "11:54",
+      "episode_description": ""
     },
     {
       "show_name": "Annie, la reina del circo",
       "show_logo": "",
-      "start_time": "2026-02-03 11:54:00",
-      "end_time": "2026-02-03 13:52:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:54",
+      "end_time": "13:52",
+      "episode_description": ""
     },
     {
       "show_name": "Camelot",
       "show_logo": "",
-      "start_time": "2026-02-03 13:52:00",
-      "end_time": "2026-02-03 17:02:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "13:52",
+      "end_time": "17:02",
+      "episode_description": ""
     },
     {
       "show_name": "Las Aventuras de Huck Finn",
       "show_logo": "",
-      "start_time": "2026-02-03 17:02:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:02",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Hombre equivocado",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:56:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:56",
+      "episode_description": ""
     },
     {
       "show_name": "Pacto siniestro",
       "show_logo": "",
-      "start_time": "2026-02-03 20:56:00",
-      "end_time": "2026-02-03 22:46:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:56",
+      "end_time": "22:46",
+      "episode_description": ""
     },
     {
       "show_name": "Deseo de una Mañana de Verano",
       "show_logo": "",
-      "start_time": "2026-02-03 22:46:00",
-      "end_time": "2026-02-04 00:38:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "22:46",
+      "end_time": "00:38",
+      "episode_description": ""
     }
   ]
 }

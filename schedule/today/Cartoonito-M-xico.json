@@ -1,69 +1,62 @@
 {
-  "channel_name": "Cartoonito (México)",
-  "date": "2026-02-02",
-  "programs": [
+  "channel": "Cartoonito (México)",
+  "date": "02/02/2026",
+  "schedule": [
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "07:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "07:00",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 15:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "11:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 19:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:00",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 23:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "23:00",
+      "episode_description": ""
     },
     {
       "show_name": "Cartoonito",
       "show_logo": "",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:00",
+      "end_time": "03:00",
+      "episode_description": ""
     }
   ]
 }

@@ -1,168 +1,150 @@
 {
-  "channel_name": "Europa Europa",
-  "date": "2026-02-03",
-  "programs": [
+  "channel": "Europa Europa",
+  "date": "03/02/2026",
+  "schedule": [
     {
       "show_name": "La decisión de Alice",
       "show_logo": "",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 00:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:50",
+      "episode_description": ""
     },
     {
       "show_name": "Rocco Schiavone",
       "show_logo": "",
-      "start_time": "2026-02-03 00:50:00",
-      "end_time": "2026-02-03 02:30:00",
-      "episode_number": "S1 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:50",
+      "end_time": "02:30",
+      "episode_description": ""
     },
     {
       "show_name": "El hijo muerto",
       "show_logo": "",
-      "start_time": "2026-02-03 02:30:00",
-      "end_time": "2026-02-03 03:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
       "show_name": "La casa de las promesas",
       "show_logo": "",
-      "start_time": "2026-02-03 03:00:00",
-      "end_time": "2026-02-03 03:50:00",
-      "episode_number": "S2 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "03:50",
+      "episode_description": ""
     },
     {
       "show_name": "No hay lugar como el hoga",
       "show_logo": "",
-      "start_time": "2026-02-03 03:50:00",
-      "end_time": "2026-02-03 04:55:00",
-      "episode_number": "S2 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:50",
+      "end_time": "04:55",
+      "episode_description": ""
     },
     {
       "show_name": "La decisión de Alice",
       "show_logo": "",
-      "start_time": "2026-02-03 04:55:00",
-      "end_time": "2026-02-03 06:50:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:55",
+      "end_time": "06:50",
+      "episode_description": ""
     },
     {
       "show_name": "Las nieves del Kilimanjaro",
       "show_logo": "",
-      "start_time": "2026-02-03 06:50:00",
-      "end_time": "2026-02-03 08:40:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "06:50",
+      "end_time": "08:40",
+      "episode_description": ""
     },
     {
       "show_name": "Califano",
       "show_logo": "",
-      "start_time": "2026-02-03 08:40:00",
-      "end_time": "2026-02-03 10:35:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "08:40",
+      "end_time": "10:35",
+      "episode_description": ""
     },
     {
       "show_name": "Solo queda la danza",
       "show_logo": "",
-      "start_time": "2026-02-03 10:35:00",
-      "end_time": "2026-02-03 12:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "10:35",
+      "end_time": "12:30",
+      "episode_description": ""
     },
     {
       "show_name": "Un chico de oro",
       "show_logo": "",
-      "start_time": "2026-02-03 12:30:00",
-      "end_time": "2026-02-03 14:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "12:30",
+      "end_time": "14:05",
+      "episode_description": ""
     },
     {
       "show_name": "Un feriado particular",
       "show_logo": "",
-      "start_time": "2026-02-03 14:05:00",
-      "end_time": "2026-02-03 15:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:05",
+      "end_time": "15:20",
+      "episode_description": ""
     },
     {
       "show_name": "Rocco Schiavone",
       "show_logo": "",
-      "start_time": "2026-02-03 15:20:00",
-      "end_time": "2026-02-03 17:05:00",
-      "episode_number": "S1 E2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:20",
+      "end_time": "17:05",
+      "episode_description": ""
     },
     {
       "show_name": "La casa de las promesas",
       "show_logo": "",
-      "start_time": "2026-02-03 17:05:00",
-      "end_time": "2026-02-03 17:55:00",
-      "episode_number": "S2 E5",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:05",
+      "end_time": "17:55",
+      "episode_description": ""
     },
     {
       "show_name": "No hay lugar como el hoga",
       "show_logo": "",
-      "start_time": "2026-02-03 17:55:00",
-      "end_time": "2026-02-03 19:00:00",
-      "episode_number": "S2 E3",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:55",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
       "show_name": "El comisario Ricciardi",
       "show_logo": "",
-      "start_time": "2026-02-03 19:00:00",
-      "end_time": "2026-02-03 20:50:00",
-      "episode_number": "S3 E1",
       "show_category": "",
-      "show_description": ""
+      "start_time": "19:00",
+      "end_time": "20:50",
+      "episode_description": ""
     },
     {
       "show_name": "El alemán",
       "show_logo": "",
-      "start_time": "2026-02-03 20:50:00",
-      "end_time": "2026-02-03 21:30:00",
-      "episode_number": "S1 E4",
       "show_category": "",
-      "show_description": ""
+      "start_time": "20:50",
+      "end_time": "21:30",
+      "episode_description": ""
     },
     {
       "show_name": "Valan Valle de los Ángeles",
       "show_logo": "",
-      "start_time": "2026-02-03 21:30:00",
-      "end_time": "2026-02-03 23:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "23:15",
+      "episode_description": ""
     },
     {
       "show_name": "Califano",
       "show_logo": "",
-      "start_time": "2026-02-03 23:15:00",
-      "end_time": "2026-02-04 01:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "23:15",
+      "end_time": "01:15",
+      "episode_description": ""
     }
   ]
 }
