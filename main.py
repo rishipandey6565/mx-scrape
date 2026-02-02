@@ -87,8 +87,7 @@ def extract_schedule():
             # Use display name if available, otherwise fallback to ID
             c_name = display_name.text if display_name is not None else c_id
             
-            # --- NEW: Remove 'Canal ' prefix if present ---
-            # This regex removes "Canal" followed by whitespace at the start of the string (Case Insensitive)
+            # Remove 'Canal ' prefix if present (Case Insensitive)
             if c_name:
                 c_name = re.sub(r'^Canal\s+', '', c_name, flags=re.IGNORECASE)
             
@@ -121,7 +120,6 @@ def extract_schedule():
                 desc_el = prog.find('desc')
                 cat_el = prog.find('category')
                 icon_el = prog.find('icon')
-                ep_el = prog.find('episode-num')
                 
                 program_data = {
                     "show_name": title_el.text if title_el is not None else "No Title",
@@ -129,8 +127,7 @@ def extract_schedule():
                     "category": cat_el.text if cat_el is not None else "",
                     "start_dt": start_mx, 
                     "end_dt": stop_mx,
-                    "logo_url": icon_el.get('src') if icon_el is not None else "",
-                    "episode": ep_el.text if ep_el is not None else ""
+                    "logo_url": icon_el.get('src') if icon_el is not None else ""
                 }
                 
                 if channel_name_clean not in all_extracted_data:
@@ -171,24 +168,27 @@ def extract_schedule():
                     if p_start < day_start:
                         display_start = day_start
                     
-                    fmt = "%Y-%m-%d %H:%M:%S"
+                    # CHANGED: Format to HH:MM only
+                    fmt_time = "%H:%M"
                     
                     entry = {
                         "show_name": p['show_name'],
                         "show_logo": p['logo_url'],
-                        "start_time": display_start.strftime(fmt),
-                        "end_time": p_end.strftime(fmt),
-                        "episode_number": p['episode'],
                         "show_category": p['category'],
-                        "show_description": p['description']
+                        "start_time": display_start.strftime(fmt_time),
+                        "end_time": p_end.strftime(fmt_time),
+                        "episode_description": p['description']
                     }
                     daily_schedule.append(entry)
             
             if daily_schedule:
+                # CHANGED: Date format to DD/MM/YYYY
+                fmt_date = "%d/%m/%Y"
+                
                 json_output = {
-                    "channel_name": ch_name,
-                    "date": str(target_date),
-                    "programs": daily_schedule
+                    "channel": ch_name, # Renamed key
+                    "date": target_date.strftime(fmt_date),
+                    "schedule": daily_schedule # Renamed key
                 }
                 
                 filename = f"{sanitize_filename(ch_name)}.json"
