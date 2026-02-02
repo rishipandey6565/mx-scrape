@@ -1,30 +1,93 @@
 {
   "channel_name": "Distrito Comedia",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
       "show_name": "5x8 Comedia",
       "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:00:00",
       "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "La Escuelita V.I.P",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 01:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "La hora pico",
+      "show_logo": "",
+      "start_time": "2026-02-02 01:10:00",
+      "end_time": "2026-02-02 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "5x8 Comedia",
+      "show_logo": "",
+      "start_time": "2026-02-02 02:00:00",
+      "end_time": "2026-02-02 03:00:00",
+      "episode_number": "S18",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "40 y 20",
+      "show_logo": "",
+      "start_time": "2026-02-02 03:00:00",
+      "end_time": "2026-02-02 04:15:00",
+      "episode_number": "S7",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "start_time": "2026-02-02 04:15:00",
+      "end_time": "2026-02-02 05:25:00",
+      "episode_number": "S2",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Derbez en cuando",
       "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 01:50:00",
+      "start_time": "2026-02-02 05:25:00",
+      "end_time": "2026-02-02 06:10:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Tal para cual",
+      "show_name": "Nosotros los guapos",
       "show_logo": "",
-      "start_time": "2026-02-01 01:50:00",
-      "end_time": "2026-02-01 03:35:00",
+      "start_time": "2026-02-02 06:10:00",
+      "end_time": "2026-02-02 07:25:00",
+      "episode_number": "S4",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Una familia de diez",
+      "show_logo": "",
+      "start_time": "2026-02-02 07:25:00",
+      "end_time": "2026-02-02 08:40:00",
+      "episode_number": "S4",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "La Familia Peluche",
+      "show_logo": "",
+      "start_time": "2026-02-02 08:40:00",
+      "end_time": "2026-02-02 09:30:00",
       "episode_number": "S2",
       "show_category": "",
       "show_description": ""
@@ -32,53 +95,80 @@
     {
       "show_name": "Vecinos",
       "show_logo": "",
-      "start_time": "2026-02-01 03:35:00",
-      "end_time": "2026-02-01 05:45:00",
-      "episode_number": "S9",
+      "start_time": "2026-02-02 09:30:00",
+      "end_time": "2026-02-02 10:25:00",
+      "episode_number": "S13",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Esta Libre",
+      "show_logo": "",
+      "start_time": "2026-02-02 10:25:00",
+      "end_time": "2026-02-02 11:20:00",
+      "episode_number": "S2",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Nosotros los guapos",
       "show_logo": "",
-      "start_time": "2026-02-01 05:45:00",
-      "end_time": "2026-02-01 07:55:00",
-      "episode_number": "S3",
+      "start_time": "2026-02-02 11:20:00",
+      "end_time": "2026-02-02 12:35:00",
+      "episode_number": "S1",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Tal para cual",
+      "show_name": "Una familia de diez",
       "show_logo": "",
-      "start_time": "2026-02-01 07:55:00",
-      "end_time": "2026-02-01 09:10:00",
-      "episode_number": "S2",
+      "start_time": "2026-02-02 12:35:00",
+      "end_time": "2026-02-02 13:30:00",
+      "episode_number": "S7",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "El Chavo del Ocho",
       "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
-      "start_time": "2026-02-01 09:10:00",
-      "end_time": "2026-02-01 11:20:00",
+      "start_time": "2026-02-02 13:30:00",
+      "end_time": "2026-02-02 14:45:00",
       "episode_number": "",
       "show_category": "Comedia",
       "show_description": "Las vivencias de El Chavo (Roberto Gómez Bolaños), Kiko (Carlos Villagrán), la Chilindrina (María Antonieta de las Nieves), Ñoño (Édgar Vivar) que juntos hacen un sinfín de travesuras a Doña Florinda (Florinda Meza), Don Ramón (Ramón Valdés), Doña Clotilde (Angelines Fernández), el Señor Barriga (Édgar Vivar) y el Profesor Jirafales (Rubén Aguirre)."
     },
     {
-      "show_name": "Los héroes del norte",
+      "show_name": "40 y 20",
       "show_logo": "",
-      "start_time": "2026-02-01 11:20:00",
-      "end_time": "2026-02-01 13:05:00",
+      "start_time": "2026-02-02 14:45:00",
+      "end_time": "2026-02-02 16:00:00",
+      "episode_number": "S6",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "El Príncipe del Barrio",
+      "show_logo": "",
+      "start_time": "2026-02-02 16:00:00",
+      "end_time": "2026-02-02 16:55:00",
       "episode_number": "S2",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Tal para cual",
+      "show_name": "Vecinos",
       "show_logo": "",
-      "start_time": "2026-02-01 13:05:00",
-      "end_time": "2026-02-01 14:20:00",
+      "start_time": "2026-02-02 16:55:00",
+      "end_time": "2026-02-02 17:50:00",
+      "episode_number": "S11",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "La Familia Peluche",
+      "show_logo": "",
+      "start_time": "2026-02-02 17:50:00",
+      "end_time": "2026-02-02 18:45:00",
       "episode_number": "S2",
       "show_category": "",
       "show_description": ""
@@ -86,44 +176,44 @@
     {
       "show_name": "Una familia de diez",
       "show_logo": "",
-      "start_time": "2026-02-01 14:20:00",
-      "end_time": "2026-02-01 16:30:00",
-      "episode_number": "S2",
+      "start_time": "2026-02-02 18:45:00",
+      "end_time": "2026-02-02 20:00:00",
+      "episode_number": "S10",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "La Familia Peluche",
-      "show_logo": "",
-      "start_time": "2026-02-01 16:30:00",
-      "end_time": "2026-02-01 18:40:00",
+      "show_name": "El Chavo del Ocho",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
+      "start_time": "2026-02-02 20:00:00",
+      "end_time": "2026-02-02 21:15:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": ""
+      "show_category": "Comedia",
+      "show_description": "Las vivencias de El Chavo (Roberto Gómez Bolaños), Kiko (Carlos Villagrán), la Chilindrina (María Antonieta de las Nieves), Ñoño (Édgar Vivar) que juntos hacen un sinfín de travesuras a Doña Florinda (Florinda Meza), Don Ramón (Ramón Valdés), Doña Clotilde (Angelines Fernández), el Señor Barriga (Édgar Vivar) y el Profesor Jirafales (Rubén Aguirre)."
     },
     {
       "show_name": "Vecinos",
       "show_logo": "",
-      "start_time": "2026-02-01 18:40:00",
-      "end_time": "2026-02-01 20:50:00",
-      "episode_number": "S10",
+      "start_time": "2026-02-02 21:15:00",
+      "end_time": "2026-02-02 22:10:00",
+      "episode_number": "S16",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "40 y 20",
       "show_logo": "",
-      "start_time": "2026-02-01 20:50:00",
-      "end_time": "2026-02-01 23:00:00",
-      "episode_number": "S3",
+      "start_time": "2026-02-02 22:10:00",
+      "end_time": "2026-02-02 23:05:00",
+      "episode_number": "S10",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "5x8 Comedia",
+      "show_name": "Humor sin barreras",
       "show_logo": "",
-      "start_time": "2026-02-01 23:00:00",
-      "end_time": "2026-02-01 23:00:00",
+      "start_time": "2026-02-02 23:05:00",
+      "end_time": "2026-02-03 00:05:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""

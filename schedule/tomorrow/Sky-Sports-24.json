@@ -1,21 +1,12 @@
 {
   "channel_name": "Sky Sports 24",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
     {
-      "show_name": "Bayern Múnich vs. RB Leipzi",
+      "show_name": "Flamengo vs. Palmeiras",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Bayern Múnich vs. RB Leipzi",
-      "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -23,8 +14,8 @@
     {
       "show_name": "Bochum vs. Schalke 04",
       "show_logo": "",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 02:30:00",
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 02:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -32,17 +23,17 @@
     {
       "show_name": "1. FC Kaiserslautern vs. Elvers",
       "show_logo": "",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 04:30:00",
+      "start_time": "2026-02-03 02:00:00",
+      "end_time": "2026-02-03 04:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Werder Bremen vs. Hoffenheim",
+      "show_name": "TSG 1899 Hoffenheim vs. Werder",
       "show_logo": "",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 06:30:00",
+      "start_time": "2026-02-03 04:00:00",
+      "end_time": "2026-02-03 06:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -50,26 +41,8 @@
     {
       "show_name": "1. FC Köln vs. Wolfsburg",
       "show_logo": "",
-      "start_time": "2026-02-02 06:30:00",
-      "end_time": "2026-02-02 08:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Augsburg vs. St. Pauli",
-      "show_logo": "",
-      "start_time": "2026-02-02 08:30:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "RB Leipzig vs. Mainz 05",
-      "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 12:30:00",
+      "start_time": "2026-02-03 06:00:00",
+      "end_time": "2026-02-03 08:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -77,8 +50,8 @@
     {
       "show_name": "Frankfurt vs. Leverkusen",
       "show_logo": "",
-      "start_time": "2026-02-02 12:30:00",
-      "end_time": "2026-02-02 14:30:00",
+      "start_time": "2026-02-03 08:00:00",
+      "end_time": "2026-02-03 10:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -86,8 +59,44 @@
     {
       "show_name": "Werder Bremen vs. Mönchengladba",
       "show_logo": "",
-      "start_time": "2026-02-02 14:30:00",
-      "end_time": "2026-02-02 16:30:00",
+      "start_time": "2026-02-03 10:00:00",
+      "end_time": "2026-02-03 12:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Augsburg vs. St. Pauli",
+      "show_logo": "",
+      "start_time": "2026-02-03 12:00:00",
+      "end_time": "2026-02-03 14:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "RB Leipzig vs. Mainz 05",
+      "show_logo": "",
+      "start_time": "2026-02-03 14:00:00",
+      "end_time": "2026-02-03 16:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Hoffenheim vs. 1. FC Union Berl",
+      "show_logo": "",
+      "start_time": "2026-02-03 16:00:00",
+      "end_time": "2026-02-03 18:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Hamburger SV vs. Bayern Múnich",
+      "show_logo": "",
+      "start_time": "2026-02-03 18:00:00",
+      "end_time": "2026-02-03 20:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -95,8 +104,8 @@
     {
       "show_name": "VfB Stuttgart vs. Freiburg",
       "show_logo": "",
-      "start_time": "2026-02-02 16:30:00",
-      "end_time": "2026-02-02 18:30:00",
+      "start_time": "2026-02-03 20:00:00",
+      "end_time": "2026-02-03 22:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
@@ -104,26 +113,8 @@
     {
       "show_name": "Borussia Dortmund vs. FC Heiden",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 20:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Bayern Múnich vs. RB Leipzi",
-      "show_logo": "",
-      "start_time": "2026-02-02 20:30:00",
-      "end_time": "2026-02-02 22:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Flamengo vs. Palmeiras",
-      "show_logo": "",
-      "start_time": "2026-02-02 22:30:00",
-      "end_time": "2026-02-03 00:00:00",
+      "start_time": "2026-02-03 22:00:00",
+      "end_time": "2026-02-04 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
