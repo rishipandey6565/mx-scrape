@@ -3,32 +3,32 @@
   "date": "02/02/2026",
   "schedule": [
     {
-      "show_name": "Una de amor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Romántica",
-      "start_time": "00:30",
+      "show_name": "Jazz, boleros y algo más...",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Jazz",
+      "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Un programa sobre adultos mayores que se encuentran viviendo una historia de amor. Cada capítulo relata la historia de parejas que, recientes o de toda la vida, muestran las distintas posibilidades del amor y el erotismo."
+      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
     },
     {
-      "show_name": "Series estelares",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/series-estelares.webp",
-      "show_category": "Interés general",
+      "show_name": "Música hecha en México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Musical",
       "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "Un espacio destinado a transmitir las producciones audiovisuales contemporáneas más populares, así como también los clásicos creados por la cadena. El público podrá disfrutar de las ficciones más emocionantes con los mejores artistas."
+      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
     },
     {
-      "show_name": "La dichosa palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-dichosa-palabra.webp",
-      "show_category": "Talk Show",
+      "show_name": "Especiales del 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_especiales-del-22_l_m.jpg",
+      "show_category": "Biográfico",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
+      "episode_description": "Un segmento especial que presenta detalles sobre los artistas favoritos. El público podrá descubrir sus historias, sus temas más exitosos y datos sobre sus presentaciones, así como también sus videos musicales."
     },
     {
       "show_name": "Cinema 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cinema-22.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cinema-22_l_m.jpg",
       "show_category": "Película",
       "start_time": "03:00",
       "end_time": "05:00",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,123 +44,163 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "Fin de transmisión."
     },
     {
-      "show_name": "Piedras que hablan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/piedras-que-hablan.webp",
-      "show_category": "- Paquimé, Cueva de la Olla y El Cóporo",
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
-      "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "La piel de la ciudad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-piel-de-la-ciudad.webp",
-      "show_category": "Temporada 1 Episodio 3 - El trabajo",
+      "show_name": "La conferencia del pueblo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
       "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "En la ciudad hay infinidades de trabajos pero no todos son iguales, aveces son unos mejores y otros peores, pero lo que más cuenta es la pasión que le tengas a la labor."
+      "end_time": "09:00",
+      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
+    },
+    {
+      "show_name": "Vida saludable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vida-saludable_l_m.jpg",
+      "show_category": "Salud",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Serie que aborda diversos temas para prevenir y corregir malos hábitos en relación a la salud y otros temas relacionados con mantener un bienestar físico y también, mental."
+    },
+    {
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
+    },
+    {
+      "show_name": "La oveja eléctrica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-electrica_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
+    },
+    {
+      "show_name": "Mañanera 360º",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
+    },
+    {
+      "show_name": "África, continente enigmático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_africa-continente-enigmatico-s00e05-felinos_l_m.jpg",
+      "show_category": "Episodio 5 - Felinos",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Cómo es la vida de los felinos en África, como el leopardo negro, una especie pocas veces vista."
+    },
+    {
+      "show_name": "México global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-enrique-gonzalez_l_m.jpg",
+      "show_category": "- Enrique González",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
+    },
+    {
+      "show_name": "NCC Salud",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ncc-salud_l_m.jpg",
+      "show_category": "Salud",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+    },
+    {
+      "show_name": "Rodando caminos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
-      "start_time": "08:00",
-      "end_time": "12:00",
+      "start_time": "14:30",
+      "end_time": "17:00",
       "episode_description": "Un espacio para niñxs."
     },
     {
-      "show_name": "OFUNAM",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/ofunam.webp",
-      "show_category": "Musical",
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "episode_description": "Segmento especial que difunde los detalles de la Orquesta Filarmónica de la UNAM, el conjunto sinfónico más antiguo de la Ciudad de México, así como también sus memorables presentaciones realizadas en su sede, la sala Nezahualcóyotl."
-    },
-    {
-      "show_name": "Qué lindo es mi México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Programa que hace un recorrido por México a través de sus canciones. La conductora Mary Sánchez recorre diferentes regiones del país y en cada una presenta a los músicos, artistas y bailarines más destacados."
-    },
-    {
-      "show_name": "Música hecha en México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
-    },
-    {
-      "show_name": "Sesiones vagabundas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "Sesiones de música en vivo con artistas muy queridos de la música cubana."
-    },
-    {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- NEUMA Darío Piccioni Trio",
+      "show_name": "África, continente enigmático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_africa-continente-enigmatico-s00e05-felinos_l_m.jpg",
+      "show_category": "Episodio 5 - Felinos",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+      "episode_description": "Cómo es la vida de los felinos en África, como el leopardo negro, una especie pocas veces vista."
     },
     {
-      "show_name": "El cancionero y sus amigos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "A fonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El antojo",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Una celebracion del patrimonio musical mexicano a través de conversaciones e interpretaciones exclusivas acompañadas por músicos invitados."
+      "episode_description": "El antojo funciona de manera diversa y los barrios son manantiales de recetas. . Todos los tiempos de la ciudad se juntan en un palmo de terrenos, en el antojo del barrio, todas las cualidades culinarias se conjugan en un bocado."
     },
     {
-      "show_name": "Un mundo sin Toledo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Para recordar la vida del artista mexicano Francisco Toledo, presentamos un documental dirigido por Gabriel Santander, reúne testimonios de familiares, y críticos de arte para resaltar la creatividad y la profundidad de sus obras."
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Embajador de Japón en México, Kozo Honsei",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Las políticas arancelarias",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Un especial sobre el actual Embajador de Japón en México."
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "El corazón de la noche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/el-corazón-de-la-noche.webp",
-      "show_category": "Drama / 1983",
+      "show_name": "Punto de referencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
+      "show_category": "Político",
       "start_time": "21:00",
-      "end_time": "22:30",
-      "episode_description": "Un instructor de manejo se enamora de una joven sordomuda, que pertenece a una sociedad secreta de lisiados de toda clase."
+      "end_time": "22:00",
+      "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
     },
     {
-      "show_name": "Sesiones vagabundas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
+      "show_name": "Marquesina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+    },
+    {
+      "show_name": "Pantalla de cristal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pantalla-de-cristal_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "22:30",
       "end_time": "23:00",
-      "episode_description": "Sesiones de música en vivo con artistas muy queridos de la música cubana."
+      "episode_description": "Recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de las producciones audiovisuales de México, con notas de interés y novedades."
     },
     {
-      "show_name": "El cancionero y sus amigos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "Miskitu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_miskitu-2014_l_m.jpg",
+      "show_category": "Documental / 2014",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Una celebracion del patrimonio musical mexicano a través de conversaciones e interpretaciones exclusivas acompañadas por músicos invitados."
+      "episode_description": "Documental sobre la cultura y migración desde Miskito hacia Managua, la capital de Nicaragua. A través de tres personajes se observa la historia de un pueblo originario que lucha por conservar su identidad aún fuera de su comunidad natal."
     }
   ]
 }

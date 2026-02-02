@@ -3,8 +3,24 @@
   "date": "03/02/2026",
   "schedule": [
     {
+      "show_name": "Tiempo de filmoteca de la UNAM",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-filmoteca-de-la-unam_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "00:15",
+      "end_time": "00:30",
+      "episode_description": "Un espacio para la difusión del cine a través del abordaje de las obras de diferentes cineastas.Al final de cada proyección de las cintas, la actriz Alejandra Toussaint entrevista a distintos invitados para comentar las historias."
+    },
+    {
+      "show_name": "No memes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_no-memes_l_m.jpg",
+      "show_category": "Tecnología",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Noticiario tecnológico en el que exploramos la actualidad de gadgets, redes sociales, el cibermundo y los videojuegos. De jóvenes a jóvenes"
+    },
+    {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "01:00",
       "end_time": "01:00",
@@ -12,139 +28,147 @@
     },
     {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "01:00",
       "end_time": "08:00",
       "episode_description": "Un programa sin contenido ni programación."
     },
     {
-      "show_name": "Música en escena",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Máscara vs. Cabellera",
+      "show_name": "El capitán Kidd",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Aventura / 1945",
       "start_time": "08:00",
+      "end_time": "09:30",
+      "episode_description": "En 1699, el capitán Kidd, un rudo pirata, consigue engañar al rey para que le proporcione una escolta para un barco lleno de tesoros que ha zarpado de la India. Entre la tripulación se encuentra un ex enemigo de Kidd a quien él abandonó."
+    },
+    {
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "Concierto sinfónico llevado a cabo en las inmediaciones del Teatro Morelos. El público podrá disfrutar del talento de un grupo de músicos profesionales mientras interpretan las composiciones más desafiantes y complejas."
+      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
     },
     {
       "show_name": "Ventana mirador universitario",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/ventana-mirador-universitario.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ventana-mirador-universitario-1_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": "Brinda información, asesoría y apoyo en diversos ámbitos, tales como el educativo, social, familiar y de salud, todo para asegurar el pleno desarrollo de las familias mexicanas, así como también del resto del mundo."
     },
     {
-      "show_name": "Íconos del jazz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/íconos-del-jazz.webp",
-      "show_category": "- Modern Jazz Quartet 1 y 2",
+      "show_name": "El mundo real: Rutas de esclavitud",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mundo-real-rutas-de-esclavitud-s00e01-476-1375-mas-alla-de-del-desierto_l_m.jpg",
+      "show_category": "Episodio 1 - 476-1375 Más allá de del desierto",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Revivimos los grandes clásicos del jazz envueltos en la onda digital para seguirnos deleitando con sus notas sostenidas."
+      "episode_description": ""
     },
     {
-      "show_name": "Chaplin",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Su nuevo empleo",
+      "show_name": "Alrededor del mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- La dinamita Mangsee",
       "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "Bajo la mirada de Chaplin, cada pequeño acontecimiento diario se convierte en una gran comedia."
+      "episode_description": "Serie documental que revela historias de personas que viven cerca del mar, así como sus aventuras y sus misterios."
     },
     {
-      "show_name": "El capitán Kidd",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Aventura / 1945",
+      "show_name": "Jueves de ciencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "12:30",
       "end_time": "14:00",
-      "episode_description": "En 1699, el capitán Kidd, un rudo pirata, consigue engañar al rey para que le proporcione una escolta para un barco lleno de tesoros que ha zarpado de la India. Entre la tripulación se encuentra un ex enemigo de Kidd a quien él abandonó."
+      "episode_description": "Participarán especialistas e investigadores de distintos campos, para presentar fenómenos naturales, conceptos físicos, avances médicos o problemáticas de grave repercusión social."
     },
     {
-      "show_name": "Noticiero científico y cultural iberoamericano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/noticiero-científico-y-cultural-iberoamericano.webp",
-      "show_category": "Noticiero",
+      "show_name": "Incluídos: trabajar sin prejuicios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_incluidos-trabajar-sin-prejuicios-s00e09-la-usina_l_m.jpg",
+      "show_category": "Episodio 9 - La usina",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
+      "episode_description": "Una asociación civil que genera trabajo para personas con discapacidad ofreciendo productos y servicios desarrollados por ellos a gran escala."
     },
     {
       "show_name": "La UNAM responde",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/la-unam-responde.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-unam-responde_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
     },
     {
-      "show_name": "FIC53",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Channel One Sound System Jamaica - Reino Unido",
+      "show_name": "Concierto sinfónico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_concierto-sinfonico-ofunam_l_m.jpg",
+      "show_category": "- OFUNAM",
       "start_time": "15:00",
       "end_time": "17:00",
-      "episode_description": "Transmisión del Festival Internacional Cervantino (FIC), una celebración cultural nacional que busca llegar a los rincones de toda la República mexicana a través del Circuito Cervantino."
+      "episode_description": "Presentación de la Orquesta Filarmónica de la UNAM, el conjunto sinfónico más antiguo en el panorama cultural de la Ciudad de México."
     },
     {
-      "show_name": "Fuerza latina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 167 - Cyntia Mora Izaguirre. Canadienses, estadounidenses y europeos en Costa Rica",
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan."
+      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
     },
     {
-      "show_name": "Especial 174 del natalicio de Posada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- José Guadalupe Posada. Más allá de la Catrina",
+      "show_name": "La maquilladora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Prólogo",
       "start_time": "17:30",
       "end_time": "18:30",
-      "episode_description": "Homenaje al artista José Guadalupe Posada Aguilar en el 174 aniversario de su nacimiento."
+      "episode_description": "A través de los distintos episodios se exploran algunas coyunturas del arte contemporáneo y la comunidad artística en Oaxaca."
     },
     {
       "show_name": "La UNAM responde",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/la-unam-responde.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-unam-responde_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
     },
     {
-      "show_name": "Chaplin",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Su nuevo empleo",
+      "show_name": "Alrededor del mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- La dinamita Mangsee",
       "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Bajo la mirada de Chaplin, cada pequeño acontecimiento diario se convierte en una gran comedia."
+      "episode_description": "Serie documental que revela historias de personas que viven cerca del mar, así como sus aventuras y sus misterios."
     },
     {
-      "show_name": "Íconos del jazz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/íconos-del-jazz.webp",
-      "show_category": "- Modern Jazz Quartet 1 y 2",
+      "show_name": "El mundo real: Rutas de esclavitud",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mundo-real-rutas-de-esclavitud-s00e01-476-1375-mas-alla-de-del-desierto_l_m.jpg",
+      "show_category": "Episodio 1 - 476-1375 Más allá de del desierto",
       "start_time": "19:30",
       "end_time": "20:30",
-      "episode_description": "Revivimos los grandes clásicos del jazz envueltos en la onda digital para seguirnos deleitando con sus notas sostenidas."
+      "episode_description": ""
     },
     {
-      "show_name": "No memes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/no-memes.webp",
-      "show_category": "Tecnología",
+      "show_name": "A la conquista del sabor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Xochitepec",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Noticiario tecnológico en el que exploramos la actualidad de gadgets, redes sociales, el cibermundo y los videojuegos. De jóvenes a jóvenes"
+      "episode_description": "Un programa en el que se explorará la ruta de la comida en los últimos 500 años de mestizaje. A través de este recorrido se podrá conocer la historia, adaptación, maridaje y evolución de los ingredientes propios de la cocina mexicana."
     },
     {
-      "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/leémelo.webp",
-      "show_category": "Educativo",
+      "show_name": "Rock Lab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El Mastuerzo y Naftalina",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
+      "episode_description": "Serie en colaboración con la Dirección de Divulgación de la Ciencia donde científicos muestran su lado rockero. Conduce Manuel Suárez Lastra, quien explora la conexión entre ciencia y música en México."
     },
     {
-      "show_name": "Tívoli",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/tívoli.webp",
-      "show_category": "Drama / 1974",
+      "show_name": "El vestidor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-vestidor-1983_l_m.jpg",
+      "show_category": "The Dresser",
       "start_time": "22:00",
       "end_time": "",
-      "episode_description": "Las autoridades van a demoler el teatro Trivoli para ampliar el paseo de la reforma. Los artistas se enteran de que el regente anda de parranda y planean hablar con él para pedirle que no tiren el teatro."
+      "episode_description": "Durante la Segunda Guerra Mundial, un viejo actor que alguna vez fue famoso, realiza una gira por los teatros británicos, junto a una compañía formada por viejos y discapacitados que están exentos de cumplir el servicio militar."
     }
   ]
 }

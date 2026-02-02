@@ -4,7 +4,15 @@
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -12,7 +20,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -20,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "PSV vs. Feyenoord",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 21, Philips Stadion",
+      "show_name": "Kocaelispor vs. Fenerbahce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 20, Estadio Yildiz Entegre Kocaeli",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -44,97 +52,97 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Napoli vs. Fiorentina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 23, Estadio Diego Armando Maradona",
+      "show_name": "Rolex Sydney Hobart Yacht Race",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_yatismo-rolex-sydney-hobart-yacht-race_l_m.jpg",
+      "show_category": "Spirit of Yachting",
       "start_time": "08:00",
-      "end_time": "10:00",
+      "end_time": "08:30",
+      "episode_description": "Explora algunos de los eventos más emocionantes en el mundo de la navegación. Contando las historias humanas detrás de la carrera, la emoción y la dedicación necesarias para participar en cualquier evento deportivo de clase mundial"
+    },
+    {
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
+    },
+    {
+      "show_name": "Rip City Remix vs. Capitanes de Ciudad de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-rip-city-remix-vs-capitanes-de-ciudad-de-mexico-arena-ciudad-de-mexico-mexico-city-mexico_l_m.jpg",
+      "show_category": "Arena Ciudad de México, Mexico City, Mexico",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
+    },
+    {
+      "show_name": "Parma vs. Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 23, Stadio Ennio Tardini",
+      "start_time": "11:00",
+      "end_time": "12:50",
       "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "show_name": "Goles de la Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-serie-a_l_m.jpg",
+      "show_category": "Goles de la Serie A",
+      "start_time": "12:50",
+      "end_time": "13:50",
+      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
     },
     {
-      "show_name": "Kocaelispor vs. Fenerbahce",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 20, Estadio Yildiz Entegre Kocaeli",
-      "start_time": "10:50",
-      "end_time": "14:00",
-      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
-    },
-    {
-      "show_name": "Equipo fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Equipo fútbol",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "ESPN Enfocados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Enfocados",
-      "start_time": "15:00",
+      "show_name": "Arsenal vs. Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Semifinal - Vuelta, Emirates Stadium",
+      "start_time": "13:50",
       "end_time": "16:00",
-      "episode_description": "Vive el análisis más detallado del fútbol y otros deportes, con expertos que desglosan tácticas, rendimiento y actualidad de jugadores y equipos. No te pierdas las entrevistas exclusivas y debates a fondo sobre lo mejor del deporte."
+      "episode_description": "Vive los partidos de la 66º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup."
     },
     {
-      "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Generación fútbol",
+      "show_name": "Flamengo vs. Corinthians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final, Estádio Nacional Mané Garrincha",
       "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
-    },
-    {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
-      "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+      "episode_description": "Vive las emociones de la 9º edición de la Supercopa de Brasil, una competición de fútbol brasilera organizada por la CBF que reúne a los equipos ganadores del Campeonato Brasilero y la Copa de Brasil tan disputada del año anterior."
     },
     {
       "show_name": "NFL Live",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/nfl-live.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-americano-nfl-live_l_m.jpg",
       "show_category": "NFL Live",
       "start_time": "18:00",
-      "end_time": "18:30",
+      "end_time": "21:30",
       "episode_description": "Disfrute de lo mejor de la National Football League."
     },
     {
-      "show_name": "Houston Rockets vs. Indiana Pacers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Gainbridge Fieldhouse",
-      "start_time": "18:30",
-      "end_time": "21:00",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Minnesota Timberwolves vs. Memphis Grizzlies",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, FedExForum",
-      "start_time": "21:00",
-      "end_time": "23:30",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "23:30",
+      "start_time": "23:00",
       "end_time": "",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }
