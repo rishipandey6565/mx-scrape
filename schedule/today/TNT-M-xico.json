@@ -1,44 +1,60 @@
 {
   "channel": "TNT (México)",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "World War Z",
+      "show_name": "La estafa maestra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:38",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "La carretera",
+      "show_name": "Lo mejor de Grammys",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:38",
-      "end_time": "02:29",
+      "start_time": "00:00",
+      "end_time": "00:03",
       "episode_description": ""
     },
     {
-      "show_name": "La edición navideña",
+      "show_name": "Magic Mike El último baile",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:29",
-      "end_time": "04:04",
+      "start_time": "00:03",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Breaking Point",
+      "show_name": "Inmortales",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/inmortales.jpg",
+      "show_category": "Acción",
+      "start_time": "02:00",
+      "end_time": "03:49",
+      "episode_description": "Hiperión (Mickey Rourke), Rey de Creta, un despiadado hombre enloquecido por el poder reúne un ejército sangriento para ir en búsqueda del legendario arco Epiro, un arma de poder inimaginable con la que podrá liberar a los titanes encerrados desde el principio de los tiempos. Esta arma en manos de Hiperión significaría la destrucción de dioses y hombres. Pero una antigua ley prohíbe a los dioses entrometerse en conflictos humanos. Ellos incapacitados para detener al enloquecido rey por sus propias manos se ven en la necesidad de poner sus esperanzas en Teseo (Henry Cavill), un campesino que deberá salvar a su gente de los maléficos planes de Hiperión."
+    },
+    {
+      "show_name": "Magic Mike El último baile",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:04",
-      "end_time": "05:47",
+      "start_time": "03:49",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
       "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:47",
+      "start_time": "05:45",
+      "end_time": "05:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:48",
       "end_time": "05:49",
       "episode_description": ""
     },
@@ -47,14 +63,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:49",
-      "end_time": "05:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:50",
       "end_time": "05:52",
       "episode_description": ""
     },
@@ -63,14 +71,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:52",
-      "end_time": "05:55",
+      "end_time": "05:54",
       "episode_description": ""
     },
     {
       "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:54",
       "end_time": "05:57",
       "episode_description": ""
     },
@@ -83,115 +91,131 @@
       "episode_description": ""
     },
     {
-      "show_name": "TNT Buzz",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:04",
+      "end_time": "06:13",
       "episode_description": ""
     },
     {
       "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:04",
-      "end_time": "06:06",
+      "start_time": "06:13",
+      "end_time": "06:16",
       "episode_description": ""
     },
     {
       "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:06",
-      "end_time": "06:08",
+      "start_time": "06:16",
+      "end_time": "06:18",
       "episode_description": ""
     },
     {
-      "show_name": "#FBF",
+      "show_name": "Caerse de risa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:08",
-      "end_time": "07:38",
+      "start_time": "06:18",
+      "end_time": "07:52",
       "episode_description": ""
     },
     {
-      "show_name": "Grammy Awards",
+      "show_name": "The Matrix Resurrections",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:38",
-      "end_time": "10:15",
+      "start_time": "07:52",
+      "end_time": "10:05",
       "episode_description": ""
     },
     {
-      "show_name": "Jumanji",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:15",
+      "start_time": "10:05",
+      "end_time": "10:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jack El Cazagigantes",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jack_el_cazagigantes.jpg",
+      "show_category": "Aventura",
+      "start_time": "10:08",
       "end_time": "12:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Esposa de Mentira",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/una-esposa-de-mentira.webp",
-      "show_category": "Comedia",
-      "start_time": "12:03",
-      "end_time": "14:04",
-      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
-    },
-    {
-      "show_name": "Kung Fu Panda 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/kung-fu-panda-2.webp",
-      "show_category": "Animación",
-      "start_time": "14:04",
-      "end_time": "15:40",
-      "episode_description": "(Kung Fu Panda 2), Po (Jack Black) ahora vive su sueño cómo el guerrero dragón, protegiendo la aldea de paz junto con sus amigos y los cinco maestros del kung fu, Tigresa (Angelina Jolie), Grulla, Mantis (Seth Rogen), Víbora (Lucy Liu) y Mono (Jackie Chan). Pero la nueva vida de Po de maravilla será amenazada por un villano emergente, quien planeta utilizar un secreto, un arma imposible de detener para conquistar China y destruir el kung fu. Ahora Po junto con Los Cinco Furiosos deberán viajar a China y Po tiene que buscar en su pasado y descubrir los secretos de sus orígenes misteriosos; sólo así Po será capaz de encontrar la fuerza que necesita para triunfar."
-    },
-    {
-      "show_name": "World War Z",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:40",
-      "end_time": "17:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lo mejor de Grammys",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:41",
-      "end_time": "17:44",
-      "episode_description": ""
+      "episode_description": "(Jack the Giant Slayer) Un joven granjero llamado Jack (Nicholas Hoult) sin darse cuenta, abre una puerta de una raza de gigantes. Estas criaturas gigantescas quieren apoderarse de la tierra la cual una vez perdieron. Jack no solo deberá enfrentar a estos gigantes sino también rescatar a una princesa de la tierra de estas inmensas criaturas."
     },
     {
       "show_name": "Terminator Génesis",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/terminator-génesis.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_genesis.jpg",
       "show_category": "Acción",
-      "start_time": "17:44",
-      "end_time": "20:01",
+      "start_time": "12:03",
+      "end_time": "14:16",
       "episode_description": "Cuando John Connor (Jason Clarke), envía a Kyle Reese (Jai Courtney) al año de 1984 para proteger a su madre, Sarah Connor (Emilia Clarke) y proteger el futuro de las máquinas, un giro inesperado en la sucesión de eventos generada en la línea del tiempo hace que ahora el pasado de 1984 no sea como el año que fue. Ahora Reese debe trabajar con nuevos aliados desconocidos, incluyendo a un Terminator T-800, el Guardián (Arnold Schwwarzenegger), entre otros enemigos para prevenir que el futuro sea dominado por las máquinas y destruyan la humanidad por completo."
     },
     {
-      "show_name": "Lo mejor de Grammys",
+      "show_name": "Rampage: Devastación",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/rampage_devastacion.jpg",
+      "show_category": "Acción",
+      "start_time": "14:16",
+      "end_time": "16:05",
+      "episode_description": "El hombre experto en primates Davis Okoye (Dwayne Johnson), un hombre que mantiene a las personas a distancia, comparte un vínculo inquebrantable con George, el gorila de espalada plateada extraordinariamente inteligente que ha estado a su cuidado desde su nacimiento. Pero un experimento genético deshonesto que salió mal transforma a este simpático simio en una criatura furiosa de un tamaño gigantesco. Para empeorar las cosas, pronto se descubre que hay otros animales alterados de forma similar. A medida que esto depredadores alfa recién creados recorren Norteamérica, destruyendo todo a su paso, Okoye se une a un ingeniero genético desacreditado para asegurar un antídoto, abriéndose camino en un campo de batalla en constante cambio, no solo para detener una catástrofe mundial sino para salvar a la temible criatura que alguna vez fue su amigo."
+    },
+    {
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:01",
-      "end_time": "20:04",
+      "start_time": "16:05",
+      "end_time": "16:08",
       "episode_description": ""
     },
     {
-      "show_name": "Ocean's 8: Las Estafadoras",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/oceans-8-las-estafadoras.webp",
-      "show_category": "Acción",
-      "start_time": "20:04",
-      "end_time": "22:00",
-      "episode_description": "La marea ha cambiado y es un nuevo \"océano\" cuando un grupo de 8 planean y ejecutan un robo en Nueva York."
+      "show_name": "Agente Salt",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:08",
+      "end_time": "17:54",
+      "episode_description": ""
     },
     {
       "show_name": "La estafa maestra",
       "show_logo": "",
       "show_category": "",
+      "start_time": "17:54",
+      "end_time": "19:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:56",
+      "end_time": "19:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Miss Simpatia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:59",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La leyenda de Tarzán",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:00",
+      "end_time": "23:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El escuadrón suicida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:58",
+      "end_time": "02:17",
       "episode_description": ""
     }
   ]

@@ -1,42 +1,62 @@
 {
-  "channel_name": "Telemundo (México)",
-  "date": "2026-02-01",
-  "programs": [
+  "channel": "Telemundo (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
-      "show_name": "Lo mejor de caso cerrado",
+      "show_name": "Telemundo",
       "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:20:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Decisiones extremas",
+      "show_name": "Telemundo",
       "show_logo": "",
-      "start_time": "2026-02-01 00:20:00",
-      "end_time": "2026-02-01 02:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
-      "show_name": "12 corazones",
+      "show_name": "Telemundo",
       "show_logo": "",
-      "start_time": "2026-02-01 02:00:00",
-      "end_time": "2026-02-01 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "05:00",
+      "end_time": "09:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Historias de la vírgen morena",
+      "show_name": "Telemundo",
       "show_logo": "",
-      "start_time": "2026-02-01 04:00:00",
-      "end_time": "2026-02-01 04:00:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "09:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telemundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telemundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telemundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "01:00",
+      "episode_description": ""
     }
   ]
 }

@@ -1,44 +1,36 @@
 {
   "channel": "NFL Network",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "Championship Chase Pro Bowl",
+      "show_name": "Super bowl opening night",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "QB1 with Kyle Brandt",
+      "show_name": "Super bowl opening night",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:00",
+      "start_time": "01:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "2026 Panini Senior Bowl",
+      "show_name": "Super bowl opening night",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "04:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Championship Chase Pro Bowl",
+      "show_name": "Super bowl opening night",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "QB1 with Kyle Brandt",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -107,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Insiders",
+      "show_name": "NFL Gameday Kickoff",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -115,19 +107,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl opening night",
+      "show_name": "SB Greatest Commercials",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "22:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl opening night",
+      "show_name": "Super bowl Classics",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "01:00",
+      "start_time": "20:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pro Bowl Games",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

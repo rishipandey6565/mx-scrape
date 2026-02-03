@@ -1,9 +1,9 @@
 {
   "channel": "Meganoticias MX",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "Conversando",
+      "show_name": "Mn Cdmx con Abel Martínez",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedientes Mn con Andrés Solís",
+      "show_name": "Para Opinar con Francisco Ramírez",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:40",
@@ -139,15 +139,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conversando",
+      "show_name": "Tema Mn",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Tema Sobre la Mesa con Raúl Frías",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:10",
       "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mesa de Periodistas con Yoelí Ramírez",
+      "show_name": "Mn Cdmx con Abel Martínez",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -163,10 +171,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedientes Mn con Andrés Solís",
+      "show_name": "De Frente con José Ángel Arellanes",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:10",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Meganoticias Mx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -379,7 +395,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Para Opinar con Francisco Ramírez\nEn Vivo",
+      "show_name": "Expedientes Mn con Andrés Solís",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:10",
@@ -451,10 +467,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reporte Mn con Yoelí Ramírez",
+      "show_name": "Blanco y Negro con Pepe Buendía",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
+      "end_time": "23:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tema Mn",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:20",
       "end_time": "23:30",
       "episode_description": ""
     },

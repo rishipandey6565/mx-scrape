@@ -1,9 +1,17 @@
 {
   "channel": "TVUNAM",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
       "show_name": "Tiempo de Filmoteca UNAM Hist",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tiempo de Filmoteca UNAM",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,55 +19,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tiempo de Filmoteca UNAM",
+      "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:15",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No memes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:00",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "04:00",
+      "start_time": "00:45",
+      "end_time": "03:45",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "07:00",
+      "start_time": "03:45",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "06:45",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "La matiné",
+      "show_name": "Sold Out",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De los Dioses, el maíz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Científico",
+      "show_name": "Enlaces",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo real Rutas de esclavitu",
+      "show_name": "Los imprescindibles Los grand",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alrededor del mar",
+      "show_name": "Italiana",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -91,18 +99,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jueves de ciencia",
+      "show_name": "Música en escena",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Incluidos. Trabajos sin preju",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
       "end_time": "14:30",
       "episode_description": ""
     },
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Concierto sinfónico",
+      "show_name": "53° Festival internacional Cer",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Científico",
+      "show_name": "Enlaces",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La maquiladora",
+      "show_name": "Diálogos por la democracia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alrededor del mar",
+      "show_name": "Italiana",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo real Rutas de esclavitu",
+      "show_name": "Los imprescindibles Los grand",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A la conquista del sabor",
+      "show_name": "#EnTrending",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -171,10 +171,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "RockLab. Donde hay vida más al",
+      "show_name": "Clic Cultural",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arqueología Mexicana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
@@ -183,6 +191,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tiempo de Filmoteca UNAM",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
       "end_time": "00:00",
       "episode_description": ""
     }

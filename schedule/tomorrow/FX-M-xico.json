@@ -1,36 +1,44 @@
 {
   "channel": "FX (México)",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
+    {
+      "show_name": "El Día Que La Tierra Se Detuvo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Escuadrón de la muerte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:01",
+      "end_time": "01:48",
+      "episode_description": ""
+    },
     {
       "show_name": "Un loco fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los muertos no mueren",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FX-M-xico/tomorrow/los-muertos-no-mueren.webp",
-      "show_category": "Comedia",
-      "start_time": "01:54",
-      "end_time": "03:46",
-      "episode_description": "En el pequeño y tranquilo pueblo de Centerville, algo no está del todo bien. La luna se ve grande y muy bajo en el cielo, las horas del día se vuelven impredecibles y los animales comienzan a exhibir un comportamiento inusual. Nadie prevé la repercusión más extraña y peligrosa que pronto comenzará a plagar el pueblo: los muertos no mueren – se levantan de sus tumbas atacando salvajemente para darse un festín con los vivos – y los ciudadanos deben luchar por su supervivencia."
-    },
-    {
-      "show_name": "The amazing race",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:46",
-      "end_time": "04:33",
+      "start_time": "01:48",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:33",
+      "start_time": "03:30",
+      "end_time": "04:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The amazing race",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:17",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -47,63 +55,63 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:54",
-      "end_time": "09:12",
+      "end_time": "08:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Australia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:14",
+      "end_time": "11:43",
       "episode_description": ""
     },
     {
       "show_name": "Love in the Forecast",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:12",
-      "end_time": "11:03",
+      "start_time": "11:43",
+      "end_time": "13:35",
       "episode_description": ""
     },
     {
-      "show_name": "Joy: El Nombre del Éxito",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FX-M-xico/tomorrow/joy-el-nombre-del-éxito.webp",
-      "show_category": "Comedia",
-      "start_time": "11:03",
-      "end_time": "13:23",
-      "episode_description": "La historia de una familia que durante cuatro generaciones centrada en, Joy Mangano (Jennifer Lawrence), una mujer divorciada con tres hijos que en los 90s tiene una gran idea comercial creando el famoso trapeador mágico el cual se convierte en un éxito de la noche a la mañana."
-    },
-    {
-      "show_name": "Tolkien",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FX-M-xico/tomorrow/tolkien.webp",
-      "show_category": "Biografía",
-      "start_time": "13:23",
-      "end_time": "15:32",
-      "episode_description": "Tolkien explora los años de formación del autor huérfano mientras encuentra amistad, amor e inspiración artística entre un grupo de compañeros marginados en la escuela. Esto lo lleva al estallido de la Primera Guerra Mundial, que amenaza con destrozar la \"comunidad\". Todas estas experiencias inspirarían a Tolkien (Nicholas Hoult) a escribir sus famosas novelas de la Tierra Media."
-    },
-    {
-      "show_name": "Pelotas en juego",
+      "show_name": "Prometeo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:32",
-      "end_time": "17:23",
+      "start_time": "13:35",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
-      "show_name": "Máxima Velocidad",
+      "show_name": "El Planeta de los Simios",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:23",
-      "end_time": "19:38",
+      "start_time": "15:55",
+      "end_time": "18:11",
       "episode_description": ""
     },
     {
-      "show_name": "Máxima velocidad 2",
+      "show_name": "La aldea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:38",
+      "start_time": "18:11",
+      "end_time": "20:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una noche fuera de serie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:14",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Día Que La Tierra Se Detuvo",
+      "show_name": "Buenos días, Vietnam",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:01",
+      "end_time": "00:21",
       "episode_description": ""
     }
   ]

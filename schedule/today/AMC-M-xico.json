@@ -1,44 +1,36 @@
 {
   "channel": "AMC (México)",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "Red retirados extremadamente",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Non-Stop: Sin Escalas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/non-stop_sin_escalas.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "00:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Riddick",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:05",
-      "end_time": "02:15",
-      "episode_description": ""
+      "end_time": "00:55",
+      "episode_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
     },
     {
       "show_name": "Condena brutal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:15",
-      "end_time": "04:15",
+      "start_time": "00:55",
+      "end_time": "02:55",
       "episode_description": ""
     },
     {
       "show_name": "Ten cuidado a quién llamas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:15",
-      "end_time": "05:15",
+      "start_time": "02:55",
+      "end_time": "03:55",
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Machete",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:15",
+      "start_time": "03:55",
       "end_time": "05:50",
       "episode_description": ""
     },
@@ -127,64 +119,72 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:25",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
-      "show_name": "Billy Elliot",
+      "show_name": "The Ark",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:25",
-      "end_time": "13:25",
+      "start_time": "11:35",
+      "end_time": "12:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Por el honor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:25",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Y dónde están las rubias?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
       "show_name": "Jungle",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:25",
-      "end_time": "15:25",
+      "start_time": "16:15",
+      "end_time": "18:20",
       "episode_description": ""
     },
     {
-      "show_name": "Enemigo Inmortal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/enemigo-inmortal.webp",
-      "show_category": "Acción",
-      "start_time": "15:25",
-      "end_time": "17:30",
-      "episode_description": "Lin (Jackie Chan) es un inspector de policía en un Hong Kong moderno que se encuentra a cargo de proteger a un científico especializado en genética. La vida del agente Lin dará un giro inesperado cuando descubre que la invención bio química desaparecida ha sido implantada quirúrgicamente en su hija desaparecida."
-    },
-    {
-      "show_name": "¿Y dónde están las rubias?",
+      "show_name": "Amenaza roja",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Divergente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/divergente.webp",
-      "show_category": "Acción",
-      "start_time": "19:25",
-      "end_time": "22:00",
-      "episode_description": "En una sociedad futurista los individuos son clasificados en cinco bandos que representan diferentes virtudes, los adolescentes deben decidir si desean quedarse en el bando donde nacieron o cambiar – para el resto de sus vidas. Tris Prior (Shailene Woodley) toma la decisión de cambiar de grupo y para esto deberá tomar rigurosos exámenes físicos cómo mentales para la iniciación hacia el nuevo grupo que han decidido pertenecer. Mientras esta en la inicialización de su nueva vida, Tris descubre que es Divergente, lo que significa que ella no califica para ningún grupo. Si alguien se entera de esto significaría una muerte segura por lo que deberá guardar su secreto para proteger a los suyos."
-    },
-    {
-      "show_name": "Talamasca The Secret",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:50",
+      "start_time": "18:20",
+      "end_time": "19:55",
       "episode_description": ""
     },
     {
       "show_name": "Non-Stop: Sin Escalas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/non-stop-sin-escalas.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/non-stop_sin_escalas.jpg",
       "show_category": "Acción",
-      "start_time": "22:50",
-      "end_time": "00:55",
+      "start_time": "19:55",
+      "end_time": "22:00",
       "episode_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
+    },
+    {
+      "show_name": "Respira",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Machete",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:35",
+      "end_time": "01:30",
+      "episode_description": ""
     }
   ]
 }

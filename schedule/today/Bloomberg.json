@@ -1,9 +1,9 @@
 {
   "channel": "Bloomberg",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "El Financiero Meet Point Virtual",
+      "show_name": "La silla roja",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Wall Street Week",
+      "show_name": "Al cierre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,10 +19,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg The Opening Trade",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -63,22 +71,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Etf Iq",
+      "show_name": "Bloomberg Crypto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
+      "start_time": "11:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Bloomberg markets",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La silla roja",
+      "show_name": "Entre Dichos",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

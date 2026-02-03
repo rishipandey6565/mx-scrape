@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "Rompe el Alba",
+      "show_name": "Noticiero Punto de Referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Música Hecha en México",
+      "show_name": "Culturas Veintidós\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -19,26 +19,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Qué lindo es mi México!",
+      "show_name": "Marquesina 22",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Festival Cervantino",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "02:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Naturaleza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rodando caminos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "CV Shopping",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
+      "start_time": "05:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida Saludable",
+      "show_name": "Humanismo Mexicano",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pantalla de cristal",
+      "show_name": "Tratos y retratos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -107,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NCC Salud",
+      "show_name": "¡Llegamos Todas!",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -131,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -139,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A Fonda",
+      "show_name": "La Dichosa Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -147,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "Tamayo 40",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La raíz doble",
+      "show_name": "La oveja eléctrica",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -183,7 +199,15 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shorts México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

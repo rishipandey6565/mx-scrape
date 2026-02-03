@@ -1,141 +1,117 @@
 {
   "channel": "TCM (México)",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
-    {
-      "show_name": "Un Retazo de Azul",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Prisionero del Rock and Roll",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:39",
-      "end_time": "02:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:20",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:10",
-      "end_time": "03:19",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:19",
-      "end_time": "03:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:29",
-      "end_time": "03:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bullitt",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:37",
-      "end_time": "05:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La vuelta al mundo en 80 días",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:35",
-      "end_time": "08:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Once a la medianoche",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:31",
-      "end_time": "10:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tres Hijos del Diablo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:47",
-      "end_time": "12:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mientras la Ciudad Duerme",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:39",
-      "end_time": "14:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Estafa telefónica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:38",
-      "end_time": "16:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los hermanos Karamazov",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:31",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alma en suplicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El hombre que venció al miedo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:58",
-      "end_time": "22:27",
-      "episode_description": ""
-    },
     {
       "show_name": "Dos almas en pugna",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:27",
+      "start_time": "00:00",
       "end_time": "00:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A quemarropa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:12",
+      "end_time": "01:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:48",
+      "end_time": "02:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:23",
+      "end_time": "04:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Asphalt Jungle",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:04",
+      "end_time": "06:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pacto de sangre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:04",
+      "end_time": "07:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "What Ever Happened to Baby Jane?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:36",
+      "end_time": "10:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Casablanca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:02",
+      "end_time": "11:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Annie, la reina del circo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:54",
+      "end_time": "13:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Camelot",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:52",
+      "end_time": "17:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Aventuras de Huck Finn",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:02",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Hombre equivocado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pacto siniestro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:56",
+      "end_time": "22:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deseo de una Mañana de Verano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:46",
+      "end_time": "00:38",
       "episode_description": ""
     }
   ]

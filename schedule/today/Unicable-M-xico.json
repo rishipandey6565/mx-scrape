@@ -1,168 +1,182 @@
 {
-  "channel_name": "Unicable (México)",
-  "date": "2026-02-01",
-  "programs": [
+  "channel": "Unicable (México)",
+  "date": "03/02/2026",
+  "schedule": [
     {
-      "show_name": "Montse & Joe",
+      "show_name": "Mariposa de barrio",
       "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "De noche ya se armó",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:05:00",
-      "end_time": "2026-02-01 01:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Miembros al aire",
-      "show_logo": "",
-      "start_time": "2026-02-01 01:05:00",
-      "end_time": "2026-02-01 02:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Netas divinas",
-      "show_logo": "",
-      "start_time": "2026-02-01 02:05:00",
-      "end_time": "2026-02-01 03:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Esta historia me suena",
       "show_logo": "",
-      "start_time": "2026-02-01 03:05:00",
-      "end_time": "2026-02-01 04:00:00",
-      "episode_number": "S6",
       "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Laura sin censura",
-      "show_logo": "",
-      "start_time": "2026-02-01 04:00:00",
-      "end_time": "2026-02-01 05:50:00",
-      "episode_number": "S2",
-      "show_category": "",
-      "show_description": ""
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Universo Unicable",
       "show_logo": "",
-      "start_time": "2026-02-01 05:50:00",
-      "end_time": "2026-02-01 06:15:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
     },
     {
-      "show_name": "El Chavo del Ocho",
-      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
-      "start_time": "2026-02-01 06:15:00",
-      "end_time": "2026-02-01 07:10:00",
-      "episode_number": "",
-      "show_category": "Comedia",
-      "show_description": "Las vivencias de El Chavo (Roberto Gómez Bolaños), Kiko (Carlos Villagrán), la Chilindrina (María Antonieta de las Nieves), Ñoño (Édgar Vivar) que juntos hacen un sinfín de travesuras a Doña Florinda (Florinda Meza), Don Ramón (Ramón Valdés), Doña Clotilde (Angelines Fernández), el Señor Barriga (Édgar Vivar) y el Profesor Jirafales (Rubén Aguirre)."
-    },
-    {
-      "show_name": "Hasta que el dinero nos separe",
+      "show_name": "Mujer, casos de la vida real",
       "show_logo": "",
-      "start_time": "2026-02-01 07:10:00",
-      "end_time": "2026-02-01 09:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Hasta que el dinero nos separe",
+      "show_name": "Esta historia me suena",
       "show_logo": "",
-      "start_time": "2026-02-01 09:10:00",
-      "end_time": "2026-02-01 11:10:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Hasta que el dinero nos separe",
+      "show_name": "La 3era en discordia",
       "show_logo": "",
-      "start_time": "2026-02-01 11:10:00",
-      "end_time": "2026-02-01 11:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De noche ya se armó",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Universo Unicable",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La 3era en discordia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujer, casos de la vida real",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caso Cerrado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Victoria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Consuelo (inicia)",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esta historia me suena",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esta historia me suena",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:25",
+      "end_time": "14:20",
+      "episode_description": ""
     },
     {
       "show_name": "Mariposa de barrio",
       "show_logo": "",
-      "start_time": "2026-02-01 11:30:00",
-      "end_time": "2026-02-01 15:30:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "14:20",
+      "end_time": "15:50",
+      "episode_description": ""
     },
     {
-      "show_name": "Con permiso",
+      "show_name": "Victoria",
       "show_logo": "",
-      "start_time": "2026-02-01 15:30:00",
-      "end_time": "2026-02-01 16:30:00",
-      "episode_number": "S2",
       "show_category": "",
-      "show_description": ""
+      "start_time": "15:50",
+      "end_time": "17:20",
+      "episode_description": ""
     },
     {
-      "show_name": "Caso Cerrado",
+      "show_name": "Consuelo",
       "show_logo": "",
-      "start_time": "2026-02-01 16:30:00",
-      "end_time": "2026-02-01 17:20:00",
-      "episode_number": "S12",
       "show_category": "",
-      "show_description": ""
+      "start_time": "17:20",
+      "end_time": "18:20",
+      "episode_description": ""
     },
     {
-      "show_name": "Caso Cerrado",
+      "show_name": "Hasta que el dinero nos separe",
       "show_logo": "",
-      "start_time": "2026-02-01 17:20:00",
-      "end_time": "2026-02-01 18:10:00",
-      "episode_number": "S12",
       "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "El Junior El Mirrey",
-      "show_logo": "",
-      "start_time": "2026-02-01 18:10:00",
-      "end_time": "2026-02-01 19:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
+      "start_time": "18:20",
+      "end_time": "20:00",
+      "episode_description": ""
     },
     {
       "show_name": "El Señor de los Cielos",
       "show_logo": "https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg",
-      "start_time": "2026-02-01 19:05:00",
-      "end_time": "2026-02-01 23:05:00",
-      "episode_number": "S9",
       "show_category": "Acción",
-      "show_description": "Narra la historia de Aurelio Casillas (Rafael Amaya), un narcotraficante mexicano que desde pequeño pierde a su padre por lo que él y su hermano, Víctor Casillas (Raúl Méndez), se ven forzados a sobrevivir por si solos."
+      "start_time": "20:00",
+      "end_time": "21:30",
+      "episode_description": "Narra la historia de Aurelio Casillas (Rafael Amaya), un narcotraficante mexicano que desde pequeño pierde a su padre por lo que él y su hermano, Víctor Casillas (Raúl Méndez), se ven forzados a sobrevivir por si solos."
     },
     {
-      "show_name": "Miembros al aire",
+      "show_name": "Montse & Joe",
       "show_logo": "",
-      "start_time": "2026-02-01 23:05:00",
-      "end_time": "2026-02-01 23:05:00",
-      "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mariposa de barrio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

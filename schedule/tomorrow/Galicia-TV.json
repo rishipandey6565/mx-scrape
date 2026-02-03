@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Conexión Galicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -175,22 +175,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
-      "end_time": "20:15",
+      "end_time": "20:18",
       "episode_description": ""
     },
     {
-      "show_name": "Galegos no mundo",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "22:11",
+      "start_time": "20:18",
+      "end_time": "20:50",
       "episode_description": ""
     },
     {
-      "show_name": "Conexión Galicia",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:11",
+      "start_time": "20:50",
+      "end_time": "21:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor na rede",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:20",
       "end_time": "00:00",
       "episode_description": ""
     }

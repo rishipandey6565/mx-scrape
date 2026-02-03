@@ -1,77 +1,125 @@
 {
   "channel": "HBO Plus",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
-      "show_name": "Llamas de venganza",
+      "show_name": "Cazafantasmas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:15",
+      "end_time": "01:35",
       "episode_description": ""
     },
     {
-      "show_name": "The Weeknd en vivo desde el estadio SoFi",
+      "show_name": "Turno maldito",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
-      "end_time": "03:00",
+      "start_time": "01:35",
+      "end_time": "03:01",
       "episode_description": ""
     },
     {
-      "show_name": "El señor de los anillos la comunidad del anillo",
+      "show_name": "El Rey Escorpión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "06:05",
+      "start_time": "03:01",
+      "end_time": "04:36",
       "episode_description": ""
     },
     {
-      "show_name": "Furiosa: De la Saga Mad Max",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/furiosa-de-la-saga-mad-max.webp",
+      "show_name": "Pixels",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/pixeles.jpg",
       "show_category": "Acción",
-      "start_time": "06:05",
-      "end_time": "08:39",
-      "episode_description": "Mientras el mundo caía, la joven Furiosa (Anya Taylor-Joy) es arrebatada del Lugar Verde de Muchas Madres y cae en manos de una gran Horda de Motociclistas liderada por el Señor de la Guerra Dementus (Chris Hemsworth). Navegando por Wasteland, se encuentran con la Ciudadela presidida por el Immortan Joe (Lachy Hulme). Mientras los dos Tiranos luchan por el dominio, Furiosa debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino a casa."
+      "start_time": "04:36",
+      "end_time": "06:26",
+      "episode_description": "Como niños comunes y corrientes de la década de los 80s, Sam Brenner (Adam Sandler), Will Cooper (Kevin James), Ludlow Lamonsoff (Josh Gad) y Eddie Plant (Peter Dinklage) salvaron el mundo miles de veces en video juegos. Ahora, ellos deberán hacerlo en la vida real. En Piexeles, cuando alienígenas intergalácticos descubren señales de video juegos clásicos y malinterpretan estas señales como una amenaza. Ahora el actual presidente de los estados unidos, Will Cooper, debe llamar a sus viejos amigos de video juegos para salvar el mundo de ser destruidos por PAC-MAN, Donkey Kong, Galaga, Centipede y Space Invaders. Uniéndoseles al equipo a teniente Violet Van Patten (Michelle Monaghan), una especialista en suplir a los jugadores con armas únicas para combatir a los alienígenas."
     },
     {
-      "show_name": "Hostal",
+      "show_name": "Parano-IA",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/parano-ia.jpg",
+      "show_category": "Terror",
+      "start_time": "06:26",
+      "end_time": "07:56",
+      "episode_description": "En Parano-IA, Curtis (John Cho) y su familia son seleccionados para probar un nuevo y revolucionario dispositivo doméstico: un asistente digital familiar llamado AIA. Una vez que la unidad y todos sus sensores y cámaras están instalados en la casa, AIA parece ser capaz de hacerlo todo. Aprende los comportamientos de la familia y comienza a anticipar sus necesidades. Además, puede asegurarse de que nada – ni nadie – se interponga en el camino de su familia."
+    },
+    {
+      "show_name": "El amanecer de los muertos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:39",
-      "end_time": "10:19",
+      "start_time": "07:56",
+      "end_time": "09:41",
       "episode_description": ""
     },
     {
-      "show_name": "El Hombre Araña",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/el-hombre-araña.webp",
+      "show_name": "Exterminio: La Evolución",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/exterminio_la_evolucion.jpg",
+      "show_category": "Terror",
+      "start_time": "09:41",
+      "end_time": "11:41",
+      "episode_description": "Exterminio: La Evolución, una nueva y aterradora historia de terror de autor ambientada en el mundo creado por Exterminio. Han pasado casi tres décadas desde que el virus de la rabia escapó de un laboratorio de armas biológicas, y ahora, aún en una cuarentena impuesta despiadadamente, algunos han encontrado la manera de sobrevivir entre los infectados. Uno de estos supervivientes vive en una pequeña isla conectada al continente por una única carretera fuertemente defendida. Cuando uno de ellos abandona la isla en una misión hacia el corazón oscuro del continente, descubre secretos, maravillas y horrores que han mutado no solo a los infectados, sino también a otros supervivientes."
+    },
+    {
+      "show_name": "Un extraño en el bosque",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:41",
+      "end_time": "13:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Harry Potter y la cámara secreta - Edición extendida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:11",
+      "end_time": "16:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Annabelle 3: Viene a Casa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/annabelle_3_viene_a_casa.jpg",
+      "show_category": "Terror",
+      "start_time": "16:11",
+      "end_time": "18:01",
+      "episode_description": "Decididos a evitar que Annabelle cause más estragos, los demonólogos Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) llevan a la muñeca poseída a la habitación cerrada con artefactos en su casa, colocándola \"a salvo\" detrás de un vidrio sagrado y alistando la bendición santa de un sacerdote. Pero una noche profana de horror aguarda a que Annabelle despierte a los espíritus malignos en la habitación, quienes se fijan en un nuevo objetivo: la hija de diez años de los Warrens, Judy (Mckenna Grace) y sus amigas."
+    },
+    {
+      "show_name": "Al Filo del Mañana",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/al_filo_del_manana.jpg",
       "show_category": "Acción",
-      "start_time": "10:19",
-      "end_time": "12:24",
-      "episode_description": "Siendo un nerd y torpe por naturaleza, la vida de Peter Parker (Tobey Maguire) ha dado un giro inesperado cuando es mordido accidentalmente por una araña radiactiva. De la noche a la mañana Peter se transforma y es capaz de crear telarañas que son disparadas desde sus muñecas, la habilidad de adherirse a las paredes, fuerza increíble y un primordial sentido arácnido. Utilizando un traje hecho en casa, Peter está dispuesto a cambiar la vida que le rodea, sea como sea. Cuando un criminal asesina a su tío Ben, él descubre que “con un gran poder viene una gran responsabilidad”. Peter se convierte en un peleador contra el crimen conocido como El Hombre Araña."
+      "start_time": "18:01",
+      "end_time": "20:00",
+      "episode_description": "Bill Cage (Tom Cruise) es un soldado que se encuentra la última batalla contra fuerzas alienígenas, cuando este fracasa y muere empieza nuevamente precisamente en el mismo día una y otra vez, ahora con la ayuda de Rita Vrataski (Emily Blunt) deberá aprender tras cada derrota a convertirse en un mejor guerrero."
     },
     {
-      "show_name": "Cómplice en fuga",
+      "show_name": "El caballero de los siete reinos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:24",
-      "end_time": "14:09",
+      "start_time": "20:00",
+      "end_time": "20:36",
       "episode_description": ""
     },
     {
-      "show_name": "Harry Potter y la Piedra Filosofal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/harry-potter-y-la-piedra-filosofal.webp",
-      "show_category": "Aventura",
-      "start_time": "14:09",
-      "end_time": "16:45",
-      "episode_description": "Harry Potter (Daniel Radcliffe) se entera en su cumpleaños número 11 que es el primer hijo huérfano de dos hechiceros poderosos y posee sus propios poderes mágicos. En la Escuela de Brujería y Hechicería de Hogwarts, Harry se embarca en la aventura de su vida. Aprende el deporte de altura de Quidditch y juega una emocionante partida de ajedrez con piezas vivas en su camino para enfrentar a un Mago Oscuro empeñado en destruirlo."
+      "show_name": "Exterminio: La Evolución",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/exterminio_la_evolucion.jpg",
+      "show_category": "Terror",
+      "start_time": "20:36",
+      "end_time": "22:35",
+      "episode_description": "Exterminio: La Evolución, una nueva y aterradora historia de terror de autor ambientada en el mundo creado por Exterminio. Han pasado casi tres décadas desde que el virus de la rabia escapó de un laboratorio de armas biológicas, y ahora, aún en una cuarentena impuesta despiadadamente, algunos han encontrado la manera de sobrevivir entre los infectados. Uno de estos supervivientes vive en una pequeña isla conectada al continente por una única carretera fuertemente defendida. Cuando uno de ellos abandona la isla en una misión hacia el corazón oscuro del continente, descubre secretos, maravillas y horrores que han mutado no solo a los infectados, sino también a otros supervivientes."
     },
     {
-      "show_name": "El conjuro 2",
+      "show_name": "El caballero de los siete reinos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:45",
-      "end_time": "19:05",
+      "start_time": "22:35",
+      "end_time": "23:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La momia La tumba del emperador Dragón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:11",
+      "end_time": "01:11",
       "episode_description": ""
     }
   ]
