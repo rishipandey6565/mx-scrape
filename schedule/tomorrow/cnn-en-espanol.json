@@ -1,10 +1,10 @@
 {
   "channel": "CNN en Español",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,31 +12,23 @@
     },
     {
       "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/conclusiones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
-      "show_name": "Aristegui",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/aristegui.webp",
-      "show_category": "Periodístico",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Carmen Aristegui recibe cada día a las personalidades más influyentes e interesantes del país para analizar y discutir los sucesos que hacen noticia en México, conociendo, así, la opinión de los protagonistas de la actualidad."
-    },
-    {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
-      "start_time": "02:30",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "03:00",
       "end_time": "04:00",
@@ -44,7 +36,7 @@
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "04:00",
       "end_time": "05:00",
@@ -52,7 +44,7 @@
     },
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -60,7 +52,7 @@
     },
     {
       "show_name": "CNN Primera mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/cnn-primera-mañana.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cnn-primera-manana_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -68,7 +60,7 @@
     },
     {
       "show_name": "Café CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/café-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -76,47 +68,47 @@
     },
     {
       "show_name": "Café CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/café-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
     },
     {
-      "show_name": "Choque de opiniones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/choque-de-opiniones.webp",
+      "show_name": "México opina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-opina_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "09:00",
       "end_time": "10:00",
-      "episode_description": "Prepárate a vivir el debate político más interesante de la televisión. Aquí confrontarán los puntos de vista opuestos sobre temas claves de Estados Unidos en la región. Un debate marcado por el rigor, la pasión y la veracidad."
+      "episode_description": "Presenta las encuestas y sondeos del pulso de la nación tomados de CNNMéxico.com y pone a los televidentes en medio del debate. Cada semana, Mario González invita a expertos para discutir los temas que generan el mayor interés en el sitio."
     },
     {
       "show_name": "Destinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/destinos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_destinos_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:00",
       "end_time": "10:30",
       "episode_description": "El programa semanal de viajes lleva al espectador a los sitios más exóticos y emocionantes del globo, explorando no sólo los rincones turísticos y tesoros históricos más populares, sino también los más remotos paraísos románticos."
     },
     {
-      "show_name": "Vive la salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/vive-la-salud.webp",
-      "show_category": "Salud",
+      "show_name": "Showbiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_showbiz-ojo-critico-oliver-laxe_l_m.jpg",
+      "show_category": "- Ojo crítico: Oliver Laxe",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Espacio semanal conducido por la Dra. Marisa Azaret, en el que se explora la salud y el bienestar."
+      "episode_description": "Juan Carlos Arciniegas conversa con el director español Oliver Laxe sobre la película \"Sirat\", con la cual España espera conseguir una nominación al Óscar. En la charla se habla sobre la presentación de la producción y los planes a..."
     },
     {
-      "show_name": "México opina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/méxico-opina.webp",
-      "show_category": "Periodístico",
+      "show_name": "La historia completa con Anderson Cooper",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 64 - EE.UU. vs. Harvard",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Presenta las encuestas y sondeos del pulso de la nación tomados de CNNMéxico.com y pone a los televidentes en medio del debate. Cada semana, Mario González invita a expertos para discutir los temas que generan el mayor interés en el sitio."
+      "episode_description": "Omar Jiménez informa desde Harvard sobre cómo el hostigamiento de la administración Trump contra el mundo académico llegó a su punto álgido..."
     },
     {
       "show_name": "Redacción con Nacho Girón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/redacción-con-nacho-girón.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "12:00",
       "end_time": "13:00",
@@ -124,7 +116,7 @@
     },
     {
       "show_name": "Redacción con Nacho Girón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/redacción-con-nacho-girón.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "14:00",
@@ -132,7 +124,7 @@
     },
     {
       "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/conclusiones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "14:00",
       "end_time": "15:00",
@@ -140,7 +132,7 @@
     },
     {
       "show_name": "Aristegui",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/aristegui.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aristegui_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "15:00",
       "end_time": "15:30",
@@ -148,7 +140,7 @@
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
       "start_time": "15:30",
       "end_time": "16:00",
@@ -156,7 +148,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -164,7 +156,7 @@
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -172,7 +164,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -180,7 +172,7 @@
     },
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -188,7 +180,7 @@
     },
     {
       "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/conclusiones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -196,7 +188,7 @@
     },
     {
       "show_name": "Aristegui",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/aristegui.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aristegui_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "21:00",
       "end_time": "21:30",
@@ -204,7 +196,7 @@
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
       "start_time": "21:30",
       "end_time": "22:00",
@@ -212,7 +204,7 @@
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -220,7 +212,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/tomorrow/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "23:00",
       "end_time": "",
