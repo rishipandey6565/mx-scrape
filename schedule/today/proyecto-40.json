@@ -4,31 +4,39 @@
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Primer círculo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "La entrevista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "00:02",
-      "end_time": "00:30",
-      "episode_description": "Espacio para disfrutar del análisis y la inteligencia aguda y pragmática en la voz de los principales analistas del acontecer diario de México. El público podrá informarse sobre de los temas que más impactan a la sociedad."
+      "end_time": "00:15",
+      "episode_description": "Sergio Sarmiento analiza los temas más destacados de la actualidad mexicana y del mundo junto a los protagonistas de los acontecimientos. A través de la charla, el público podrá informarse al completo a través de fuentes de primera mano."
     },
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Nombres, nombres y nombres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_nombres-nombres-y-nombres_l_m.jpg",
+      "show_category": "Periodístico",
+      "start_time": "00:15",
+      "end_time": "00:30",
+      "episode_description": "Acompaña a Alberto Aguilar en esta edición en la cual se encarga de entrevistar a invitados especiales para conversar sobre los temas más relevantes del acontecer, tanto nacional como internacional."
+    },
+    {
+      "show_name": "México bravo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-mexico-bravo_l_m.jpg",
+      "show_category": "México bravo",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "Espacio abierto al aprendizaje de un espectáculo arraigado en las tradiciones mexicanas, por lo que muchos de sus contenidos estarán vinculados a la cultura, la tradición y todo aquello que rodea a las fiestas de los toros."
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "03:58",
@@ -76,7 +84,7 @@
     },
     {
       "show_name": "Barras de ajuste",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/barras-de-ajuste.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
       "show_category": "Entretenimientos",
       "start_time": "03:58",
       "end_time": "04:00",
@@ -84,7 +92,7 @@
     },
     {
       "show_name": "Barras de ajuste",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/barras-de-ajuste.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
       "show_category": "Entretenimientos",
       "start_time": "04:00",
       "end_time": "04:02",
@@ -92,7 +100,7 @@
     },
     {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/rtc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "04:02",
       "end_time": "04:30",
@@ -100,7 +108,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
       "end_time": "05:00",
@@ -108,7 +116,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
@@ -116,7 +124,7 @@
     },
     {
       "show_name": "Noticias para despertar con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -124,7 +132,7 @@
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
@@ -132,7 +140,7 @@
     },
     {
       "show_name": "Noticias para despertar con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "06:02",
       "end_time": "06:30",
@@ -140,7 +148,7 @@
     },
     {
       "show_name": "Noticias en tiempo real con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -148,7 +156,7 @@
     },
     {
       "show_name": "Así amanece con Leonardo Curzio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -156,7 +164,7 @@
     },
     {
       "show_name": "Noticias a ras de tierra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/noticias-a-ras-de-tierra.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticias-a-ras-de-tierra_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "08:00",
       "end_time": "09:00",
@@ -164,7 +172,7 @@
     },
     {
       "show_name": "Ya nadie está dormido con Javier Risco",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "09:00",
       "end_time": "10:00",
@@ -172,7 +180,7 @@
     },
     {
       "show_name": "Tren del meme con Valentina Rodríguez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Entretenimientos",
       "start_time": "10:00",
       "end_time": "11:00",
@@ -180,7 +188,7 @@
     },
     {
       "show_name": "Las noticias contigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "11:00",
       "end_time": "13:00",
@@ -188,7 +196,7 @@
     },
     {
       "show_name": "ADN Noticias con Romina Ramos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "14:00",
@@ -196,7 +204,7 @@
     },
     {
       "show_name": "AQC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/aqc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aqc_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "14:00",
       "end_time": "14:30",
@@ -204,7 +212,7 @@
     },
     {
       "show_name": "Es negocio con Carlos Mota",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "14:30",
       "end_time": "15:00",
@@ -212,7 +220,7 @@
     },
     {
       "show_name": "Es tendencia con José Luis Mora y Alejandra Molina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "15:00",
       "end_time": "16:00",
@@ -220,7 +228,7 @@
     },
     {
       "show_name": "ADN Noticias con Alejandro Brofft y Claudia Echeverry",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -228,7 +236,7 @@
     },
     {
       "show_name": "ADN Noticias con Mara Durón y Yunué Cuevas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "17:30",
@@ -236,7 +244,7 @@
     },
     {
       "show_name": "Cotorreando la noticia con Juan Lecanda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -244,7 +252,7 @@
     },
     {
       "show_name": "Noticias en tiempo real con Juan Manuel Jiménez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -252,7 +260,7 @@
     },
     {
       "show_name": "Ciudad desnuda con Yunue Cuevas y Mara Durón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -260,7 +268,7 @@
     },
     {
       "show_name": "Noticias en Red con Lucy Bravo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -268,7 +276,7 @@
     },
     {
       "show_name": "Es noticia con Hannia Novell",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/es-noticia-con-hannia-novell.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_es-noticia-con-hannia-novell_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -276,7 +284,7 @@
     },
     {
       "show_name": "Noticias república MX",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "22:00",
       "end_time": "22:30",
@@ -284,7 +292,7 @@
     },
     {
       "show_name": "Mesa República MX",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "22:30",
       "end_time": "23:00",
@@ -292,19 +300,19 @@
     },
     {
       "show_name": "Todo personal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/today/todo-personal.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_todo-personal_l_m.jpg",
       "show_category": "Político",
       "start_time": "23:00",
       "end_time": "23:30",
       "episode_description": "En el poder y en la política, absolutamente todo es personal. Acá encontrarás la presentación de la coyuntura que se genera en los temas relacionados con la agenda política nacional, el narcotráfico y la seguridad."
     },
     {
-      "show_name": "Gabinete de sombra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Cotorreando la noticia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Comedia",
       "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "Vicente Fox ofrece un espacio de análisis crítico, irónico y sarcástico, manteniendo rigurosa formalidad en la presentación de datos."
+      "episode_description": "Un espacio con las últimas noticias internacionales y mexicanas llenas de parodias de personajes, opiniones duras y una visión fresca de la información con humor."
     }
   ]
 }
