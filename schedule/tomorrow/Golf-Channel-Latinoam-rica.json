@@ -1,9 +1,17 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour Champions",
+      "show_name": "PGA Tour Highlights",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA Tour Champions",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,34 +19,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Korn Ferry Tour",
+      "show_name": "Korn Ferry Tour Highlights",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "03:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "School of Golf",
+      "show_name": "PGA Tour Highlights",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA Tour Champions",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA TOUR: The CUT",
+      "show_name": "Korn Ferry Tour Highlights",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PGA Tour Champions Learning Center",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "School of Golf",
+      "show_name": "PGA TOUR: The CUT",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -75,119 +83,87 @@
       "episode_description": ""
     },
     {
-      "show_name": "School of Golf",
+      "show_name": "PGA TOUR Specials",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "School of Golf",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "School of Golf",
+      "show_name": "PGA Tour Highlights",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
-      "end_time": "10:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
-      "show_name": "The Golf fix",
+      "show_name": "PGA Tour Champions",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Korn Ferry Tour Highlights",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "PGA TOUR: The CUT",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PGA Tour Champions Learning Center",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Studio golftv",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Argentina Golf Destination",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golf Today",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golf Today",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
       "show_name": "International Golf",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
       "show_name": "Paco Aleman Confidencial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf Management",
+      "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf Central",
+      "show_name": "Golf Central Pregame",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf PGA Tour",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA TOUR Specials",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -195,59 +171,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paco Aleman Confidencial",
+      "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Studio golftv",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PGA Tour Champions Learning Center",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "International Golf",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Studio golftv",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paco Aleman Confidencial",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA Tour Highlights",
+      "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

@@ -1,12 +1,28 @@
 {
   "channel": "RAI International",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
-      "show_name": "Il meglio di Quelli della",
+      "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG1",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UnoMattina News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dietro le quinte con",
+      "show_name": "Udienza Papale",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -139,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR Leonardo",
+      "show_name": "Cartoni animati",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:15",
@@ -147,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "TGR Leonardo",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -187,34 +211,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Giostra del Gol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:15",
-      "episode_description": ""
-    },
-    {
       "show_name": "L'invisibile - La cattura",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "22:00",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Italian genius",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:45",
       "episode_description": ""
     },
     {
       "show_name": "Porta a Porta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:30",
+      "start_time": "21:45",
+      "end_time": "23:15",
       "episode_description": ""
     },
     {
       "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "23:15",
       "end_time": "00:00",
       "episode_description": ""
     }

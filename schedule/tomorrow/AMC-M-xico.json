@@ -1,38 +1,38 @@
 {
   "channel": "AMC (México)",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
+    {
+      "show_name": "Spider-Man: Un Nuevo Universo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_un_nuevo_universo.jpg",
+      "show_category": "Animación",
+      "start_time": "00:00",
+      "end_time": "00:05",
+      "episode_description": "El adolescente de Brooklyn Miles Morales (Shameik Moore) y las posibilidades ilimitadas del universo araña, donde más de uno puede usar la máscara."
+    },
+    {
+      "show_name": "Anna: El Peligro Tiene Nombre",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/anna_el_peligro_tiene_nombre.jpg",
+      "show_category": "Acción",
+      "start_time": "00:05",
+      "end_time": "02:10",
+      "episode_description": "Bajo la belleza de Anna Poliatova (Sasha Luss) se encuentra un secreto que desatará su fuerza y habilidad indelebles para convertirse en uno de los asesinos gubernamentales más temidos del mundo."
+    },
     {
       "show_name": "Machete",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:30",
+      "start_time": "02:10",
+      "end_time": "04:05",
       "episode_description": ""
     },
     {
       "show_name": "Estación espacial 76",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Exorcismo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/tales-of-the-walking-dead.webp",
-      "show_category": "Drama",
-      "start_time": "05:00",
+      "start_time": "04:05",
       "end_time": "05:50",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
@@ -115,60 +115,68 @@
       "episode_description": ""
     },
     {
-      "show_name": "Por el honor",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:45",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Fama",
+      "show_name": "The Ark",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:45",
-      "end_time": "14:35",
+      "start_time": "11:30",
+      "end_time": "12:20",
       "episode_description": ""
     },
     {
       "show_name": "Match Point",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:35",
-      "end_time": "16:55",
+      "start_time": "12:20",
+      "end_time": "14:40",
       "episode_description": ""
+    },
+    {
+      "show_name": "Fama",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:40",
+      "end_time": "16:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Loco Por Ella",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/loco_por_ella.jpg",
+      "show_category": "Comedia",
+      "start_time": "16:35",
+      "end_time": "18:30",
+      "episode_description": "Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba."
     },
     {
       "show_name": "Con la frente en alto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:55",
-      "end_time": "18:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Loco Por Ella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/loco-por-ella.webp",
-      "show_category": "Comedia",
-      "start_time": "18:25",
-      "end_time": "20:15",
-      "episode_description": "Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba."
-    },
-    {
-      "show_name": "Respira",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:15",
-      "end_time": "22:00",
+      "start_time": "18:30",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Spider-Man: Un Nuevo Universo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/spider-man-un-nuevo-universo.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_un_nuevo_universo.jpg",
       "show_category": "Animación",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "El adolescente de Brooklyn Miles Morales (Shameik Moore) y las posibilidades ilimitadas del universo araña, donde más de uno puede usar la máscara."
+    },
+    {
+      "show_name": "Caminando entre tumbas",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
       "end_time": "00:05",
-      "episode_description": "El adolescente de Brooklyn Miles Morales (Shameik Moore) y las posibilidades ilimitadas del universo araña, donde más de uno puede usar la máscara."
+      "episode_description": ""
     }
   ]
 }

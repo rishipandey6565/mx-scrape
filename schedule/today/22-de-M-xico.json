@@ -1,9 +1,17 @@
 {
   "channel": "22 de México",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
-      "show_name": "Noticiero Punto de Referencia",
+      "show_name": "Shorts México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "Tamayo 40",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Festival Cervantino",
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Naturaleza",
+      "show_name": "Shorts México",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Humanismo Mexicano",
+      "show_name": "Detector de Mentiras",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tratos y retratos",
+      "show_name": "Marquesina 22",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -107,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Piedras que hablan",
+      "show_name": "El Cancionero y sus Amigos",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Llegamos Todas!",
+      "show_name": "Sanamente",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -147,15 +155,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Piedras que hablan",
+      "show_name": "El manatí del caribe",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crónica Animal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Dichosa Palabra",
+      "show_name": "Julio Scherer García",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -163,18 +179,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tamayo 40",
+      "show_name": "La guerra de la señorita",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La oveja eléctrica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -203,11 +211,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Shorts México",
+      "show_name": "Pantalla de cristal",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Contra el silencio todas las",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

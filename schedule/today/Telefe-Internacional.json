@@ -1,6 +1,6 @@
 {
   "channel": "Telefe Internacional",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
       "show_name": "Vidas robadas",
@@ -131,10 +131,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Entre Caníbales",
+      "show_name": "Check-in",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
+      "end_time": "18:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Entre Caníbales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:40",
       "end_time": "19:45",
       "episode_description": ""
     },
@@ -147,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gravedad Zero",
+      "show_name": "Check-in",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
@@ -167,6 +175,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "21:15",
+      "end_time": "21:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "#Viajeros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:40",
       "end_time": "22:00",
       "episode_description": ""
     },

@@ -1,6 +1,6 @@
 {
   "channel": "TV Chile",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
       "show_name": "Aquí te las traigo Peter",
@@ -23,14 +23,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El especialista responde",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -39,22 +31,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:45",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "Buenos Días a Todos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
-      "end_time": "07:45",
+      "start_time": "05:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:45",
+      "start_time": "08:00",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -67,10 +59,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El especialista responde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -131,10 +131,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El especialista responde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
       "end_time": "21:45",
       "episode_description": ""
     },

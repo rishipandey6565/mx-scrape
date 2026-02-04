@@ -1,28 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:04",
+      "end_time": "00:36",
       "episode_description": ""
     },
     {
-      "show_name": "Les ailes collées",
+      "show_name": "OPJ",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:04",
-      "end_time": "02:35",
+      "start_time": "00:36",
+      "end_time": "02:21",
       "episode_description": ""
     },
     {
       "show_name": "Un si grand soleil",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:35",
+      "start_time": "02:21",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paname",
+      "show_name": "C'est du belge",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:32",
@@ -51,15 +51,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le Point",
+      "show_name": "Geopolitis",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Objectif monde l'hebdo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:27",
       "end_time": "05:54",
       "episode_description": ""
     },
     {
-      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_name": "C'est succulent",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:54",
@@ -83,34 +91,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Éthiopie, la piste des loups",
+      "show_name": "Nos amis sauvages",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:17",
+      "end_time": "08:19",
       "episode_description": ""
     },
     {
-      "show_name": "Littoral",
+      "show_name": "Paname",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:17",
-      "end_time": "08:44",
+      "start_time": "08:19",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
-      "show_name": "Tendance XXI",
+      "show_name": "Territoires de France",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:44",
-      "end_time": "09:10",
+      "start_time": "08:45",
+      "end_time": "09:12",
       "episode_description": ""
     },
     {
-      "show_name": "Curieux bégin",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:10",
+      "start_time": "09:12",
       "end_time": "09:39",
       "episode_description": ""
     },
@@ -147,18 +155,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Taj Mahal",
+      "show_name": "Les perles",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
-      "end_time": "13:32",
+      "end_time": "12:27",
       "episode_description": ""
     },
     {
-      "show_name": "Le prénom",
+      "show_name": "Les perles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:32",
+      "start_time": "12:27",
+      "end_time": "13:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Football Ligue 1 McDonald's",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:33",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,18 +203,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une brique dans le ventre",
+      "show_name": "Maghreb-orient express",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:00",
+      "end_time": "16:01",
       "episode_description": ""
     },
     {
-      "show_name": "Mise au point",
+      "show_name": "Enquêtes de région",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:01",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -211,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "OPJ",
+      "show_name": "Le grand dossier",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
@@ -227,35 +243,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Trentenaires",
+      "show_name": "Auschwitz",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:39",
+      "end_time": "21:25",
       "episode_description": ""
     },
     {
-      "show_name": "Le retour des résistantes",
+      "show_name": "Les indociles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:39",
-      "end_time": "23:05",
+      "start_time": "21:25",
+      "end_time": "22:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Les indociles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:20",
+      "end_time": "23:18",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:05",
-      "end_time": "23:30",
+      "start_time": "23:18",
+      "end_time": "23:42",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
-      "end_time": "00:36",
+      "start_time": "23:42",
+      "end_time": "00:49",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "Enlace (TBN)",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
     {
-      "show_name": "Vida nueva para el mundo",
+      "show_name": "Guardianes del muro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Respuestas con Bayless Conley",
+      "show_name": "Las raíces hebreas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Proclamación",
+      "show_name": "Tetelestai",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Canticos de amor",
+      "show_name": "Casa Voladora",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,42 +35,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especial infantil",
+      "show_name": "En concierto",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tesoros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vida nueva para el mundo",
+      "show_name": "Palabras de Vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cristo la solución",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Disfrutando la Vida Diaria",
+      "show_name": "Aquí entre nos",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vida Real",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En buena ora",
+      "show_name": "La voz de Victoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Joel",
+      "show_name": "Respuestas con Bayless Conley",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -115,10 +107,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Camino a la victoria",
+      "show_name": "Ministración con Joe Ferreyra",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
+      "end_time": "07:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fe heroica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:45",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Una voz de Sanidad",
+      "show_name": "Todo es posible",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reporte vida",
+      "show_name": "Palabra pura",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Disruptivas",
+      "show_name": "Mundo Cristiano",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En casa con",
+      "show_name": "Jesus Worship Center",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El lugar de su presencia",
+      "show_name": "Código de vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -195,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ancient Nutrition Intl",
+      "show_name": "Mesa redonda",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -203,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En contacto charles stanley",
+      "show_name": "Mensajes de vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Más que Vencedores",
+      "show_name": "Camino de fe del creyente",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del muro",
+      "show_name": "Para ti mujer",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -235,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dios de milagros",
+      "show_name": "Tiempo de reflexionar",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -243,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La voz de Victoria",
+      "show_name": "Arraigadas en Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -251,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Programa Especial",
+      "show_name": "Palabra del corazón de Dios",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -291,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Palabra pura",
+      "show_name": "Jesus Worship Center",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -315,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tesoros",
+      "show_name": "Todo es posible",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -323,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vive +",
+      "show_name": "Creactivos",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -331,7 +331,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Joel",
+      "show_name": "Respuestas con Bayless Conley",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -339,7 +339,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida de fe",
+      "show_name": "Sexo divino",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -347,7 +347,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Programa Especial",
+      "show_name": "Tesoros",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -355,7 +355,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del muro",
+      "show_name": "Es sobrenatural",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

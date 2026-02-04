@@ -1,49 +1,41 @@
 {
   "channel": "22 de México",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
-      "show_name": "Shorts México",
+      "show_name": "Contra el silencio todas las",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Memoria viva de ciertos dias",
+      "show_name": "El manatí del caribe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Culturas Veintidós\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
+      "start_time": "01:00",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Tamayo 40",
+      "show_name": "La guerra de la señorita",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Memoria viva de ciertos dias",
+      "show_name": "Cinema 22",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "02:30",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Shorts México",
+      "show_name": "Especiales del 22",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conferencia del Pueblo",
+      "show_name": "Conferencia del Pueblo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Detector de Mentiras",
+      "show_name": "Mujeres en la historia",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "La oveja eléctrica",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -115,10 +107,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Cancionero y sus Amigos",
+      "show_name": "Soy Fugitivo Dany Camacho",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La magia de los pueblos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sanamente",
+      "show_name": "NCC Reporte Climático",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El manatí del caribe",
+      "show_name": "Soy Fugitivo Dany Camacho",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crónica Animal",
+      "show_name": "La magia de los pueblos",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Julio Scherer García",
+      "show_name": "Léemelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -179,10 +179,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La guerra de la señorita",
+      "show_name": "¡Llegamos Todas!",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tratos y retratos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -211,19 +219,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pantalla de cristal",
+      "show_name": "El cometa",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Contra el silencio todas las",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

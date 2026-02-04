@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
-      "show_name": "Conexión Galicia",
+      "show_name": "Amor na rede",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -31,14 +31,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:45",
-      "end_time": "03:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O agro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:55",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -175,30 +167,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
-      "end_time": "20:18",
+      "end_time": "20:20",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Malas pécoras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:18",
-      "end_time": "20:50",
+      "start_time": "20:20",
+      "end_time": "21:29",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Non Lle chames amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:50",
-      "end_time": "21:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amor na rede",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:20",
+      "start_time": "21:29",
       "end_time": "00:00",
       "episode_description": ""
     }

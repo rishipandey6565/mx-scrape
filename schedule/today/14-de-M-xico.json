@@ -1,60 +1,52 @@
 {
   "channel": "14 de México",
-  "date": "03/02/2026",
+  "date": "04/02/2026",
   "schedule": [
-    {
-      "show_name": "Un lugar en el sol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La culta dama",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:45",
-      "end_time": "02:20",
-      "episode_description": ""
-    },
     {
       "show_name": "Tercera oportunidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:20",
-      "end_time": "02:55",
+      "start_time": "00:00",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "Saborcito corazón",
+      "show_name": "El Esqueleto de la Señora",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:55",
-      "end_time": "03:25",
+      "start_time": "00:05",
+      "end_time": "01:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un lugar en el sol",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:35",
+      "end_time": "03:20",
       "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:25",
-      "end_time": "04:55",
+      "start_time": "03:20",
+      "end_time": "04:50",
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Diálogos por la democracia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:55",
-      "end_time": "05:55",
+      "start_time": "04:50",
+      "end_time": "05:50",
       "episode_description": ""
     },
     {
-      "show_name": "Tesoros de México",
+      "show_name": "La calle, el aula",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:50",
       "end_time": "06:10",
       "episode_description": ""
     },
@@ -91,47 +83,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "TV Migrante Informa",
+      "show_name": "Ama de Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
-      "end_time": "10:45",
+      "end_time": "11:05",
       "episode_description": ""
     },
     {
-      "show_name": "Ventana al Mundo",
+      "show_name": "Saborcito corazón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reportaje 14",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:45",
+      "start_time": "11:05",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
-      "end_time": "12:40",
+      "start_time": "11:35",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
-      "show_name": "Tv Médica",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:40",
+      "start_time": "12:05",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Perspectivas Históricas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "MUCHO+Q2",
+      "show_name": "Códice de la Cruz-Badiano",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -143,22 +135,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "15:40",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
-      "show_name": "Maestros olvidados",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:40",
-      "end_time": "16:30",
+      "start_time": "16:05",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Chanoc vs. Las tarántulas",
+      "show_name": "Músicos en directo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
+      "start_time": "17:00",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -195,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Debate Público",
+      "show_name": "Versiones Públicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -203,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Clandestino",
+      "show_name": "Los Secretos de la Corrupción",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -211,11 +203,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tercera oportunidad",
+      "show_name": "El Santo Oficio",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:05",
+      "end_time": "01:45",
       "episode_description": ""
     }
   ]

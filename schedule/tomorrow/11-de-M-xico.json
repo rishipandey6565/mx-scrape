@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
-      "show_name": "Sin muros",
+      "show_name": "De Tal Palo Tal Astilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,34 +19,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "Acá las Tortas",
+      "show_name": "De Tal Palo Tal Astilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:02",
-      "end_time": "02:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Mañanera 360",
       "show_logo": "",
       "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bichos en el corazón de la Tierra",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "Diálogos En Confianza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:45",
+      "start_time": "02:30",
+      "end_time": "04:15",
       "episode_description": ""
     },
     {
       "show_name": "Big Cities",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
+      "start_time": "04:15",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La aventura de México desconocido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -75,10 +91,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Once Noticias a las seis",
+      "show_name": "Radio, Televisión, y Cinematografía",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:02",
+      "end_time": "06:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Once Noticias a las seis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:07",
       "end_time": "09:30",
       "episode_description": ""
     },
@@ -107,10 +131,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Acá las Tortas",
+      "show_name": "De Tal Palo Tal Astilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Confieso que he vivido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -127,6 +159,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Radio, Televisión, y Cinematografía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:25",
       "end_time": "15:30",
       "episode_description": ""
     },
@@ -151,6 +191,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:07",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daniel Tigre y su Vecindad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -163,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Juani y Gatón",
+      "show_name": "Zander",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -171,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Amigas/os ONN: Detrás de la artesanía",
+      "show_name": "Shaun, el cordero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:07",
@@ -179,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Vientos! Noticias que vuelan",
+      "show_name": "Mi hermano el monstruo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
@@ -187,10 +235,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un día en ON",
+      "show_name": "Academia de superhéroes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "17:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Prueba total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:45",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -203,18 +259,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crónicas y relatos de México",
+      "show_name": "La independencia inconclusa",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:03",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tap: Taller De Actores Profesionales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -235,18 +283,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Confieso que he vivido",
+      "show_name": "Tap: Taller De Actores Profesionales",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sacro Y Profano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -267,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "México Social",
+      "show_name": "Estación Once",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -275,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "De Tal Palo Tal Astilla",
+      "show_name": "Una Estrella y Dos Estrellados",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
