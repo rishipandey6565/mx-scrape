@@ -1,10 +1,10 @@
 {
   "channel": "Canal 22",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:30",
       "end_time": "01:30",
@@ -12,23 +12,23 @@
     },
     {
       "show_name": "Taller de las audiencias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "01:30",
       "end_time": "02:30",
       "episode_description": "Espacio donde espectadores de Canal 22 califican los programas originales."
     },
     {
-      "show_name": "Contra el silencio, todas las voces",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/contra-el-silencio-todas-las-voces.webp",
-      "show_category": "- La medida 29",
+      "show_name": "Cinema 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cinema-22_l_m.jpg",
+      "show_category": "Película",
       "start_time": "02:30",
       "end_time": "04:00",
-      "episode_description": "Revisa una de las primeras acciones del gobierno de Salvador Allende: el derecho al descanso. Contrasta su vocación social con el quiebre histórico que los transformó, tras el golpe de Estado, en lugares de detención y tortura."
+      "episode_description": "De Charles Chaplin a Wong Kar Wai. De Emilio \"El indio\" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22."
     },
     {
       "show_name": "México global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/méxico-global.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global_l_m.jpg",
       "show_category": "Economía",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Pueblando",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "04:30",
       "end_time": "06:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -52,63 +52,55 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
-      "end_time": "09:00",
-      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
-    },
-    {
-      "show_name": "Mujeres en la historia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Biográfico",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Serie documental dedicada a desvelar la personalidad de mujeres que han sido importantes en la historia de España y cuyo trabajo es desconocido. La serie además explora aborda el momento historico que les toco vivir."
-    },
-    {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
-      "start_time": "09:30",
-      "end_time": "10:30",
+      "end_time": "08:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
+      "show_name": "Trotacalles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 1951 /6.6",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "episode_description": "En la Ciudad de México, dos hermanas, María y Elena, se pelean por el amor del proxeneta Rodolfo. Mientras una de ellas escapa de su matrimonio, la otra se prostituye para sobrevivir y debe lidiar con clientes explotadores."
+    },
+    {
       "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
     },
     {
-      "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Japón y México: 400 años de relaciones bilaterales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
+      "episode_description": "El periodista Álvaro Cueva conversa con el embajador de Japón en México, Kozo Honsei, para hablar de la relación bilateral entre ambos países."
     },
     {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- NEUMA Darío Piccioni Trio",
+      "show_name": "La Constitución de 1917, antes, hoy y después",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Documental / 2019",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+      "episode_description": "Conozca los hechos históricos previos a la Revolución Mexicana, los logros obtenidos tras la guerra y las modificaciones de la Constitución, de la mano de expertos constitucionalistas e historiadores."
     },
     {
       "show_name": "109º aniversario de la promulgación de la constitución política de los Estados Unidos Mexicanos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Especial",
       "start_time": "13:00",
       "end_time": "14:30",
@@ -116,7 +108,7 @@
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
@@ -124,15 +116,15 @@
     },
     {
       "show_name": "Soy fugitivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 - Los Nómadas Rabari, migramos con los cuidadores de camellos de la India",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 - La secta Ramnami, quienes se tatúan su Dios en todo el cuerpo",
       "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "Dany es un viajero que realiza expediciones a lugares poco comunes, mostrando culturas y tradiciones, algunas casi extintas. Junto a él, el público podrá descubrir la riqueza natural de los sitios visitados."
+      "episode_description": "Conoce a Los Ramnami, secta religiosa que tatua su cuerpo con el nombre del dios Rama. Estos provienen de la casta de los Dalit, conocidos como los intocables, la posición más baja del sistema de castas hindúismo."
     },
     {
       "show_name": "La magia de los pueblos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "- Cuetzalan, Puebla",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -140,7 +132,7 @@
     },
     {
       "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/leémelo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_leemelo-daniel-gimenez-cacho-conduce-naian-gonzalez-norvind_l_m.jpg",
       "show_category": "- Daniel Giménez Cacho - Conduce: Naian González Norvind",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -148,7 +140,7 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -156,7 +148,7 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -164,7 +156,7 @@
     },
     {
       "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/punto-de-referencia.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
       "show_category": "Político",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -172,7 +164,7 @@
     },
     {
       "show_name": "Tratos y retratos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/tratos-y-retratos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tratos-y-retratos-jose-woldenberg-parte-1-1_l_m.jpg",
       "show_category": "- José Woldenberg - Parte 1",
       "start_time": "22:00",
       "end_time": "22:30",
@@ -180,7 +172,7 @@
     },
     {
       "show_name": "Chalán",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "Comedia / 2012 /7.0",
       "start_time": "22:30",
       "end_time": "23:30",
@@ -188,7 +180,7 @@
     },
     {
       "show_name": "La luz de la memoria",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "- El cinematógrafo, mito y memoria",
       "start_time": "23:30",
       "end_time": "",
