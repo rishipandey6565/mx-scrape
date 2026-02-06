@@ -1,9 +1,9 @@
 {
   "channel": "Enlace (TBN)",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Compañía de mujeres",
+      "show_name": "Guardianes del muro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Palabras de Vida",
+      "show_name": "Tetelestai",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,31 +19,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Primera Fila",
+      "show_name": "Vida nueva para el mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Compañía de mujeres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "En concierto",
+      "show_name": "El centro en casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ministración con Joe Ferreyra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Palabras de Vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Chiquivida",
+      "show_name": "Vida de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Arraigadas en Jesús",
+      "show_name": "Oasis",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -59,10 +67,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí entre nos",
+      "show_name": "Vida Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mensajes de vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un estilo de vida",
+      "show_name": "En dios confiamos",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -83,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Casa de dios",
+      "show_name": "Para ti mujer",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Camino de fe del creyente",
+      "show_name": "La voz de Victoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -99,71 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Enlace ora",
+      "show_name": "Espacio kids",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ministración con Joe Ferreyra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fe heroica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Otoniel Font",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Todo es posible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí entre nos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Esperanza Hoy",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amarás a Israel",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Palabra pura",
+      "show_name": "Vive +",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -171,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El puede hacerlo de nuevo",
+      "show_name": "El estudio de San Mateo",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -179,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jesus Worship Center",
+      "show_name": "En los pasos del maestro",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -187,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida Real",
+      "show_name": "Cartas abiertas",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -195,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mesa redonda",
+      "show_name": "Las raíces hebreas",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -203,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Programa Especial",
+      "show_name": "Impacto mundial",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -211,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida Real con Jack Hibbs",
+      "show_name": "Amarás a Israel",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -219,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jerusalem Dateline",
+      "show_name": "Viviendo Sin Límites",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -227,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ministración con Joe Ferreyra",
+      "show_name": "Equilibradamente sanos",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -235,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristo la solución",
+      "show_name": "Más que Vencedores",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -243,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Oasis",
+      "show_name": "Somos hijos",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -251,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Palabra del corazón de Dios",
+      "show_name": "Vida Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -259,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Otoniel Font",
+      "show_name": "Para Que el Mundo Sepa",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -267,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Esperanza Hoy",
+      "show_name": "Mundo Cristiano",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -275,15 +235,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Viernes de avivamiento",
+      "show_name": "Programa Especial",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Canticos de amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Guardianes del muro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "El show de la fe",
+      "show_name": "Vida Real con Jack Hibbs",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -291,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Casa de dios",
+      "show_name": "Creactivos",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -299,47 +275,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo es posible",
+      "show_name": "Aquí entre nos",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jesus Worship Center",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Camino de fe del creyente",
+      "show_name": "Especial conciertos",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maná",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dios de milagros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
       "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del muro",
+      "show_name": "Compañía de mujeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

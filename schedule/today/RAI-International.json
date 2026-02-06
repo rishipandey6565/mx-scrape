@@ -1,9 +1,9 @@
 {
   "channel": "RAI International",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
-      "show_name": "TG Rai News",
+      "show_name": "Il meglio di Quelli della",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -127,19 +127,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:45",
-      "end_time": "13:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "TG1 + Cinque minuti",
+      "show_name": "Il sorriso di un bambino",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
+      "start_time": "12:30",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "GEN Z",
+      "show_name": "TG2",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -163,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "TGR Leonardo",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -203,34 +211,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Don Matteo",
+      "show_name": "Neve, ghiaccio e gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Punti di vista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Il confronto",
+      "show_name": "Tv7",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Porta a Porta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "23:00",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
       "show_name": "Il meglio di Quelli della",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "22:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,44 +1,44 @@
 {
   "channel": "14 de México",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
+    {
+      "show_name": "Tercera oportunidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un lugar en el sol",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:05",
+      "end_time": "01:50",
+      "episode_description": ""
+    },
     {
       "show_name": "El Santo Oficio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:45",
+      "start_time": "01:50",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "En las arenas negras",
+      "show_name": "Grandes Figuras del Arte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:45",
-      "end_time": "03:20",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Altas Horas",
+      "show_name": "Quienes hacen nuestro cine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:20",
-      "end_time": "04:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Códice de la Cruz-Badiano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:50",
-      "end_time": "05:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La calle, el aula",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:50",
+      "start_time": "05:00",
       "end_time": "06:10",
       "episode_description": ""
     },
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Grandes Figuras del Arte",
+      "show_name": "México Tropical",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -83,55 +83,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Quienes hacen nuestro cine",
+      "show_name": "Infodemia",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:15",
-      "end_time": "12:15",
+      "end_time": "11:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Operación Mamut",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:45",
+      "end_time": "12:45",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:15",
-      "end_time": "13:00",
+      "start_time": "12:45",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Secretos de la Corrupción",
+      "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Una Historia de la Periferia",
+      "show_name": "Hijos de tigres",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:30",
+      "start_time": "15:00",
+      "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Noticiario France 24",
+      "show_name": "El Esqueleto de la Señora",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Salud y Deporte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
+      "start_time": "15:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Grandes Figuras del Arte",
+      "show_name": "México Tropical",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Largo aliento",
+      "show_name": "Abiertamente",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -179,19 +179,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Biografiás de Películas",
+      "show_name": "El vuelo de la cigüeña",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tercera oportunidad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
-      "end_time": "00:05",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

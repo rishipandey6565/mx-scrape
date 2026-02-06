@@ -1,25 +1,33 @@
 {
   "channel": "22 de México",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
-      "show_name": "Contra el silencio todas las",
+      "show_name": "La luz de la Memoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "El manatí del caribe",
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "La guerra de la señorita",
+      "show_name": "Léemelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -35,15 +43,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales del 22",
+      "show_name": "La luz de la Memoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Rodando caminos",
+      "show_name": "Pueblando",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres en la historia",
+      "show_name": "Suave patria",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La oveja eléctrica",
+      "show_name": "La raíz doble",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -107,23 +123,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Soy Fugitivo Dany Camacho",
+      "show_name": "A Fonda",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La magia de los pueblos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "En Ruta-T",
+      "show_name": "México Global Norteamérica",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NCC Reporte Climático",
+      "show_name": "Crónica Animal",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -139,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rodando caminos",
+      "show_name": "Pueblando",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -155,23 +163,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Soy Fugitivo Dany Camacho",
+      "show_name": "La piel de la ciudad",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La magia de los pueblos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "Leer, una hora inesperada",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -179,18 +179,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Llegamos Todas!",
+      "show_name": "Grandes Figuras del Arte",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tratos y retratos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -203,23 +195,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare\nEn Vivo",
+      "show_name": "Festival Cervantino",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noticiero Punto de Referencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "El cometa",
+      "show_name": "Tras Nazarín",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

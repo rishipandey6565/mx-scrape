@@ -1,6 +1,6 @@
 {
   "channel": "Exa TV",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
       "show_name": "Videos",
@@ -123,26 +123,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Videos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "K-vibe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Videos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Videos",
+      "show_name": "El exámetro",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Videos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -187,18 +195,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Videos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "K-vibe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Videos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },

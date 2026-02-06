@@ -1,17 +1,17 @@
 {
   "channel": "Sky Sports 16",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "CA Osasuna vs. Villareal CF",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Elche vs. Barcelona",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/elche_vs_barcelona.png",
+      "show_category": "Fútbol",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Martínez Valero en la ciudad de Elche, Comunidad Valenciana, España, se enfrentan los equipos Elche Club de Fútbol versus el Fútbol Club Barcelona."
     },
     {
-      "show_name": "RCD Real Oviedo vs. Girona FC",
+      "show_name": "Athletic Club de Bilbao vs. Rea",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Real Betis vs. Valencia",
+      "show_name": "CA Osasuna vs. Villareal CF",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -31,51 +31,75 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "05:45",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "CA Osasuna vs. Villareal CF",
+      "show_name": "RC Celta de Vigo vs. CA Osasuna",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Espanyol vs. Deportivo Alav",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Getafe vs. Celta de Vigo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Levante vs. Atlétoco de Madr",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:45",
-      "end_time": "13:45",
+      "start_time": "04:45",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rayo Vallecano vs. Real Oviedo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barcelona vs. RCD Mallorca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sevilla vs. Girona FC\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Real Sociedad vs. Elche\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -83,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RCD Real Oviedo vs. Girona FC",
+      "show_name": "Barcelona vs. RCD Mallorca",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -91,15 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Real Madrid Vs. Rayo Vallecano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/real-madrid-vs-rayo-vallecano.webp",
-      "show_category": "Deporte",
+      "show_name": "Rayo Vallecano vs. Real Oviedo",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "18:00",
       "end_time": "20:00",
-      "episode_description": "Desde el estadio Santiago Bernabéu en Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus el Rayo Vallecano de Madrid."
+      "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Sevilla vs. Girona FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -107,12 +131,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Elche vs. Barcelona",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/elche-vs-barcelona.webp",
-      "show_category": "Fútbol",
+      "show_name": "Real Sociedad vs. Elche",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
       "end_time": "00:00",
-      "episode_description": "Desde el estadio Martínez Valero en la ciudad de Elche, Comunidad Valenciana, España, se enfrentan los equipos Elche Club de Fútbol versus el Fútbol Club Barcelona."
+      "episode_description": ""
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel": "Fox Sports (México)",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
       "show_name": "La última palabra",
@@ -12,17 +12,25 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/today/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "00:00",
       "end_time": "01:00",
       "episode_description": "Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial."
     },
     {
-      "show_name": "AEW DYNAMITE",
+      "show_name": "Fox gol México",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox impacto NFL",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/today/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "04:00",
       "end_time": "05:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/today/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "+90",
+      "show_name": "Fox gol México",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -99,15 +107,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fox Gol Femenil",
+      "show_name": "Nfl gameday",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Latitud fox",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "+90",
+      "show_name": "Fox gol México",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -115,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "49ers vs. Chiefs",
+      "show_name": "Chiefs vs. Eagles",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/today/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "+90",
+      "show_name": "Road To The Super Bowl",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -163,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nfl gameday",
+      "show_name": "Latitud fox",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -179,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fox gol México",
+      "show_name": "+90",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",

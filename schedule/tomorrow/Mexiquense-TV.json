@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Mirada Global",
+      "show_name": "El Método",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "100% grupero",
+      "show_name": "Noches en vela",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "SN Mexiquense",
+      "show_name": "Reinventándonos",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Internacional Deutsche Welle",
+      "show_name": "Patrimonio mundial",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:15",
@@ -75,47 +75,95 @@
       "episode_description": ""
     },
     {
-      "show_name": "Amx con Raúl García y Acela Contreras",
+      "show_name": "Salud en Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "10:00",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Corte Informativo",
+      "show_name": "Voz canina",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ver y creer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Día con día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bionatura",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Huellas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Y tú, tú que vas a hacer?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "El Secreto Mejor Guardado",
+      "show_name": "Lucrezia Borgia: Ópera en dos actos de Gaetano Donizetti",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "12:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mexiquense Noticias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:45",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La historia que sigue",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
       "show_name": "Las mil y una notas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Imagen magisterial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Patrimonio mundial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fuerza TV",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -123,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero vespertino",
+      "show_name": "Nuestra chamba",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -131,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cultura AMX",
+      "show_name": "Las memorias del general",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -139,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Voz canina",
+      "show_name": "¿Y tú, tú que vas a hacer?",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -147,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guiños",
+      "show_name": "Experiencia EdoMex",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -155,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La zona",
+      "show_name": "100% grupero",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -163,31 +211,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mexiquense Noticias",
+      "show_name": "Su casa EDOMEX",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:03",
-      "end_time": "20:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Que Hicieron Nuestro Cine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:03",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reinventándonos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Punto de referencia",
+      "show_name": "Una historia de vasconia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -195,26 +227,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noches en vela",
+      "show_name": "El Método",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Hilo Negro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mexiquense Noticias",
+      "show_name": "Noches en vela",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Método",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,9 +1,9 @@
 {
   "channel": "Enlace (TBN)",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
-      "show_name": "Es sobrenatural",
+      "show_name": "Compañía de mujeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tetelestai",
+      "show_name": "Palabras de Vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Palabras de Vida",
+      "show_name": "Primera Fila",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En los pasos del maestro",
+      "show_name": "Compañía de mujeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Primera Fila",
+      "show_name": "En concierto",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El vigilante",
+      "show_name": "Chiquivida",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misterios de Israel",
+      "show_name": "Arraigadas en Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -59,18 +59,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "En contacto charles stanley",
+      "show_name": "Aquí entre nos",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Joel",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En buena ora",
+      "show_name": "Un estilo de vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jentezen Franklin",
+      "show_name": "Camino de fe del creyente",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -115,10 +107,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ancient Nutrition Intl",
+      "show_name": "Ministración con Joe Ferreyra",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
+      "end_time": "07:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fe heroica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:45",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Para Que el Mundo Sepa",
+      "show_name": "Todo es posible",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Iglesia Lakewood",
+      "show_name": "Amarás a Israel",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En casa con",
+      "show_name": "Palabra pura",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Es sobrenatural",
+      "show_name": "Jesus Worship Center",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -187,15 +187,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida nueva para el mundo",
+      "show_name": "Vida Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mesa redonda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Guía para padres",
+      "show_name": "Programa Especial",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -203,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sueños sin limites",
+      "show_name": "Vida Real con Jack Hibbs",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -211,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Casa de Dios cielos abiertos",
+      "show_name": "Jerusalem Dateline",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -227,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un estilo de vida",
+      "show_name": "Cristo la solución",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -235,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Compañía de mujeres",
+      "show_name": "Oasis",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -243,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Somos hijos",
+      "show_name": "Palabra del corazón de Dios",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -267,26 +275,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí entre nos",
+      "show_name": "Viernes de avivamiento",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El puede hacerlo de nuevo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Prestonwood con Gilberto C",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -307,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Una voz de Sanidad",
+      "show_name": "Todo es posible",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -315,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Camino a la victoria",
+      "show_name": "Jesus Worship Center",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -323,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jentezen Franklin",
+      "show_name": "Camino de fe del creyente",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -331,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ancient Nutrition Intl",
+      "show_name": "Maná",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -339,7 +331,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida de fe",
+      "show_name": "Dios de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -347,7 +339,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Compañía de mujeres",
+      "show_name": "Guardianes del muro",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

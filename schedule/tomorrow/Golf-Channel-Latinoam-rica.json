@@ -1,6 +1,6 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
       "show_name": "Golf PGA Tour",
@@ -15,14 +15,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "05:00",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf DP World Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
+      "start_time": "05:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -35,51 +35,59 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf's Greatest Holes",
+      "show_name": "The Smylie Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Vanity Index Podcast",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "14:30",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Golf Central Pregame",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:30",
+      "start_time": "12:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "20:30",
+      "start_time": "13:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:30",
+      "start_time": "19:30",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "01:30",
+      "start_time": "20:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

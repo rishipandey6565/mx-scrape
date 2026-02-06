@@ -1,137 +1,153 @@
 {
   "channel": "14 de México",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
+    {
+      "show_name": "El vuelo de la cigüeña",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La culta dama",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "02:05",
+      "episode_description": ""
+    },
     {
       "show_name": "Tercera oportunidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:05",
+      "start_time": "02:05",
+      "end_time": "02:40",
       "episode_description": ""
     },
     {
-      "show_name": "Un lugar en el sol",
+      "show_name": "Biografiás de Películas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:05",
-      "end_time": "01:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Santo Oficio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:50",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Grandes Figuras del Arte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Quienes hacen nuestro cine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "06:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Punto de referencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:10",
-      "end_time": "07:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noticiario France 24",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:10",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Conferencia Matutina",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "09:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mañanera 360",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:15",
-      "end_time": "10:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "México Tropical",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:15",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infodemia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Operación Mamut",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:45",
-      "end_time": "12:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noticiario France 24",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:45",
-      "end_time": "14:00",
+      "start_time": "02:40",
+      "end_time": "03:10",
       "episode_description": ""
     },
     {
       "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "03:10",
+      "end_time": "04:10",
       "episode_description": ""
     },
     {
-      "show_name": "Hijos de tigres",
+      "show_name": "Conversando Cristina Pacheco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
+      "start_time": "04:10",
+      "end_time": "05:10",
       "episode_description": ""
     },
     {
-      "show_name": "El Esqueleto de la Señora",
+      "show_name": "Abiertamente",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "05:10",
+      "end_time": "06:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quienes hacen nuestro cine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:25",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Punto de referencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
+      "end_time": "08:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noticiario France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:25",
+      "end_time": "09:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Mátenme porque me muero!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:10",
+      "end_time": "10:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tercera oportunidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:55",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Maestros olvidados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Salud y Deporte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "13:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Saborcito corazón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:15",
+      "end_time": "13:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una Historia de la Periferia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:45",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
       "show_name": "México Tropical",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:45",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sesión Palo Quemado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Músicos en directo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -139,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informativo 14",
+      "show_name": "Catorce al Hilvana",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -147,43 +163,51 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conversando Cristina Pacheco",
+      "show_name": "Biografiás de Películas",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En Grande",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mañanera 360",
+      "show_name": "TV Migrante Informa",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Punto de referencia",
+      "show_name": "Ama de Casa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "20:30",
+      "end_time": "21:20",
       "episode_description": ""
     },
     {
-      "show_name": "Abiertamente",
+      "show_name": "Cartas para la libertad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "21:20",
+      "end_time": "22:10",
       "episode_description": ""
     },
     {
-      "show_name": "El vuelo de la cigüeña",
+      "show_name": "¡Mátenme porque me muero!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:30",
+      "start_time": "22:10",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
