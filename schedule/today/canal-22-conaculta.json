@@ -1,50 +1,74 @@
 {
   "channel": "Canal 22",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias-el-dia-que-se-estreno-nosotros-los-pobres_l_m.jpg",
+      "show_category": "- El dia que se estrenó Nosotros los pobres",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Documentales que buscan refrescar la memoria de los espectadores, exhibiendo hechos de momentos trascendentales en la historia reciente de México, los cuales han influido notoriamente en su población."
+    },
+    {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:30",
       "end_time": "01:30",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Taller de las audiencias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Leémelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_leemelo_l_m.jpg",
+      "show_category": "Educativo",
       "start_time": "01:30",
       "end_time": "02:30",
-      "episode_description": "Espacio donde espectadores de Canal 22 califican los programas originales."
+      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
     },
     {
-      "show_name": "Cinema 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cinema-22.webp",
-      "show_category": "Película",
+      "show_name": "Chalán",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 2012 /7.0",
       "start_time": "02:30",
-      "end_time": "04:00",
-      "episode_description": "De Charles Chaplin a Wong Kar Wai. De Emilio \"El indio\" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22."
+      "end_time": "03:30",
+      "episode_description": "Alan, chofer y asistente de un diputado federal, tiene que aguantar la ira y prepotencia de su superior pero sobretodo limpiar los rastros de las andanzas de su jefe. Pero, para Alan hoy es un día diferente."
     },
     {
-      "show_name": "México global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/méxico-global.webp",
-      "show_category": "Economía",
+      "show_name": "La luz de la memoria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "A través de material de archivo, se explora la cultura en México y sus personajes durante el siglo XX."
+    },
+    {
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
+      "episode_description": "Documentales que buscan refrescar la memoria de los espectadores, exhibiendo hechos de momentos trascendentales en la historia reciente de México, los cuales han influido notoriamente en su población."
     },
     {
       "show_name": "Pueblando",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "04:30",
-      "end_time": "06:00",
+      "end_time": "05:00",
       "episode_description": "Pueblando es una oportunidad única para conocer los paisajes impresionantes, la riqueza cultural y los maravillosos habitantes de Puebla. ¡Descubre la esencia y la belleza de este lugar único!"
     },
     {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -52,95 +76,111 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "La conferencia del pueblo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
-      "end_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
+    },
+    {
+      "show_name": "Suave patria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Tanto escritores como personas comunes prestan su voz para que obras de la literatura cobren vida. En este espacio, el público podrá disfrutar de diversos pasajes de la obra La suave Patria, de Ramón López Velarde."
+    },
+    {
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "09:30",
+      "end_time": "10:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Trotacalles",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Drama / 1951 /6.6",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "En la Ciudad de México, dos hermanas, María y Elena, se pelean por el amor del proxeneta Rodolfo. Mientras una de ellas escapa de su matrimonio, la otra se prostituye para sobrevivir y debe lidiar con clientes explotadores."
-    },
-    {
-      "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
+      "show_name": "La raíz doble",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-raiz-doble-vamos-a-hablar-de-la-esperanza-esperanza-de-derechos-humanos-tlachinollan-a-c_l_m.jpg",
+      "show_category": "- Vamos a hablar de la esperanza. Esperanza de derechos humanos Tlachinollan A.C.",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
     },
     {
-      "show_name": "Japón y México: 400 años de relaciones bilaterales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Mañanera 360º",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "El periodista Álvaro Cueva conversa con el embajador de Japón en México, Kozo Honsei, para hablar de la relación bilateral entre ambos países."
+      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
     },
     {
-      "show_name": "La Constitución de 1917, antes, hoy y después",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental / 2019",
+      "show_name": "A fonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El antojo",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Conozca los hechos históricos previos a la Revolución Mexicana, los logros obtenidos tras la guerra y las modificaciones de la Constitución, de la mano de expertos constitucionalistas e historiadores."
+      "episode_description": "El antojo funciona de manera diversa y los barrios son manantiales de recetas. . Todos los tiempos de la ciudad se juntan en un palmo de terrenos, en el antojo del barrio, todas las cualidades culinarias se conjugan en un bocado."
     },
     {
-      "show_name": "109º aniversario de la promulgación de la constitución política de los Estados Unidos Mexicanos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Especial",
+      "show_name": "México global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-s10e00-alina-di-bella-lisboa-portugal_l_m.jpg",
+      "show_category": "Temporada 10 - Sak Tsevul",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
+    },
+    {
+      "show_name": "Crónica animal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Laura Barrera protagoniza una serie sobre la relación entre los seres humanos y los animales. El programa se enfoca en temas de bienestar animal, la cultura del cuidado, y la presencia de animales emblemáticos en la identidad mexicana."
+    },
+    {
+      "show_name": "Pueblando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 3 - Huejotzingo",
+      "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "La Carta Magna fue promulgada el 5 de febrero de 1917 por el presidente Venustiano Carranza. Este documento consagra los derechos constitucionales, la soberanía nacional y la división de los poderes Legislativo, Ejecutivo y Judicial."
+      "episode_description": "Conoceremos el pueblo mágico de Huejotzingo, que destaca por su vasta historia, la sidra, el carnaval y las berries; estos son algunos elementos que forman parte de su identidad."
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
       "episode_description": "Un espacio para niñxs."
     },
     {
-      "show_name": "Soy fugitivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 - La secta Ramnami, quienes se tatúan su Dios en todo el cuerpo",
+      "show_name": "La piel de la ciudad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-piel-de-la-ciudad-la-diversidad_l_m.jpg",
+      "show_category": "- La diversidad",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Conoce a Los Ramnami, secta religiosa que tatua su cuerpo con el nombre del dios Rama. Estos provienen de la casta de los Dalit, conocidos como los intocables, la posición más baja del sistema de castas hindúismo."
-    },
-    {
-      "show_name": "La magia de los pueblos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Cuetzalan, Puebla",
-      "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "Recorremos y contemplamos las hernecias indígenas y tradiciones con carácter especial en Cuetzalan, con incluso lengua materna."
+      "episode_description": "En cada episodio se plantea pequeñas historias sobre grandes temas, experiencias de vida y reflexiones que nos hablan del amor, la muerte y la felicidad; de la mano de Diego González."
     },
     {
-      "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/leémelo.webp",
-      "show_category": "- Daniel Giménez Cacho - Conduce: Naian González Norvind",
+      "show_name": "Leer, una hora inesperada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_leer-una-hora-inesperada_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
+      "episode_description": "Desde la librería Rosario Castellanos, en la Ciudad de México, Paco Ignacio Taibo II, escritor y director del Fondo de Cultura Económica, conduce Leer, una hora inesperada, un programa dedicado a la pasión por la lectura."
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -148,43 +188,35 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Constitución de 1917 ¿Justicia o utopía?",
       "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/punto-de-referencia.webp",
-      "show_category": "Político",
+      "show_name": "Punto de referencia - Tu noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
+      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
     },
     {
-      "show_name": "Tratos y retratos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/tratos-y-retratos.webp",
-      "show_category": "- José Woldenberg - Parte 1",
+      "show_name": "¡Llegamos todas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Yazz Queen. Activsta por los derechos de las sexoservidoras",
       "start_time": "22:00",
       "end_time": "22:30",
-      "episode_description": "Conducido por Silvia lemus, este ciclo de entrevistas representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad."
+      "episode_description": "La activista Yaz Queen le cuenta a Kimberly Armengol sobre los motivos que la impulsaron a ejercer el trabajo sexual."
     },
     {
-      "show_name": "Chalán",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Comedia / 2012 /7.0",
+      "show_name": "Buñuel, un cineasta surrealista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Documental / 2021",
       "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Alan, chofer y asistente de un diputado federal, tiene que aguantar la ira y prepotencia de su superior pero sobretodo limpiar los rastros de las andanzas de su jefe. Pero, para Alan hoy es un día diferente."
-    },
-    {
-      "show_name": "La luz de la memoria",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- El cinematógrafo, mito y memoria",
-      "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "A través de material de archivo, se explora la cultura en México y sus personajes durante el siglo XX."
+      "episode_description": "Una producción nacional que explora la vida y obra de, Luis Buñuel, pionero del cine surrealista. a visión de Buñuel sigue siendo provocativa, además de realzada por sus vínculos con el arte y la literatura."
     }
   ]
 }

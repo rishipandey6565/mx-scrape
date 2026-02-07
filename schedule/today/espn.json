@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Semifinal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Eurocopa de Fútbol Sala 2026",
+      "show_name": "Francia vs. Irlanda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 1, Stade de France",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "La élite del fútbol sala europeo choca en un torneo histórico en Letonia, Lituania y Eslovenia. Pies rápidos, maestría táctica y acción sin fin definen la lucha por la corona continental, con Portugal defendiendo el título."
+      "episode_description": "Vive los partidos de la 132º edición del Torneo de las Seis Naciones, la competición entre selecciones nacionales de rugby más importante del hemisferio norte."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -60,87 +60,95 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "ATP Tour Uncovered",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ATP Tour Uncovered",
+      "show_name": "Bayer Leverkusen vs. St. Pauli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Cuartos de final",
       "start_time": "09:00",
-      "end_time": "09:30",
+      "end_time": "11:00",
+      "episode_description": "Vive los partidos de la 83º edición de esta competición anual de la Copa de Alemania."
+    },
+    {
+      "show_name": "Holstein Kiel vs. Stuttgart",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Cuartos de final",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Vive los partidos de la 83º edición de esta competición anual de la Copa de Alemania."
+    },
+    {
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "La actualidad del circuito profesional masculino de tenis."
     },
     {
-      "show_name": "EFL Highlights",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/efl-highlights.webp",
-      "show_category": "EFL Highlights",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Revive los mejores momentos de los partidos de la segunda división de Inglaterra, la English Football League Championship, con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "show_name": "Serie A - Preview Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-serie-a-preview-show_l_m.jpg",
+      "show_category": "Serie A - Preview Show",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. Se lucha en varios frentes: el título, la clasificación a la Champions League, la Copa UEFA y esquivar la zona de descenso."
     },
     {
-      "show_name": "Semifinal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Eurocopa de Fútbol Sala 2026",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "La élite del fútbol sala europeo choca en un torneo histórico en Letonia, Lituania y Eslovenia. Pies rápidos, maestría táctica y acción sin fin definen la lucha por la corona continental, con Portugal defendiendo el título."
+      "show_name": "Equipo fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Equipo fútbol",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
     },
     {
-      "show_name": "2 de Mayo (Par) vs. Alianza Lima (Per)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Ronda de clasificación, Estadio Río Parapití",
-      "start_time": "12:00",
-      "end_time": "13:50",
-      "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
-    },
-    {
-      "show_name": "Real Madrid vs. Barcelona",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cuartos de final, Estadio Alfredo di Stéfano",
-      "start_time": "13:50",
+      "show_name": "ESPN Enfocados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Enfocados",
+      "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Vive lo más emocionante de los partidos de la edición 2025-2026 de la Copa de la Reina. El público podrá disfrutar de un campeonato disputado por los 16 mejores clubes femeninos de España."
+      "episode_description": "Vive el análisis más detallado del fútbol y otros deportes, con expertos que desglosan tácticas, rendimiento y actualidad de jugadores y equipos. No te pierdas las entrevistas exclusivas y debates a fondo sobre lo mejor del deporte."
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
     },
     {
-      "show_name": "San Francisco 49ers vs. Kansas City Chiefs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/san-francisco-49ers-vs-kansas-city-chiefs.webp",
-      "show_category": "Super Bowl LVIII, Allegiant Stadium, Las Vegas, NV, USA",
+      "show_name": "PGA Tour Highlights - Farmers Insurance Open",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_golf-pga-tour-highlights-farmers-insurance-open_l_m.jpg",
+      "show_category": "PGA Tour Highlights - Farmers Insurance Open",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Los mejores momentos del Super Bowl."
-    },
-    {
-      "show_name": "Kansas City Chiefs vs. Philadelphia Eagles",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/kansas-city-chiefs-vs-philadelphia-eagles.webp",
-      "show_category": "Super Bowl LIX",
-      "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "Los mejores momentos del Super Bowl."
+      "episode_description": "Cobertura del Abierto de Seguros Farmers de 2026, un torneo de golf profesional del PGA Tour que se celebra en el Campo de Golf Torrey Pines (Campo Norte y Campo Sur) en San Diego, California."
     },
     {
-      "show_name": "Eyes of Tiger: Mehmet Unal (Tur) vs. Altin Zogaj (Kos)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
+      "show_name": "NFL Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-americano-nfl-live_l_m.jpg",
+      "show_category": "NFL Live",
       "start_time": "18:00",
+      "end_time": "18:55",
+      "episode_description": "Disfrute de lo mejor de la National Football League."
+    },
+    {
+      "show_name": "El Águila Softbol Femenil vs. Diablos Rojos Femenil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Estadio Alfredo Harp Helú, Ciudad de México",
+      "start_time": "18:55",
       "end_time": "22:00",
-      "episode_description": "Los mejores combates de boxeo y MMA."
+      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -148,7 +156,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "00:00",
