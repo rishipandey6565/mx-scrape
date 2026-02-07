@@ -1,28 +1,20 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Velvet El Nuevo Imperio",
+      "show_name": "Besos de arena",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:30",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -55,14 +47,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reventon musical",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -75,43 +59,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hazaña del deporte Vive",
+      "show_name": "Los gemelos alborotados",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:00",
+      "end_time": "18:45",
       "episode_description": ""
     },
     {
-      "show_name": "Lucha libre CMLL",
+      "show_name": "Simón blanco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:30",
+      "start_time": "18:45",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Azahares Rojos",
+      "show_name": "Viva México y sus corridos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:15",
+      "start_time": "21:00",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Coronación",
+      "show_name": "La Escuelita V.I.P",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:15",
-      "end_time": "23:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Besos de arena",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:15",
-      "end_time": "00:30",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

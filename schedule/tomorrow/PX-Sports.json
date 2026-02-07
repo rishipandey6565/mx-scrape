@@ -1,6 +1,6 @@
 {
   "channel": "PX Sports",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
       "show_name": "Conexión Surfing",
@@ -11,15 +11,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la bestia",
+      "show_name": "The Iconic",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Week 35",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "Especial FMS - Behind The Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,23 +35,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Locals",
+      "show_name": "Sudor y gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PXTV",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "PX News",
+      "show_name": "The Sports Rundown 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,23 +51,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Total Combat",
+      "show_name": "400 Thunder",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Surfing República",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Sport Stars Uncovered",
+      "show_name": "Heroines",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -75,10 +67,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo PX",
+      "show_name": "Especial - Nitro Circus Guadalajara 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PX News - Nuevo León",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Abriendo pista",
+      "show_name": "Jeddah",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Blacks Collection",
+      "show_name": "Africa Eco Race",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Total Combat",
+      "show_name": "The Sports Rundown 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "Week 35",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "PX News",
+      "show_name": "The Iconic",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "FC Hound Dogs vs. Glacis United FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -139,15 +139,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo PX",
+      "show_name": "Jeddah",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PX News - Nuevo León",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "Manchester 1962 FC vs. Lincoln Red Imps FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -155,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Blacks Collection",
+      "show_name": "Africa Eco Race",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -163,18 +171,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Abriendo pista",
+      "show_name": "Sudor y gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "Heroines",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Africa Eco Race",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Iconic",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Sports Rundown 2025",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     }

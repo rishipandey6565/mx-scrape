@@ -1,117 +1,125 @@
 {
   "channel": "Golden Premier",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
-    {
-      "show_name": "El Muñeco Diabólico",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Botón de alarma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:06",
-      "end_time": "02:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sobibor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:44",
-      "end_time": "04:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Mediador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:43",
-      "end_time": "07:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jumper",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:05",
-      "end_time": "08:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Elektra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:35",
-      "end_time": "10:14",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Contra reloj",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:14",
-      "end_time": "11:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los renegados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:58",
-      "end_time": "13:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jumper",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:35",
-      "end_time": "15:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Precio del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/el-precio-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "15:05",
-      "end_time": "16:57",
-      "episode_description": "En un futuro donde el tiempo es literalmente dinero y la vejez se detiene a los 25, la única forma de mantenerse con vida es ganar, robar o heredar más tiempo. Pero cuando un pobre de clase obrera, Will Salas (Justin Timberlake) es acusado injustamente de asesinato, el junto con la ayuda de una bella chica (Amanda Seyfried) deberán encontrar la manera de acabar con el corrupto sistema antes que sus relojes se detengan."
-    },
-    {
-      "show_name": "Elektra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:57",
-      "end_time": "18:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Daredevil El hombre sin miedo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:36",
-      "end_time": "20:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Vengador Fantasma 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:22",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
     {
       "show_name": "Hellboy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
+      "start_time": "00:00",
       "end_time": "00:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Assassin's Creed",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/assassin_s_creed.jpg",
+      "show_category": "Acción",
+      "start_time": "00:03",
+      "end_time": "02:01",
+      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
+    },
+    {
+      "show_name": "A la mala",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:01",
+      "end_time": "03:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golpes del destino",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:49",
+      "end_time": "06:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vanguard",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:04",
+      "end_time": "07:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Máxima traición",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:53",
+      "end_time": "09:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Robo por Duplicado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:58",
+      "end_time": "11:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Detective Chinatown",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:26",
+      "end_time": "13:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Castle Falls",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:44",
+      "end_time": "15:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juego De Espias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:11",
+      "end_time": "17:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El despertar de un asesino",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:19",
+      "end_time": "18:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sobre la ley",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:53",
+      "end_time": "20:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "24 Horas para Vivir",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/24_horas_para_vivir.jpg",
+      "show_category": "Acción",
+      "start_time": "20:25",
+      "end_time": "22:00",
+      "episode_description": "Un vertiginoso asesino, Travis Conrad (Ethan Hawke) a quien se le da una oportunidad para redimirse después de que su jefe lo resucitara temporalmente después de haber sido asesinado en el trabajo."
+    },
+    {
+      "show_name": "La linea",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Marcado por la muerte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:37",
+      "end_time": "01:37",
       "episode_description": ""
     }
   ]

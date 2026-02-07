@@ -1,36 +1,28 @@
 {
   "channel": "Bandamax",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Bandamáximo Dolor",
+      "show_name": "El show del hombre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:25",
       "episode_description": ""
     },
     {
       "show_name": "Bandamáximo Dolor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:55",
+      "start_time": "00:25",
+      "end_time": "01:25",
       "episode_description": ""
     },
     {
       "show_name": "Las imperdibles BDX",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:55",
-      "end_time": "02:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Viejitas pero Sabrosas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:15",
+      "start_time": "01:25",
       "end_time": "02:45",
       "episode_description": ""
     },
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Banda y Max",
+      "show_name": "El show del hombre",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:10",
@@ -131,10 +123,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Viejitas pero Sabrosas",
+      "show_name": "Banda y Max",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:05",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Viejitas pero Sabrosas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "12:55",
       "episode_description": ""
     },
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los reyes del regional",
+      "show_name": "La parrilla del fuego",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:50",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Acceso grupero",
+      "show_name": "Regional Clasificado",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:25",
@@ -235,11 +235,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "El show del hombre",
+      "show_name": "2X1 Bandamax",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:25",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

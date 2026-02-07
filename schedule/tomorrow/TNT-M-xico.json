@@ -1,30 +1,54 @@
 {
   "channel": "TNT (México)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "El contador",
+      "show_name": "Kung-fusión",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:17",
+      "end_time": "00:03",
       "episode_description": ""
     },
     {
-      "show_name": "Blade II: Cazador de vampiros",
+      "show_name": "Asesino Ninja",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:17",
-      "end_time": "02:14",
+      "start_time": "00:03",
+      "end_time": "01:41",
       "episode_description": ""
     },
     {
-      "show_name": "La liga de la Justicia de Zack Snyder",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/la-liga-de-la-justicia-de-zack-snyder.webp",
+      "show_name": "Drácula: La historia Jamás Contada",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dracula_la_historia_jamas_contada.jpg",
       "show_category": "Acción",
-      "start_time": "02:14",
+      "start_time": "01:41",
+      "end_time": "03:13",
+      "episode_description": "Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula."
+    },
+    {
+      "show_name": "Los caballeros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:13",
+      "end_time": "05:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:09",
+      "end_time": "05:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:47",
       "end_time": "06:00",
-      "episode_description": "En la Liga de la Justicia de Zack Snyder, decidido a garantizar que el último sacrificio de Superman (Henry Cavill) no fuera en vano, Bruce Wayne (Ben Affleck) alinea fuerzas con Diana Prince (Gal Gadot) con planes de reclutar un equipo de metahumanos para proteger al mundo de una inminente amenaza de proporciones catastróficas. La tarea resulta más difícil de lo que Bruce imaginó, ya que cada uno de los reclutas debe enfrentarse a los demonios de su propio pasado para trascender lo que los ha frenado, permitiéndoles unirse y finalmente formar una liga de héroes sin precedentes. Ahora unidos, Batman, Mujer Maravilla, Aquaman, Cyborg (Ray Fisher) y Flash (Ezra Miller) puede ser demasiado tarde para salvar el planeta de Steppenwolf, DeSadd y Darkseid y sus espantosas intenciones."
+      "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
@@ -35,132 +59,84 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Previa",
+      "show_name": "Scary girl",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:20",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Manchester United vs. Tottenham Hotspur",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "08:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:40",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bournemouth vs. Aston Villa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:10",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Newcastle United vs. Brentford",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Champions Espectacular",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
-      "end_time": "14:30",
+      "end_time": "07:56",
       "episode_description": ""
     },
     {
       "show_name": "La Cenicienta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/la-cenicienta.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_cenicienta.jpg",
       "show_category": "Dibujo Animado",
-      "start_time": "14:30",
-      "end_time": "16:29",
+      "start_time": "07:56",
+      "end_time": "09:54",
       "episode_description": "En un lugar lejano, en un tiempo atrás, Cenicienta vive feliz con su madre y su padre hasta que su madre muere. El padre de Cenicienta se vuelve a casar con una mujer fría y cruel que tiene dos hijas, Drizella y Anastasia. Cuando el padre de Cenicienta muere, su madrastra la convierte en una sirvienta de su propia casa.Un día el rey decide que debe encontrarle una princesa a su hijo para darle en un futuro muchos nietos. Así que el rey decide invitar a todas las solteras del reino a una fiesta de baile donde su hijo deberá escoger a su princesa. Para mala fortuna de Cenicienta ella no cuenta con un vestido para ir al baile, pero la suerte está de su lado ya que unos encantadores ratones, Jaques y Gus, junto a su hada madrina harán que la suerte llegue a la joven para que pueda asistir al baile."
+    },
+    {
+      "show_name": "Karate kid",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:54",
+      "end_time": "12:08",
+      "episode_description": ""
     },
     {
       "show_name": "Karate Kid II",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:29",
-      "end_time": "18:30",
+      "start_time": "12:08",
+      "end_time": "14:09",
       "episode_description": ""
     },
     {
       "show_name": "Karate Kid III El desafío final",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:33",
+      "start_time": "14:09",
+      "end_time": "16:09",
       "episode_description": ""
     },
     {
       "show_name": "kung fu panda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:33",
-      "end_time": "22:08",
+      "start_time": "16:09",
+      "end_time": "17:43",
       "episode_description": ""
     },
     {
-      "show_name": "Kung-fusión",
+      "show_name": "Kung Fu Panda 2",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda_2.png",
+      "show_category": "Animación",
+      "start_time": "17:43",
+      "end_time": "19:17",
+      "episode_description": "(Kung Fu Panda 2), Po (Jack Black) ahora vive su sueño cómo el guerrero dragón, protegiendo la aldea de paz junto con sus amigos y los cinco maestros del kung fu, Tigresa (Angelina Jolie), Grulla, Mantis (Seth Rogen), Víbora (Lucy Liu) y Mono (Jackie Chan). Pero la nueva vida de Po de maravilla será amenazada por un villano emergente, quien planeta utilizar un secreto, un arma imposible de detener para conquistar China y destruir el kung fu. Ahora Po junto con Los Cinco Furiosos deberán viajar a China y Po tiene que buscar en su pasado y descubrir los secretos de sus orígenes misteriosos; sólo así Po será capaz de encontrar la fuerza que necesita para triunfar."
+    },
+    {
+      "show_name": "El último Samurai",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:08",
-      "end_time": "23:57",
+      "start_time": "19:17",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Asesino Ninja",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:57",
-      "end_time": "01:36",
-      "episode_description": ""
+      "show_name": "Drácula: La historia Jamás Contada",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dracula_la_historia_jamas_contada.jpg",
+      "show_category": "Acción",
+      "start_time": "22:00",
+      "end_time": "23:36",
+      "episode_description": "Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula."
+    },
+    {
+      "show_name": "300: El Nacimiento de un Imperio",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/300_el_nacimiento_de_un_imperio.jpg",
+      "show_category": "Acción",
+      "start_time": "23:36",
+      "end_time": "01:24",
+      "episode_description": "Luego de su victoria contra Leónidas, el ejército Persa bajo el comando del ahora convertido en Dios, Jerjes (Rodrigo Santoro) y Artemisia (Eva Green) – una vengativa comandante de la armada naval – planean tomar las mayores ciudades Griegas, la primera de ellas Atenas donde el almirante Temístocles (Sullivan Stapleton) y sus nuevos aliados deberán detener este supremo ataque."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel": "María Visión",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
       "show_name": "El santísimo sacramento",
@@ -43,10 +43,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Podcast Bajo el mismo cielo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El santo rosario, Capilla M+V",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bienhechores M+V",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -67,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Caravana por la paz",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -75,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Ermita",
+      "show_name": "María+Misión",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -91,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Podcast Hablar de Dios",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -99,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia con el Rey de Reyes",
+      "show_name": "Podcast Latte con Maria",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -115,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Apostolado de reparación",
+      "show_name": "Podcast Quiero decir que sí",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -123,31 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caravana por la paz",
+      "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Parroquia Ntra",
+      "show_name": "Santa misa, Ermita",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Via crucis",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
+      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santo rosario 'De las rosas'",
+      "show_name": "Podcast Top Catholic Music",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Iglesia",
+      "show_name": "Santa misa, catedral de",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -163,11 +179,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Fiaccolata desde Nazaret",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "03:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

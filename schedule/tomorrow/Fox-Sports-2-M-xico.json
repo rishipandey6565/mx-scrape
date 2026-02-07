@@ -1,17 +1,9 @@
 {
   "channel": "Fox Sports 2 (México)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Fox impacto NFL",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "+90",
+      "show_name": "AEW Collision",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chiefs vs. Eagles",
+      "show_name": "Futbol Americano NFL",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,10 +19,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fox gol México",
+      "show_name": "NFL Extra",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Latitud fox",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -43,10 +43,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "+90",
+      "show_name": "Nfl gameday",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox fight club",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "AEW DYNAMITE",
+      "show_name": "AEW Collision",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -67,99 +75,91 @@
       "episode_description": ""
     },
     {
-      "show_name": "Red Bull Cliff Diving World",
+      "show_name": "NFL Extra",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Latitud fox",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nfl gameday",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fox impacto NFL",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "AEW DYNAMITE",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Major Arena Soccer League",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:30",
+      "end_time": "10:15",
       "episode_description": ""
     },
     {
       "show_name": "Fox fight club",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "10:15",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lorena Ochoa a 15 años de su r",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox fight club",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:30",
+      "start_time": "11:45",
+      "end_time": "14:15",
       "episode_description": ""
     },
     {
-      "show_name": "Latitud fox",
+      "show_name": "Fox fight club",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "start_time": "14:15",
+      "end_time": "14:45",
       "episode_description": ""
-    },
-    {
-      "show_name": "Road To The Super Bowl",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-2-M-xico/tomorrow/central-fox.webp",
-      "show_category": "Deporte",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial."
     },
     {
       "show_name": "AEW Collision",
       "show_logo": "",
       "show_category": "",
+      "start_time": "14:45",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Seattle vs. New England\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Seattle vs. New England\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox gol México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Red Bull Cliff Diving World",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

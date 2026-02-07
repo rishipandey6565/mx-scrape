@@ -1,20 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:03",
+      "end_time": "00:53",
       "episode_description": ""
     },
     {
-      "show_name": "Pas de vagues",
+      "show_name": "Les indociles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:03",
+      "start_time": "00:53",
+      "end_time": "01:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Les indociles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:37",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,19 +31,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:26",
+      "end_time": "03:22",
       "episode_description": ""
     },
     {
-      "show_name": "Telematin",
+      "show_name": "Ça va l'faire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:26",
+      "start_time": "03:22",
       "end_time": "04:32",
       "episode_description": ""
     },
     {
-      "show_name": "Territoires de France",
+      "show_name": "Falò",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:32",
@@ -43,18 +51,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Silence, ça pousse !",
+      "show_name": "A bon entendeur",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:51",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le grand jt des territoires",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:51",
+      "start_time": "05:30",
+      "end_time": "05:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Complément d'enquête",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:57",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -71,30 +87,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:13",
-      "end_time": "08:51",
+      "end_time": "08:38",
       "episode_description": ""
     },
     {
-      "show_name": "Mission Info",
+      "show_name": "Kassa le messager",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:51",
-      "end_time": "09:15",
+      "start_time": "08:38",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Refuges de montagne",
+      "show_name": "Magazine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "10:00",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bocage, nos haies communes",
+      "show_name": "Vivement dimanche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rassemblance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -111,62 +135,86 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:03",
+      "end_time": "12:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Basik/Rts",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:05",
+      "end_time": "12:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Suisse en scène",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:33",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tendance XXI",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "# Version française",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Le journal de la rts",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:27",
       "episode_description": ""
     },
     {
       "show_name": "Questions pour un champion",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:03",
-      "end_time": "12:36",
+      "start_time": "14:27",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le match dans le match",
+      "show_name": "TV5Monde le Journal Afrique",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:36",
-      "end_time": "12:57",
+      "start_time": "15:00",
+      "end_time": "15:31",
       "episode_description": ""
     },
     {
-      "show_name": "Papilles",
+      "show_name": "Destination francophonie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:57",
-      "end_time": "13:24",
+      "start_time": "15:31",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_name": "20h30 Le Dimanche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:24",
-      "end_time": "14:00",
+      "start_time": "16:00",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Football Ligue 1 McDonald's",
+      "show_name": "Rassemblance",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Football Ligue 1 McDonald's",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:05",
-      "end_time": "16:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La grande galerie francophone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:04",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -179,18 +227,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Victoria",
+      "show_name": "Or de vie",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
-      "end_time": "19:03",
+      "end_time": "18:55",
       "episode_description": ""
     },
     {
-      "show_name": "Sami la fugue",
+      "show_name": "Ativio - les morceaux de bois",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:03",
+      "start_time": "18:55",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -203,43 +251,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le grand cactus",
+      "show_name": "Cessez-le-feu",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:56",
-      "end_time": "21:35",
+      "end_time": "21:36",
       "episode_description": ""
     },
     {
-      "show_name": "Le grand cactus",
+      "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:35",
-      "end_time": "22:05",
+      "start_time": "21:36",
+      "end_time": "23:22",
       "episode_description": ""
     },
     {
-      "show_name": "Destination francophonie",
+      "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:05",
-      "end_time": "22:54",
+      "start_time": "23:22",
+      "end_time": "23:47",
       "episode_description": ""
     },
     {
-      "show_name": "Albanie, le secret des balkans",
+      "show_name": "Auschwitz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:54",
-      "end_time": "23:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "C dans l'air",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:46",
-      "end_time": "00:53",
+      "start_time": "23:47",
+      "end_time": "01:10",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "ESNE TV",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Enamórate",
+      "show_name": "Conciertos Católicos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +11,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "CDJ - Podcast",
+      "show_name": "Abriendo Horizontes",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Podcast real y verdadero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Jesús está vivo hoy",
+      "show_name": "Vidas Ejemplares",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -91,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Valores de Acero",
+      "show_name": "Ecclesia on line",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -115,31 +107,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Podcast real y verdadero",
+      "show_name": "Documentales",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Educación y Conciencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Programa Infantil",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Videos musicales",
+      "show_name": "Educación y Conciencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -147,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un corazón que escucha",
+      "show_name": "Videos musicales",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -155,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa Misa - México",
+      "show_name": "Santa Misa",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -163,23 +139,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jesús, en ti confío",
+      "show_name": "La hora del encuentro",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "13:00",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Palabras Que Edifican",
+      "show_name": "Programa Infantil",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Jesús está vivo hoy",
+      "show_name": "Ángelus - Jesús está vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -187,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia del Papa Leon XIV",
+      "show_name": "Conciertos Católicos",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -195,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caminos de Esperanza",
+      "show_name": "Donde Dios llora",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -203,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Abriendo Horizontes",
+      "show_name": "Conversaciones",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -235,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa Misa - México",
+      "show_name": "Santa Misa",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -243,31 +219,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "CDJ - Podcast",
+      "show_name": "Lámpara para mis pasos",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Podcast real y verdadero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conversaciones",
+      "show_name": "El Tesoro de la Fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El secreto de la felicidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "La hora del encuentro",
+      "show_name": "Palabras Que Edifican",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -275,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conciertos Católicos",
+      "show_name": "Tiempo para Tí",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

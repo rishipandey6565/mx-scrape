@@ -1,102 +1,110 @@
 {
   "channel": "HBO (México)",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Inmaculada",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Cómo Entrenar a tu Dragón",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon.jpg",
+      "show_category": "Aventura",
       "start_time": "00:00",
-      "end_time": "00:57",
+      "end_time": "00:13",
+      "episode_description": "En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos."
+    },
+    {
+      "show_name": "Godzilla y Kong: El Nuevo Imperio",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_y_kong_el_nuevo_imperio.jpg",
+      "show_category": "Acción",
+      "start_time": "00:13",
+      "end_time": "02:15",
+      "episode_description": "¡La batalla épica continua! La película cinematografía Monsterverse de Legendary Pictures continúa el explosivo enfrentamiento de \"Godzilla vs. Kong\" con una aventura completamente nueva que enfrenta al todopoderoso Kong y al temible Godzilla contra una colosal amenaza no descubierta escondida dentro de nuestro mundo, desafiando su propia existencia – y la nuestra. \"Godzilla x Kong: El Nuevo Imperio\" profundiza en las historias de estos Titanes y sus orígenes, así como en los misterios de la Isla Calavera y más allá, mientras desenmascara la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre."
+    },
+    {
+      "show_name": "Hombre lobo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:15",
+      "end_time": "04:05",
       "episode_description": ""
     },
     {
-      "show_name": "Industry",
+      "show_name": "Rescate del metro 123",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:57",
-      "end_time": "01:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "MaXXXine",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/maxxxine.webp",
-      "show_category": "Crimen",
-      "start_time": "01:59",
-      "end_time": "03:51",
-      "episode_description": "En el Hollywood de los años 80, Maxine Minx (Mia Goth), estrella de cine para adultos y aspirante a actriz, finalmente consigue su gran oportunidad. Pero mientras un misterioso asesino acecha a las estrellas de Hollywood, un rastro de sangre amenaza con revelar su siniestro pasado."
-    },
-    {
-      "show_name": "Everest",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:51",
+      "start_time": "04:05",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Parque Jurásico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/parque-jurásico.webp",
-      "show_category": "Aventura",
+      "show_name": "Las aventuras de Dog Man",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "06:00",
-      "end_time": "08:13",
-      "episode_description": "Parque Jurásico te lleva a una isla remota donde un increíble parque temático con dinosaurios vivos está a punto de convertirse en mortal, cinco personas deben luchar para sobrevivir entre los depredadores prehistóricos."
-    },
-    {
-      "show_name": "Harry Potter y las Reliquias de la Muerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/harry-potter-y-las-reliquias-de-la-muerte.webp",
-      "show_category": "Película",
-      "start_time": "08:13",
-      "end_time": "10:45",
-      "episode_description": "Nombre que recibe en Latinoamérica y España la película \"Harry Potter and the Deathly Hallows\", séptima y última aventura que será presentada en dos partes, la primera parte en 2010 y la segunda parte en 2011.El primer film empieza con Harry, Ron y Hermonie embarcados en la misión de encontrar y destruir a Voldemort, y la cualidad que lo hace inmortal, invencible y además el poder de la destrucción llamado el Horrocurx. En este episodio no contaran con la guía de sus profesores ni tampoco de la protección del Profesor Dubledor."
-    },
-    {
-      "show_name": "Harry Potter y las reliquias de la muerte 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:45",
-      "end_time": "13:01",
+      "end_time": "07:37",
       "episode_description": ""
     },
     {
-      "show_name": "Cómo Entrenar a tu Dragón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/cómo-entrenar-a-tu-dragón.webp",
-      "show_category": "Aventura",
-      "start_time": "13:01",
-      "end_time": "15:13",
-      "episode_description": "En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos."
-    },
-    {
-      "show_name": "Wonka",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/wonka.webp",
-      "show_category": "Aventura",
-      "start_time": "15:13",
-      "end_time": "17:15",
-      "episode_description": "Basada en el extraordinario personaje de Charlie y la fábrica de chocolate, la joya de la corona de Roald Dahl y uno de los libros infantiles más vendidos de todos los tiempos, \"Wonka\" cuenta la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy. Este espectáculo de la pantalla grande irresistiblemente vívido e inventivo presentará al público a un joven Willy Wonka (Timothée Chalamet), repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez – demostrando que las mejores cosas de la vida comienzan con un sueño, y si Tienes la suerte de conocer a Willy Wonka, todo es posible."
-    },
-    {
-      "show_name": "El justiciero",
+      "show_name": "El señor de los anillos: La comunidad del anillo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:15",
-      "end_time": "19:28",
+      "start_time": "07:37",
+      "end_time": "10:43",
       "episode_description": ""
     },
     {
-      "show_name": "Flash",
+      "show_name": "Superman",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:28",
+      "start_time": "10:43",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A Knight of the Seven Kingdoms",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Terremoto la falla de San Andrés",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:38",
+      "end_time": "15:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El payaso del maizal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:40",
+      "end_time": "17:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jurassic World: El Reino Caído",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_el_reino_caido.jpg",
+      "show_category": "Acción",
+      "start_time": "17:25",
+      "end_time": "19:40",
+      "episode_description": "Han pasado cuatro años desde que el parque temático y complejo de lujo del Mundo Jurásico fue destruido por los dinosaurios fuera de su zona. La Isla Nublar ahora se encuentra abandonada por los humanos mientras los dinosaurios sobrevivientes se las arreglan por si solos en la jungla. Cuando el volcán inactivo de la isla comienza a rugir a la vida, Owen (Chris Pratt) y Claire (Bryce Dallas Howard) montan una campaña para rescatar a los dinosaurios restantes de este evento de extinción. Owen se siente impulsado a encontrar a Blue, su raptor líder quien todavía está desaparecida en la naturaleza y Claire ha tomado un mayor respeto por estas criaturas a las que ahora toma como misión. Al llegar a la isla inestable mientras la lava comienza a cubrir la isla, su expedición descubre una conspiración que podría volver todo nuestro planeta a un clima peligroso no visto desde la prehistoria."
+    },
+    {
+      "show_name": "Superman",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:40",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cómo Entrenar a tu Dragón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/cómo-entrenar-a-tu-dragón.webp",
-      "show_category": "Aventura",
+      "show_name": "M3GAN 2.0",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/m3gan_2_0.jpg",
+      "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:13",
-      "episode_description": "En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos."
+      "end_time": "00:08",
+      "episode_description": "Dos años después de que M3GAN, una maravilla de la inteligencia artificial, se rebelara y se embarcara en una masacre (con una coreografía implacable) y fuera posteriormente destruida, su creadora, Gemma (Allison Williams), se ha convertido en una reconocida autora y defensora de la supervisión gubernamental de la IA. Mientras tanto, Cady (Violet McGraw), la sobrina de Gemma, de 14 años, se ha convertido en una adolescente que se rebela contra las reglas sobreprotectoras de Gemma.Sin que ellos lo sepan, la tecnología subyacente de M3GAN ha sido robada y utilizada indebidamente por un poderoso contratista de defensa para crear un arma de grado militar conocida como Amelia (Ivanna Sakhno), la espía asesina de la infiltración definitiva. Pero a medida que Amelia adquiere mayor autoconciencia, pierde cada vez más interés en obedecer órdenes humanas. O en mantenerlas cerca. Con el futuro de la humanidad en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN (Amie Donald) y dotarla de algunas mejoras que la hagan más rápida, fuerte y letal. Al cruzar sus caminos, el icono original de la IA está a punto de encontrar su rival."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Non Lle chames amor",
+      "show_name": "Luar",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,162 +11,218 @@
       "episode_description": ""
     },
     {
-      "show_name": "Galicia por Diante",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bos Días",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "03:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pulso activo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:45",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pulso activo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "O Termómetro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "06:50",
+      "start_time": "00:00",
+      "end_time": "02:15",
       "episode_description": ""
     },
     {
-      "show_name": "Galicia Noticias Mañá",
+      "show_name": "Parlamento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:50",
-      "end_time": "07:25",
+      "start_time": "02:15",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Telexornal mediodía",
+      "show_name": "Bos Dias Fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:25",
-      "end_time": "08:15",
+      "start_time": "02:30",
+      "end_time": "03:15",
       "episode_description": ""
     },
     {
-      "show_name": "Deportes Mediodía",
+      "show_name": "Labranza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O tempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "08:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atrápame se podes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:39",
-      "end_time": "09:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Quen anda aí?",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:15",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hora galega",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telexornal serán",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O tempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "14:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:45",
-      "end_time": "17:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atrápame se podes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:15",
-      "end_time": "18:05",
+      "start_time": "03:15",
+      "end_time": "03:45",
       "episode_description": ""
     },
     {
       "show_name": "Zigzag Diario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:05",
-      "end_time": "18:30",
+      "start_time": "03:45",
+      "end_time": "04:15",
       "episode_description": ""
     },
     {
-      "show_name": "Telexornal serán",
+      "show_name": "Gaña a Túa Aldea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:02",
+      "start_time": "04:15",
+      "end_time": "05:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "48 Horas para o si",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:10",
+      "end_time": "06:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia noticias fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:55",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal mediodía Fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
+      "end_time": "08:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes Mediodía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:06",
+      "end_time": "08:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "No foco",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:20",
+      "end_time": "08:34",
       "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:02",
-      "end_time": "19:14",
+      "start_time": "08:34",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
-      "show_name": "Luar",
+      "show_name": "Xente Marabillosa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:14",
+      "start_time": "08:45",
+      "end_time": "10:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia bonita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:15",
+      "end_time": "11:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Imos ao Choio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:16",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Imos ao Choio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "13:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Traballo feito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:08",
+      "end_time": "13:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:58",
+      "end_time": "14:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:50",
+      "end_time": "16:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O amor está en galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:57",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O amor está en galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor na rede",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galegos no mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:20",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:20",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A liga dos cantantes extraordinarios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "21:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Heicho cantar queridina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:44",
       "end_time": "00:00",
       "episode_description": ""
     }

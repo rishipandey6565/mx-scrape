@@ -1,6 +1,6 @@
 {
   "channel": "Fox Sports (México)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
       "show_name": "La última palabra",
@@ -12,35 +12,35 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/tomorrow/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "00:00",
       "end_time": "01:00",
       "episode_description": "Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial."
     },
     {
-      "show_name": "Major Arena Soccer League",
+      "show_name": "AEW Collision",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "03:30",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "La última palabra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:30",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Latitud fox",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
+      "show_name": "Central Fox",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
+      "show_category": "Deporte",
+      "start_time": "04:00",
       "end_time": "05:00",
-      "episode_description": ""
+      "episode_description": "Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial."
     },
     {
       "show_name": "La última palabra",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Fox-Sports-M-xico/tomorrow/central-fox.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
       "show_category": "Deporte",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fox Fit",
+      "show_name": "Fox impacto NFL",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -79,120 +79,72 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:00",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "La última palabra",
+      "show_name": "Chiefs vs. Eagles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
+      "start_time": "08:30",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "+90",
+      "show_name": "Inside San Francisco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "AEW DYNAMITE",
+      "show_name": "Road To The Super Bowl",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Latitud fox",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fox fight club",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Money Line Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nfl gameday",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
       "episode_description": ""
     },
     {
       "show_name": "Super Bowl Greatest Halftime",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rams vs. Seahawks",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nfl gameday",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Latitud fox",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:00",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "Fox impacto NFL",
       "show_logo": "",
       "show_category": "",
+      "start_time": "15:00",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Seattle vs. New England\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Seattle vs. New England\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Central Fox",
+      "show_logo": "https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png",
+      "show_category": "Deporte",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": ""
+      "episode_description": "Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial."
     },
     {
       "show_name": "La última palabra",

@@ -1,9 +1,9 @@
 {
   "channel": "Fox Sports 3 (México)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Red Bull Hardline Wales Reino",
+      "show_name": "Red Bull 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "AEW Collision",
+      "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "05:00",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Red Bull Drift Masters",
+      "show_name": "Fox fight club",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AEW DYNAMITE",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -59,43 +67,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Power Slap",
+      "show_name": "Lorena Ochoa a 15 años de su r",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Red Bull",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:00",
+      "end_time": "15:30",
       "episode_description": ""
     },
     {
       "show_name": "AEW DYNAMITE",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:00",
+      "start_time": "15:30",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:30",
+      "start_time": "17:30",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Red Bull 2025",
+      "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
-      "end_time": "01:00",
+      "start_time": "20:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AEW Collision",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]
