@@ -1,109 +1,101 @@
 {
   "channel": "HBO Mundi",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
-    {
-      "show_name": "La lista de Schindler",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alimañas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Buenas costumbres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Back to Black",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/back-to-black.webp",
-      "show_category": "Biografía",
-      "start_time": "06:15",
-      "end_time": "08:25",
-      "episode_description": "La extraordinaria historia del ascenso temprano de Amy Winehouse (Marisa Abela) a la fama desde sus primeros días en Camden hasta la realización de su innovador álbum, Back to Black, que catapultó a Winehouse a la fama mundial. Contada a través de los ojos de Amy e inspirada en sus letras profundamente personales, la película explora y abarca las muchas capas de la artista icónica y la tumultuosa historia de amor en el centro de uno de los álbumes más legendarios de todos los tiempos."
-    },
-    {
-      "show_name": "La Chica Danesa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/la-chica-danesa.webp",
-      "show_category": "Biografía",
-      "start_time": "08:25",
-      "end_time": "10:30",
-      "episode_description": "Un amor ficticio inspirado en las vidas de los artistas Daneses Lili Elbe (Eddie Redmayne) y Gerda Wegener (Alicia Vikander). El matrimonio entre Lili y Gerda y el trabajo evoluciona mientras se aventura en la primera transformación de género del mundo."
-    },
-    {
-      "show_name": "Fitting in",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "On Swift Horses",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:20",
-      "end_time": "14:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La muerte de un unicornio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:25",
-      "end_time": "16:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Shaman",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:20",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nosotros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nosferatu",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Damned",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:20",
-      "end_time": "23:50",
-      "episode_description": ""
-    },
     {
       "show_name": "Waltz with bashir",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:50",
+      "start_time": "00:00",
       "end_time": "01:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pesadilla en la calle Elm",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:25",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Intérprete",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "05:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Primer Hombre en la Luna",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_primer_hombre_en_la_luna.jpg",
+      "show_category": "Biografía",
+      "start_time": "05:10",
+      "end_time": "07:35",
+      "episode_description": "La fascinante historia de la NASA de conseguir que un hombre aterrice en la luna, centrándose en Neil Armstrong (Ryan Gosling) y los años 1961 – 1969. Explora los sacrificios y el costo – en Armstrong y en la nación – de una de las misiones más peligrosas de la historia."
+    },
+    {
+      "show_name": "El Infiltrado del KKKlan",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg",
+      "show_category": "Biografía",
+      "start_time": "07:35",
+      "end_time": "09:55",
+      "episode_description": "La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular."
+    },
+    {
+      "show_name": "Whiplash",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:55",
+      "end_time": "11:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sacrificio de leyenda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:45",
+      "end_time": "13:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mickey 17",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mickey_17.jpg",
+      "show_category": "Aventura",
+      "start_time": "13:45",
+      "end_time": "16:10",
+      "episode_description": "\"Mickey 17\". El improbable héroe, Mickey Barnes (Robert Pattinson), se encuentra en la extraordinaria circunstancia de trabajo para un empleador que exige el máximo compromiso con el trabajo… morir para ganarse la vida."
+    },
+    {
+      "show_name": "El sospechoso",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:10",
+      "end_time": "18:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "No nos dejes caer esta noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:15",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una batalla tras otra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gangster americano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:50",
+      "end_time": "01:30",
       "episode_description": ""
     }
   ]

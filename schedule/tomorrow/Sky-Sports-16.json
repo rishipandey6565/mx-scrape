@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 16",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Real Sociedad vs. Elche",
+      "show_name": "LALIGA EA SPORTS 2025-2026 D",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Athletic Club de Bilbao vs. Lev",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rayo Vallecano vs. Real Oviedo",
+      "show_name": "Sevilla vs. Girona FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -31,83 +31,59 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:45",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
-      "show_name": "Sevilla vs. Girona FC",
+      "show_name": "LALIGA EA SPORTS 2025-2026 D",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
-      "end_time": "06:45",
+      "start_time": "05:45",
+      "end_time": "07:45",
       "episode_description": ""
     },
     {
-      "show_name": "Previo",
+      "show_name": "Real Sociedad vs. Elche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportivo Alavés vs. Getafe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:15",
+      "start_time": "07:45",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
       "show_name": "Athletic Club de Bilbao vs. Lev",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:30",
+      "start_time": "09:45",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
       "show_name": "Atlético de Madrid vs. Real Bet",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:30",
+      "start_time": "11:45",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
+      "start_time": "13:45",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Valencia vs. Real Madrid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/valencia-vs-real-madrid.webp",
-      "show_category": "Deporte",
+      "show_name": "Villarreal vs. Espanyol",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "Desde el estadio Mestalla ubicado en la ciudad de Valencia, España, se enfrentan los equipos Valencia Club de Fútbol versus el Real Madrid Club de Fútbol."
+      "episode_description": ""
     },
     {
-      "show_name": "Barcelona vs. RCD Mallorca",
+      "show_name": "RC Celta de Vigo vs. CA Osasuna",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -115,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Atlético de Madrid vs. Real Bet",
+      "show_name": "Barcelona vs. RCD Mallorca",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -123,20 +99,20 @@
       "episode_description": ""
     },
     {
-      "show_name": "Valencia vs. Real Madrid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/valencia-vs-real-madrid.webp",
-      "show_category": "Deporte",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Desde el estadio Mestalla ubicado en la ciudad de Valencia, España, se enfrentan los equipos Valencia Club de Fútbol versus el Real Madrid Club de Fútbol."
-    },
-    {
-      "show_name": "LALIGA EA SPORTS 2025-2026 D",
+      "show_name": "Villarreal vs. Espanyol",
       "show_logo": "",
       "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Valencia vs. Real Madrid",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/valencia_vs_real_madrid.png",
+      "show_category": "Deporte",
       "start_time": "22:00",
       "end_time": "00:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Mestalla ubicado en la ciudad de Valencia, España, se enfrentan los equipos Valencia Club de Fútbol versus el Real Madrid Club de Fútbol."
     }
   ]
 }

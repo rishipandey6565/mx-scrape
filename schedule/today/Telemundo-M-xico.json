@@ -1,9 +1,9 @@
 {
   "channel": "Telemundo (México)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Falsa identidad",
+      "show_name": "Lo mejor de caso cerrado",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "12 corazones",
+      "show_name": "Decisiones extremas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:20",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi Familia Perfecta",
+      "show_name": "12 corazones",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -39,70 +39,78 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "08:00",
+      "end_time": "07:35",
       "episode_description": ""
     },
     {
-      "show_name": "El clon",
+      "show_name": "Mi Familia Perfecta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:00",
-      "end_time": "10:00",
+      "start_time": "07:35",
+      "end_time": "09:20",
       "episode_description": ""
     },
     {
-      "show_name": "El clon",
+      "show_name": "Juego de Mentiras",
+      "show_logo": "https://imagenes.gatotv.com/categorias/telenovelas/miniatura/juego_de_mentiras.jpg",
+      "show_category": "Suspenso",
+      "start_time": "09:20",
+      "end_time": "11:30",
+      "episode_description": "Juego de Mentiras comienza con la desaparición de Adriana Molina (María Elisa Camargo) y todas las pistas apuntan a su esposo, César (Arap Bethke), como el principal sospechoso en el posible asesinato. Decidido a evitar que le arrebaten a su hija de ocho años, César arriesga a investigar por su cuenta. Mientras busca pistas sobre los posibles motivos de la desaparición de su esposa, César descubre que Adriana llevaba una doble vida. Casi todos los personajes se convierten en sospechosos, ya que cada uno tiene una razón – aunque solo aparente – para querer eliminarla. Mientras tanto, la libertad, el amor y el futuro de César se ponen en juego en su búsqueda por respuestas."
+    },
+    {
+      "show_name": "Juego de Mentiras",
+      "show_logo": "https://imagenes.gatotv.com/categorias/telenovelas/miniatura/juego_de_mentiras.jpg",
+      "show_category": "Suspenso",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": "Juego de Mentiras comienza con la desaparición de Adriana Molina (María Elisa Camargo) y todas las pistas apuntan a su esposo, César (Arap Bethke), como el principal sospechoso en el posible asesinato. Decidido a evitar que le arrebaten a su hija de ocho años, César arriesga a investigar por su cuenta. Mientras busca pistas sobre los posibles motivos de la desaparición de su esposa, César descubre que Adriana llevaba una doble vida. Casi todos los personajes se convierten en sospechosos, ya que cada uno tiene una razón – aunque solo aparente – para querer eliminarla. Mientras tanto, la libertad, el amor y el futuro de César se ponen en juego en su búsqueda por respuestas."
+    },
+    {
+      "show_name": "Pasión Prohibida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "13:30",
+      "end_time": "15:20",
       "episode_description": ""
     },
     {
-      "show_name": "La Reina del Sur",
+      "show_name": "Historias de la vírgen morena",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "14:00",
+      "start_time": "15:20",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "La Reina del Sur",
+      "show_name": "Historias de la vírgen morena",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Reina del Sur",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lo mejor de caso cerrado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:45",
-      "end_time": "20:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lo mejor de caso cerrado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:45",
-      "end_time": "23:45",
+      "start_time": "17:30",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "Lo mejor de caso cerrado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
+      "start_time": "19:30",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo mejor de caso cerrado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo mejor de caso cerrado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:20",
       "episode_description": ""
     }

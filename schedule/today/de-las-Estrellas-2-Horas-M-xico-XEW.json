@@ -1,25 +1,17 @@
 {
   "channel": "de las Estrellas -2 Horas - México (XEW)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Doménica Montero",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "¿Quieres ser mi… hijo?",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/quieres_ser_mi_hijo.jpg",
+      "show_category": "Comedia",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Punto Enrique Acevedo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": ""
+      "episode_description": "¿Quieres ser mi… hijo? Cuenta la historia de Lucia \"Lu\" (Ludwika Paleta), una mujer conformista de unos 40 años que un día descubre que su novio, con el que llevaba 15 años de relación, la engaña. Estancada, desconsolada y sin trabajo, Lu decide regresar a su apartamento de soltera para empezar de cero, sólo para descubrir que su nuevo vecino es Javier (Juanpa Zurita), un guapo mujeriego de 23 años que siempre está de fiesta y no la deja descansar. Para conseguir el trabajo que siempre quiso, Lu decide mentir en su entrevista de trabajo; dice ser una mujer de familia y que tiene un hijo de 19 años. Por si fuera poco, en la última prueba para ser contratada, Lu deberá pasar un fin de semana con los ejecutivos de la empresa y sus familias en Valle de Bravo. Desesperada, Lu le ofrece un trato a Javi: él se debe hacer pasar por su hijo y a cambio ella le permitirá salir de fiesta todo lo que quiera sin llamar a la policía. Lo que ninguno de los dos sabe es que, en ese fin de semana entre tantas mentiras, surgirá entre ellos un romance inesperado, que les hará cuestionarse qué es lo que realmente quieren en la vida."
     },
     {
-      "show_name": "Archivo muerto",
+      "show_name": "Faisy nights",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Iglesia Universal",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -63,51 +63,59 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:00",
+      "end_time": "09:15",
       "episode_description": ""
     },
     {
-      "show_name": "Charrito",
+      "show_name": "Santo y Blue Demon vs Dr",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:45",
+      "start_time": "09:15",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mujercitas",
+      "show_name": "Niño Pobre, Niño Rico",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "12:30",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cuéntamelo Ya...Al Fin!",
+      "show_name": "Más Deporte\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:30",
+      "start_time": "13:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mi querido viejo",
+      "show_name": "Pelo suelto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:30",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Acción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
       "show_name": "El Chapulín Colorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/today/el-chapulín-colorado.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg",
       "show_category": "Acción",
-      "start_time": "16:30",
+      "start_time": "17:00",
       "end_time": "19:00",
       "episode_description": "El Chapulín Colorado, serie creada por Roberto Gómez Bolaños (Chespirito) que relata las aventuras de un Superhéroe. Transmitida por primera vez en México en 1970 y aceptada por las familias mexicanas y toda Latino América.Reconocido por su Chipote Chillón y por sus divertidas frases como \"Síganme los buenos\" y \"No contaban con mi astucia\"."
     },
     {
-      "show_name": "Esta historia me suena",
+      "show_name": "A la mala",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -115,20 +123,20 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Rosa de Guadalupe",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "El Roomie",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_roomie.jpg",
+      "show_category": "Comedia",
       "start_time": "21:00",
       "end_time": "23:00",
-      "episode_description": ""
+      "episode_description": "Vivi (Fiona Palomo) es una joven escritora que se ve obligada a buscar un roomie para pagar la hipoteca de su departamento. Lo que ella no sospecha es que Ro (José Eduardo Derbez), el supuesto compañero perfecto que encontró, tiene un peculiar estilo de vida: nunca pagar renta. A pesar de que Vivi descubre a Ro, decide abrirle las puertas de su casa y de su vida porque sus artimañas la llevan a reencontrarse como escritora y tanto ella como su roomie van a descubrir su real valor."
     },
     {
-      "show_name": "¿Quieres ser mi… hijo?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/today/quieres-ser-mi-hijo.webp",
-      "show_category": "Comedia",
+      "show_name": "¿Apostarías por Mí?",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "23:00",
       "end_time": "01:00",
-      "episode_description": "¿Quieres ser mi… hijo? Cuenta la historia de Lucia \"Lu\" (Ludwika Paleta), una mujer conformista de unos 40 años que un día descubre que su novio, con el que llevaba 15 años de relación, la engaña. Estancada, desconsolada y sin trabajo, Lu decide regresar a su apartamento de soltera para empezar de cero, sólo para descubrir que su nuevo vecino es Javier (Juanpa Zurita), un guapo mujeriego de 23 años que siempre está de fiesta y no la deja descansar. Para conseguir el trabajo que siempre quiso, Lu decide mentir en su entrevista de trabajo; dice ser una mujer de familia y que tiene un hijo de 19 años. Por si fuera poco, en la última prueba para ser contratada, Lu deberá pasar un fin de semana con los ejecutivos de la empresa y sus familias en Valle de Bravo. Desesperada, Lu le ofrece un trato a Javi: él se debe hacer pasar por su hijo y a cambio ella le permitirá salir de fiesta todo lo que quiera sin llamar a la policía. Lo que ninguno de los dos sabe es que, en ese fin de semana entre tantas mentiras, surgirá entre ellos un romance inesperado, que les hará cuestionarse qué es lo que realmente quieren en la vida."
+      "episode_description": ""
     }
   ]
 }

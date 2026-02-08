@@ -1,109 +1,117 @@
 {
   "channel": "Cinema Platino",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
-    {
-      "show_name": "Guy Ritchie: El Pacto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Relic: Herencia Maldita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:03",
-      "end_time": "03:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ni en tus sueños",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:37",
-      "end_time": "05:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Guerra del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/la-guerra-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "05:45",
-      "end_time": "08:03",
-      "episode_description": "Los viajeros del tiempo llegan desde 2051 para entregar un mensaje urgente: Dentro de 30 años, la humanidad está perdiendo una guerra contra una especie alienígena mortal. La única esperanza de supervivencia es que soldados y civiles sean transportados al futuro y se unan a la lucha. Decidido a salvar a al mundo para su hija, Dan Forester (Chris Pratt) se une a un científico brillante y su padre separado para reescribir el destino del planeta."
-    },
-    {
-      "show_name": "Assassin's Creed",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/assassins-creed.webp",
-      "show_category": "Acción",
-      "start_time": "08:03",
-      "end_time": "09:56",
-      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
-    },
-    {
-      "show_name": "Los caballeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:56",
-      "end_time": "11:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luchando con mi Familia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/luchando-con-mi-familia.webp",
-      "show_category": "Biografía",
-      "start_time": "11:56",
-      "end_time": "13:50",
-      "episode_description": "Basada en la increíble historia real de la estrella de la WWE, Paige (Florence Pugh). Nacida de una familia muy unida de luchadores, Paige y su hermano Zak (Jack Lowden) se quedan sorprendidos cuando tienen la oportunidad única en la vida de intentar entrar en la WWE. Pero cuando solo Paige se gana un lugar en el programa de entrenamiento competitivo, debe dejar a su familia y enfrentarse a este nuevo mundo despiadado. El Viaje de Paige la empuja a profundizar, luchar por su familia y, finalmente, demostrarle al mundo que lo que la hace diferente es lo que la puede convertir en una estrella."
-    },
-    {
-      "show_name": "El captor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:50",
-      "end_time": "15:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Familia Addams",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:26",
-      "end_time": "16:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pig",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:56",
-      "end_time": "18:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aguas Oscuras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:34",
-      "end_time": "20:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Buena Persona",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:43",
-      "end_time": "22:55",
-      "episode_description": ""
-    },
     {
       "show_name": "Rogue",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:55",
+      "start_time": "00:00",
       "end_time": "00:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El bar de las grandes esperanzas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:48",
+      "end_time": "02:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "007: Spectre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:39",
+      "end_time": "05:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quanta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:11",
+      "end_time": "06:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:40",
+      "end_time": "08:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En la mira",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:17",
+      "end_time": "10:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Somnia: Antes de Despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:16",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La venganza perfecta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "13:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un viaje extraordinario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:40",
+      "end_time": "15:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Siempre Alice",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:26",
+      "end_time": "17:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De madres a hijas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:12",
+      "end_time": "18:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un acto de esperanza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:50",
+      "end_time": "20:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El libro del amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:40",
+      "end_time": "22:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un amor memorable",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:29",
+      "end_time": "00:09",
       "episode_description": ""
     }
   ]

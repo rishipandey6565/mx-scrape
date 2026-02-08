@@ -1,133 +1,117 @@
 {
   "channel": "Pánico",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
-    {
-      "show_name": "Sacrificio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bárbaro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:44",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Unforgiving",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cuatro Manos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/P-nico/tomorrow/cuatro-manos.webp",
-      "show_category": "Drama",
-      "start_time": "03:50",
-      "end_time": "05:29",
-      "episode_description": "Las hermanas Sophie (Frida-Lovisa Hamann) y Jessica (Friederike Becht) presencian un brutal crimen cuando eran niñas. Jessica le promete a la joven Sophie que siempre la cuidara. Pero 20 años después, la promesa se ha convertido en una obsesión. Mientras Sophie intenta convertirse en una pianista y construir una vida libre de miedos, Jessica sufre de paranoia y ve amenazas para ella y su hermana en todas partes. Cuando los perpetradores de esa época son liberados, Jessica está decidida a encontrarlos. Pero un accidente lo cambia todo y transforma la promesa de Jessica de cuidar siempre a su hermana pequeña en una pesadilla existencial."
-    },
-    {
-      "show_name": "The Swerve",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:29",
-      "end_time": "07:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Inspiration",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:08",
-      "end_time": "08:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Leyenda Mortal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:42",
-      "end_time": "10:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Villmark Asylum",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:26",
-      "end_time": "12:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Te veo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:06",
-      "end_time": "13:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Termination",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:47",
-      "end_time": "15:19",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Abandon",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:19",
-      "end_time": "17:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Autumn Road",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:03",
-      "end_time": "18:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un Extraño Secreto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:46",
-      "end_time": "20:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vermines: La Plaga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:21",
-      "end_time": "22:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rancid",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:12",
-      "end_time": "23:48",
-      "episode_description": ""
-    },
     {
       "show_name": "Comunión con el Diablo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:48",
+      "start_time": "00:00",
       "end_time": "01:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nosotros Matamos Por Amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:31",
+      "end_time": "04:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Field Guide To Evil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:19",
+      "end_time": "06:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Edificio N",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:18",
+      "end_time": "08:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cama Número 6",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:07",
+      "end_time": "10:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "King On Screen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:05",
+      "end_time": "11:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pumpkins",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:57",
+      "end_time": "13:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Casa Del Árbol",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:22",
+      "end_time": "15:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una Historia de Terror Vietnamita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:06",
+      "end_time": "16:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kyrsya-Tufland",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:53",
+      "end_time": "18:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mom",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:29",
+      "end_time": "20:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Niña Buena, Niña Mala",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:09",
+      "end_time": "21:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El mundo maravilloso de Willy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:43",
+      "end_time": "23:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Book Of the Dead",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:20",
+      "end_time": "01:02",
       "episode_description": ""
     }
   ]

@@ -1,12 +1,28 @@
 {
   "channel": "NFL Network",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "NFL GameDay View",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Super Bowl LX Countdown",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Hall Of Fame Knocks",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -15,19 +31,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "NFL Power Rankings Super Bowl",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL GameDay View",
+      "show_name": "The HOF Knocks",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -35,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Mic'd Up",
+      "show_name": "Super Bowl LX Countdown",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -43,115 +51,75 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "NFL Power Rankings Super Bowl",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "SB Greatest Commercials",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Super bowl Classics",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "NFL GameDay View",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl live",
+      "show_name": "NFL Gameday morning",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "08:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl live",
+      "show_name": "NFL Gameday morning",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
+      "start_time": "12:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl live",
+      "show_name": "NFL Gameday morning",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Super bowl live",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Insiders",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Super Bowl LX Countdown",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
       "show_name": "SB Greatest Commercials",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Super Bowl game center",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Hall Of Fame Knocks",
+      "show_name": "NFL Gameday Final",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "23:00",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "NFL GameDay View",
+      "show_name": "NFL Gameday Final",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Gameday Final",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

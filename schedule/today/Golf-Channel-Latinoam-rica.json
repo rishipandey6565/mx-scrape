@@ -1,28 +1,68 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Tenis",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vanity Index Podcast",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "05:30",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA TOUR: The CUT",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf DP World Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "04:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -31,22 +71,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "10:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "The Smylie Show",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "09:30",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
-      "show_name": "Vanity Index Podcast",
+      "show_name": "PGA Tour Highlights",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
@@ -63,22 +111,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "19:30",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:30",
+      "start_time": "19:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
+      "start_time": "19:30",
       "end_time": "23:30",
       "episode_description": ""
     },

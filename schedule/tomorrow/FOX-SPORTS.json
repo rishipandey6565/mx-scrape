@@ -1,10 +1,10 @@
 {
   "channel": "FOX SPORTS",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "00:00",
       "end_time": "00:00",
@@ -12,31 +12,31 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "00:00",
-      "end_time": "03:30",
+      "end_time": "03:00",
       "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
-      "start_time": "03:30",
-      "end_time": "04:30",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
-      "show_name": "Latitud Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/latitud-fox.webp",
-      "show_category": "Periodístico",
-      "start_time": "04:30",
+      "show_name": "Central Fox",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
+      "show_category": "Noticiero",
+      "start_time": "04:00",
       "end_time": "05:00",
-      "episode_description": "Programa cultural con toque histórico que se relaciona con el deporte."
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,159 +52,87 @@
     },
     {
       "show_name": "Fox Fit",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fit.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505124.jpg",
       "show_category": "Deportivo",
       "start_time": "07:00",
       "end_time": "07:30",
       "episode_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
     },
     {
-      "show_name": "Fox Fit",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fit.webp",
-      "show_category": "Deportivo",
+      "show_name": "Fox Impacto NFL",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505091.jpg",
+      "show_category": "Fútbol americano",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "Lucila Vit nos enseñan cómo mantener un cuerpo sano."
-    },
-    {
-      "show_name": "Fox Impacto NFL",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-impacto-nfl.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "08:00",
-      "end_time": "09:00",
       "episode_description": "Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de los siguientes juegos. ¡Sin impacto no hay NFL!"
     },
     {
-      "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
-      "show_category": "Fútbol",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+      "show_name": "Fox Impacto NFL",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505091.jpg",
+      "show_category": "Fútbol americano",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de los siguientes juegos. ¡Sin impacto no hay NFL!"
     },
     {
-      "show_name": "+90",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/90.webp",
+      "show_name": "Historia del Súper Bowl",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/3201365.jpg",
+      "show_category": "Fútbol americano",
+      "start_time": "08:30",
+      "end_time": "11:30",
+      "episode_description": "Los mejores momentos del Super Bowl."
+    },
+    {
+      "show_name": "Inside",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/648805.jpg",
       "show_category": "Deportivo",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "No hay información disponible."
     },
     {
-      "show_name": "AEW Dynamite",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/aew-dynamite.webp",
-      "show_category": "Lucha",
-      "start_time": "11:00",
+      "show_name": "Road to the Super Bowl LX",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1989317602.jpg",
+      "show_category": "Fútbol americano",
+      "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
-    },
-    {
-      "show_name": "Latitud Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/latitud-fox.webp",
-      "show_category": "Periodístico",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Programa cultural con toque histórico que se relaciona con el deporte."
-    },
-    {
-      "show_name": "Fox Fight Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fight-club.webp",
-      "show_category": "Lucha",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
-    },
-    {
-      "show_name": "Money Line Show Weekend",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/money-line-show-weekend.webp",
-      "show_category": "Juegos",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Programa enfocado al mundo de las apuestas deportivas, con el objetivo de guiar y enseñar estrategias a la audiencia al momento de llevar a cabo una apuesta."
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-extra.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "14:30",
-      "end_time": "14:44",
-      "episode_description": "La emoción del fútbol americano."
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-extra.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "14:44",
-      "end_time": "15:00",
-      "episode_description": "La emoción del fútbol americano."
-    },
-    {
-      "show_name": "NFL GameDay",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-gameday.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "Mira la reacción y análisis de los periodistas de los partidos de fútbol americano de la NFL. Todas las novedades sobre la actualidad de los equipos y los deportistas que se destacan en este importante juego."
+      "episode_description": "Edición en la que podrás enterarte de los detalles, novedades y curiosidades de este multitudinario evento de fútbol americano, con entrevistas, comentarios e imágenes exclusivas."
     },
     {
       "show_name": "Super Bowl Greatest Half-Time Shows",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/super-bowl-greatest-half-time-shows.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/8986718.jpg",
       "show_category": "Fútbol americano",
-      "start_time": "15:30",
-      "end_time": "17:30",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": "No hay información disponible."
     },
     {
-      "show_name": "NFL",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "17:30",
-      "end_time": "20:30",
-      "episode_description": "Vive los partidos de la edición 106º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos."
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-extra.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "20:30",
-      "end_time": "20:44",
-      "episode_description": "La emoción del fútbol americano."
-    },
-    {
-      "show_name": "NFL Extra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-extra.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "20:44",
-      "end_time": "21:00",
-      "episode_description": "La emoción del fútbol americano."
-    },
-    {
-      "show_name": "NFL GameDay",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/nfl-gameday.webp",
-      "show_category": "Fútbol americano",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Mira la reacción y análisis de los periodistas de los partidos de fútbol americano de la NFL. Todas las novedades sobre la actualidad de los equipos y los deportistas que se destacan en este importante juego."
-    },
-    {
-      "show_name": "Latitud Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/latitud-fox.webp",
-      "show_category": "Periodístico",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Programa cultural con toque histórico que se relaciona con el deporte."
-    },
-    {
       "show_name": "Fox Impacto NFL",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-impacto-nfl.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505091.jpg",
       "show_category": "Fútbol americano",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "15:00",
+      "end_time": "16:44",
       "episode_description": "Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de los siguientes juegos. ¡Sin impacto no hay NFL!"
     },
     {
+      "show_name": "Super Bowl LX",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1989317602.jpg",
+      "show_category": "Fútbol americano",
+      "start_time": "16:44",
+      "end_time": "22:00",
+      "episode_description": "Vive el Super Bowl LX, la final de campeonato de NFL, correspondiente a la temporada 2025-2026, que se lleva a cabo el 8 de febrero de 2026 en el Levi's Stadium, en Santa Clara, California."
+    },
+    {
+      "show_name": "Central Fox",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
+      "show_category": "Noticiero",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
+    },
+    {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "23:00",
       "end_time": "00:00",

@@ -1,118 +1,110 @@
 {
   "channel": "Cinemax (México)",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Miedo Profundo",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Cuestión de Tiempo (About Time)",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cuestion_de_tiempo_about_time.jpg",
+      "show_category": "Drama",
       "start_time": "00:00",
-      "end_time": "00:37",
+      "end_time": "01:17",
+      "episode_description": "La noche después de otra fiesta insatisfactoria en Nueva York, Tim (Domhnall Gleeson) recibe una noticia inesperada por parte de su padre (Bill Nighy), le cuenta que los hombres de su familia siempre han tenido la habilidad de viajar a través del tiempo. Tim no puede cambiar la historia, pero puede cambiar lo que lo que sucede y ha sucedido en su propia vida – decidiendo así hacer ciertos cambios mejorar su mundo… empezando por hacerse novio de una chica hermosa (Rachel McAdams). Pero como todos los progresos inusuales de la vida, Tim se da cuenta que su don no puede salvar los altos y bajos que afectan a sus familiares no importando el lugar donde se encuentre."
+    },
+    {
+      "show_name": "Definitivamente, Tal Vez",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:17",
+      "end_time": "03:15",
       "episode_description": ""
     },
     {
-      "show_name": "La cosa del otro mundo",
+      "show_name": "Amor a distancia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:37",
-      "end_time": "02:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El misterio de Salem's Lot",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:28",
-      "end_time": "04:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:31",
-      "end_time": "06:00",
+      "start_time": "03:15",
+      "end_time": "05:06",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:53",
+      "start_time": "05:06",
+      "end_time": "06:06",
       "episode_description": ""
     },
     {
-      "show_name": "Amor a segunda vista",
+      "show_name": "La Gran Muralla",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_gran_muralla.jpg",
+      "show_category": "Acción",
+      "start_time": "06:06",
+      "end_time": "07:59",
+      "episode_description": "Un valiente guerrero, William Garin (Matt Damon), viaja por el mundo buscando el arma más poderosa que haya visto en su vida con su inseparable amigo, Pero Tovar (Pedro Pascal). Mientras buscan el arma, son capturados en La Gran Muralla China por la Comandante Lin Mei (Tian Jing). Estando capturados William observa que unas criaturas se aproximan a la muralla, tras ver el poder de estas deciden trabajar con la fuerza china para combatir esta amenaza."
+    },
+    {
+      "show_name": "El cazador y la reina del",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:53",
-      "end_time": "08:38",
+      "start_time": "07:59",
+      "end_time": "09:59",
       "episode_description": ""
     },
     {
-      "show_name": "17 otra vez",
+      "show_name": "Van Helsing El cazador de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:38",
-      "end_time": "10:30",
+      "start_time": "09:59",
+      "end_time": "12:24",
       "episode_description": ""
     },
     {
-      "show_name": "Bajo el mismo techo",
+      "show_name": "Un cuento de invierno",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:31",
+      "start_time": "12:24",
+      "end_time": "14:29",
       "episode_description": ""
     },
     {
-      "show_name": "Enamorándome de mi ex",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/tomorrow/enamorándome-de-mi-ex.webp",
-      "show_category": "Comedia",
-      "start_time": "12:31",
-      "end_time": "15:17",
-      "episode_description": "(It's Complicated) La película comienza con Jane (Meryl Streep) una mujer divorciada que posee una panadería en la cual le va muy bien localizada en Santa Barbara California. A los 10 años de su divorcio ella tiene 3 hijos ya mayores, también a lo largo de estos años ella ha logrado tener una excelente amistad con su ex esposo Jake (Alec Baldwin) un exitoso abogado que actualmente se encuentra casado con Agness (Lake Bell) una mujer mucho más joven que él.La trama de la película comienza cuando un día Jane y Jake tienen una inocente cena y lo imaginable aparece, una aventura amorosa que se creía imposible que volviera a suceder.En el film Jane tiene un pretendiente, un arquitecto (Steve Martin) quien se enamora de Jane. ¿Podrá su amor pasado renacer? ¿En que terminará este romance?"
-    },
-    {
-      "show_name": "Los Fantasmas de mis ex",
+      "show_name": "La brújula dorada",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:17",
-      "end_time": "17:06",
+      "start_time": "14:29",
+      "end_time": "16:35",
       "episode_description": ""
     },
     {
-      "show_name": "Muy parecido al amor",
+      "show_name": "Blanca Nieves y El Cazador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:06",
-      "end_time": "19:05",
+      "start_time": "16:35",
+      "end_time": "18:56",
       "episode_description": ""
     },
     {
-      "show_name": "17 otra vez",
+      "show_name": "El cazador y la reina del",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:05",
+      "start_time": "18:56",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bajo el mismo techo",
+      "show_name": "Van Helsing El cazador de",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "23:02",
+      "end_time": "23:28",
       "episode_description": ""
     },
     {
-      "show_name": "Cuestión de Tiempo (About Time)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/tomorrow/cuestión-de-tiempo-about-time.webp",
-      "show_category": "Drama",
-      "start_time": "23:02",
-      "end_time": "01:17",
-      "episode_description": "La noche después de otra fiesta insatisfactoria en Nueva York, Tim (Domhnall Gleeson) recibe una noticia inesperada por parte de su padre (Bill Nighy), le cuenta que los hombres de su familia siempre han tenido la habilidad de viajar a través del tiempo. Tim no puede cambiar la historia, pero puede cambiar lo que lo que sucede y ha sucedido en su propia vida – decidiendo así hacer ciertos cambios mejorar su mundo… empezando por hacerse novio de una chica hermosa (Rachel McAdams). Pero como todos los progresos inusuales de la vida, Tim se da cuenta que su don no puede salvar los altos y bajos que afectan a sus familiares no importando el lugar donde se encuentre."
+      "show_name": "Drácula: La historia Jamás Contada",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dracula_la_historia_jamas_contada.jpg",
+      "show_category": "Acción",
+      "start_time": "23:28",
+      "end_time": "01:09",
+      "episode_description": "Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula."
     }
   ]
 }

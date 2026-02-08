@@ -1,9 +1,9 @@
 {
   "channel": "¡HOLA! TV",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Cóctel de noticias",
+      "show_name": "La lista VIP",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Especiales ¡HOLA! TV",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Especiales ¡HOLA! TV",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Cóctel de noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Coronas y palacios",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales ¡HOLA! TV",
+      "show_name": "Tendencias SXXI",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales ¡HOLA! TV",
+      "show_name": "Stars in Style",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "La lista VIP",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Código royal",
+      "show_name": "Coronas y palacios",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Código royal",
+      "show_name": "Lo Mejor de la Hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Lo Mejor de la Hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -91,23 +91,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Hora Hola",
+      "show_name": "La hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lo Mejor de la Hora Hola",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "La lista VIP",
+      "show_name": "Coronas y palacios",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -115,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La lista VIP",
+      "show_name": "Programa Pagado",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -131,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Top de estilo",
+      "show_name": "Video Fashion News",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -155,55 +147,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Programa Pagado",
+      "show_name": "Las reinas del shopping",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La lista VIP",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "La lista VIP",
+      "show_name": "La hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El vestido de novia perfecto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Sí quiero, otra vez",
+      "show_name": "Casas de ensueño frente al mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las consejeras de estilo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Stars in Style",
+      "show_name": "Design Hunters",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -211,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Tendencias SXXI",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -219,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales Realeza",
+      "show_name": "Videofashion: Designers",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -227,39 +195,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales Realeza",
+      "show_name": "Un Nuevo Look Para una Nueva Vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Coronas y palacios",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
       "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Stars in Style",
+      "show_name": "Especiales Realeza",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Íntimo y personal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "El álbum de las celebridades",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -267,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Top de estilo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -275,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Espléndida",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -283,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La lista VIP",
+      "show_name": "Happy & Zen",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -291,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cóctel de noticias",
+      "show_name": "Tendencias SXXI",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -299,98 +251,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Las reinas del shopping",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Stars in Style",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Iglesias. Hermanos a la obra",
+      "show_name": "La hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Iglesias. Hermanos a la obra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Iglesias. Hermanos a la obra",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La lista VIP",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cóctel de noticias",
+      "show_name": "Las reinas del shopping",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Coronas y palacios",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Iglesias. Hermanos a la obra",
+      "show_name": "La hora Hola",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Iglesias. Hermanos a la obra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Iglesias. Hermanos a la obra",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La lista VIP",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

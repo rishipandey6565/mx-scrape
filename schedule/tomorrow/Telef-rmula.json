@@ -1,9 +1,9 @@
 {
   "channel": "Telefórmula",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Formula Espectacular",
+      "show_name": "Estilo de vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Blitz",
+      "show_name": "La Mujer Actual",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En el Estudio",
+      "show_name": "Hablando de mamá a mamá",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Orfeon TV Presenta",
+      "show_name": "En el Estudio de Eduado Ruiz",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -43,31 +43,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Mujer Actual",
+      "show_name": "Blitz",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "05:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Formula Espectacular",
+      "show_name": "SimiBarra Matutina",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "06:00",
+      "start_time": "04:30",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Conteniños",
+      "show_name": "Por la Mañana con Feregrino",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
+      "start_time": "05:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Formula Noticias Juan Becerra",
+      "show_name": "Ciro Gomez por la Mañana",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Mujer Actual",
+      "show_name": "Marco Antonio Regil Fórmula",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -83,23 +83,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Autocosmos",
+      "show_name": "Todo para la Mujer con Maxine",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Formula Autotrend",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Formula Noticias",
+      "show_name": "López Dóriga en Fórmula",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -107,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hablando de mamá a mamá",
+      "show_name": "La Radio de la República",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -115,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Formula Espectacular",
+      "show_name": "Eduardo Ruiz Healy",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ventajas Inmobiliarias",
+      "show_name": "La Fórmula es",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -131,23 +123,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Formula Noticias",
+      "show_name": "José Cárdenas informa",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Simibarra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fórmula Deportes",
+      "show_name": "Leonardo Curzio en fórmula",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -155,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En el Estudio de Eduado Ruiz",
+      "show_name": "Noche de Negocios",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -163,23 +147,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tras Muro",
+      "show_name": "Noticias Juan Pablo Pérez D",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hora Local",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Estilo de vida",
+      "show_name": "Orfeon TV Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
