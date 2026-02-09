@@ -1,18 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,123 +12,123 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "Portugal vs. España",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "end_time": "04:30",
+      "episode_description": "La élite del fútbol sala europeo choca en un torneo histórico en Letonia, Lituania y Eslovenia. Pies rápidos, maestría táctica y acción sin fin definen la lucha por la corona continental, con Portugal defendiendo el título."
     },
     {
-      "show_name": "Charlton Athletic vs. Queens Park Rangers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 31, The Valley",
-      "start_time": "04:00",
-      "end_time": "06:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "show_name": "El show de la Copa Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-el-show-de-la-copa-libertadores_l_m.jpg",
+      "show_category": "El show de la Copa Libertadores",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
+    },
+    {
+      "show_name": "FC Utrecht vs. Feyenoord",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Stadion Galgenwaard",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "FC Utrecht vs. Feyenoord",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Stadion Galgenwaard",
+      "start_time": "05:00",
+      "end_time": "07:15",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "AZ vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Afas Stadion",
+      "start_time": "07:15",
+      "end_time": "09:30",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "FC Groningen vs. PSV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 22, Hitachi Capital Mobility Stadium",
+      "start_time": "09:30",
+      "end_time": "11:30",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "New York Knicks vs. Boston Celtics",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, TD Garden Boston",
+      "start_time": "11:30",
+      "end_time": "14:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "06:00",
-      "end_time": "07:00",
+      "start_time": "14:00",
+      "end_time": "14:30",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "show_name": "Los Angeles Clippers vs. Minnesota Timberwolves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Target Center",
+      "start_time": "14:30",
+      "end_time": "17:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "World Baseball Classic Recap 2023",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "World Baseball Classic Recap 2023",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Revive lo más emocionante de los partidos disputados en el Clásico Mundial de Béisbol 2023. El público podrá disfrutar del torneo internacional de béisbol más importante a nivel de selecciones nacionales del mundo."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
-      "start_time": "08:00",
-      "end_time": "08:50",
+      "start_time": "18:00",
+      "end_time": "19:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Coventry City vs. Oxford Utd.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 31, Coventry Building Society Arena",
-      "start_time": "08:50",
-      "end_time": "10:50",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
-    },
-    {
-      "show_name": "Genoa vs. Napoli",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 24, Estadio Luigi Ferraris",
-      "start_time": "10:50",
-      "end_time": "13:00",
+      "show_name": "Juventus vs. Lazio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 24, Allianz Stadium",
+      "start_time": "19:00",
+      "end_time": "21:00",
       "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Fiorentina vs. Torino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 24, Estadio Artemio Franchi",
-      "start_time": "13:30",
-      "end_time": "15:45",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "15:45",
-      "end_time": "16:55",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Algodoneras del Unión Laguna vs. Diablos Rojos Femenil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Estadio Alfredo Harp Helú",
-      "start_time": "16:55",
-      "end_time": "20:00",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "20:00",
-      "end_time": "20:50",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Dorados vs. Atl. La Paz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 5, Estadio Dorados",
-      "start_time": "20:50",
+      "show_name": "Nick Ball vs. Brandon Figueroa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "21:00",
       "end_time": "23:00",
-      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
+      "episode_description": "Los mejores combates de boxeo y MMA."
     },
     {
-      "show_name": "Genoa vs. Napoli",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 24, Estadio Luigi Ferraris",
+      "show_name": "Tlaxcala vs. Leones Negros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 5, Estadio Tlahuicole",
       "start_time": "23:00",
       "end_time": "01:00",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
     }
   ]
 }

@@ -1,126 +1,198 @@
 {
   "channel": "TNT HD",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Inframundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/inframundo.webp",
-      "show_category": "Underworld",
-      "start_time": "01:15",
-      "end_time": "03:30",
-      "episode_description": "Durante siglos, dos razas han ido evolucionando en lo más profundo del mundo de los humanos: los aristocráticos y sofisticados vampiros, y los brutales licántropos. Librarán una gran batalla que dejará en pie sólo a una de las especies."
+      "show_name": "Drácula: la historia jamás contada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dracula-la-historia-jamas-contada-2014-1_l_m.jpg",
+      "show_category": "Dracula Untold",
+      "start_time": "00:25",
+      "end_time": "01:59",
+      "episode_description": "Frente a la amenaza de los Turcos, el joven príncipe Vlad Tepes resuelve cerrar un oscuro pacto para proteger a su familia y a las del reino. Pero este lo acaba por convertir en el temible monstruo legendario Drácula."
+    },
+    {
+      "show_name": "Los señores de la mafia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-senores-de-la-mafia-2019_l_m.jpg",
+      "show_category": "The Gentlemen",
+      "start_time": "01:59",
+      "end_time": "03:58",
+      "episode_description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 24",
-      "start_time": "03:30",
-      "end_time": "04:08",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e71_l_m.jpg",
+      "show_category": "Episodio 71",
+      "start_time": "03:58",
+      "end_time": "04:09",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 25",
-      "start_time": "04:08",
-      "end_time": "04:46",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e72_l_m.jpg",
+      "show_category": "Episodio 72",
+      "start_time": "04:09",
+      "end_time": "04:23",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 76",
-      "start_time": "04:46",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e77_l_m.jpg",
+      "show_category": "Episodio 77",
+      "start_time": "04:23",
+      "end_time": "04:33",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e152_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 152",
+      "start_time": "04:33",
+      "end_time": "04:37",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e156_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 156",
+      "start_time": "04:37",
+      "end_time": "04:42",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e158_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 158",
+      "start_time": "04:42",
+      "end_time": "04:47",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e160_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 160",
+      "start_time": "04:47",
+      "end_time": "04:52",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e153_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 153",
+      "start_time": "04:52",
+      "end_time": "04:55",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e154_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 154",
+      "start_time": "04:55",
+      "end_time": "04:56",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e155_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 155",
+      "start_time": "04:56",
       "end_time": "05:00",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e79_l_m.jpg",
+      "show_category": "Episodio 79",
+      "start_time": "05:00",
+      "end_time": "05:14",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
-      "show_name": "Crepúsculo la saga: Amanecer - Parte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/crepúsculo-la-saga-amanecer-parte-2.webp",
-      "show_category": "The Twilight Saga: Breaking Dawn - Part 2",
-      "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "Renesmee, la pequeña hija de Bella y Edward, es acusada falsamente de ser inmortal. Los Volturi quieren asesinar a toda la familia, pero los Cullen harán todo por defender su amor enfrentando al clan más poderoso."
+      "show_name": "Chica aterradora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Scarygirl",
+      "start_time": "05:14",
+      "end_time": "05:14",
+      "episode_description": "Mientras su mundo está envuelto en oscuridad, una joven debe superar sus miedos y viajar a una misteriosa ciudad de luz, salvar a su padre de un científico peligroso y evitar la destrucción de su planeta."
     },
     {
-      "show_name": "Crepúsculo la saga: Amanecer - Parte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/crepúsculo-la-saga-amanecer-parte-2.webp",
-      "show_category": "The Twilight Saga: Breaking Dawn - Part 2",
-      "start_time": "05:00",
+      "show_name": "Chica aterradora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Scarygirl",
+      "start_time": "05:14",
       "end_time": "06:51",
-      "episode_description": "Renesmee, la pequeña hija de Bella y Edward, es acusada falsamente de ser inmortal. Los Volturi quieren asesinar a toda la familia, pero los Cullen harán todo por defender su amor enfrentando al clan más poderoso."
-    },
-    {
-      "show_name": "Breaking Point: pasión y baile",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Breaking Point",
-      "start_time": "06:51",
-      "end_time": "08:37",
-      "episode_description": "Dos hermanos adolescentes con un don excepcional para el breakdance, pero enemistados entre sí desde la muerte accidental de su madre, hacen una prueba para el equipo británico de breakdance que competirá en los Campeonatos del Mundo."
-    },
-    {
-      "show_name": "Animales fantásticos: Los secretos de Dumbledore",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fantastic Beasts: The Secrets of Dumbledore",
-      "start_time": "08:37",
-      "end_time": "11:02",
-      "episode_description": "Dumbledore sabe que Gellert Grindelwald quiere apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa."
+      "episode_description": "Mientras su mundo está envuelto en oscuridad, una joven debe superar sus miedos y viajar a una misteriosa ciudad de luz, salvar a su padre de un científico peligroso y evitar la destrucción de su planeta."
     },
     {
       "show_name": "Cenicienta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "Comedia / 2021",
-      "start_time": "11:02",
-      "end_time": "13:03",
+      "start_time": "06:51",
+      "end_time": "08:50",
       "episode_description": "Cenicienta es un musical moderno, con un lado atrevido, del clásico cuento de hadas. La ambiciosa protagonista tiene sueños y con la ayuda de su fabulosa Hada Madrina, persevera para cumplirlos."
     },
     {
       "show_name": "Karate Kid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/karate-kid.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_karate-kid-1984_l_m.jpg",
       "show_category": "The Karate Kid",
-      "start_time": "13:03",
-      "end_time": "15:19",
+      "start_time": "08:50",
+      "end_time": "11:05",
       "episode_description": "Daniel es un adolescente cuyos problemas de crecimiento se hacen más difíciles al llegar a una nueva ciudad donde debe empezar desde cero y hacer nuevos amigos."
     },
     {
       "show_name": "Karate Kid II: La historia continúa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/karate-kid-ii-la-historia-continúa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_karate-kid-ii-la-historia-continua-1986-1_l_m.jpg",
       "show_category": "The Karate Kid: Part II",
-      "start_time": "15:19",
-      "end_time": "17:21",
+      "start_time": "11:05",
+      "end_time": "13:05",
       "episode_description": "Daniel acompaña a Miyagi a su tierra, Okinawa. Para Miyagi es la oportunidad de ver a su padre por última vez y enfrentar a un viejo rival, Sato, mientras Daniel inadvertidamente se gana un enemigo por su cuenta."
     },
     {
       "show_name": "Karate Kid III: El desafío final",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/karate-kid-iii-el-desafío-final.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_karate-kid-iii-el-desafio-final-1989-1_l_m.jpg",
       "show_category": "The Karate Kid III",
-      "start_time": "17:21",
-      "end_time": "19:23",
+      "start_time": "13:05",
+      "end_time": "15:05",
       "episode_description": "En contra de los deseos de su mentor, Daniel defenderá su título en el campeonato de karate de All-Valley organizado por su enemigo Kreese, cuyo súbdito cayó derrotado años atrás en la final contra Daniel."
     },
     {
       "show_name": "Kung Fu Panda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/kung-fu-panda.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_kung-fu-panda-2008_l_m.jpg",
       "show_category": "Animación / 2008 /7.6",
-      "start_time": "19:23",
-      "end_time": "21:00",
+      "start_time": "15:05",
+      "end_time": "16:42",
       "episode_description": "Po es un loco del kung-fu. Cuando el destino quiere que sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo de tal arte marcial para estudiar con sus ídolos."
     },
     {
-      "show_name": "Kung Fusión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/kung-fusión.webp",
-      "show_category": "Kung Fu Hustle",
-      "start_time": "21:00",
-      "end_time": "22:45",
-      "episode_description": "Durante la prerrevolución China, Sing, un delincuente, desea ser parte de la peligrosa banda de mafiosos Axe Gang. Para lograrlo, Sing pretende extorsionar a los vecinos de un bloque de apartamentos."
+      "show_name": "Kung Fu Panda 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_kung-fu-panda-2-2011_l_m.jpg",
+      "show_category": "Animación / 2011 /7.3",
+      "start_time": "16:42",
+      "end_time": "18:17",
+      "episode_description": "Po, el panda convertido en Guerrero Dragón, y los Cinco Furiosos luchan contra Lord Shen, que quiere destruir la tradición del Kung fu y conquistar China. Mientras pelea, Po descubrirá su verdadero origen."
     },
     {
-      "show_name": "Asesino ninja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/asesino-ninja.webp",
-      "show_category": "Ninja Assassin",
-      "start_time": "22:45",
-      "end_time": "00:25",
-      "episode_description": "Raizo es un niño de la calle transformado en una máquina entrenada por el Clan Ozunu, una sociedad secreta la cual se cree que es un mito. El asesinato de uno de los amigos de Raizo por el mismo Clan hace que él quiera vengarse."
+      "show_name": "El último samurai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-ultimo-samurai-2003_l_m.jpg",
+      "show_category": "The Last Samurai",
+      "start_time": "18:17",
+      "end_time": "21:00",
+      "episode_description": "El emperador contrata a un ex oficial americano para adiestrar a sus tropas y hacer frente a unos samuráis. Tras ser capturado por sus enemigos, el americano conocerá una cultura milenaria que alterará su vida y sus convicciones."
+    },
+    {
+      "show_name": "Drácula: la historia jamás contada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dracula-la-historia-jamas-contada-2014-1_l_m.jpg",
+      "show_category": "Dracula Untold",
+      "start_time": "21:00",
+      "end_time": "22:36",
+      "episode_description": "Frente a la amenaza de los Turcos, el joven príncipe Vlad Tepes resuelve cerrar un oscuro pacto para proteger a su familia y a las del reino. Pero este lo acaba por convertir en el temible monstruo legendario Drácula."
+    },
+    {
+      "show_name": "300: El nacimiento de un imperio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_300-el-nacimiento-de-un-imperio-2014_l_m.jpg",
+      "show_category": "300: Rise of an Empire",
+      "start_time": "22:36",
+      "end_time": "00:22",
+      "episode_description": "Temístocles lucha por conseguir la unidad de las polis griegas. Para ello, deberá detener la acción invasora de las fuerzas persas capitaneadas por Xerxes, mortal devenido en dios, y Artemisia, la vengativa comandante de la armada persa."
     }
   ]
 }
