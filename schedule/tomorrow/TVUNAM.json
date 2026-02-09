@@ -1,9 +1,17 @@
 {
   "channel": "TVUNAM",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Tiempo de Filmoteca UNAM Func",
+      "show_name": "Tiempo de Filmoteca UNAM",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "No memes",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -35,23 +43,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Música en escena",
+      "show_name": "La matiné",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noticiero Científico",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza latina. Mujeres",
+      "show_name": "Noticiero Científico",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íconos del Jazz",
+      "show_name": "Mundo real Rutas de esclavitu",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chaplin",
+      "show_name": "Alrededor del mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La matiné",
+      "show_name": "Jueves de ciencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Científico",
+      "show_name": "Incluidos. Trabajos sin preju",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "53° Festival internacional Cer",
+      "show_name": "Concierto sinfónico",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza latina. Mujeres",
+      "show_name": "Noticiero Científico",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Directo Urban Beat",
+      "show_name": "La maquiladora",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chaplin",
+      "show_name": "Alrededor del mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íconos del Jazz",
+      "show_name": "Mundo real Rutas de esclavitu",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "No memes",
+      "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "RockLab. Donde hay vida más al",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",

@@ -1,9 +1,17 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Besos de arena",
+      "show_name": "La Escuelita V.I.P",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,10 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -31,14 +55,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "08:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Iglesia de Dios Internacional",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
+      "start_time": "06:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "12:30",
       "episode_description": ""
     },
@@ -59,34 +107,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los gemelos alborotados",
+      "show_name": "Pero sigo siendo el rey",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:45",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Simón blanco",
+      "show_name": "Una familia de diez",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:45",
-      "end_time": "21:00",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Viva México y sus corridos",
+      "show_name": "Caso cerrado Edición estelar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:00",
+      "start_time": "20:00",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Escuelita V.I.P",
+      "show_name": "Velvet El Nuevo Imperio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "22:00",
       "end_time": "00:00",
       "episode_description": ""
     }

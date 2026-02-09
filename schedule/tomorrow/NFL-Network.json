@@ -1,41 +1,41 @@
 {
   "channel": "NFL Network",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "NFL Gameday Final",
+      "show_name": "NFL Honors",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Gameday Final",
+      "show_name": "NFL Insiders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:30",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Gameday Final",
+      "show_name": "Super bowl Classics",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:30",
+      "start_time": "02:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super Bowl LX",
+      "show_name": "NFL Insiders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Gameday Final",
+      "show_name": "NFL Insiders",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "Salute the Champs",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "Salute the Champs",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -95,6 +95,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Super Bowl Champion Theme",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
       "end_time": "22:00",
       "episode_description": ""
     },
@@ -107,11 +115,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Honors",
+      "show_name": "Super bowl Classics",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

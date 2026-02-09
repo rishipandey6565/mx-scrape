@@ -1,20 +1,36 @@
 {
   "channel": "TV5MONDE",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Auschwitz",
+      "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:10",
+      "end_time": "00:49",
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:10",
+      "start_time": "00:49",
+      "end_time": "01:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La grande galerie francophone",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:42",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un si grand soleil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,38 +47,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:32",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le magazine de la riviera",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
+      "start_time": "04:33",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "FOOT!",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:39",
+      "end_time": "05:55",
       "episode_description": ""
     },
     {
-      "show_name": "Le dessous des cartes",
+      "show_name": "Curieux bégin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:39",
-      "end_time": "05:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chef Pays",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:54",
+      "start_time": "05:55",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -83,34 +91,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ding Dong Montre-moi ta maiso",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:19",
+      "end_time": "08:17",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Comment ca va le nord?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:19",
-      "end_time": "08:46",
+      "start_time": "08:17",
+      "end_time": "08:41",
       "episode_description": ""
     },
     {
-      "show_name": "A bon entendeur",
+      "show_name": "# Version française",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:46",
-      "end_time": "09:13",
+      "start_time": "08:41",
+      "end_time": "09:08",
       "episode_description": ""
     },
     {
-      "show_name": "L'épicerie",
+      "show_name": "Chef Pays",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:13",
+      "start_time": "09:08",
       "end_time": "09:39",
       "episode_description": ""
     },
@@ -147,18 +155,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Les indociles",
+      "show_name": "OPJ",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les indociles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,18 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:00",
+      "end_time": "16:01",
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:01",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -211,10 +211,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Des racines & des ailes",
+      "show_name": "Sarah Bernhardt, á corps perdu",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
+      "end_time": "18:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amour et différence",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:25",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -227,51 +235,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le monde aprés nous",
+      "show_name": "La grande librairie",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:25",
+      "end_time": "21:33",
       "episode_description": ""
     },
     {
-      "show_name": "47 Pouces",
+      "show_name": "Au bout de l'enquête, la fin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:25",
-      "end_time": "21:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:48",
-      "end_time": "22:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:10",
-      "end_time": "23:16",
+      "start_time": "21:33",
+      "end_time": "23:13",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:16",
-      "end_time": "23:41",
+      "start_time": "23:13",
+      "end_time": "23:38",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:41",
-      "end_time": "00:49",
+      "start_time": "23:38",
+      "end_time": "00:45",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "TVC Deportes",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Béisbol Serie del Caribe",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,39 +11,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Béisbol Serie del Caribe",
+      "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Al Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
-      "end_time": "04:30",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Voleibol Liga Mexicana",
+      "show_name": "Todo Deporte DW",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "06:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fútbol Copa de Francia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Voleibol Liga Mexicana",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -51,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -59,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -75,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RPM",
+      "show_name": "Todo Deporte DW",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -91,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rally",
+      "show_name": "El Quinto cuarto",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -123,18 +147,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tvc Deportes Total",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

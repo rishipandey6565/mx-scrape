@@ -1,6 +1,6 @@
 {
   "channel": "Exa TV",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
       "show_name": "Videos",
@@ -123,18 +123,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "K-vibe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Videos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "K-vibe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -171,58 +171,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "El exámetro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Videos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:45",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Axeso con Jessie Cervantes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Videos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:50",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Top 5",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:20",
+      "start_time": "19:00",
+      "end_time": "19:20",
       "episode_description": ""
     },
     {
       "show_name": "Videos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:20",
-      "end_time": "21:30",
+      "start_time": "19:20",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Videos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
       "show_name": "K-vibe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El exámetro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Videos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:45",
       "end_time": "22:00",
       "episode_description": ""
     },
