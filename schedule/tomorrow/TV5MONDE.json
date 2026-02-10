@@ -1,28 +1,20 @@
 {
   "channel": "TV5MONDE",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:49",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
-      "show_name": "Documentaire",
+      "show_name": "Le retour des résistantes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:49",
-      "end_time": "01:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La grande galerie francophone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:42",
+      "start_time": "00:45",
       "end_time": "02:35",
       "episode_description": ""
     },
@@ -47,30 +39,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:33",
+      "end_time": "04:32",
       "episode_description": ""
     },
     {
-      "show_name": "Littoral",
+      "show_name": "Paname",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:33",
+      "start_time": "04:32",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Documentaire",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:55",
+      "end_time": "05:54",
       "episode_description": ""
     },
     {
-      "show_name": "Curieux bégin",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:54",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -91,42 +83,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une brique dans le ventre",
+      "show_name": "Smart faune",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:17",
+      "end_time": "08:21",
       "episode_description": ""
     },
     {
-      "show_name": "Comment ca va le nord?",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:17",
-      "end_time": "08:41",
+      "start_time": "08:21",
+      "end_time": "08:49",
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:41",
-      "end_time": "09:08",
+      "start_time": "08:49",
+      "end_time": "09:16",
       "episode_description": ""
     },
     {
-      "show_name": "Chef Pays",
+      "show_name": "Curieux bégin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:08",
-      "end_time": "09:39",
+      "start_time": "09:16",
+      "end_time": "09:42",
       "episode_description": ""
     },
     {
       "show_name": "Tout le monde veut prendre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:39",
+      "start_time": "09:42",
       "end_time": "10:37",
       "episode_description": ""
     },
@@ -155,10 +147,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "OPJ",
+      "show_name": "Les intrigantes",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
+      "end_time": "13:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Qu'importe la distance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:41",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,18 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hep taxi !",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:01",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le Point",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:01",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -211,18 +211,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sarah Bernhardt, á corps perdu",
+      "show_name": "OPJ",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
-      "end_time": "18:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amour et différence",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:25",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -235,35 +227,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:33",
+      "end_time": "21:39",
       "episode_description": ""
     },
     {
-      "show_name": "Au bout de l'enquête, la fin",
+      "show_name": "Bellefond - le prix de la vie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:33",
-      "end_time": "23:13",
+      "start_time": "21:39",
+      "end_time": "23:11",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:13",
-      "end_time": "23:38",
+      "start_time": "23:11",
+      "end_time": "23:36",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:38",
-      "end_time": "00:45",
+      "start_time": "23:36",
+      "end_time": "00:43",
       "episode_description": ""
     }
   ]

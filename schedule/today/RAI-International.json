@@ -1,61 +1,245 @@
 {
   "channel": "RAI International",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Canal RAI",
+      "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG1",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UnoMattina News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG1",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Unomattina (all'interno TG)",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Camera dei deputati",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "07:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Storie italiane",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "11:00",
+      "start_time": "04:00",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Cinque minuti",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "15:00",
+      "start_time": "04:45",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Quante storie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TGR Buongiorno Italia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG2 Giorno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paparazzi!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "07:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Casa Italia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:45",
+      "end_time": "09:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Piazza Affari",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:45",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La vita in diretta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "L' Eredità",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:45",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG1 + Cinque minuti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dietro le quinte con",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "È Sempre Mezzogiorno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TGR Leonardo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:15",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il paradiso delle signore",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Affari Tuoi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un posto al sole",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "La Giostra del Gol",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "23:00",
+      "end_time": "20:15",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Il Marciatore -La vera storia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "03:00",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Porta a Porta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

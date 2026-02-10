@@ -1,78 +1,102 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "08/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "Loco por Mary",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/tomorrow/loco-por-mary.webp",
-      "show_category": "Comedia",
+      "show_name": "Presencias del Mal",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/presencias_del_mal.jpg",
+      "show_category": "Drama",
       "start_time": "00:00",
-      "end_time": "02:19",
-      "episode_description": "There's Something About Mary. Ted (Ben Stiller) era un nerd en el colegio, quien a pesar de esto logró que una de las chicas más populares de la escuela, Mary (Cameron Díaz) saliera con él para la fiesta de graduación."
+      "end_time": "01:51",
+      "episode_description": "En una misteriosa mansión en Maine, donde la recién nombrada niñera Kate (Mackenzie Davis) está encargada del cuidado de dos huérfanos perturbados, Flora (Brooklynn Prince) y Miles (Brooklynn Prince). Sin embargo, rápidamente descubre que tanto los niños como la casa están ocultando secretos oscuros y que las cosas pueden no ser lo que parecen."
     },
     {
-      "show_name": "Freaks",
+      "show_name": "Traición a tres esposas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:19",
-      "end_time": "04:07",
+      "start_time": "01:51",
+      "end_time": "03:27",
       "episode_description": ""
+    },
+    {
+      "show_name": "Mi Amigo Enzo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_amigo_enzo.jpg",
+      "show_category": "Comedia",
+      "start_time": "03:27",
+      "end_time": "07:00",
+      "episode_description": "Un relato sincero narrado por un perro ingenioso y filosófico llamado Enzo (Kevin Costner). A través de su vínculo con su propietario Denny Swift (Milo Ventimiglia), un aspirante a piloto de carreras de Fórmula Uno, Enzo ha adquirido una gran comprensión de la condición humana y entiende que las técnicas necesarias en el hipódromo también pueden utilizarse para navegar con éxito el viaje de la vida."
     },
     {
       "show_name": "¿Qué te juegas?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:07",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Guardianes de altamar",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "07:00",
-      "end_time": "09:42",
+      "end_time": "09:18",
       "episode_description": ""
     },
     {
-      "show_name": "El vuelo del Fénix",
+      "show_name": "¿Quién engañó a Roger Rabbit?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:42",
-      "end_time": "11:50",
+      "start_time": "09:18",
+      "end_time": "11:23",
       "episode_description": ""
     },
     {
-      "show_name": "Ghosting The Spirit",
+      "show_name": "La gran aventura de Los Lunnis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:50",
-      "end_time": "13:39",
+      "start_time": "11:23",
+      "end_time": "13:09",
       "episode_description": ""
     },
     {
-      "show_name": "Soledad",
+      "show_name": "Forever my girl",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:39",
-      "end_time": "15:40",
+      "start_time": "13:09",
+      "end_time": "15:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Max Payne",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:13",
+      "end_time": "17:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un Viaje de Diez Metros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:13",
+      "end_time": "19:49",
       "episode_description": ""
     },
     {
       "show_name": "Asi somos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:40",
-      "end_time": "17:50",
+      "start_time": "19:49",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Loco por Mary",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/tomorrow/loco-por-mary.webp",
-      "show_category": "Comedia",
-      "start_time": "17:50",
-      "end_time": "20:14",
-      "episode_description": "There's Something About Mary. Ted (Ben Stiller) era un nerd en el colegio, quien a pesar de esto logró que una de las chicas más populares de la escuela, Mary (Cameron Díaz) saliera con él para la fiesta de graduación."
+      "show_name": "La noche de su vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Elizabeth está desaparecida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:58",
+      "end_time": "01:47",
+      "episode_description": ""
     }
   ]
 }

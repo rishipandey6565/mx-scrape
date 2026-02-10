@@ -1,17 +1,25 @@
 {
   "channel": "de las Estrellas -2 Horas - México (XEW)",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "¿Apostarías por Mí?",
+      "show_name": "Doménica Montero",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En Punto Enrique Acevedo\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Jugada\nEn Vivo",
+      "show_name": "Tercer Grado Deportivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,10 +27,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Clío TV",
+      "show_name": "Iglesia Universal",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -103,14 +119,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "14:10",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "Cuéntamelo Ya!\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:10",
+      "start_time": "14:00",
       "end_time": "15:30",
       "episode_description": ""
     },
@@ -124,7 +140,7 @@
     },
     {
       "show_name": "El Chavo del Ocho",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/today/el-chavo-del-ocho.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
       "show_category": "Comedia",
       "start_time": "16:30",
       "end_time": "17:30",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Una familia con suerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/today/una-familia-con-suerte.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/telenovelas/miniatura/una_familia_con_suerte.png",
       "show_category": "Drama",
       "start_time": "18:30",
       "end_time": "20:30",

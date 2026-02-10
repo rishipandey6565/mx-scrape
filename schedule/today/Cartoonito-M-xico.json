@@ -1,61 +1,277 @@
 {
   "channel": "Cartoonito (México)",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Cartoonito",
+      "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blippi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blippi Wonders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grizzy and the lemmings",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Milo",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "07:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Morphle",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "11:00",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Sésamo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bea's block",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mecha Builders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lucas the Spider",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "08:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grizzy and the lemmings",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blippi Block",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:45",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pocoyó",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Creciendo con la Gallina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La casa de muñecas de Gabby",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "12:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El pequeño gran mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:45",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Milo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lucas the Spider",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:15",
+      "end_time": "13:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pocoyó",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:45",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Hey Duggee",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Minibods",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blippi Block",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cosmo, el cosmonauta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El pequeño gran mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pocoyó",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:15",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Lu y sus amigos",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La casa de muñecas de Gabby",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lucas the Spider",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cartoonito",
+      "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "03:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

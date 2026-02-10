@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Terror y encajes negros",
+      "show_name": "Cinescape",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noches en vela",
+      "show_name": "Bionatura",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Fuera del aire",
+      "show_name": "El infierno",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Y tú, tú que vas a hacer?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -47,14 +55,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cápsulas Edomex",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:10",
       "end_time": "06:15",
       "episode_description": ""
     },
@@ -67,63 +67,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "AMX metropolitano",
+      "show_name": "Amx con Raúl García y Acela Contreras",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lo que nos une",
+      "show_name": "Corte Informativo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atrévete x ti",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Emociónate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bionatura",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "#EnHoraBuena con Gina Serrano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Porque soy mujer",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
+      "start_time": "10:00",
       "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Enjambre universitario",
+      "show_name": "Con Sabor Jarocho",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -131,15 +91,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Película",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destino Verde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "AMX con Marisol Ordoñez",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -147,10 +115,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cultura AMX",
+      "show_name": "Culturama",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Huellas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -163,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Genio y Figura",
+      "show_name": "La zona",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -171,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Otro Stylo para Cocinar",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -179,15 +155,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cóncavo y Consexo",
+      "show_name": "Mirada Global",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Talento mexiquense",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "AMX con Carlos González",
+      "show_name": "Punto de referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -195,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En la cima con Roa",
+      "show_name": "Los colores de mi tierra",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -203,10 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Historias del Más Allá",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ruido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

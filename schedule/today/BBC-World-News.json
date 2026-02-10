@@ -1,9 +1,9 @@
 {
   "channel": "BBC World News",
-  "date": "08/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Talking Business",
+      "show_name": "Business Today",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,10 +19,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Travel Show",
+      "show_name": "Business Today",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
+      "end_time": "00:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:55",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -35,10 +43,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Arts in Motion",
+      "show_name": "Business Today",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
+      "end_time": "01:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:55",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -51,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bangladesh After the Uprising",
+      "show_name": "BBC News",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -63,6 +79,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "03:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:55",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -75,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Media Show",
+      "show_name": "BBC News",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -91,15 +123,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "The President's Path",
+      "show_name": "Business Today",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:00",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
       "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:45",
+      "end_time": "05:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:55",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News Now",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -107,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Travel Show",
+      "show_name": "BBC News Now",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -115,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "BBC News Now",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -123,15 +171,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "BBC News Now",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
+      "end_time": "07:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:55",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "BBC News Now",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -139,15 +195,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Clive Myrie's Caribbean Adventure",
+      "show_name": "Business Today - NYSE Opening Bell",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
+      "end_time": "08:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News Now",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -155,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Global Eye",
+      "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -163,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -171,23 +235,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Talking Business",
+      "show_name": "Business Today",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Verified Live",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "10:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:55",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Focus on Africa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "The World Today with Maryam Moshiri",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -195,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bangladesh After the Uprising",
+      "show_name": "The World Today with Maryam Moshiri",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -203,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "The World Today with Maryam Moshiri",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -211,15 +299,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Arts in Motion",
+      "show_name": "The World Today with Maryam Moshiri",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
+      "end_time": "13:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:55",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "The Context",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -227,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Clive Myrie's Caribbean Adventure",
+      "show_name": "The Context",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -235,15 +331,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "The Context USA",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Context USA",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "15:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Museums",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:55",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "BBC World News America",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -251,7 +363,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "AI Decoded",
+      "show_name": "Newsnight with Victoria Derbyshire",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -259,19 +371,131 @@
       "episode_description": ""
     },
     {
-      "show_name": "BBC News",
+      "show_name": "BBC World News America",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Global Eye",
+      "show_name": "BBC News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Newscast",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tech Now",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Newsday",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC Sport",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Newsday",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "21:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC Sport",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:45",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Newsday",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "22:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC Sport",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:45",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "PX Sports",
-  "date": "08/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Conexión Surfing",
+      "show_name": "Belgian Rallycross",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +11,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Iconic",
+      "show_name": "La hora de la bestia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Week 35",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Especial FMS - Behind The Real",
+      "show_name": "Especial - FMS - Behind The Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,15 +27,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sudor y gloria",
+      "show_name": "Abriendo pista",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "All Blacks Collection",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Sports Rundown 2025",
+      "show_name": "Surfing República",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,15 +51,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "400 Thunder",
+      "show_name": "Champs Las Vegas 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Belcar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Heroines",
+      "show_name": "Week 35",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -67,18 +75,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especial - Nitro Circus Guadalajara 2025",
+      "show_name": "Especial - FMS World Series",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PX News - Nuevo León",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jeddah",
+      "show_name": "PX News",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Sports Rundown 2025",
+      "show_name": "Abriendo pista",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Week 35",
+      "show_name": "Champs Las Vegas 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -123,23 +123,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Iconic",
+      "show_name": "La hora de la bestia",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "FC Hound Dogs vs. Glacis United FC",
+      "show_name": "Especial - FMS - Behind The Real",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "All Blacks Collection",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
       "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Jeddah",
+      "show_name": "Surfing República",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -147,23 +155,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "PX News - Nuevo León",
+      "show_name": "Especial - FMS World Series",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Manchester 1962 FC vs. Lincoln Red Imps FC",
+      "show_name": "PX News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:30",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
       "show_name": "Africa Eco Race",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Belcar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Week 35",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -171,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sudor y gloria",
+      "show_name": "La hora de la bestia",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -179,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Heroines",
+      "show_name": "Locals",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -195,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Iconic",
+      "show_name": "Champs Las Vegas 2025",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -203,11 +227,83 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Sports Rundown 2025",
+      "show_name": "Belcar",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
       "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Abriendo pista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "All Blacks Collection",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PX News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Especial - FMS World Series",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Surfing República",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kayak Creek",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Week 35",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Especial - FMS - Behind The Real",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conexión Surfing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
