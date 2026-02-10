@@ -1,18 +1,26 @@
 {
   "channel": "A+",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Himno nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "00:00",
+      "end_time": "00:02",
+      "episode_description": "Himno nacional mexicano."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:02",
       "end_time": "00:30",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -76,15 +84,23 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
-      "end_time": "05:00",
+      "end_time": "04:58",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
+      "show_name": "Barras de ajuste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "04:58",
+      "end_time": "05:00",
+      "episode_description": "Barra de ajuste."
+    },
+    {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/rtc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "05:00",
       "end_time": "05:15",
@@ -92,7 +108,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:15",
       "end_time": "05:30",
@@ -100,7 +116,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -116,7 +132,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -124,7 +140,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -132,7 +148,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -148,7 +164,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -156,23 +172,23 @@
     },
     {
       "show_name": "Naturista naturalmente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/naturista-naturalmente.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_naturista-naturalmente_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Charro a la fuerza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/charro-a-la-fuerza.webp",
-      "show_category": "Comedia / 1948",
+      "show_name": "Lodo y armiño",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_lodo-y-armino-1951_l_m.jpg",
+      "show_category": "Drama / 1951",
       "start_time": "10:00",
       "end_time": "12:00",
-      "episode_description": "Una mujer se hace pasar por la hija de su abuelo para poder conocer al hombre que su familia ha elegido para ella."
+      "episode_description": "Un hombre propone a un pintor olvidar su deuda a cambio de poseer a la amante del artista."
     },
     {
       "show_name": "Gata salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/gata-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gata-salvaje_l_m.jpg",
       "show_category": "Telenovela",
       "start_time": "12:00",
       "end_time": "13:00",
@@ -180,59 +196,59 @@
     },
     {
       "show_name": "Gata salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/gata-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gata-salvaje_l_m.jpg",
       "show_category": "Telenovela",
       "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": "Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi."
     },
     {
-      "show_name": "El colmillo de Buda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/el-colmillo-de-buda.webp",
-      "show_category": "Comedia / 1949 /7.0",
+      "show_name": "Contigo en la distancia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_contigo-en-la-distancia-1954_l_m.jpg",
+      "show_category": "Musical / 1954",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "Un hombre posee una gran colección de reliquias mágicas y valiosas, entre ellas el colmillo de Buda, pero una secta intentara recuperar el colmillo."
+      "episode_description": "Dos hermanas se enamoran de un hombre que después descubren que en sus venas corre su misma sangre."
     },
     {
-      "show_name": "La muerte es puntual",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/la-muerte-es-puntual.webp",
-      "show_category": "Drama / 1967 /6.6",
+      "show_name": "Separación matrimonial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_separacion-matrimonial-1973_l_m.jpg",
+      "show_category": "Drama / 1973 /2.7",
       "start_time": "16:00",
       "end_time": "17:45",
-      "episode_description": "Esta historia entrelaza varias vidas, la de un grupo de vándalos, una narcómana y una muchacha que trabaja de mesera en un restaurante donde su madre cocina."
+      "episode_description": "Una mujer finalmente decide perdonar al marido por sus numerosas infidelidades cuando él la convence de que su amante lo dejó. Pero, en poco tiempo, el hombre infiel cae de nuevo en el mismo pozo."
     },
     {
-      "show_name": "Me cansé de rogarle",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/me-cansé-de-rogarle.webp",
-      "show_category": "Comedia / 1964",
+      "show_name": "Un tipo a todo dar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-tipo-a-todo-dar-1963_l_m.jpg",
+      "show_category": "Comedia / 1963 /6.6",
       "start_time": "17:45",
       "end_time": "19:45",
-      "episode_description": "Lucha Vázquez, una joven guapa y adinerada parece perseguida por la mala suerte, los dos novios que ha tenido murieron el mismo día que el cura leía las amonestaciones de boda. Pero la llegada de un charro transformará su vida."
+      "episode_description": "Javier es un provinciano que llega a trabajar a la Ciudad de México donde conoce a Rosa, quien le consigue empleo con su padre dentro de una carnicería."
     },
     {
-      "show_name": "Los diablos del terror",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/los-diablos-del-terror.webp",
-      "show_category": "Western / 1958 /5.2",
+      "show_name": "Nunca digas...¡Cuba jamás!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_nunca-digas-cuba-jamas-2001_l_m.jpg",
+      "show_category": "Comedia / 2001",
       "start_time": "19:45",
       "end_time": "21:30",
-      "episode_description": "En la época del western clásico, en la zona de Nuevo México, un grupo de extraños jinetes enmascarados con formas de demonios aparecen como espectros siniestros para sembrar el horror en la zona."
+      "episode_description": "A tan solo unos días de casarse, Javier es víctima de su abuelo, quien a base de engaños lo sube en un avión rumbo a Cuba. En la isla, conoce a una joven que pone en duda sus sentimientos."
     },
     {
       "show_name": "Ahora más noticias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/ahora-más-noticias.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ahora-mas-noticias_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "21:30",
       "end_time": "22:30",
       "episode_description": "El noticiero mas exitoso de la ciudad de México, conduce Uriel Estrada."
     },
     {
-      "show_name": "Narda o el verano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/narda-o-el-verano.webp",
-      "show_category": "Drama / 1970 /6.0",
+      "show_name": "Pesadilla mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pesadilla-mortal-1980_l_m.jpg",
+      "show_category": "Terror / 1980 /4.0",
       "start_time": "22:30",
       "end_time": "",
-      "episode_description": "Dos amigos se relacionan con una misteriosa mujer, con quien viven diferentes experiencias que abordan los paradójicos misterios de las relaciones humanas y la identidad."
+      "episode_description": "Después del homicidio de su esposa, un hombre jura vengarse de los asesinos y nadie lo podrá detener."
     }
   ]
 }

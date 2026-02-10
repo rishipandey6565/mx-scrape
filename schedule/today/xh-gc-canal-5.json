@@ -1,34 +1,42 @@
 {
   "channel": "Canal 5",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/sognare.webp",
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
-      "episode_description": "Sognare es la almohada más cómoda que podrás tener. Ésta te ayuda a mantener la columna vertebral en una postura correcta cada noche para evitar la fatiga crónica y las contracturas en cuello y espalda."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/crónicas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -68,99 +76,147 @@
     },
     {
       "show_name": "Especial de RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/crónicas.webp",
-      "show_category": "Periodístico",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Daniel, el travieso",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/daniel-el-travieso.webp",
-      "show_category": "Dennis the Menace",
+      "show_name": "Dora: ¡Di Hello a la aventura!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Sigue a Dora, Boots y el resto de sus amigos en aventuras repletas de acertijos y aprendizaje mientras exploran su camino a través de la mágica selva tropical."
+    },
+    {
+      "show_name": "Rubble y equipo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Sigue a Rubble y su familia de cachorros mientras usan sus increíbles vehículos de construcción para construir y reparar todo lo que la ciudad de Builder Cove necesita en aventuras de alto riesgo."
+    },
+    {
+      "show_name": "Las aventuras del Gato con Botas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-aventuras-del-gato-con-botas_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "El travieso Daniel Mitchell le hace la vida imposible a su vecino, el señor George Wilson, al ocasionarle tantos problemas con su hiperactividad. Pero cuando el pequeño es secuestrado por un rufián, el cascarrabias deberá salvarlo."
+      "episode_description": "El héroe felino favorito del mundo, amante (y conocedor de la leche) se calza sus botas características y entra en acción cuando, sin querer, rompe el hechizo mágico que protege a la ciudad oculta de San Lorenzo."
     },
     {
-      "show_name": "Pequeños traviesos al rescate",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/pequeños-traviesos-al-rescate.webp",
-      "show_category": "The Little Rascals Save the Day",
+      "show_name": "Los pitufos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-pitufos_l_m.jpg",
+      "show_category": "Infantil",
       "start_time": "08:00",
-      "end_time": "09:45",
-      "episode_description": "La Pandilla está tratando de conseguir el dinero que necesita su abuela para salvar su panadería. El problema es que no hacen nada bien. Su única esperanza es ganar el premio de un concurso de talentos locales."
+      "end_time": "09:00",
+      "episode_description": "Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal."
     },
     {
-      "show_name": "Rango",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/rango.webp",
-      "show_category": "Animación / 2011 /7.3",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": "Rango es un camaleón torpe y asustadizo que accidentalmente termina en un pueblo del Lejano Oeste plagado de forajidos, y que necesita desesperadamente un nuevo sheriff. ¿Podrá Rango convertirse en héroe y salvar al pequeño pueblo?"
+      "show_name": "El Chapulín colorado animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chapulin-colorado-animado_l_m.jpg",
+      "show_category": "Animación",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "El Chapulín Colorado ayuda a una mujer a encontrar el anillo de brillantes de su jefe. El Chapulín Colorado pelea contra un lagartosaurio para evitar que destruya la ciudad."
     },
     {
-      "show_name": "El gato con botas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/el-gato-con-botas.webp",
-      "show_category": "Puss in Boots",
-      "start_time": "11:45",
-      "end_time": "13:15",
-      "episode_description": "El Gato con botas junto con un viejo amigo, Humpty Dumpty, y la astuta Kitty buscarán a La gallina de los huevos de oro. Sin embargo, la temible pareja de bandidos, Jack & Jill, también quiere conseguir al preciado animal."
+      "show_name": "100% lobo: el libro de Hath",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "episode_description": "Freddy y la manada Howlington se enfrentan con la magia oscura ancestral en una batalla épica a través del tiempo y el espacio para salvar a Milford, a los hombres lobo y al mundo tal como lo conocemos."
     },
     {
-      "show_name": "Shrek para siempre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/shrek-para-siempre.webp",
-      "show_category": "Shrek Forever After",
-      "start_time": "13:15",
-      "end_time": "15:00",
-      "episode_description": "Aburrido de su vida, Shrek hace un pacto con Rumpelstiltskin para volver a sentirse como un verdadero ogro, pero es engañado y enviado a una retorcida versión de Muy Muy Lejano. Deberá restaurar su mundo y recuperar el amor de Fiona."
+      "show_name": "Star Trek: Prodigio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "episode_description": "Tras encontrar una nave abandonada de la Flota Estelar, un diverso grupo de jóvenes aventureros se une para explorar la galaxia y escapar de las garras de un terrible villano."
     },
     {
-      "show_name": "Gato con botas: el último deseo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Puss in Boots: The Last Wish",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": "El Gato con botas agotó ocho de sus nueve vidas, aunque perdió la cuenta por el camino. Para recuperar esas vidas deberá adentrarse en el Bosque Negro y encontrar la mítica Estrella de los deseos en su mayor travesía hasta ahora."
+      "show_name": "Sonic Boom",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonic-boom_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "¡Únete al intrépido Sonic y su gran amigo y compañero de aventuras, Tails, en sus nuevas hazañas y batallas contra su archienemigo Eggman! Para completar el equipo, están Knucles y Amy, además de un largo listado de enemigos granujas."
     },
     {
-      "show_name": "Seattle Seahawks vs. New England Patriots",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Super Bowl, Levi's Stadium",
-      "start_time": "17:00",
+      "show_name": "Prodigiosa: las aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_prodigiosa-las-aventuras-de-ladybug-1_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": "Marinette conoce al guardián de los Miraculous, y descubre la existencia de otros accesorios de poder y superhéroes que le pueden ser de ayuda en misiones particularmente difíciles."
+    },
+    {
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "16:00",
       "end_time": "17:30",
-      "episode_description": "Vive la previa del Super Bowl LX, la final de campeonato de NFL, correspondiente a la temporada 2025-2026, que se lleva a cabo el 8 de febrero de 2026 en el Levi's Stadium, en Santa Clara, California."
+      "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
     },
     {
-      "show_name": "Seattle Seahawks vs. New England Patriots",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Super Bowl, Levi's Stadium",
+      "show_name": "El Chavo animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo-animado_l_m.jpg",
+      "show_category": "D.Animados",
       "start_time": "17:30",
-      "end_time": "22:00",
-      "episode_description": "Vive el Super Bowl LX, la final de campeonato de NFL, correspondiente a la temporada 2025-2026, que se lleva a cabo el 8 de febrero de 2026 en el Levi's Stadium, en Santa Clara, California."
+      "end_time": "18:30",
+      "episode_description": "Chavo vive en una vecindad mexicana, junto a sus amigos Popis, Ñoño, Patty y Quico, y vivirá situaciones alocadas en cada episodio."
     },
     {
-      "show_name": "Sicario",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/today/sicario.webp",
-      "show_category": "Acción / 2015",
-      "start_time": "22:00",
+      "show_name": "El príncipe y yo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-principe-y-yo-2004_l_m.jpg",
+      "show_category": "The Prince and Me",
+      "start_time": "18:30",
+      "end_time": "20:45",
+      "episode_description": "Poco convencido de aceptar su destino como futuro rey, Edward huye de sus responsabilidades hacia el Medio-Oeste Americano. Allí, cambia su nombre por el de Eddie, se matricula en la universidad y se enamora de Paige."
+    },
+    {
+      "show_name": "Belleza verdadera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Romántica",
+      "start_time": "20:45",
+      "end_time": "22:30",
+      "episode_description": "Después de ser acosada y discriminada por su apariencia fea, una chica de secundaria se transforma en una hermosa \"diosa\" y rápidamente salta a la fama después de dominar el arte del maquillaje a través de videos tutoriales en línea."
+    },
+    {
+      "show_name": "Chucky",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Terror",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Después de que un muñeco Chucky antiguo aparece en una venta de garaje suburbana, una idílica ciudad estadounidense se ve sumida en el caos cuando horribles asesinatos comienzan a exponer las hipocresías y los secretos de la ciudad."
+    },
+    {
+      "show_name": "Contacto deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-contacto-deportivo_l_m.jpg",
+      "show_category": "Contacto deportivo",
+      "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico."
+      "episode_description": "Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional."
     }
   ]
 }

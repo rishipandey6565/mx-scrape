@@ -1,42 +1,66 @@
 {
   "channel": "Canal 22",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Una de amor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Romántica",
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias-noticieros-cinematograficos_l_m.jpg",
+      "show_category": "- Noticieros Cinematográficos",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Una experiencia cinematográfica extinta: la proyección de Cine Mundial y diversos noticieros similares que se exhibían en salas de cine durante los intermedios o antes de iniciar las películas."
+    },
+    {
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Un programa sobre adultos mayores que se encuentran viviendo una historia de amor. Cada capítulo relata la historia de parejas que, recientes o de toda la vida, muestran las distintas posibilidades del amor y el erotismo."
+      "end_time": "01:30",
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "La independencia inconclusa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Periodo 1880 - 1910",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Una producción que aborda los grandes temas pendientes de una América Latina que aún no cumple el sueño emancipador de los Libertadores, pero que en su Bicentenario sigue luchando por una independencia definitiva."
+      "show_name": "África, continente enigmático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_africa-continente-enigmatico-s00e06-cuernos-y-colmillos_l_m.jpg",
+      "show_category": "Episodio 6 - Cuernos y colmillos",
+      "start_time": "01:30",
+      "end_time": "02:30",
+      "episode_description": "Entre leones, elefantes, insectos, plantas, desiertos y ríos esta serie documental muestra la majestuosidad de los ecosistemas africanos, así como las tradiciones y la cultura de los habitantes de este continente."
     },
     {
-      "show_name": "La dichosa palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-dichosa-palabra.webp",
-      "show_category": "Talk Show",
-      "start_time": "02:00",
+      "show_name": "Marquesina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "02:30",
       "end_time": "03:00",
-      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
+      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
     },
     {
-      "show_name": "Las pioneras cineastas del CCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- La neta no hay futuro / El rutas",
+      "show_name": "Memoria viva de ciertos días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_memoria-viva-de-ciertos-dias_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Documentales que buscan refrescar la memoria de los espectadores, exhibiendo hechos de momentos trascendentales en la historia reciente de México, los cuales han influido notoriamente en su población."
+    },
+    {
+      "show_name": "El héroe transparente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-heroe-transparente-2014_l_m.jpg",
+      "show_category": "Documental / 2014",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": "Un recorrido histórico de la memoria del país a través de la lucha y vida del prócer Indígena Victoriano Lorenzo en su lucha social durante el Siglo XX."
+    },
+    {
+      "show_name": "Pueblando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "Ciclo de cine organizado por el Centro de Capacitación Cinematográfica (CCC) en noviembre-diciembre de 2025, para celebrar y visibilizar el trabajo de las primeras directoras formadas en esa institución desde 1975."
+      "episode_description": "Pueblando es una oportunidad única para conocer los paisajes impresionantes, la riqueza cultural y los maravillosos habitantes de Puebla. ¡Descubre la esencia y la belleza de este lugar único!"
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,115 +68,155 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "Fin de transmisión."
     },
     {
-      "show_name": "Piedras que hablan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/piedras-que-hablan.webp",
-      "show_category": "- El Cóporo, Plazuelas y Peralta, Caminos de Guanajuato",
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+    },
+    {
+      "show_name": "La conferencia del pueblo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "07:30",
+      "end_time": "09:00",
+      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
+    },
+    {
+      "show_name": "Humanismo Mexicano y memoria histórica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Educativo",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
+    },
+    {
+      "show_name": "Tratos y retratos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tratos-y-retratos_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Conducido por Silvia lemus, este ciclo de entrevistas representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad."
+    },
+    {
+      "show_name": "Mañanera 360º",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
+    },
+    {
+      "show_name": "Piedras que hablan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_piedras-que-hablan-chichen-itza_l_m.jpg",
+      "show_category": "- Chichen Itzá",
+      "start_time": "12:00",
+      "end_time": "13:00",
       "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
     },
     {
-      "show_name": "La piel de la ciudad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-piel-de-la-ciudad.webp",
-      "show_category": "- El antojo",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "En cada episodio se plantea pequeñas historias sobre grandes temas, experiencias de vida y reflexiones que nos hablan del amor, la muerte y la felicidad; de la mano de Diego González."
+      "show_name": "Conmemoración Día de la Fuerza Aérea Mexicana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Especial",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Retransmisión de las actividades y festejos conmemorando el Día de la Fuerza Aérea Mexicana. El objetivo es celebrar la creación de esta fuerza aérea y reflexionar sobre la importancia y el papel de este grupo de profesionales en la nación."
+    },
+    {
+      "show_name": "Pueblando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Santa Rita Tlahuapan, San Salvador el verde y San Martin Texmelucan",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Nos adentraremos en el gran municipio de Santa Rita Tlahuapan, queda aproximadamente a hora y media de la ciudad de Puebla, que en los meses de junio y julio se viste de hermosas luciérnagas, una actividad que debes realizar al menos una ve"
     },
     {
       "show_name": "Barra infantil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
-      "start_time": "08:00",
-      "end_time": "12:00",
+      "start_time": "14:30",
+      "end_time": "17:00",
       "episode_description": "Un espacio para niñxs."
     },
     {
-      "show_name": "OFUNAM",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/ofunam.webp",
-      "show_category": "Musical",
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "episode_description": "Segmento especial que difunde los detalles de la Orquesta Filarmónica de la UNAM, el conjunto sinfónico más antiguo de la Ciudad de México, así como también sus memorables presentaciones realizadas en su sede, la sala Nezahualcóyotl."
-    },
-    {
-      "show_name": "Qué lindo es mi México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Los Terrícolas y Los Brío",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Programa que hace un recorrido por México a través de sus canciones. La conductora Mary Sánchez recorre diferentes regiones del país y en cada una presenta a los músicos, artistas y bailarines más destacados."
-    },
-    {
-      "show_name": "Música hecha en México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- 2do. Congreso del Mariachi desde el Zócalo de la CDMX",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
-    },
-    {
-      "show_name": "Sesiones vagabundas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "Sesiones de música en vivo con artistas muy queridos de la música cubana."
-    },
-    {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- JazzBook",
+      "show_name": "Piedras que hablan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_piedras-que-hablan-chichen-itza_l_m.jpg",
+      "show_category": "- Chichen Itzá",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+      "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
     },
     {
-      "show_name": "El cancionero y sus amigos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "La dichosa palabra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-dichosa-palabra_l_m.jpg",
+      "show_category": "Talk Show",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Una celebracion del patrimonio musical mexicano a través de conversaciones e interpretaciones exclusivas acompañadas por músicos invitados."
+      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
     },
     {
-      "show_name": "Chava Flores. ¡Ese soy yo!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Especial",
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "El programa hace un repaso de la carrera de quien dejó testimonios de la Ciudad de México a través de temas como La Bartola, Sábado y Distrito Federal."
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Chamuco TV",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/chamuco-tv.webp",
-      "show_category": "- Martha Lamas",
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 60 - Historia y humanismo: Leona Vicario, madre de la patria",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "¿Cómo reír ante la catástrofe? Hazlo de forma inteligente, por mucho tiempo la caricatura ha caracterizado a aquellos personajes públicos que han brillado por sus desatines, no te pierdas el único programa de moneros."
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "En busca de un muro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Biográfico / 1973",
+      "show_name": "Punto de referencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
+      "show_category": "Político",
       "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": "La vida del famoso pintor mexicano, José Clemente Orozco tras sus innumerables intentos de abrirse paso en el extranjero y en su propio país. Su difícil inicio, apogeo y la creación incesante de un estilo propio."
+      "end_time": "22:00",
+      "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
     },
     {
-      "show_name": "El cancionero y sus amigos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "La oveja eléctrica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-electrica-s20e00-el-efecto-murcielago_l_m.jpg",
+      "show_category": "Temporada 20 - El efecto murciélago",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
+    },
+    {
+      "show_name": "La raíz doble",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-raiz-doble-la-milpa-hombre-de-azotea-verde-julio-l-hernandez-santo-domingo-coyoacan-cdmx_l_m.jpg",
+      "show_category": "- La milpa, hombre de azotea verde, Julio L. Hernández, Santo Domingo / Coyoacán CDMX",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
+    },
+    {
+      "show_name": "Shorts México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shorts-mexico-granma-ther-emilia-guacara-coyote_l_m.jpg",
+      "show_category": "- Granma(ther) / Emilia / Guacara / Coyote",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Una celebracion del patrimonio musical mexicano a través de conversaciones e interpretaciones exclusivas acompañadas por músicos invitados."
+      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
     }
   ]
 }

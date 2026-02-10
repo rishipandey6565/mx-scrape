@@ -1,18 +1,26 @@
 {
   "channel": "A+",
-  "date": "09/02/2026",
+  "date": "10/02/2026",
   "schedule": [
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Himno nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "00:00",
+      "end_time": "00:02",
+      "episode_description": "Himno nacional mexicano."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:02",
       "end_time": "00:30",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -76,15 +84,23 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
-      "end_time": "05:00",
+      "end_time": "04:58",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
+      "show_name": "Barras de ajuste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "04:58",
+      "end_time": "05:00",
+      "episode_description": "Barra de ajuste."
+    },
+    {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/rtc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "05:00",
       "end_time": "05:15",
@@ -92,7 +108,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:15",
       "end_time": "05:30",
@@ -100,7 +116,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -116,7 +132,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -124,7 +140,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -132,7 +148,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -148,7 +164,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -156,123 +172,83 @@
     },
     {
       "show_name": "Naturista naturalmente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/naturista-naturalmente.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_naturista-naturalmente_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Los amores de Marieta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-amores-de-marieta-1964_l_m.jpg",
+      "show_category": "Comedia / 1964",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "11:30",
       "end_time": "12:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "La revolución, el amor, los celos y los artistas más populares constituyen el marco de esta historia llena de acción."
     },
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Gata salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gata-salvaje_l_m.jpg",
+      "show_category": "Telenovela",
       "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "12:30",
       "end_time": "13:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi."
     },
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Gata salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gata-salvaje_l_m.jpg",
+      "show_category": "Telenovela",
       "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi."
     },
     {
-      "show_name": "El ataúd del vampiro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/el-ataúd-del-vampiro.webp",
-      "show_category": "Terror / 1957",
+      "show_name": "Las tres perfectas casadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-tres-perfectas-casadas-1953_l_m.jpg",
+      "show_category": "Comedia / 1953 /7.1",
       "start_time": "14:00",
-      "end_time": "15:30",
-      "episode_description": "Un doctor accidentalmente remueve la estaca del pecho del Conde Lavud, quien se encuentra en el depósito de cadáveres de un hospital. Ante este hecho, el vampiro volverá a la vida para buscar venganza."
+      "end_time": "16:00",
+      "episode_description": "Tres matrimonios se verán inmersos en la locura cuando una carta dejada por un hombre muerto amigo suyo informe que ha estado con las tres mujeres."
     },
     {
-      "show_name": "Santo contra hombres infernales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/santo-contra-hombres-infernales.webp",
-      "show_category": "Acción / 1961 /4.8",
-      "start_time": "15:30",
-      "end_time": "17:00",
-      "episode_description": "Joaquín se ha infiltrado dentro de una banda de contrabandistas. Cuando los villanos conocen la verdad acerca de él, secuestran a su prometida. Santo va al rescate y pelea contra los delincuentes para salvar al indefenso."
+      "show_name": "Tu hijo debe nacer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tu-hijo-debe-nacer-1958_l_m.jpg",
+      "show_category": "Drama / 1958 /6.1",
+      "start_time": "16:00",
+      "end_time": "17:45",
+      "episode_description": "La vida del tercer hijo recién nacido de una familia corre peligro. Los padres del bebé harán lo posible para que sobreviva y pueda convivir con ellos. Deberán tomar muchas decisiones decisivas y que pueden cambiar el rumbo de sus vidas."
     },
     {
-      "show_name": "Pueblo quieto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/pueblo-quieto.webp",
-      "show_category": "Drama / 1954",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "episode_description": "En un pueblo tranquilo, una mujer viuda intentará unir a su joven hija con el primogénito de un hombre que también ha padecido la muerte de su pareja. A pesar de la química entre los jóvenes, otro muchacho peleará por el amor de la chica."
+      "show_name": "Músico, poeta y loco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 1948",
+      "start_time": "17:45",
+      "end_time": "19:45",
+      "episode_description": "Dos hombres perseguidos se refugian en un internado de señoritas. Allí, son confundidos con un par de médicos, por lo que deberán hacerse cargo de la salud de las internas, a pesar de no tener ningún tipo de conocimiento sobre medicina."
     },
     {
-      "show_name": "Sucedió en Jalisco",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/sucedió-en-jalisco.webp",
-      "show_category": "Drama / 1970",
-      "start_time": "18:30",
-      "end_time": "20:30",
-      "episode_description": "En 1915, el médico Roberto va a la hacienda de una tía enferma. Ella vive con su sobrina Jovita pues su hijo Cornelio está en otro rancho, pero también llega a verla la joven Gabriela y su caporal Carimarcado Basilio."
+      "show_name": "Caballo prieto azabache",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_caballo-prieto-azabache-1968_l_m.jpg",
+      "show_category": "Aventura / 1968 /5.8",
+      "start_time": "19:45",
+      "end_time": "21:30",
+      "episode_description": "En los albores de la Revolución Mexicana, Jesús es un criador de caballos que le vende los animales a los federales y a los revolucionarios durante el conflicto, mientras su corazón está ocupado en un equino salvaje y una bella cantante."
     },
     {
-      "show_name": "Ay Chihuahua no te rajes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/ay-chihuahua-no-te-rajes.webp",
-      "show_category": "Comedia / 1981",
-      "start_time": "20:30",
-      "end_time": "22:15",
-      "episode_description": "Un ranchero de Chihuahua llega a Jalisco y conoce a Rosenda, quien lo presenta con el ganadero Lauro, con quien comienza a hacer negocios, sin que ninguno se imagine que son padre e hijo."
+      "show_name": "Ahora más noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ahora-mas-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "El noticiero mas exitoso de la ciudad de México, conduce Uriel Estrada."
     },
     {
-      "show_name": "El padrino es mi compadre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/today/el-padrino-es-mi-compadre.webp",
-      "show_category": "Comedia / 1975",
-      "start_time": "22:15",
+      "show_name": "Ni modo, así somos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ni-modo-asi-somos-1981_l_m.jpg",
+      "show_category": "Ni modo así somos",
+      "start_time": "22:30",
       "end_time": "00:00",
-      "episode_description": "Emetereo, un obrero de la construcción humilde, es atropellado por un coche. La conductora es la impresionante y muy borracha Olga. Juntos vivirán una historia de amor y confusión."
+      "episode_description": "Las creencias culturales y los tabúes de la sociedad forman la personalidad de los mexicanos todos los días en un alegre y sexy revolcón."
     }
   ]
 }

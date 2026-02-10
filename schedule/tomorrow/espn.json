@@ -1,10 +1,18 @@
 {
   "channel": "ESPN",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -12,143 +20,127 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "FC Groningen vs. PSV",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 22, Hitachi Capital Mobility Stadium",
+      "show_name": "Italia vs. Escocia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 1, Stadio Olimpico",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+      "episode_description": "Vive los partidos de la 132º edición del Torneo de las Seis Naciones, la competición entre selecciones nacionales de rugby más importante del hemisferio norte."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Al Ittihad (KSA) vs. Al Gharafa (Qat)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Liga de Campeones Élite de la AFC",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "end_time": "11:00",
+      "episode_description": "La Liga de Campeones Élite de la AFC 2025-2026 es la cuadragésima cuarta edición del principal campeonato de fútbol de clubes de Asia organizado por la Confederación Asiática de Fútbol (AFC), y la primera bajo su nueva denominación."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "10:00",
-      "end_time": "10:50",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Fenerbahce vs. Genclerbirligi",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 21, Estadio Sukru Saracoglu",
-      "start_time": "10:50",
+      "show_name": "Goles de la Eredivisie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-eredivisie_l_m.jpg",
+      "show_category": "Goles de la Eredivisie",
+      "start_time": "11:00",
       "end_time": "13:00",
-      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
+      "episode_description": "Los goles del fútbol holandés."
     },
     {
-      "show_name": "Goles de la Carabao Cup",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la Carabao Cup",
+      "show_name": "EFL Highlights",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-efl-highlights_l_m.jpg",
+      "show_category": "EFL Highlights",
       "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Los mejores momentos de la Copa de la Liga de Inglaterra."
+      "episode_description": "Revive los mejores momentos de los partidos de la segunda división de Inglaterra, la English Football League Championship, con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
     },
     {
-      "show_name": "Roma vs. Cagliari",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 24, Stadio Olimpico",
+      "show_name": "Bayern Munich vs. RB Leipzig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Cuartos de final",
       "start_time": "13:30",
-      "end_time": "15:40",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+      "end_time": "15:45",
+      "episode_description": "Vive los partidos de la 83º edición de esta competición anual de la Copa de Alemania."
     },
     {
-      "show_name": "Acción de la NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/acción-de-la-nba.webp",
-      "show_category": "Acción de la NBA",
-      "start_time": "15:40",
+      "show_name": "The Imposible Shot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "The Imposible Shot",
+      "start_time": "15:45",
       "end_time": "16:00",
-      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
+      "episode_description": ""
     },
     {
-      "show_name": "Sassuolo vs. Inter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 24, Mapei Stadium",
+      "show_name": "Liga MX Femenil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Liga MX Femenil",
       "start_time": "16:00",
       "end_time": "18:00",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
     },
     {
-      "show_name": "NFL Live",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/nfl-live.webp",
-      "show_category": "NFL Live",
+      "show_name": "Alianza Lima (Per) vs. 2 de Mayo (Par)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación, Estadio Alejandro Villanueva",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Disfrute de lo mejor de la National Football League."
-    },
-    {
-      "show_name": "Seattle Seahawks vs. New England Patriots",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Super Bowl, Levi's Stadium",
-      "start_time": "19:00",
-      "end_time": "21:00",
-      "episode_description": "Vive el Super Bowl LX, la final de campeonato de NFL, correspondiente a la temporada 2025-2026, que se lleva a cabo el 8 de febrero de 2026 en el Levi's Stadium, en Santa Clara, California."
+      "end_time": "20:30",
+      "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "21:00",
+      "start_time": "20:30",
       "end_time": "22:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "23:00",
       "end_time": "",
