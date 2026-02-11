@@ -1,134 +1,142 @@
 {
   "channel": "Star Channel",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
+      "show_name": "Doom: aniquilación",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_doom-aniquilacion-2019-1_l_m.jpg",
+      "show_category": "Doom: Annihilation",
+      "start_time": "00:51",
+      "end_time": "02:40",
+      "episode_description": "Sigue a un grupo de marines espaciales que responden a una llamada de socorro desde una luna de Marte. Cuando llegan allí, descubren que criaturas demoníacas han tomado el control de la zona y amenazan con llevar el Infierno a la Tierra."
+    },
+    {
       "show_name": "La entrega",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/la-entrega.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-entrega-2014_l_m.jpg",
       "show_category": "The Drop",
-      "start_time": "01:12",
-      "end_time": "03:08",
+      "start_time": "02:40",
+      "end_time": "04:25",
       "episode_description": "En Brooklyn, un camarero rescata a un cachorro de un cubo de basura. Sus problemas empiezan cuando aparece el dueño del animal, un hombre con problemas mentales involucrado en una conspiración que se planea en el bar en el que trabaja."
     },
     {
-      "show_name": "La favorita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/la-favorita.webp",
-      "show_category": "The Favourite",
-      "start_time": "03:08",
-      "end_time": "05:08",
-      "episode_description": "Inglaterra está en guerra contra Francia. La debilitada reina ocupa el trono, pero es su amiga Lady Sarah quien gobierna en la práctica. La aparente armonía del palacio se verá interrumpida con la llegada de Abigail, una nueva sirvienta."
-    },
-    {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 19 - My Finale - Part 2",
-      "start_time": "05:08",
-      "end_time": "05:33",
-      "episode_description": "J.D. continúa su último día en el Sagrado Corazón, y aún mantiene la esperanza de una gran despedida."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 9 Episodio 1 - Our First Day of School",
-      "start_time": "05:33",
-      "end_time": "05:33",
-      "episode_description": "Los médicos se reúnen para enseñar medicina a un nuevo grupo de estudiantes. Sin embargo, J.D. no está seguro después de su primer día de si puede marcar una diferencia y conectarse con alguno de sus estudiantes."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 9 Episodio 1 - Our First Day of School",
-      "start_time": "05:33",
-      "end_time": "07:00",
-      "episode_description": "Los médicos se reúnen para enseñar medicina a un nuevo grupo de estudiantes. Sin embargo, J.D. no está seguro después de su primer día de si puede marcar una diferencia y conectarse con alguno de sus estudiantes."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 9 Episodio 2 - Our Drunk Friend",
-      "start_time": "07:00",
-      "end_time": "07:48",
+      "start_time": "04:25",
+      "end_time": "04:50",
       "episode_description": "Lucy ignora el consejo del Dr. Cox de no involucrarse emocionalmente con sus pacientes y aprende la lección a las malas."
     },
     {
-      "show_name": "Miamor perdido",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/miamor-perdido.webp",
-      "show_category": "Comedia / 2018",
-      "start_time": "07:48",
-      "end_time": "09:47",
-      "episode_description": "Mario y Olivia se conocen y se enamoran instantáneamente. Sin embargo, con el tiempo, se separan. En medio del dolor, el gato de ambos escapa y con él desaparece el amor."
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 3 - Our Role Models",
+      "start_time": "04:50",
+      "end_time": "04:48",
+      "episode_description": "Cuando Drew decepciona al Dr. Cox, se ve obligado a recurrir a JD en busca de ayuda."
     },
     {
-      "show_name": "La joya de la familia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/la-joya-de-la-familia.webp",
-      "show_category": "The Family Stone",
-      "start_time": "09:47",
-      "end_time": "11:51",
-      "episode_description": "La familia Stone se reúne para disfrutar de sus vacaciones. Esta vez, el hijo mayor trae consigo a su novia. Antes de que terminen las vacaciones, los Stone habrán descubierto algunos secretos que podrían romper la unión familiar."
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 3 - Our Role Models",
+      "start_time": "04:48",
+      "end_time": "07:00",
+      "episode_description": "Cuando Drew decepciona al Dr. Cox, se ve obligado a recurrir a JD en busca de ayuda."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 3 - Our Role Models",
+      "start_time": "07:00",
+      "end_time": "07:28",
+      "episode_description": "Cuando Drew decepciona al Dr. Cox, se ve obligado a recurrir a JD en busca de ayuda."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 4 - Our Histories",
+      "start_time": "07:28",
+      "end_time": "07:54",
+      "episode_description": "J. D. y Turk aparecen disfrazados en la fiesta de unos estudiantes de medicina. Mientras tanto, Kelso se despide con cariño de Ted y Gooch."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 9 - Our Stuff Gets Real",
+      "start_time": "07:54",
+      "end_time": "08:55",
+      "episode_description": "La vida sexual de J.D. y Elliot desaparece a medida que se acercan al nacimiento de su hijo, el Dr. Cox se niega a firmar su testamento después de que muere un paciente y Lucy tiene miedo de cortar un cadáver familiar para un examen grupal."
     },
     {
       "show_name": "Un buen año",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/un-buen-año.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-buen-ano-2006_l_m.jpg",
       "show_category": "A Good Year",
-      "start_time": "11:51",
-      "end_time": "14:07",
+      "start_time": "08:55",
+      "end_time": "11:11",
       "episode_description": "Max se entera de que su tío ha muerto, por lo que viaja a Francia para vender una mansión y un viñedo que heredó de él. Pero sus planes se frustran cuando una joven se presenta como la hija ilegítima del hombre y reclama la propiedad."
     },
     {
-      "show_name": "Hitman: Agente 47",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/hitman-agente-47.webp",
-      "show_category": "Hitman: Agent 47",
-      "start_time": "14:07",
-      "end_time": "16:03",
-      "episode_description": "Un asesino de élite ha sido genéticamente alterado para convertirse en una perfecta máquina de matar. Su objetivo es acabar con una gran corporación que planea develar los secretos de su organización secreta."
+      "show_name": "Loco corazón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_loco-corazon-2009_l_m.jpg",
+      "show_category": "Crazy Heart",
+      "start_time": "11:11",
+      "end_time": "13:26",
+      "episode_description": "Un cantante country ha tenido demasiados matrimonios, demasiados años viajando, y demasiadas noches de alcohol. Pero aún así intentará encontrar la salvación con la ayuda de una periodista, quien descubre al hombre detrás del músico."
     },
     {
-      "show_name": "Jojo Rabbit",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/jojo-rabbit.webp",
-      "show_category": "Comedia / 2019 /7.9",
-      "start_time": "16:03",
-      "end_time": "18:07",
-      "episode_description": "Jojo \"Rabbit\" Betzler es un solitario niño alemán que forma parte de la Juventud Hitleriana y que tiene un amigo imaginario llamado Adolf. Cuando descubre que su madre esconde a una joven judía en su casa, su mundo queda patas para arriba."
+      "show_name": "Willow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Aventura / 1988 /7.2",
+      "start_time": "13:26",
+      "end_time": "16:01",
+      "episode_description": "La reina Bavmorda extiende el mal por su reino. Pero su liderazgo se ve amenazado, ya que una profecía anuncia la llegada de una princesa."
     },
     {
-      "show_name": "Kingsman: El círculo dorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/kingsman-el-círculo-dorado.webp",
-      "show_category": "Kingsman: The Golden Circle",
-      "start_time": "18:07",
+      "show_name": "El quinto poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-quinto-poder-2013_l_m.jpg",
+      "show_category": "The Fifth Estate",
+      "start_time": "16:01",
+      "end_time": "18:33",
+      "episode_description": "Cuando Assange y Berg descubren documentos confidenciales que afectan al gobierno de Estados Unidos, se enfrentarán a una gran cuestión: ¿cuál es el costo de guardar secretos en una sociedad libre y cuál es el costo de revelarlos?"
+    },
+    {
+      "show_name": "La batalla de los sexos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-batalla-de-los-sexos-2017_l_m.jpg",
+      "show_category": "Battle of the Sexes",
+      "start_time": "18:33",
       "end_time": "20:56",
-      "episode_description": "Después de que la base de operaciones de los Kingsman explote por los aires, Gary Inwin deberá viajar a Estados Unidos para unirse a la agencia secreta de élite Statesman, para acabar con una villana que amenaza con destruir el mundo."
+      "episode_description": "El partido de tenis de 1973 entre la campeona mundial femenina Billie Jean King y el ex campeón masculino y buscavidas serial Bobby Riggs se convirtió en uno de los eventos deportivos televisados más vistos de todos los tiempos."
     },
     {
       "show_name": "Los Simpson",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/los-simpson.webp",
-      "show_category": "Temporada 6 Episodio 21 - Lucha educativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s06e23-the-springfield-connection_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 23 - Contacto en Springfield",
       "start_time": "20:56",
       "end_time": "21:27",
-      "episode_description": "Bart hace todo lo posible para enfrentar a los maestros de la Escuela Primaria de Springfield con el Director Skinner y logra que los mismos llamen a una huelga."
+      "episode_description": "Luego de ayudar a detener a un ladrón, Marge se siente confiada y decide enrolarse en la Academia de Policía de Springfield."
     },
     {
       "show_name": "Los Simpson",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/los-simpson.webp",
-      "show_category": "Temporada 6 Episodio 22 - Por la ciudad de Springfield",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s06e24-lemon-of-troy_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 24 - El limón de Troya",
       "start_time": "21:27",
       "end_time": "22:00",
-      "episode_description": "Cuando Bart es hospitalizado, Lisa se encuentra con su ídolo, Encías Sangrantes Murphy, quien también es un paciente, pero poco después él muere y ella está devastada."
+      "episode_description": "El robo de uno de los símbolos de Springfield, el limonero, por parte de unos niños de la ciudad rival de Shelbyville, provoca una invasión organizada por Bart y sus amigos con el fin de recuperar el preciado árbol."
     },
     {
       "show_name": "American Horror Stories",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 7 - Necro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Aura",
       "start_time": "22:00",
-      "end_time": "22:55",
-      "episode_description": "Un joven funerario descubre que los vivos son más aterradores que los muertos."
+      "end_time": "22:56",
+      "episode_description": "Después de mudarse a un nuevo hogar, una pareja casada es aterrorizada por un visitante críptico."
     },
     {
-      "show_name": "Grimcutty: Asesino implacable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Grimcutty",
-      "start_time": "22:55",
+      "show_name": "Viejos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Old",
+      "start_time": "22:56",
       "end_time": "",
-      "episode_description": "Una adolescente y su hermano pequeño deben detener a un aterrador meme de Internet que cobra vida en Grimcutty, la bestia, una criatura alta y encorvada que hace que las personas se lastimen a sí mismas y a los demás."
+      "episode_description": "Durante unas vacaciones en un paraíso tropical, una familia empieza a percibir que en la recóndita playa elegida para relajarse unas horas suceden algunas anomalías temporales."
     }
   ]
 }

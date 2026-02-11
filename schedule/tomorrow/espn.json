@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Italia vs. Escocia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 1, Stadio Olimpico",
+      "show_name": "Arkadag (Tkm) vs. Al Nassr (KSA)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Vive los partidos de la 132º edición del Torneo de las Seis Naciones, la competición entre selecciones nacionales de rugby más importante del hemisferio norte."
+      "episode_description": "Disfruta la segunda edición de la segunda competición de clubes masculinos de fútbol de la Confederación Asiática de Fútbol. El torneo contará con 32 equipos."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -60,91 +60,75 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Al Ittihad (KSA) vs. Al Gharafa (Qat)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Liga de Campeones Élite de la AFC",
+      "show_name": "Alianza Lima (Per) vs. 2 de Mayo (Par)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación, Estadio Alejandro Villanueva",
       "start_time": "09:00",
       "end_time": "11:00",
-      "episode_description": "La Liga de Campeones Élite de la AFC 2025-2026 es la cuadragésima cuarta edición del principal campeonato de fútbol de clubes de Asia organizado por la Confederación Asiática de Fútbol (AFC), y la primera bajo su nueva denominación."
+      "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
-      "show_name": "Goles de la Eredivisie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/goles-de-la-eredivisie.webp",
-      "show_category": "Goles de la Eredivisie",
+      "show_name": "Capitanes de Ciudad de México vs. Stockton Kings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-capitanes-de-ciudad-de-mexico-vs-stockton-kings-stockton-arena-stockton-ca-usa-1_l_m.jpg",
+      "show_category": "Stockton Arena, Stockton, CA, USA",
       "start_time": "11:00",
       "end_time": "13:00",
-      "episode_description": "Los goles del fútbol holandés."
+      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
     },
     {
-      "show_name": "EFL Highlights",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/efl-highlights.webp",
-      "show_category": "EFL Highlights",
+      "show_name": "PGA Tour Highlights - WM Phoenix Open",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "PGA Tour Highlights - WM Phoenix Open",
       "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Revive los mejores momentos de los partidos de la segunda división de Inglaterra, la English Football League Championship, con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
-    },
-    {
-      "show_name": "Bayern Munich vs. RB Leipzig",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cuartos de final",
-      "start_time": "13:30",
-      "end_time": "15:45",
-      "episode_description": "Vive los partidos de la 83º edición de esta competición anual de la Copa de Alemania."
-    },
-    {
-      "show_name": "The Imposible Shot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Imposible Shot",
-      "start_time": "15:45",
-      "end_time": "16:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Liga MX Femenil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Liga MX Femenil",
-      "start_time": "16:00",
+      "show_name": "Primera ronda, Pebble Beach Golf Links, Pebble Beach, CA, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "PGA Tour - AT&T Pebble Beach Pro-Am",
+      "start_time": "14:00",
       "end_time": "18:00",
-      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
+      "episode_description": "Los mejores jugadores del PGA Tour compiten por un premio de 20 millones de dólares en Pebble Beach Golf Links y Spyglass Hill Golf Course."
     },
     {
-      "show_name": "Alianza Lima (Per) vs. 2 de Mayo (Par)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Ronda de clasificación, Estadio Alejandro Villanueva",
+      "show_name": "U. Católica (Ecu) vs. Juventud (Uru)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación, Estadio Olímpico Atahualpa",
       "start_time": "18:00",
       "end_time": "20:30",
       "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "20:30",
       "end_time": "22:00",
       "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "episode_description": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN."
     }
   ]
 }

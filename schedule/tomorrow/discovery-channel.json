@@ -1,230 +1,214 @@
 {
   "channel": "Discovery Channel",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
-      "show_name": "El club de autos de Kevin Hart",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 4 - NASCAR y la necesidad de velocidad",
-      "start_time": "00:15",
+      "show_name": "Monstruos de río: aguas desconocidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_monstruos-de-rio-aguas-desconocidas-s01e06-barramundi_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Pico",
+      "start_time": "00:19",
       "end_time": "01:09",
-      "episode_description": "Los chicos viajan a Charlotte, Carolina del Norte, en busca de pistas, autos y buenos momentos. En el Salón de la Fama de la NASCAR, se reúnen con Rajah Caruth, seguido de una visita sorpresa al Charlotte Motor Speedway."
+      "episode_description": "Jeremy Wade, viaja a los lagos de Irlanda para intentar cazar un monstruo prehistórico: el Lucio gigante. ¿Podrá encontrarlo?"
     },
     {
       "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
-      "show_category": "Temporada 8 Episodio 3 - De F150 a Limo Carroza Raptor",
-      "start_time": "01:09",
-      "end_time": "01:58",
-      "episode_description": "Rafael y Karina, los dueños de una empresa funeraria de Morelia, llegan buscando llevar a su negocio a un nivel superior. Quieren tener una carroza que no existe en el mercado, algo novedoso para ofrecer a sus clientes más especiales."
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
-      "show_category": "Temporada 8 Episodio 4 - Chevrolet Colorado OLX - Sultantes de Monterrey",
-      "start_time": "01:58",
-      "end_time": "02:46",
-      "episode_description": "Para celebrar el patrocinio a los Sultanes de Monterrey, el equipo de béisbol más importante del país, se sortea un auto entre sus fanáticos."
-    },
-    {
-      "show_name": "Mexicánicos: Estado de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Coe 1942 Angélica y Luis Almaraz + Cheyenne 2022 Effi le regalo Fer + Desafío billar",
-      "start_time": "02:46",
-      "end_time": "03:35",
-      "episode_description": "Sin consultarle a Fernanda, Effi acepta que una pareja que no se ponen de acuerdo en casi nada le dejen un nuevo trabajo: un camión Ford Coe 1942 que quieren tener listo en cuatro meses."
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
-      "show_category": "Temporada 11 Episodio 4 - Diablito Mauricio Barrientos & Charger RT",
-      "start_time": "03:35",
-      "end_time": "04:24",
-      "episode_description": "Martín busca y restaura un rarísimo Smart RoadMaster 2004 para Mauricio Barrientos El Diablito. Además, enfrenta el reto de devolverle la vida a un Dodge Charger RT 1968 para tres socios que no logran ponerse de acuerdo."
-    },
-    {
-      "show_name": "Joyas sobre ruedas: por el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 1 - México: Baja Bug",
-      "start_time": "04:24",
-      "end_time": "05:12",
-      "episode_description": "Los chicos tienen la mira puesta en México, donde Elvis, fanático de los Beetle, quiere construir un Baja Bug. Pero con solo cinco días para completar la construcción y los costos acumulándose, Mike teme que Elvis se esté dejando llevar."
-    },
-    {
-      "show_name": "Te debo una: celebridades y autos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/te-debo-una-celebridades-y-autos.webp",
-      "show_category": "Temporada 1 Episodio 5 - Matisse",
-      "start_time": "05:12",
-      "end_time": "06:00",
-      "episode_description": "Pablo, Román y Melissa Robles, de Matisse, llegan al taller con una idea especial: agradecer a Mariangie Silveyra, la terapeuta de la hija de Pablo. Matisse dona a la asociación de Mariangie una camioneta Town & Country 2012."
-    },
-    {
-      "show_name": "Pequeños gigantes de la naturaleza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/pequeños-gigantes-de-la-naturaleza.webp",
-      "show_category": "Temporada 1 Episodio 18 - Superhéroe de la succión",
-      "start_time": "06:00",
-      "end_time": "06:25",
-      "episode_description": "El equipo recorre un bosque pluvial de Tailandia para encontrar al increíble gecko tokay. Las pruebas revelan que la mordedura de este gecko y su velocidad son increíbles y que sus habilidades de adhesión desafían la lógica y la gravedad."
-    },
-    {
-      "show_name": "Hombres del Ártico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/hombres-del-ártico.webp",
-      "show_category": "Temporada 3 Episodio 2 - Ajuste de cuentas",
-      "start_time": "06:25",
-      "end_time": "07:13",
-      "episode_description": "Un doble asesinato conmociona a la ciudad de Tanana, en Alaska. Pat debe tomar una decisión difícil mientras Joey fabrica una balsa para trasladar un camión de tres toneladas por el río."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/operación-alaska.webp",
-      "show_category": "Temporada 8 Episodio 4 - Preparados para la lluvia",
-      "start_time": "07:13",
-      "end_time": "07:58",
-      "episode_description": "El equipo de Chappie tiene dificultades para colocar vigas de 300 kilos en el techo de la cabaña. Luego, Chris trabaja para secar su cabaña y Jeff instala las ventanas."
-    },
-    {
-      "show_name": "Fiebre del oro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/fiebre-del-oro.webp",
-      "show_category": "Temporada 11 Episodio 3 - Rápidos y furiosos",
-      "start_time": "07:58",
-      "end_time": "08:47",
-      "episode_description": "La nueva estrategia de Parker de crear un fondo de reserva crea un desafío de ingeniería que enfurece a sus capataces. Además, Rick encuentra oro por primera vez en la temporada y Fred pide refuerzos."
-    },
-    {
-      "show_name": "Shark Week: buscando al tiburón perdido",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1",
-      "start_time": "08:47",
-      "end_time": "09:36",
-      "episode_description": "El experto en tiburones Matt Dicken y la leyenda Dickie Chivell se embarcan en una búsqueda para localizar al colosal tiburón llamado Dutchess, que desapareció de Gansbaai, Sudáfrica, hace años."
-    },
-    {
-      "show_name": "A prueba de todo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/a-prueba-de-todo.webp",
-      "show_category": "Temporada 5 Episodio 8 - Lo mejor II",
-      "start_time": "09:36",
-      "end_time": "10:26",
-      "episode_description": "Ya sea haciendo paracaidismo, trepando acantilados o cruzando aguas infestadas de tiburones, Bear siempre cuenta con un equipo de cámaras que lo siguen. Él presenta al equipo y muestra su labor en los sitios más hostiles."
-    },
-    {
-      "show_name": "Desolado con Ed Stafford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/desolado-con-ed-stafford.webp",
-      "show_category": "Temporada 1 Episodio 5 - Venezuela",
-      "start_time": "10:26",
-      "end_time": "11:16",
-      "episode_description": "Ed es abandonado en la Gran Sabana venezolana, sin comida ni agua, ni siquiera un cuchillo. Así deberá sobrevivir 10 días. ¿Cómo logrará hacerlo?"
-    },
-    {
-      "show_name": "Norteamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/norteamérica.webp",
-      "show_category": "Temporada 1 Episodio 3 - Lección de vida",
-      "start_time": "11:16",
-      "end_time": "12:06",
-      "episode_description": "Desde osos pardos hasta cabras de grandes cuernos, desde osos que bucean hasta coyotes astutos, sea testigo de las maravillas que ofrecen las montañas y los bosques de Norteamérica."
-    },
-    {
-      "show_name": "The Hunt",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - El mayor desafío",
-      "start_time": "12:06",
-      "end_time": "13:02",
-      "episode_description": "Se revelan las técnicas que usan los depredadores para atrapar a sus presas. Un leopardo asecha un impala a plena luz del día, y un lobo persigue a su presa una larga distancia."
-    },
-    {
-      "show_name": "Survival Mode",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Incendios forestales en Maui",
-      "start_time": "13:02",
-      "end_time": "13:53",
-      "episode_description": "Un nativo de Lahaina lucha por salvar a una familia que no sabe nadar, un matrimonio lucha por salvarse a sí mismos y a sus cinco perros, y una pareja se apodera de un bote y se apresura a salvar a todos los que puede del horrible infierno."
-    },
-    {
-      "show_name": "En medio del desastre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 1 - Desastre en Texas",
-      "start_time": "13:53",
-      "end_time": "14:41",
-      "episode_description": "En la primavera de 2024, un enorme sistema meteorológico desencadena tornados mortales y una tormenta de 1448 km en Texas. Los autos son volcados y los edificios colapsan."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: edición extrema",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo-edición-extrema.webp",
-      "show_category": "Temporada 8 Episodio 7 - Cuidado con lo que deseas",
-      "start_time": "14:41",
-      "end_time": "16:24",
-      "episode_description": "Sin Amber, Trish y Jen deben valerse por sí mismas. Amber une fuerzas con Steven y EJ. La lucha por pescar algo para alimentarse se torna eterna. Después de una gran victoria, Dan y Waz toman una decisión de alto riesgo."
-    },
-    {
-      "show_name": "Siete mundos, un planeta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/siete-mundos-un-planeta.webp",
-      "show_category": "Temporada 1 Episodio 2 - Asia",
-      "start_time": "16:24",
-      "end_time": "17:22",
-      "episode_description": "Asia, el continente más variado y extremo, que se extiende desde el Círculo Polar Ártico al ecuador. Un gran cantidad de morsas se reúne en el norte helado y los osos pardos recorren los volcanes rusos."
-    },
-    {
-      "show_name": "Legado salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Selvas",
-      "start_time": "17:22",
-      "end_time": "18:14",
-      "episode_description": "Criar a los cachorros en el complejo mundo de la selva requiere ingenio, y los padres deben convertirse en dueños de su entorno, aprendiendo a aprovechar cada oportunidad mediante la determinación y el trabajo en equipo."
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s04e07-calandria-lotus_l_m.jpg",
       "show_category": "Temporada 4 Episodio 7 - Calandria + Lotus",
-      "start_time": "18:14",
-      "end_time": "19:06",
+      "start_time": "01:09",
+      "end_time": "01:57",
       "episode_description": "El Presidente Municipal de Guadalajara y la directora de Gestión Integral de los Derechos de los Animales se acercan al taller para ver qué tan cierto es el lema de Martín de que \"a todo lo que tiene ruedas, se le puede poner un motor\"."
     },
     {
       "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s04e08-hermanas-ford-belair_l_m.jpg",
       "show_category": "Temporada 4 Episodio 8 - Hermanas Ford + Belair",
-      "start_time": "19:06",
-      "end_time": "19:58",
+      "start_time": "01:57",
+      "end_time": "02:45",
       "episode_description": "Dos hermanas llegan al taller desde Puerto Vallarta con las partes de una camioneta Ford de 1949 para que Martín las convierta en un auto nuevo que las chicas regalarán a su padre."
     },
     {
       "show_name": "Norteamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/norteamérica.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_norteamerica-s01e04-costas-indomables_l_m.jpg",
       "show_category": "Temporada 1 Episodio 4 - Costas indomables",
-      "start_time": "19:58",
-      "end_time": "20:50",
+      "start_time": "02:45",
+      "end_time": "03:33",
       "episode_description": "Las costas son la última frontera de EE. UU., donde la civilización se encuentra con la naturaleza indomable."
     },
     {
       "show_name": "Legado salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 4 - Agua dulce",
-      "start_time": "20:50",
-      "end_time": "21:42",
+      "start_time": "03:33",
+      "end_time": "04:21",
       "episode_description": "El agua es esencial para toda la vida en la Tierra, pero su exceso o su escasez pueden ser desastrosos. Los padres deben saber gestionar el tiempo para superar el cambio constante del agua dulce y criar con éxito a la siguiente generación."
     },
     {
       "show_name": "Planeta azul II",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/planeta-azul-ii.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_planeta-azul-ii-s01e04-azul-profundo_l_m.jpg",
       "show_category": "Temporada 1 Episodio 4 - Azul profundo",
-      "start_time": "21:42",
-      "end_time": "22:40",
+      "start_time": "04:21",
+      "end_time": "05:15",
       "episode_description": "El océano abierto es como un gran desierto marítimo. Para sobrevivir, los animales llegan al extremo con características épicas de resistencia e inteligencia."
     },
     {
-      "show_name": "Survival Mode",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - El tornado de Joplin",
-      "start_time": "22:40",
-      "end_time": "23:31",
-      "episode_description": "En mayo de 2011, el tornado más mortífero de Estados Unidos en más de 60 años arrasó repentinamente Joplin, Misuri, causando la muerte de 158 personas y destruyendo más de 4000 edificios, incluidos dos importantes hospitales."
+      "show_name": "En medio del desastre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 3 - La bestia de Mayfield",
+      "start_time": "05:15",
+      "end_time": "06:00",
+      "episode_description": "Una rara supercelda invernal azota Kentucky y las cámaras capturan el desastre. Un tornado EF-4 devasta Mayfield y arrasa con el ayuntamiento, la comisaría y la cárcel."
     },
     {
-      "show_name": "En medio del desastre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 3 - La bestia de Mayfield",
-      "start_time": "23:31",
+      "show_name": "Pequeños gigantes de la naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e19-mantis-flor-del-diablo_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 19 - Mantis flor del diablo",
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": "En las profundidades de la selva de Mozambique, el equipo encuentra una mantis flor del diablo. Sus patas en forma de daga, su boca y sus reflejos luminosos demuestran que puede ser muy peligrosa."
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-del-artico-s03e03-el-dia-mas-largo_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 3 - El día más largo",
+      "start_time": "06:25",
+      "end_time": "07:13",
+      "episode_description": "Joey traslada un camión enorme sobre una balsa precaria de troncos por el traicionero río Yukón. Charlie y James salen a cazar alces para conseguir comida para una ceremonia tradicional."
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s08e05-cambio-de-planes_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 5 - Cambio de planes",
+      "start_time": "07:13",
+      "end_time": "07:57",
+      "episode_description": "Jeff tiene problemas con la entrada de su casa. El equipo de Chappie encuentra un error importante al construir el aislamiento exterior y Chris se queda sin materiales de construcción."
+    },
+    {
+      "show_name": "Tras la pista del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tras-la-pista-del-oro-s03e02-desprendimiento-fatal_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 2 - Profundidades peligrosas",
+      "start_time": "07:57",
+      "end_time": "08:47",
+      "episode_description": "Una caminata en la selva lleva a Park y su equipo a unos túneles abandonados. Un encuentro con un equipo de locales que usan el machete pone a prueba la preparación del equipo para las condiciones peligrosas de la región."
+    },
+    {
+      "show_name": "Batallas en lo profundo: tiburón vs. serpientes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "08:47",
+      "end_time": "09:37",
+      "episode_description": "Los tiburones tigre aparecen muertos en las playas de Australia Occidental sin signos de ataque. Forrest Galante cree que las mortíferas serpientes marinas convierten a estos depredadores en presas."
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s05e09-escocia-cabo-wrath_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 9 - Escocia: Cabo Wrath",
+      "start_time": "09:37",
+      "end_time": "10:27",
+      "episode_description": "Bear está en Escocia, en el Cabo de Wrath. Bear improvisa un traje de buzo con la piel de una foca muerta y se lanza al frío mar. Tiene un encuentro cercano con una peligrosa roca antes de acampar en un vieja barca abandonada."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s01e06-tailandia_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Tailandia",
+      "start_time": "10:27",
+      "end_time": "11:17",
+      "episode_description": "Ed Stafford es abandonado durante diez días en una zona montañosa del Triángulo de Oro."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: a solas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-a-solas-s01e02-en-llamas-y-confundido_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Gary de la jungla",
+      "start_time": "11:17",
+      "end_time": "12:07",
+      "episode_description": "Gary Golding es un especialista en supervivencia y tiene la pasión de consumir lo menos posible. Ahora, irá solo a las selvas de Belice. ¿Logrará sobrevivir veintiún días solo?"
+    },
+    {
+      "show_name": "Supervivencia al desnudo: España",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - La selva te rompe",
+      "start_time": "12:07",
+      "end_time": "12:59",
+      "episode_description": "Primeros días del desafío y algunos participantes no han acabado su refugio, conseguido comida o hecho fuego. Entonces, comienzan los roces entre las parejas, junto a el hambre, la sed y los peligros de la selva empiezan a hacer mella."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: Apocalípsis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Gran tormenta",
+      "start_time": "12:59",
+      "end_time": "14:41",
+      "episode_description": "Una tormenta implacable asola la tierra devastada, durante tres días seguidos. Los supervivientes buscan materiales para armar un techo y canaletas para contener la creciente inundación."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: edición extrema",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-edicion-extrema-s07e14-nos-dejaste-pudrir_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 14 - Nos dejaste pudrir",
+      "start_time": "14:41",
+      "end_time": "16:24",
+      "episode_description": "Jen empuja a Trish a cazar en nuevos territorios. Dan, Waz y Matt acorralan a un depredador del Amazonas. Cuando los caminos de Trish y Amber se vuelven a cruzar, las tensiones reaparecen."
+    },
+    {
+      "show_name": "Siete mundos, un planeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_siete-mundos-un-planeta-s01e03-america-del-sur_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - América del Sur",
+      "start_time": "16:24",
+      "end_time": "17:22",
+      "episode_description": "América del Sur, el territorio en el que se pueden encontrar más especies. Desde los volcanes de los Andes hasta la selva tropical más grande del mundo, el Amazonas, los animales deben luchar."
+    },
+    {
+      "show_name": "Norteamérica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_norteamerica-s01e01-vida-salvaje_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Vida salvaje",
+      "start_time": "17:22",
+      "end_time": "18:14",
+      "episode_description": "Viaje a través de los lugares más salvajes de Norteamérica y conozca su increíble variedad de vida silvestre. Lobos y ballenas, leones y osos, caballos salvajes y cabras de montaña habitan este magnífico paisaje."
+    },
+    {
+      "show_name": "Mexicánicos celebridades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Omar Chaparro, una vida en dos ruedas y Chevy 53, un beso de enamorados",
+      "start_time": "18:14",
+      "end_time": "19:06",
+      "episode_description": "Martín viaja a Los Ángeles, EE.UU., y visita la casa de Omar Chaparro. El comediante es un apasionado del mundo de las dos ruedas. Juntos planean remodelar la moto que Omar siempre soñó."
+    },
+    {
+      "show_name": "Lo mejor de Mexicánicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-mexicanicos-s02e03-angel-reyna-y-mini-moke_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Ángel Reyna y Mini Moke",
+      "start_time": "19:06",
+      "end_time": "19:58",
+      "episode_description": "Ángel Reyna, uno de los jugadores símbolo del Chivas de Guadalajara, llega al taller de Martín con un proyecto tan excéntrico como su personalidad: quiere renovar una camioneta Suburban de modo que sea única y llame la atención."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: a solas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-a-solas-s01e03-cazado-y-perseguido_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Cazado y perseguido",
+      "start_time": "19:58",
+      "end_time": "20:50",
+      "episode_description": "Lacey Jones vuelve a África y está decidida a mostrar que tiene lo necesario para sobrevivir sola. Inmediatamente rodeada de leones y hienas, ella se encuentra aislada, vulnerable y privada de sueño mientras se adentra en la selva."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: España",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - El último hombre en pie",
+      "start_time": "20:50",
+      "end_time": "21:43",
+      "episode_description": "La selva se ha cobrado su primera víctima y amenaza con llevarse a más por delante. Ahora, a los depredadores y el hambre, se une la llegada de tormentas y el riesgo de hipotermia."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: Apocalípsis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Cayendo como zombis",
+      "start_time": "21:43",
+      "end_time": "23:26",
+      "episode_description": "Wes y Stee buscan materiales para enfrentarse a su cocodrilo. Los leones acechan a Waz y Teal. Un superviviente consigue la primera presa del desafío. Un elefante rebelde ataca a Joe. El páramo obliga a dos más a retirarse."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s18e06-la-bella-y-el-soltero_l_m.jpg",
+      "show_category": "Temporada 18 Episodio 6 - La bella y el soltero",
+      "start_time": "23:26",
       "end_time": "",
-      "episode_description": "Una rara supercelda invernal azota Kentucky y las cámaras capturan el desastre. Un tornado EF-4 devasta Mayfield y arrasa con el ayuntamiento, la comisaría y la cárcel."
+      "episode_description": "Un soltero y una divorciada intentan sobrevivir a un desafío de fans de 14 días plagado de calor implacable, ciempiés venenosos y enjambres de abejas en una isla remota de Filipinas. Pero su mayor batalla será entre ellos."
     }
   ]
 }
