@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "No foco",
+      "show_name": "Estado do mar mañá",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,6 +15,54 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bibopalula",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:07",
+      "end_time": "00:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bibopalula",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:13",
+      "end_time": "00:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Timmy y sus amigos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:20",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El hombre más chiquito del mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "00:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chien Pourri",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:32",
+      "end_time": "00:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "As Aventuras De Ladybug E Cat Noir",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:44",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -23,6 +71,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "01:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
+      "start_time": "01:06",
+      "end_time": "01:18",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
+    },
+    {
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
+      "start_time": "01:18",
+      "end_time": "01:30",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
+    },
+    {
+      "show_name": "Galicia por Diante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grandes lugares",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:28",
       "end_time": "03:45",
       "episode_description": ""
     },
@@ -31,11 +119,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:45",
-      "end_time": "03:55",
+      "end_time": "03:50",
       "episode_description": ""
     },
     {
       "show_name": "O agro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:50",
+      "end_time": "03:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:55",
@@ -43,10 +139,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pulso activo",
+      "show_name": "O agro",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:05",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -55,6 +159,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
+      "end_time": "04:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:39",
+      "end_time": "05:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:33",
+      "end_time": "06:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:45",
       "end_time": "06:50",
       "episode_description": ""
     },
@@ -71,6 +199,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:25",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia Noticias Mañá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
       "end_time": "08:15",
       "episode_description": ""
     },
@@ -87,6 +223,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
+      "end_time": "08:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal mediodía lingua de signos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:35",
       "end_time": "08:39",
       "episode_description": ""
     },
@@ -95,6 +239,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:39",
+      "end_time": "08:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
       "end_time": "09:15",
       "episode_description": ""
     },
@@ -103,6 +255,70 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:15",
+      "end_time": "09:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes Mediodía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:20",
+      "end_time": "09:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:32",
+      "end_time": "09:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:35",
+      "end_time": "09:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:41",
+      "end_time": "10:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Eu Sei + Ca Ti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:17",
+      "end_time": "10:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como galegos!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:52",
+      "end_time": "11:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como galegos!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:52",
+      "end_time": "11:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hora galega",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:58",
       "end_time": "12:30",
       "episode_description": ""
     },
@@ -111,6 +327,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
+      "end_time": "12:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como galegos!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:39",
+      "end_time": "13:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:34",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -127,14 +359,86 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
+      "end_time": "14:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:35",
       "end_time": "14:45",
       "episode_description": ""
     },
     {
-      "show_name": "Quen anda aí?",
+      "show_name": "Land rober",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:45",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estado do mar serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "15:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agua seca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:32",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O amor está en galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O amor está en galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "16:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agua seca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:21",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor na rede",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "17:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Demon Slayer: Kimetsu no Yaiba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
       "end_time": "17:15",
       "episode_description": ""
     },
@@ -143,6 +447,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
+      "end_time": "17:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Demon Slayer: Kimetsu no Yaiba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:33",
+      "end_time": "17:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El paciente inglés",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:40",
+      "end_time": "17:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como galegos!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:50",
+      "end_time": "17:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Demon Slayer: Kimetsu no Yaiba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:56",
       "end_time": "18:05",
       "episode_description": ""
     },
@@ -151,6 +487,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:05",
+      "end_time": "18:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Demon Slayer: Kimetsu no Yaiba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:19",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -159,6 +503,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
+      "end_time": "18:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Demon Slayer: Kimetsu no Yaiba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:42",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
       "end_time": "19:02",
       "episode_description": ""
     },
@@ -167,6 +527,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:02",
+      "end_time": "19:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pensando en Tí",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:06",
       "end_time": "19:15",
       "episode_description": ""
     },
@@ -175,22 +543,94 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "20:15",
       "episode_description": ""
     },
     {
-      "show_name": "Galegos no mundo",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
-      "end_time": "22:11",
+      "end_time": "20:20",
       "episode_description": ""
     },
     {
-      "show_name": "Conexión Galicia",
+      "show_name": "Libro de Familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:11",
+      "start_time": "20:20",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O amor está en galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "21:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor na rede",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:20",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grandes lugares",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estado do mar mañá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:56",
       "end_time": "00:00",
       "episode_description": ""
     }

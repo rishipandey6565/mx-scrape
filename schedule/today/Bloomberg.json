@@ -1,9 +1,9 @@
 {
   "channel": "Bloomberg",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "La silla roja",
+      "show_name": "Entre Dichos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,15 +11,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Factor Fintec",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A Qué No Sabías",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Con Ortega a las 10:00",
+      "show_name": "Al cierre",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -75,18 +83,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Crypto",
+      "show_name": "Bloomberg Deals",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bloomberg markets",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Entre Dichos",
+      "show_name": "Gabinete de seguridad",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

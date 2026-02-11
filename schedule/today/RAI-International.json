@@ -1,6 +1,6 @@
 {
   "channel": "RAI International",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
       "show_name": "TG Rai News",
@@ -39,22 +39,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Camera dei deputati",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Storie italiane",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "02:45",
       "end_time": "04:45",
       "episode_description": ""
     },
@@ -147,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dietro le quinte con",
+      "show_name": "Udienza Papale",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR Leonardo",
+      "show_name": "Cartoni animati",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:15",
@@ -171,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "TGR Leonardo",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -211,34 +211,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Giostra del Gol",
+      "show_name": "Prima di noi",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Il Marciatore -La vera storia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:15",
-      "end_time": "22:00",
+      "end_time": "20:45",
       "episode_description": ""
     },
     {
       "show_name": "Porta a Porta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:30",
+      "start_time": "20:45",
+      "end_time": "22:15",
       "episode_description": ""
     },
     {
       "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "22:15",
       "end_time": "00:00",
       "episode_description": ""
     }

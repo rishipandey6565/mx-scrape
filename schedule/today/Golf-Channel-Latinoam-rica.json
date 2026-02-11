@@ -1,17 +1,33 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "The Big Swing with Jimmy Roberts",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Golf Europeo Tour PGA",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "5 Clubs with Gary Williams",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -43,26 +59,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf Europeo Tour PGA",
+      "show_name": "Playing lessons",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "13:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "5 Clubs with Gary Williams",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA Tour Highlights",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "5 Clubs with Gary Williams",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golf Today",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
+      "start_time": "13:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -75,47 +107,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "PGA Tour Highlights",
+      "show_name": "On the Range",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "Golf Central",
+      "show_name": "On the Range",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Playing lessons",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Playing lessons",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
+      "start_time": "19:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA Tour Highlights",
+      "show_name": "Playing lessons",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA TOUR: The CUT",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA Tour Highlights",
+      "show_name": "The Smylie Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -123,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Big Swing with Jimmy Roberts",
+      "show_name": "Vanity Index Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

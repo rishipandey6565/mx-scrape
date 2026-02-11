@@ -1,34 +1,34 @@
 {
   "channel": "Antena 3",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
       "show_name": "El chiringuito internacional",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:02",
+      "end_time": "00:03",
       "episode_description": ""
     },
     {
       "show_name": "Zapeando",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:02",
-      "end_time": "01:30",
+      "start_time": "00:03",
+      "end_time": "01:31",
       "episode_description": ""
     },
     {
       "show_name": "Noticias de la mañana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:31",
       "end_time": "01:55",
       "episode_description": ""
     },
     {
       "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/today/espejo-público.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
       "show_category": "",
       "start_time": "01:55",
       "end_time": "04:00",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/today/espejo-público.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
       "show_category": "",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -68,7 +68,7 @@
     },
     {
       "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/today/espejo-público.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
       "show_category": "",
       "start_time": "08:45",
       "end_time": "11:45",
@@ -124,7 +124,7 @@
     },
     {
       "show_name": "La ruleta de la suerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/today/la-ruleta-de-la-suerte.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg",
       "show_category": "Concursos",
       "start_time": "17:30",
       "end_time": "18:30",
@@ -147,10 +147,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Equipo de investigación",
+      "show_name": "Cazadores de imágenes",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
+      "end_time": "21:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo de Évole",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:45",
       "end_time": "23:00",
       "episode_description": ""
     },

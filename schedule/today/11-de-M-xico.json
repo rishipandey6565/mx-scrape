@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "La Reina del Mambo",
+      "show_name": "Sin muros",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,50 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Reina del Mambo",
+      "show_name": "El gran Makakikus",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:02",
-      "end_time": "00:45",
+      "end_time": "01:45",
       "episode_description": ""
     },
     {
       "show_name": "Mañanera 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
-      "end_time": "01:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Big Cities",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "01:45",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bichos en el corazón de la Tierra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Diálogos En Confianza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Detrás de un click",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
+      "start_time": "02:45",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -99,10 +75,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Once Noticias a las seis",
+      "show_name": "Radio, Televisión, y Cinematografía",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:02",
+      "end_time": "06:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Once Noticias a las seis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:07",
       "end_time": "09:30",
       "episode_description": ""
     },
@@ -131,18 +115,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Reina del Mambo",
+      "show_name": "El gran Makakikus",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
-      "end_time": "13:45",
+      "end_time": "13:55",
       "episode_description": ""
     },
     {
-      "show_name": "Big Cities",
+      "show_name": "Radio, Televisión, y Cinematografía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "13:55",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -183,14 +167,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:07",
-      "end_time": "16:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Daniel Tigre y su Vecindad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -203,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Zander",
+      "show_name": "Juani y Gatón",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -211,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Shaun, el cordero",
+      "show_name": "Amigas/os ONN: Detrás de la artesanía",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:07",
@@ -219,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi hermano el monstruo",
+      "show_name": "¡Vientos! Noticias que vuelan",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
@@ -227,18 +203,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Academia de superhéroes",
+      "show_name": "Un día en ON",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
-      "end_time": "17:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Prueba total",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:45",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -251,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crónicas de barrio",
+      "show_name": "Técnik",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:03",
@@ -259,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Quién era David Alfaro Siqueiros?",
+      "show_name": "M/Aquí",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -283,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales del Once",
+      "show_name": "Confieso que he vivido",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -291,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tríptico",
+      "show_name": "Sacro Y Profano",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -315,10 +283,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sin muros",
+      "show_name": "México Social",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Por Ellas Aunque Mal Paguen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

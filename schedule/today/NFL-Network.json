@@ -1,9 +1,17 @@
 {
   "channel": "NFL Network",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "NFL Honors",
+      "show_name": "Super bowl Classics",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Super Bowl Champion Theme",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Insiders",
+      "show_name": "Super Bowl Champion Theme",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "Salute the Champs",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -91,31 +99,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "NFL Mic'd Up",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "21:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super Bowl Champion Theme",
+      "show_name": "Super bowl Classics",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "NFL Insiders",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
+      "start_time": "20:00",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "NFL Mic'd Up",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

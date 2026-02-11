@@ -1,9 +1,9 @@
 {
   "channel": "¡HOLA! TV",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
-      "show_name": "Especiales Realeza",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vidas Reales",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "¡Hola! TV Iconos",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tendencias SXXI",
+      "show_name": "¡Hola! TV Iconos",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -47,6 +47,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las reinas del shopping",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -55,11 +63,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La hora Hola",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "El álbum de las celebridades",
+      "show_name": "Vidas Reales",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Top de estilo",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -79,11 +95,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La hora Hola",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Vidas Reales",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -107,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Video Fashion News",
+      "show_name": "Top de estilo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -135,6 +159,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las reinas del shopping",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -143,19 +175,35 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La hora Hola",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Especiales Realeza",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Íntimo y personal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vidas Reales",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -163,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronas y palacios",
+      "show_name": "Íntimo y personal",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -171,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Videofashion News",
+      "show_name": "El vestido de novia perfecto",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -179,15 +227,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Nuevo Look Para una Nueva Vida",
+      "show_name": "El clóset de...",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El clóset de...",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
       "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Espléndida",
+      "show_name": "Especiales ¡HOLA! TV",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -195,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vidas Reales",
+      "show_name": "Especiales ¡HOLA! TV",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -203,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El álbum de las celebridades",
+      "show_name": "Coronas y palacios",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -211,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Top de estilo",
+      "show_name": "Hoteles increíbles",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -219,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Espléndida",
+      "show_name": "Hoteles increíbles",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -227,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Happy & Zen",
+      "show_name": "La lista VIP",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -247,6 +303,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las reinas del shopping",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -255,14 +319,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La hora Hola",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Hoteles increíbles",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hoteles increíbles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -271,6 +351,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las reinas del shopping",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
@@ -279,14 +367,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La hora Hola",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "Hoteles increíbles",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hoteles increíbles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

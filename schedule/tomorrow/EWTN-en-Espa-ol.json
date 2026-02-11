@@ -1,6 +1,6 @@
 {
   "channel": "EWTN en Español",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
       "show_name": "Santo Rosario",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mientras el Mundo Gira",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Yo decido: Fundamentos de la ética",
+      "show_name": "El Credo",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia Papal",
+      "show_name": "El Virrey Palafox",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tips para ser feliz",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,10 +67,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lourdes: Unidos En Oración",
+      "show_name": "Vidas por la vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conozca Primero Su Fe Católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a San José",
+      "show_name": "Letanía al santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:50",
@@ -107,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Somos Católicos",
+      "show_name": "Mi familia católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -123,31 +131,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sacerdote, Regalo de Dios para el Mundo",
+      "show_name": "La inquisición",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:15",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Lourdes: Unidos en oración - Santo rosario",
+      "show_name": "Vidas por la vida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sí quiero claves para un matrimonio feliz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lourdes: Unidos En Oración",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tips para ser feliz",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -179,15 +179,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lourdes: Unidos En Oración",
+      "show_name": "Misa Diaria",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Santo Rosario desde Lourdes - Francia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a San José",
+      "show_name": "Letanía al santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -211,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mientras el Mundo Gira",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -227,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Camino de Esperanza",
+      "show_name": "Vidas por la vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -235,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia Papal",
+      "show_name": "El Virrey Palafox",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -251,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tips para ser feliz",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -259,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -275,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Camino de Esperanza",
+      "show_name": "Vidas por la vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -283,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia Papal",
+      "show_name": "El Virrey Palafox",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -299,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tips para ser feliz",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -307,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Herejias",
+      "show_name": "Via crucis",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

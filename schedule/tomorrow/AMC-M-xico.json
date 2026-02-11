@@ -1,52 +1,44 @@
 {
   "channel": "AMC (México)",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
-      "show_name": "Gold",
+      "show_name": "Instinto predador",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:25",
+      "end_time": "01:20",
       "episode_description": ""
     },
     {
-      "show_name": "Hotel Mumbai: El Atentado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/hotel-mumbai-el-atentado.webp",
-      "show_category": "Drama",
-      "start_time": "01:25",
-      "end_time": "03:30",
-      "episode_description": "Una apasionante historia sobre humanidad y heroísmo, cuenta vívidamente el calvario de 2008 al Taj Hotel por un grupo de terroristas en Mumbai, india. Entre el personal del hotel se encuentran el renombrado chef Hemant Oberoi (Anupam Kher) y un camarero Arjun (Dev Patel), quienes eligen arriesgar sus vidas para proteger a los huéspedes. Mientras la situación avanza, una pareja desesperada se ve obligada a hacer sacrificios impensables para proteger a su hijo recién nacido."
-    },
-    {
-      "show_name": "Soldado Universal",
+      "show_name": "Hasta los Huesos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "05:20",
+      "start_time": "01:20",
+      "end_time": "03:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los ilegales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:40",
+      "end_time": "05:40",
       "episode_description": ""
     },
     {
       "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/tales-of-the-walking-dead.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
       "show_category": "Drama",
-      "start_time": "05:20",
-      "end_time": "06:10",
+      "start_time": "05:40",
+      "end_time": "06:30",
       "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:10",
-      "end_time": "06:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:35",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -115,39 +107,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Z",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:25",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
-      "show_name": "Leyendas De Pasión",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:25",
-      "end_time": "14:50",
+      "start_time": "11:35",
+      "end_time": "12:10",
       "episode_description": ""
     },
     {
       "show_name": "Dobles de acción",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:50",
-      "end_time": "17:20",
+      "start_time": "12:10",
+      "end_time": "14:40",
       "episode_description": ""
     },
     {
-      "show_name": "Misión Imposible 3",
+      "show_name": "Leyendas De Pasión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:20",
-      "end_time": "19:35",
+      "start_time": "14:40",
+      "end_time": "17:10",
       "episode_description": ""
     },
     {
       "show_name": "Misión Imposible 4",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
+      "end_time": "19:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Misión Imposible 5",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
@@ -155,19 +155,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Contrarreloj",
+      "show_name": "El pacto",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Instinto predador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:35",
-      "end_time": "01:20",
+      "end_time": "00:15",
       "episode_description": ""
     }
   ]

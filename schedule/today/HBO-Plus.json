@@ -1,117 +1,109 @@
 {
   "channel": "HBO Plus",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
-    {
-      "show_name": "Demonio negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El castigador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:50",
-      "end_time": "03:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lobo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:01",
-      "end_time": "05:11",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/mujer-maravilla-1984.webp",
-      "show_category": "Acción",
-      "start_time": "05:11",
-      "end_time": "07:46",
-      "episode_description": "Sinopsis no disponible."
-    },
-    {
-      "show_name": "12 horas para sobrevivir El año de la elección",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:46",
-      "end_time": "09:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El conjuro 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:36",
-      "end_time": "11:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Life: Vida Inteligente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/life-vida-inteligente.webp",
-      "show_category": "Terror",
-      "start_time": "11:56",
-      "end_time": "13:46",
-      "episode_description": "Un equipo de científicos a bordo de la estación espacial internacional cuya misión de descubrimiento se convierte en uno de los miedos primario cuando ellos encuentran una forma de vida que evoluciona rápidamente que causó la extinción de la vida en Marte, y ahora amenaza a toda la tripulación de la nave y toda la vida en la tierra. Ahora su deber será eliminarla e impedir que llegue a la tierra."
-    },
-    {
-      "show_name": "Los horrores de Caddo Lake",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:46",
-      "end_time": "15:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Harry Potter y la piedra filosofal - Edición extendida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:36",
-      "end_time": "18:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Evil Dead: El Despertar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/evil-dead-el-despertar.webp",
-      "show_category": "Terror",
-      "start_time": "18:21",
-      "end_time": "20:00",
-      "episode_description": "Trasladando la acción de los bosques a la ciudad, \"Evil Dead: El Despertar\" cuenta la retorcida historia de dos hermanas distanciadas, cuyo reencuentro se ve truncado por la aparición de demonios poseedores de carne, lo que las empuja a una batalla primordial por la supervivencia mientras se enfrentan a la versión más pesadillesca imaginable de la familia."
-    },
-    {
-      "show_name": "El caballero de los siete reinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/mujer-maravilla-1984.webp",
-      "show_category": "Acción",
-      "start_time": "20:41",
-      "end_time": "23:15",
-      "episode_description": "Sinopsis no disponible."
-    },
-    {
-      "show_name": "El caballero de los siete reinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:15",
-      "end_time": "23:56",
-      "episode_description": ""
-    },
     {
       "show_name": "Abigail",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:56",
+      "start_time": "00:00",
       "end_time": "01:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lobos al acecho",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:46",
+      "end_time": "03:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Batman El caballero de la noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:01",
+      "end_time": "05:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Spirit El Espíritu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:41",
+      "end_time": "07:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Resident Evil 5: La Venganza",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_5_la_venganza.jpg",
+      "show_category": "Acción",
+      "start_time": "07:31",
+      "end_time": "09:16",
+      "episode_description": "Resident Evil 5: La Venganza (Resident Evil: Retribution) es la quinta película de la exitosa serie de video juegos, Resident Evil de capcom. En este episodio Alice (Milla Jovovich) despierta en el centro de operaciones más clandestinas de la corporación Umbrella. Esta vez Alice descubre mas sobre su misterioso pasado mientras va adentrándose en el complejo. Sin tener un lugar seguro donde refugiarse, Alice sigue cazando a todos aquellos que son responsables del brote epidémico; esto la lleva de Tokio a Nueva York, Washington D.C. y Moscú. Esta vez todo terminará en una revelación que dará a pensar nuevamente sobre todo lo que alguna vez creyó y ver si en realidad fue verdad."
+    },
+    {
+      "show_name": "No descansarás",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:16",
+      "end_time": "10:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Drácula: La historia Jamás Contada",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dracula_la_historia_jamas_contada.jpg",
+      "show_category": "Acción",
+      "start_time": "10:51",
+      "end_time": "12:31",
+      "episode_description": "Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula."
+    },
+    {
+      "show_name": "The Boy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:31",
+      "end_time": "14:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Harry Potter y la Cámara Secreta",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_la_camara_secreta.jpg",
+      "show_category": "Aventura",
+      "start_time": "14:26",
+      "end_time": "17:11",
+      "episode_description": "Las aventuras de Harry Potter (Daniel Radcliffe) continúan… Después de un largo verano con los horribles Dursleys, Harry Potter se ve frustrado en sus intentos de abordar el tren a la Escuela de Magia y Hechicería de Hogwarts para comenzar su segundo año. La única opción de transporte de Harry es un automóvil volador mágico, pero desafortunadamente, choca contra un valioso (y claramente molesto) Sauce Boxeador. Aún así, todo esto parece un día en el parque comparado con lo que espera a Harry que cae dentro de los salones encantados de Hogwarts. Voces escalofriantes y malévolas susurran desde las paredes solo a Harry, y parece seguro que su compañero Draco Malfoy (Tom Felton) está tratando de atraparlo. Pronto no es solo Harry quien está preocupado por la supervivencia, ya que cosas terribles comienzan a suceder en la escuela. Las misteriosamente brillantes palabras de un pie de altura en el muro proclaman: \"La Cámara de los Secretos ha sido abierta. Enemigos del Heredero, Atentos\". Pero ¿qué significa exactamente todo esto? Harry, Hermione (Emma Watson) y Ron (Rupert Grint) hacen todo lo que es posible – incluso arriesgando sus propias vidas – para resolver este mortal misterio potencialmente de 50 años."
+    },
+    {
+      "show_name": "Criatura voraz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:11",
+      "end_time": "18:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Batman El caballero de la noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:56",
+      "end_time": "21:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Observados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:31",
+      "end_time": "23:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Halloween",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:16",
+      "end_time": "01:06",
       "episode_description": ""
     }
   ]

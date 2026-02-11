@@ -1,9 +1,9 @@
 {
   "channel": "TVC Deportes",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "Tvc Deportes Total",
+      "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,15 +11,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Béisbol Serie del Caribe",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Liga Premier Tv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Al Día",
+      "show_name": "El Quinto cuarto",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -27,23 +43,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Total",
+      "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
-      "end_time": "03:30",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Todo Deporte DW",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Voleibol Liga Mexicana",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Voleibol Liga Mexicana",
+      "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -75,39 +91,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Fútbol: Previa",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "13:00",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
+      "start_time": "11:45",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Al Día",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Todo Deporte DW",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
+      "start_time": "14:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Al Día",
+      "show_name": "Fútbol: Post",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Quinto cuarto",
+      "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -127,14 +135,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:30",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
+      "start_time": "18:00",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -147,10 +155,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Béisbol Serie del Caribe",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Especial LMB",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }
