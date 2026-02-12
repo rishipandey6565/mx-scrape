@@ -1,149 +1,117 @@
 {
   "channel": "Europa Europa",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
-      "show_name": "El libro negro",
+      "show_name": "El gran sueño",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El alemán",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:05",
-      "end_time": "00:50",
+      "end_time": "01:15",
       "episode_description": ""
     },
     {
       "show_name": "Rocco Schiavone",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dos palabras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
+      "start_time": "01:15",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Archie",
+      "show_name": "Montalbano",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:50",
+      "end_time": "04:50",
       "episode_description": ""
     },
     {
-      "show_name": "No hay lugar como el hoga",
+      "show_name": "El sueño de Cassandra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:50",
-      "end_time": "05:00",
+      "start_time": "04:50",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
-      "show_name": "El alemán",
+      "show_name": "Un día más",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:45",
+      "start_time": "06:45",
+      "end_time": "08:35",
       "episode_description": ""
     },
     {
-      "show_name": "Te amo sólo a ti",
+      "show_name": "Tiempo de verano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:30",
+      "start_time": "08:35",
+      "end_time": "10:20",
       "episode_description": ""
     },
     {
-      "show_name": "Nace un tragicómico",
+      "show_name": "Un feriado particular",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "09:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La novia vestía de negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:20",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La inmensidad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Perseguidos por el Destino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Europa-Europa/tomorrow/perseguidos-por-el-destino.webp",
-      "show_category": "Crimen",
-      "start_time": "13:00",
-      "end_time": "15:15",
-      "episode_description": "Como miembro de una notoria pandilla de Bruselas reconocida por sus robos ejecutados por expertos, Gigi (Matthias Schoenaerts) atiende a su frente, un negocio de importación y exportación de automóviles de lujo, en su tiempo libre. Las chispas vuelan cuando conoce a Bibi (Adèle Exarchopoulos), una piloto de carreras glamorosa y próspera, y a pesar de sus diferentes antecedentes, la pareja se enamora instantáneamente. Mientras Gigi intenta romper su historia ilícita, dos cosas se interponen en el camino de la pareja hacia una feliz vida juntos: una mafia implacable hambrientas de otro atraco y los policías que están pisándoles los talones."
-    },
-    {
-      "show_name": "Rocco Schiavone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:15",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Archie",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No hay lugar como el hoga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:50",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El libro negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:35",
+      "start_time": "10:20",
+      "end_time": "11:40",
       "episode_description": ""
     },
     {
       "show_name": "Noviembre. Paris atacado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:35",
-      "end_time": "23:25",
+      "start_time": "11:40",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amar, beber y cantar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rocco Schiavone",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "17:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Montalbano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El sueño de Cassandra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El ministro de Propaganda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:55",
+      "end_time": "23:05",
       "episode_description": ""
     },
     {
       "show_name": "El gran sueño",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:25",
-      "end_time": "01:15",
+      "start_time": "23:05",
+      "end_time": "00:50",
       "episode_description": ""
     }
   ]

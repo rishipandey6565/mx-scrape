@@ -1,44 +1,52 @@
 {
   "channel": "AMC (México)",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
-      "show_name": "Instinto predador",
+      "show_name": "El pacto",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:20",
+      "end_time": "00:15",
       "episode_description": ""
+    },
+    {
+      "show_name": "Drive acción máxima velocidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
+      "end_time": "02:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Secuestro en Venice",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/secuestro_en_venice.jpg",
+      "show_category": "Acción",
+      "start_time": "02:05",
+      "end_time": "03:50",
+      "episode_description": "Steve Ford (Bruce Willis), es un detective de las playas de Venice: bueno con las damas, malo con los golpes, y salvaje por su perro, Buddy. Pero cuando su amada mascota es robada por matones locales, Steve hace una alianza dudosa con su líder retorcido Spyder (Jason Momoa). Uniendose con a su mejor amigo Dave (John Goodman), Steve saca las armas pesadas en busca de la cocaína robada de Spyder y el dinero para arreglar las cosas y volver a Buddy donde pertenece."
     },
     {
       "show_name": "Hasta los Huesos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:20",
-      "end_time": "03:40",
+      "start_time": "03:50",
+      "end_time": "06:10",
       "episode_description": ""
-    },
-    {
-      "show_name": "Los ilegales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:40",
-      "end_time": "05:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/tales-of-the-walking-dead.webp",
-      "show_category": "Drama",
-      "start_time": "05:40",
-      "end_time": "06:30",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:10",
+      "end_time": "06:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:35",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -111,43 +119,35 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:35",
+      "end_time": "11:25",
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Hobbit Un Viaje Inesperado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:35",
-      "end_time": "12:10",
+      "start_time": "11:25",
+      "end_time": "14:25",
       "episode_description": ""
     },
     {
-      "show_name": "Dobles de acción",
+      "show_name": "Hobbit La desolación de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:10",
-      "end_time": "14:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Leyendas De Pasión",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:40",
-      "end_time": "17:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Misión Imposible 4",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:10",
-      "end_time": "19:35",
+      "start_time": "14:25",
+      "end_time": "17:15",
       "episode_description": ""
     },
     {
       "show_name": "Misión Imposible 5",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:15",
+      "end_time": "19:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los siete magníficos",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
@@ -155,12 +155,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "El pacto",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Bad Boys Para Siempre",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bad_boys_para_siempre.jpg",
+      "show_category": "Acción",
       "start_time": "22:00",
       "end_time": "00:15",
-      "episode_description": ""
+      "episode_description": "Los Bad Boys: Michael \"Mike\" Lowrey (Will Smith) y Marcus Burnett (Martin Lawrence) vuelven a estar juntos para un último viaje en el muy esperado Bad Boys Para Siempre."
     }
   ]
 }
