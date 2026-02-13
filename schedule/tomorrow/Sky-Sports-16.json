@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 16",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Sevilla vs. Girona FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Villarreal vs. Espanyol",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sevilla vs. Girona FC",
+      "show_name": "LALIGA EA SPORTS 2025-2026 D",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -31,59 +31,83 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "05:45",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. CA Osasuna",
+      "show_name": "Elche vs. CA Osasuna",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Sociedad vs. Elche",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportivo Alavés vs. Getafe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atlético de Madrid vs. Real Bet",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:45",
-      "end_time": "13:45",
+      "start_time": "04:45",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Espanyol vs. Celta de Vigo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Getafe vs. Villarreal\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sevilla vs. Deportivo Alavés",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Elche vs. CA Osasuna\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Real Madrid vs. Real Sociedad",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_real_sociedad.png",
+      "show_category": "Deporte",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus Real Sociedad de Fútbol."
     },
     {
-      "show_name": "Athletic Club de Bilbao vs. Lev",
+      "show_name": "Espanyol vs. Celta de Vigo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -91,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Barcelona vs. RCD Mallorca",
+      "show_name": "Getafe vs. Villarreal",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -99,15 +123,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Elche vs. CA Osasuna",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Real Madrid vs. Real Sociedad",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_real_sociedad.png",
+      "show_category": "Deporte",
       "start_time": "20:00",
       "end_time": "22:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus Real Sociedad de Fútbol."
     },
     {
-      "show_name": "Sevilla vs. Girona FC",
+      "show_name": "Sevilla vs. Deportivo Alavés",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

@@ -1,9 +1,9 @@
 {
   "channel": "Bloomberg",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
-      "show_name": "Gabinete de seguridad",
+      "show_name": "Al cierre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Con Ortega a las 10:00",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Bloomberg The Opening Trade",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -75,10 +67,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg markets",
+      "show_name": "Bloomberg Real Yield",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg markets",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Aldea global",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Aldea global",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

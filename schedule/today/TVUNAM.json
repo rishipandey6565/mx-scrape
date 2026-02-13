@@ -1,73 +1,65 @@
 {
   "channel": "TVUNAM",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
       "show_name": "Tiempo de Filmoteca UNAM ¿Ino",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "00:15",
       "episode_description": ""
     },
     {
       "show_name": "Tiempo de Filmoteca UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
+      "start_time": "00:15",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Media 20.1",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "#EnTrending",
+      "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "01:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "04:30",
+      "start_time": "04:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TV UNAM",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
+      "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "La matiné",
+      "show_name": "Eurojazz",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patrimonio mundial",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:15",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bajo un mismo sol",
+      "show_name": "La lista de Erick",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ciencia y tecnología Caos",
+      "show_name": "Historia Misterios",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -91,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En busca del arte",
+      "show_name": "Sherlock holmes",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -99,23 +91,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Incluidos. Trabajos sin preju",
+      "show_name": "La matiné",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "13:00",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
-      "show_name": "Sold Out",
+      "show_name": "Patrimonio mundial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
+      "start_time": "13:45",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bajo un mismo sol",
+      "show_name": "Revista de la Universidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -131,26 +123,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jueves de ciencia",
+      "show_name": "Ópera Estrenos del Teatro Reg",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Contra el silencio todas las",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
       "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Súbele a la ciencia",
+      "show_name": "Cultura.21",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Maestros detrás de las ideas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En busca del arte",
+      "show_name": "Sherlock holmes",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -171,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ciencia y tecnología Caos",
+      "show_name": "Historia Misterios",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -179,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "UNAMirada",
+      "show_name": "Revista de la Universidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -187,27 +179,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Media 20.1",
+      "show_name": "Nuestras cosmovisiones",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vindictas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tiempo de Filmoteca UNAM ¿Ino",
+      "show_name": "Tiempo de Filmoteca UNAM Sala",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:15",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

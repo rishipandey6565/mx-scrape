@@ -1,6 +1,6 @@
 {
   "channel": "ESNE TV",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
       "show_name": "Enamórate",
@@ -11,10 +11,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siempre Alegres",
+      "show_name": "CDJ - Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Podcast real y verdadero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Donde Dios llora",
+      "show_name": "Mensaje Universal",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En El Corazón De Jesús",
+      "show_name": "Valores de Acero",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -99,31 +107,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siempre Alegres",
+      "show_name": "Programa Infantil",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Podcast real y verdadero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Palabras Que Edifican",
+      "show_name": "Educación y Conciencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Infantil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Enamórate",
+      "show_name": "Videos musicales",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un corazón que escucha",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa Misa desde Capilla San Juan Pablo II",
+      "show_name": "Santa Misa",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -131,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Documentales",
+      "show_name": "Jesús, en ti confío",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -139,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres de encuentro",
+      "show_name": "Palabras Que Edifican",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -155,15 +187,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tiempo para Tí",
+      "show_name": "Audiencia del Papa Leon XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caminos de Esperanza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Congresos Católicos",
+      "show_name": "Abriendo Horizontes",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -171,67 +211,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "La hora del encuentro",
+      "show_name": "Coronilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:30",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Santo Rosario",
+      "show_name": "Santo Rosario de Lourdes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Santa Misa desde Capilla San Juan Pablo II",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Palabras Que Edifican",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sanando el corazón herido",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En El Corazón De Jesús",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Congresos Católicos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Enamórate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "17:30",
+      "end_time": "18:00",
       "episode_description": ""
     }
   ]

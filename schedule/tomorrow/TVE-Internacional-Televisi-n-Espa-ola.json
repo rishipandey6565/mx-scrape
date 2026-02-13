@@ -1,44 +1,52 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
-      "show_name": "Programa a determinar",
+      "show_name": "Cachitos de hierro y cromo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Telediario matinal",
+      "show_name": "Españoles en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "00:50",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la 1",
+      "show_name": "Noticias 24 horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "03:35",
+      "start_time": "01:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mañaneros 360",
+      "show_name": "Flash Moda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:35",
-      "end_time": "07:20",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mañaneros 360",
+      "show_name": "Imprescindibles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:20",
+      "start_time": "05:30",
+      "end_time": "06:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenderete",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:35",
       "end_time": "07:55",
       "episode_description": ""
     },
@@ -47,54 +55,54 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:55",
-      "end_time": "08:40",
+      "end_time": "08:50",
       "episode_description": ""
     },
     {
-      "show_name": "El tiempo",
+      "show_name": "Pagina dos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:40",
-      "end_time": "08:55",
+      "start_time": "08:50",
+      "end_time": "09:20",
       "episode_description": ""
     },
     {
-      "show_name": "Directo al Grano",
+      "show_name": "Escarabajo verde",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:55",
-      "end_time": "10:35",
+      "start_time": "09:20",
+      "end_time": "09:50",
       "episode_description": ""
     },
     {
-      "show_name": "LAS RUTAS DE",
+      "show_name": "Vuelvo a empezar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:35",
-      "end_time": "11:35",
+      "start_time": "09:50",
+      "end_time": "10:50",
       "episode_description": ""
     },
     {
-      "show_name": "Saber y ganar",
+      "show_name": "Audiencia abierta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:35",
-      "end_time": "12:25",
+      "start_time": "10:50",
+      "end_time": "11:20",
       "episode_description": ""
     },
     {
-      "show_name": "Malas Lenguas",
+      "show_name": "D Corazón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:25",
-      "end_time": "13:30",
+      "start_time": "11:20",
+      "end_time": "13:10",
       "episode_description": ""
     },
     {
-      "show_name": "Aqui la tierra",
+      "show_name": "Saber y ganar fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
+      "start_time": "13:10",
       "end_time": "13:55",
       "episode_description": ""
     },
@@ -103,54 +111,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:55",
-      "end_time": "14:55",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cifras y letras",
+      "show_name": "Informe semanal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:55",
-      "end_time": "15:25",
+      "start_time": "14:30",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Valle Salvaje",
+      "show_name": "DecoMasters",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:25",
-      "end_time": "16:10",
+      "start_time": "15:00",
+      "end_time": "17:50",
       "episode_description": ""
     },
     {
-      "show_name": "La promesa",
+      "show_name": "Viaje al centro de la tele",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:10",
-      "end_time": "17:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Cazador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:10",
-      "end_time": "18:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zoom net",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:10",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aqui la tierra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
+      "start_time": "17:50",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -163,19 +147,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cielo con ella",
+      "show_name": "Benidorm Fest",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
-      "end_time": "20:35",
+      "end_time": "21:35",
       "episode_description": ""
     },
     {
-      "show_name": "Cachitos de hierro y cromo",
+      "show_name": "Post Binidorm Fest",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:35",
-      "end_time": "00:00",
+      "start_time": "21:35",
+      "end_time": "22:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dias de cine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:25",
+      "end_time": "23:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atencion obras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:35",
+      "end_time": "00:15",
       "episode_description": ""
     }
   ]

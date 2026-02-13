@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
-      "show_name": "Contra el silencio todas las",
+      "show_name": "Vladimir en Mí",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Taller de las Audiencias",
+      "show_name": "Léemelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -43,10 +43,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especiales del 22",
+      "show_name": "La luz de la Memoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres en la historia",
+      "show_name": "Suave patria",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "La raíz doble",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jazz, boleros y algo más",
+      "show_name": "A Fonda",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -127,6 +135,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crónica Animal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -147,23 +163,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Soy Fugitivo Dany Camacho",
+      "show_name": "La piel de la ciudad",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Montecristi Tejidos Origen",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "Leer, una hora inesperada",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -187,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Punto de referencia",
+      "show_name": "Noticiero Punto de Referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -195,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tratos y retratos",
+      "show_name": "¡Llegamos Todas!",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -203,10 +211,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vladimir en Mí",
+      "show_name": "Producciones Audiovisuales",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La luz de la Memoria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }
