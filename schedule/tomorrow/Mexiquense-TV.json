@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "El Método",
+      "show_name": "Reinventándonos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,26 +19,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bionatura",
+      "show_name": "100% grupero",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
-      "end_time": "00:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Noches en vela",
+      "show_name": "Fuera del aire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Voz canina",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -59,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Patrimonio mundial",
+      "show_name": "Todo deporte",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:15",
@@ -67,15 +59,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Su casa EDOMEX",
+      "show_name": "Atrévete x ti",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Nuestra Videoteca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Voz canina",
+      "show_name": "Chaski, el investigador",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -83,34 +83,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ver y creer",
+      "show_name": "La guarida de los libros",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arki, el guardacuentos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Valientemente, una aventura interior",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La historia que sigue",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "¿Y tú, tú que vas a hacer?",
+      "show_name": "Ver y creer",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las memorias del general",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -119,75 +127,59 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Huellas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las mil y una notas",
+      "show_name": "Sobremesa con Lulu Medina",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Concierto O.S.E.M.",
+      "show_name": "De pata de perro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Detrás de un click",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Imagen magisterial",
+      "show_name": "Otro Stylo para Cocinar",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patrimonio mundial",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza TV",
+      "show_name": "Sabor, olor y sazón",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Nuestra chamba",
+      "show_name": "Pasión por el sabor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las memorias del general",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "¿Y tú, tú que vas a hacer?",
+      "show_name": "Recuerdos cantados: Marilú, la muñequita que canta",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -195,15 +187,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Su casa EDOMEX",
+      "show_name": "Nuevo Mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "R3t",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "Los Que Hicieron Nuestro Cine",
+      "show_name": "Cinescape",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "100% grupero",
+      "show_name": "Balance Dominical",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noches en vela",
+      "show_name": "Ritmo Deportivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -227,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Una historia de vasconia",
+      "show_name": "Los colores de mi tierra",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -235,26 +235,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Método",
+      "show_name": "En las arenas negras",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hilo Negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "OSEM",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

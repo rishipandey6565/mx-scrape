@@ -1,118 +1,22 @@
 {
   "channel": "Televisa (XERV)",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "C.D.I. Código de investigación",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/cdi-código-de-investigación.webp",
-      "show_category": "Documentary",
+      "show_name": "Faisy Nights",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20883117_b_v12_ab.jpg",
+      "show_category": "Performing Arts",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "Se exploran las historias detrás de crímenes impactantes que conmocionaron a la opinión pública. Investigaciones a fondo, análisis de expertos, testimonios y tecnología de vanguardia para revelar la verdad."
+      "episode_description": "Un espacio con mucha música, entrevistas y humor."
     },
     {
       "show_name": "Especial de R.T.C.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/especial-de-rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg",
       "show_category": "Instructional",
       "start_time": "00:00",
-      "end_time": "06:00",
-      "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
-    },
-    {
-      "show_name": "Papá soltero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/papá-soltero.webp",
-      "show_category": "Sitcom",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Un padre soltero que cría solo a sus tres hijos y cada episodio termina con una situación cómica."
-    },
-    {
-      "show_name": "Un novio para dos hermanas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/un-novio-para-dos-hermanas.webp",
-      "show_category": "Movies",
-      "start_time": "06:30",
-      "end_time": "08:30",
-      "episode_description": "A causa de una confusión, un muchacho se enamora de un par de gemelas y no sabe a cuál de las dos ama."
-    },
-    {
-      "show_name": "Fiebre de Amor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/fiebre-de-amor.webp",
-      "show_category": "Movies",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Una joven que está enamorada de una estrella de pop va a su casa para conocerlo. Juntos accidentalmente se encuentran con un grupo de contrabandistas de diamantes y ella se convierte en la víctima de un secuestro."
-    },
-    {
-      "show_name": "En la cocina con Gerónimo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/en-la-cocina-con-gerónimo.webp",
-      "show_category": "Food",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "episode_description": "Programa especializado en cocina, donde el chef presenta recetas enfocadas en la nutrición familiar, de una manera sencilla, práctica y económica, con los ingredientes disponibles en casa."
-    },
-    {
-      "show_name": "Espectáculos en corto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/espectáculos-en-corto.webp",
-      "show_category": "Performing Arts",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Con Juan Carlos Vásquez."
-    },
-    {
-      "show_name": "Enrique Griego",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/enrique-griego.webp",
-      "show_category": "Health",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Por tu maldito amor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/por-tu-maldito-amor.webp",
-      "show_category": "Movies",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": "Un hombre aventurero y apasionado se encuentra en una encrucijada compuesta de dos amores y dos pasiones."
-    },
-    {
-      "show_name": "El Chapulín Colorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/el-chapulín-colorado.webp",
-      "show_category": "Sitcom",
-      "start_time": "14:30",
-      "end_time": "17:00",
-      "episode_description": "El Chapulín Colorado es la representación antagónica de un súper héroe típico, es miedoso, torpe, no deduce la situación tan rápidamente, crea más problemas y no resuelve nada, pero al final todo sale bien cuando la víctima encuentra la solución."
-    },
-    {
-      "show_name": "Esta historia me suena a todo volumen",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/esta-historia-me-suena-a-todo-volumen.webp",
-      "show_category": "Music",
-      "start_time": "17:00",
-      "end_time": "19:00",
-      "episode_description": "Cada episodio aborda los problemas familiares representados en una canción que inspira la historia del episodio. La trama conduce a la reflexión de problemas entre padres e hijos y muestra cómo resolverlos en la vida cotidiana."
-    },
-    {
-      "show_name": "Como dice el dicho, a fondo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/como-dice-el-dicho-a-fondo.webp",
-      "show_category": "Comedy",
-      "start_time": "19:00",
-      "end_time": "21:00",
-      "episode_description": "Se recrean historias y situaciones que se asemejan a los dichos comunes de la cultura popular. Se dramatiza una historia interesante y cautivadora que represente a un dicho específico, elegido para cada episodio."
-    },
-    {
-      "show_name": "La Rosa de Guadalupe: relatos de impacto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/la-rosa-de-guadalupe-relatos-de-impacto.webp",
-      "show_category": "Soaps",
-      "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": "Especial sobre la Rosa de Guadalupe. Las historias más polémicas y crudas de este programa que no deja de sorprender."
-    },
-    {
-      "show_name": "Faisy Nights",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/tomorrow/faisy-nights.webp",
-      "show_category": "Performing Arts",
-      "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Un espacio con mucha música, entrevistas y humor."
+      "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     }
   ]
 }

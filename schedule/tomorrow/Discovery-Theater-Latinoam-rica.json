@@ -1,9 +1,9 @@
 {
   "channel": "Discovery Theater (Latinoamérica)",
-  "date": "13/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Pioneros de Polonia",
+      "show_name": "Misterios en el museo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,15 +11,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alaska la última frontera",
+      "show_name": "Expedición a lo desconocido",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:12",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expedición a lo desconocido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "01:48",
       "episode_description": ""
     },
     {
-      "show_name": "Alaska peligro en el aire",
+      "show_name": "El club de los exploradores",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:48",
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La peligrosa ruta del café",
+      "show_name": "Museu mal-assombrado",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:36",
@@ -35,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Oro salvaje",
+      "show_name": "El ferrocarril de Alaska",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:24",
@@ -43,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La maldición del oro",
+      "show_name": "Genios constructores",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:12",
@@ -51,15 +59,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alaska la última frontera",
+      "show_name": "Expedición a lo desconocido",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expedición a lo desconocido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:48",
       "end_time": "06:36",
       "episode_description": ""
     },
     {
-      "show_name": "Alaska peligro en el aire",
+      "show_name": "El club de los exploradores",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:36",
@@ -67,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La peligrosa ruta del café",
+      "show_name": "Museu mal-assombrado",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:24",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Oro salvaje",
+      "show_name": "El ferrocarril de Alaska",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:12",
@@ -83,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La maldición del oro",
+      "show_name": "Genios constructores",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Clandestinos",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:48",
@@ -99,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Clandestinos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:36",
@@ -107,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del pantano",
+      "show_name": "Cal Fire contra el fuego",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:24",
@@ -115,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fieras de la Montaña",
+      "show_name": "Tu basura, mi fortuna negocio redondo",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:12",
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mega Carga",
+      "show_name": "Alaska remota",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -131,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Operación Vuelo",
+      "show_name": "Pioneros de Polonia",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:48",
@@ -139,23 +155,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pesca mortal",
+      "show_name": "Alaska la última frontera",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:36",
-      "end_time": "15:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias Animales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:24",
       "end_time": "16:12",
       "episode_description": ""
     },
     {
-      "show_name": "Proyecto Maersk",
+      "show_name": "Historias Animales",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:12",
@@ -163,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Supercargas",
+      "show_name": "La peligrosa ruta del café",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misterios del castillo",
+      "show_name": "Expedición a lo desconocido",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:48",

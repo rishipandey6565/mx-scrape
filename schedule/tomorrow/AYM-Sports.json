@@ -1,9 +1,9 @@
 {
   "channel": "AYM Sports",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Beísbol Serie de las Américas",
+      "show_name": "Boxeo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "IWRG: Platicando con",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Carlos García: Escalador de gran pared",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -31,14 +31,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El pierrotazo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -79,54 +71,62 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Copa Billie Jean King 2025",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Voleibol Liga Mexicana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "IWRG: Platicando con",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "IWRG: Platicando con",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Fútbol Mexicano Liga Expansión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:00",
+      "start_time": "12:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Boxeo",
+      "show_name": "Fútbol Mexicano Liga Expansión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "IWRG: Platicando con",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Campeones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Liga Mexicana de Softbol",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Budo Sento Championship 32, preliminares",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lucha libre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "01:00",
       "episode_description": ""
     }

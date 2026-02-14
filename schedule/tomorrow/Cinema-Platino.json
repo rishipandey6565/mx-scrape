@@ -1,110 +1,118 @@
 {
   "channel": "Cinema Platino",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "La Casa Gucci",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/la-casa-gucci.webp",
-      "show_category": "Crimen",
-      "start_time": "00:00",
-      "end_time": "01:04",
-      "episode_description": "La Casa Gucci está inspirada en la impactante historia real de imperio familiar detrás de la casa de moda italiana Gucci. A lo largo de tres décadas de amor, traición, decadencia, venganza y en última instancia un asesinato, veremos lo que significa un nombre, lo que vale y hasta dónde llegará una familia por el control."
-    },
-    {
-      "show_name": "Juego de Ladrones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/juego-de-ladrones.webp",
-      "show_category": "Acción",
-      "start_time": "01:04",
-      "end_time": "03:27",
-      "episode_description": "Una saga de crímenes de Los Ángeles en la línea de \"Calor\", sigue la vida de una unidad de élite del departamento del sheriff del condado de Los Ángeles y la banda de ladrones de bancos más exitosa del estado, mientras los forajidos planean un atraco aparentemente imposible al Banco de la Reserva Federal del centro de Los Ángeles."
-    },
-    {
-      "show_name": "Mientras Estés Conmigo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:27",
-      "end_time": "05:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El triunfo del espíritu",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:28",
-      "end_time": "07:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los caballeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:43",
-      "end_time": "09:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amsterdam",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:43",
-      "end_time": "12:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Trece vidas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:02",
-      "end_time": "14:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Redención",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/redención.webp",
-      "show_category": "Acción",
-      "start_time": "14:31",
-      "end_time": "16:40",
-      "episode_description": "Después de presenciar la caída de su unidad por culpa de fuego enemigo en Afganistán, Joey Jones (Jason Statham) ha estado viviendo en las calles de Londres, tratando de olvidar su pasado y evitar problemas. Mientras huye de una banda despiadada, entra en el apartamento de un hombre rico, y asume la identidad de un hombre de clase alta. Justo cuando Joey está en camino para encontrarse con su amiga y patrocinadora, la Hermana Cristina (Agata Buzek), su novia embarazada es encontrada muerta en el río. Ahora, Joey deberá usar sus contactos en la mafia china para encontrar al hombre responsable, sin detenerse hasta que se haga justicia."
-    },
-    {
-      "show_name": "Locura por el tiempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:40",
-      "end_time": "18:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cariño, cuánto te odio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:29",
-      "end_time": "20:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amor en las Montañas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/amor-en-las-montañas.webp",
-      "show_category": "Drama",
-      "start_time": "20:16",
-      "end_time": "22:03",
-      "episode_description": "Una historia de amor épica con un lirismo vertiginoso, Wild Mountain Thyme se desarrolla cerca de los impresionantes paisajes de la Irlanda rural, donde todo el mundo está medio loco por la soledad o el amor y el clima es terrible.Anthony (Jamie Dornan) y Rosemary (Emily Blunt) son amantes desamparados, cuyas familias se ven envueltas en una disputa por un terreno muy disputado que separa sus dos granjas.Anthony siempre parece estar trabajando en el campo, desgastado por el constante menosprecio de su padre. Pero lo que realmente duele es la amenaza de su padre de dejar la granja a su primo estadounidense Adam (Jon Hamm). Al principio Rosemary parece guardar rencor por haber sido avergonzada por Anthony en la infancia, pero las chispas entre ellos mantendrían una hoguera encendida durante la noche. Su madre Aoeife (Dearbhla Molloy) se esfuerza por unir a las familias antes de que sea demasiado tarde.Justo cuando pensamos que Anthony reunirá el coraje para enfrentar sus sentimientos reprimidos, el primo Adam interviene con el plan para barrer a Rosemary y enamorarla durante unas mágicas 24 horas en Manhattan. ¡Pero el amor verdadero nunca será vencido!"
-    },
-    {
-      "show_name": "Vivarium",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/vivarium.webp",
-      "show_category": "Misterio",
-      "start_time": "22:03",
-      "end_time": "23:47",
-      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
-    },
-    {
       "show_name": "Creed: Corazón de Campeón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/creed-corazón-de-campeón.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/creed_corazon_de_campeon.jpg",
       "show_category": "Drama",
-      "start_time": "23:47",
+      "start_time": "00:00",
       "end_time": "02:04",
       "episode_description": "Adonis Johnson (Michael B. Jordan) nunca conoció a su famoso padre, el campeón mundial de pesos pesados Apollo Creed, quien murió antes de que él naciera. Aun así, no se puede negar que lleva el boxeo en la sangre, por lo cual Adonis viaja a Filadelfia, el lugar donde se llevó a cabo la legendaria pelea entre Apollo y un duro principiante llamado Rocky Balboa.Una vez llegado a “la ciudad del amor fraternal”, Adonis va a buscar a Rocky (Sylvester Stallone) y le pide que sea su entrenador. A pesar de insistir en que está retirado del mundo de las peleas, Rocky ve en Adonis la misma fuerza y determinación que Apollo, el feroz rival que terminó convirtiéndose en su amigo más cercano. Finalmente, Rocky acepta entrenar al joven luchador a pesar de estar él mismo contra un oponente mucho más letal que cualquiera al que se haya enfrentado en el ring.Con Rocky de su lado, no pasará mucho tiempo hasta que Adonis consiga su oportunidad de competir por un título, pero ¿podrá desarrollar no solo su impulso sino también el corazón de un verdadero luchador antes de entrar al ring?"
+    },
+    {
+      "show_name": "Creed II: Defendiendo el Legado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/creed_ii_defendiendo_el_legado.jpg",
+      "show_category": "Drama",
+      "start_time": "02:04",
+      "end_time": "04:16",
+      "episode_description": "La vida se ha convertido en un acto de equilibrio para Adonis Creed (Michael B. Jordan). Entre las obligaciones personales y el entrenamiento para su próxima gran pelea, se enfrenta al desafío de su vida. Enfrentar a un oponente con vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Rocky Balboa (Sylvester Stallone) está a su lado a través de todo y, juntos, Rocky y Adonis enfrentarán su legado compartido, cuestionarán por qué vale la pena luchar y descubrirán que nada es más importante que la familia. Creed II se trata de volver a lo básico para redescubrir lo que te hizo un campeón en primer lugar, y recordar que, no importa a dónde vayas, no puedes escapar de tu historia."
+    },
+    {
+      "show_name": "Creed III",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/creed_iii.jpg",
+      "show_category": "Drama",
+      "start_time": "04:16",
+      "end_time": "06:15",
+      "episode_description": "Después de dominar el mundo del boxeo, Adonis Creed (Michael B. Jordan) ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio del boxeo, Damian (Jonathan Majors), reaparece después de cumplir una larga condena en prisión, está ansioso por demostrar que merece su oportunidad en el ring. El Enfrentamiento entre antiguos amigos es más que una simple pelea. Para ajustar cuentas, Adonis debe arriesgar su futuro para luchar contra Damian – un luchador que no tiene nada que perder."
+    },
+    {
+      "show_name": "El escándalo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
+      "end_time": "08:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Némesis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:09",
+      "end_time": "09:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quanta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:49",
+      "end_time": "11:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Por amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:18",
+      "end_time": "12:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Cómo Matar a un Esposo Muerto?",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_matar_a_un_esposo_muerto.jpg",
+      "show_category": "Comedia",
+      "start_time": "12:59",
+      "end_time": "14:42",
+      "episode_description": "Una mujer, madre de familia, que debe enfrentar a las adversidades de la vida que conlleva a la separación de un hombre poderoso y prepotente que decide arruinarle la vida, aún, después de que ha muerto."
+    },
+    {
+      "show_name": "Un milagro inesperado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:42",
+      "end_time": "16:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Familia Monster 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:21",
+      "end_time": "18:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Till, el Crimen Que lo Cambió Todo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:07",
+      "end_time": "20:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vidas Perfectas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:21",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El protector",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Justicia implacable",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:49",
+      "end_time": "01:46",
+      "episode_description": ""
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "channel": "Caracol Internacional",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
-      "show_name": "El cartel de los sapos El origen",
+      "show_name": "El cartel de los sapos: El origen",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "América 360",
+      "show_name": "Random 360",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Testigo Directo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": ""
     },
@@ -51,39 +43,87 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Finca de Hoy",
+      "show_name": "La Sartén por el Mango",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Día a día I",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Noticias Caracol: Primera edición",
+      "show_name": "Noticias Caracol: Edición central",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Testigo Directo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Finca de Hoy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sábados Felices",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Día a día",
+      "show_name": "Deportes 360",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "10:30",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las mujeres de mi tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
       "show_name": "El Diario de Diana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Moda con Ericka",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Dolce Vita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Sartén por el Mango",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -107,42 +147,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El cartel de los sapos El origen",
+      "show_name": "La red",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Desafío siglo XXI",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De Moda con Ericka",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Deportes 360",
+      "show_name": "Se dice de mi",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Diario de Diana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -155,43 +171,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "El cartel de los sapos El origen",
+      "show_name": "Sábados Felices",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:00",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Desafío siglo XXI",
+      "show_name": "Se dice de mi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Random 360",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Última Edición",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
+      "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "El cartel de los sapos El origen",
+      "show_name": "La red",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "01:45",
       "episode_description": ""
     }
   ]

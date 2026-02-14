@@ -1,82 +1,34 @@
 {
   "channel": "ESPN MX",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Live: Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-fútbol-picante.webp",
+      "show_name": "Clásico Mundial de Béisbol 2023",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p23286250_b_v12_ab.jpg",
       "show_category": "Sports",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
-    },
-    {
-      "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-sportscenter.webp",
-      "show_category": "Sports",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
-    },
-    {
-      "show_name": "ESPN KnockOut",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/espn-knockout.webp",
-      "show_category": "Sports",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/fútbol-picante.webp",
-      "show_category": "Sports",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
-      "show_category": "Sports",
-      "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
-    },
-    {
-      "show_name": "Enfocados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/enfocados.webp",
-      "show_category": "Sports",
-      "start_time": "04:00",
-      "end_time": "10:00",
-      "episode_description": "Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia."
-    },
-    {
-      "show_name": "Clasificación de Concacaf para la Copa Mundial de Fútbol Sub-17 de 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/clasificación-de-concacaf-para-la-copa-mundial-de-fútbol-sub-17-de-2026.webp",
-      "show_category": "Sports",
-      "start_time": "10:00",
-      "end_time": "18:00",
-      "episode_description": "Fase de grupos, Grupo A de la Clasificatoria Masculina Sub-17 Concacaf 2026. México se enfrenta a Trinidad y Tobago. Desde el Hasely Crawford Stadium, en Puerto de España, Trinidad y Tobago."
-    },
-    {
-      "show_name": "Clasificación de Concacaf para la Copa Mundial de Fútbol Sub-17 de 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/clasificación-de-concacaf-para-la-copa-mundial-de-fútbol-sub-17-de-2026.webp",
-      "show_category": "Sports",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Fase de grupos, Grupo A de la Clasificatoria Masculina Sub-17 Concacaf 2026. México se enfrenta a Trinidad y Tobago. Desde el Hasely Crawford Stadium, en Puerto de España, Trinidad y Tobago."
-    },
-    {
-      "show_name": "Clásico Mundial de Béisbol 2013",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/clásico-mundial-de-béisbol-2013.webp",
-      "show_category": "Sports",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
+      "episode_description": "Cobertura del torneo internacional de béisbol profesional."
     },
     {
       "show_name": "Clásico Mundial de Béisbol 2023",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/clásico-mundial-de-béisbol-2023.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p23286250_b_v12_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "04:00",
+      "end_time": "12:00",
+      "episode_description": "Cobertura del torneo internacional de béisbol profesional."
+    },
+    {
+      "show_name": "Clásico Mundial de Béisbol 2023",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p23286250_b_v12_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "12:00",
+      "end_time": "20:00",
+      "episode_description": "Cobertura del torneo internacional de béisbol profesional."
+    },
+    {
+      "show_name": "Clásico Mundial de Béisbol 2023",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p23286250_b_v12_ab.jpg",
       "show_category": "Sports",
       "start_time": "20:00",
       "end_time": "04:00",

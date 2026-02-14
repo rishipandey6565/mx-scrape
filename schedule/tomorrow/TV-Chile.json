@@ -1,36 +1,36 @@
 {
   "channel": "TV Chile",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "Chile Conectado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "00:45",
       "end_time": "01:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí te las traigo Peter",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:45",
-      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Hora 25",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
+      "start_time": "01:45",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chile Conectado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -59,42 +59,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Frontera global",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "24 Horas a la Hora",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estado Nacional",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
       "show_name": "Había una Vez",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chile Conectado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:00",
+      "start_time": "08:30",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
       "show_name": "Frutos del País",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí te las traigo Peter",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
+      "start_time": "09:45",
       "end_time": "10:30",
       "episode_description": ""
     },
@@ -103,6 +103,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "12:30",
       "episode_description": ""
     },
@@ -111,22 +119,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hora 25",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
       "show_name": "Chile Conectado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "17:40",
+      "start_time": "15:45",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "La colombiana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:40",
+      "start_time": "16:15",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -139,15 +163,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Humor de selección",
+      "show_name": "Entrada Liberada",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
       "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Hora 25",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:45",
@@ -155,19 +187,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "La colombiana",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:15",
-      "end_time": "23:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí te las traigo Peter",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:45",
-      "end_time": "00:45",
+      "end_time": "01:15",
       "episode_description": ""
     }
   ]

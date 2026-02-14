@@ -1,6 +1,6 @@
 {
   "channel": "El Heraldo TV (México)",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
       "show_name": "Infomerciales",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Heraldo Noticias",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Horizonte H",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -83,15 +83,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Esta Mañana",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Todo deporte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "09:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fundación Andrade",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:45",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Al estilo de Paulina Abascal",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -99,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reporte H",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -107,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tiempo de negocios",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -115,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Heraldo Noticias",
+      "show_name": "GastroLab",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -123,31 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Gamertag",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "GastroLab",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Puro barrio",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las noticias con A.Cacho",
+      "show_name": "Función de lucha libre CMLL",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -163,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tal cual",
+      "show_name": "Lo mejor de Tal cual",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -171,42 +187,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "República H",
+      "show_name": "La Guía del Hater",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "El Referente de la noche",
+      "show_name": "La pinche complejidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:30",
+      "start_time": "20:30",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Eco Latinoamérica",
+      "show_name": "Basquetbol LNBP",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
+      "start_time": "21:30",
       "end_time": "00:00",
       "episode_description": ""
     }

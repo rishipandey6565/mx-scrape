@@ -1,65 +1,17 @@
 {
   "channel": "Telefe Internacional",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Cuando Me Sonreís",
+      "show_name": "Montecristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golpe al corazón",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La leona",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vinos y placeres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sabores de campo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vinos y placeres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Plano x plano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:25",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Descubrir America",
+      "show_name": "Z Tv",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Arg 2023",
+      "show_name": "Arg 2022",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,39 +27,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Z Tv",
+      "show_name": "Plano x plano",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Arqui",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Gravedad Zero",
+      "show_name": "Descubrir America",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
       "show_name": "Qué comen los que saben",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Sabores de campo",
+      "show_name": "Chicas de Viaje",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Al ritmo de Miami",
+      "show_name": "El Ingrediente",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -115,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Descubrir America",
+      "show_name": "Sabores de campo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -123,23 +83,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "El elegido",
+      "show_name": "Vinos y placeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "16:30",
+      "end_time": "12:15",
       "episode_description": ""
     },
     {
-      "show_name": "Chicas de Viaje",
+      "show_name": "El Arqui",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
+      "start_time": "12:15",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "#Viajeros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "12:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historias de corazón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:45",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tiempo final",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Internacionales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Descubrir America",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vinos y placeres",
+      "show_name": "Gravedad Zero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -147,55 +147,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "PH, podemos hablar",
+      "show_name": "Juego chino",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
-      "end_time": "19:30",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "Por el Mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
+      "start_time": "18:00",
+      "end_time": "19:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Donante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:15",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historia Clinica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "El gran bartender",
+      "show_name": "Rizhoma Hotel",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:45",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "#Viajeros",
+      "show_name": "Historias de corazón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:45",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "JLN presenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Plano x plano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
+      "start_time": "21:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Viudas e Hijos del Rock & Roll",
+      "show_name": "Vidas robadas",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

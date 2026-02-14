@@ -1,6 +1,6 @@
 {
   "channel": "Antena 3",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
       "show_name": "Aquí no hay quién viva",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crea lectura",
+      "show_name": "Centímetros cúbicos",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:45",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo de Évole",
+      "show_name": "Frontón",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -99,10 +99,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El desafío",
+      "show_name": "Cristo y Rey",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:45",
+      "end_time": "15:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cazadores de imágenes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:15",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Generación top",
+      "show_name": "Incautos",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
@@ -139,11 +147,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí no hay quién viva",
+      "show_name": "El chiringuito internacional",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "02:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

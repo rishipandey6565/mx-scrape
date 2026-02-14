@@ -1,33 +1,17 @@
 {
   "channel": "Outdoor Channel HD",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Life on the edge",
+      "show_name": "Major League Fishing's Bass Pro Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jason the Butcher",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nick's Wild Ride With Nick Hoffman",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "American made",
+      "show_name": "The VanDam Experience",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ranch America",
+      "show_name": "Bill dance outdoors",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -43,15 +27,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Life on the edge",
+      "show_name": "Facts of Fishing",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fishing university",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Jason the Butcher",
+      "show_name": "Lindner's Angling Edge",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -59,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nick's Wild Ride With Nick Hoffman",
+      "show_name": "The Seahunter",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -67,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "American made",
+      "show_name": "Unfathomed",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ranch America",
+      "show_name": "Bigwater Adventures",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -83,39 +75,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Beyond the hunt",
+      "show_name": "Major League Fishing's Bass Pro Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Addicted to the outdoors",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Drop zone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Driven with pat & nicole",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Wild at Heart",
+      "show_name": "The Hunt for Monster Bass",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -123,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Seahunter",
+      "show_name": "The VanDam Experience",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -131,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gale Force Twins",
+      "show_name": "Zona's awesome fishing show",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -139,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bigwater Adventures",
+      "show_name": "Fishing university",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -147,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The obsession of carter andrews",
+      "show_name": "Lindner's Angling Edge",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -155,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Unfathomed",
+      "show_name": "Bill dance outdoors",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -163,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fishing the Wild with Mike Robinson",
+      "show_name": "Facts of Fishing",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -171,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Fishmonger",
+      "show_name": "Lake Commandos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -179,63 +147,87 @@
       "episode_description": ""
     },
     {
-      "show_name": "Major League Fishing's Bass Pro Tour",
+      "show_name": "Tracks across africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "13:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "MLF General Tire Team Series",
+      "show_name": "Addicted to the outdoors",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Hunt for Monster Bass",
+      "show_name": "Jason the Butcher",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "In Fisherman TV",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Next Bite",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:30",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Nick's Wild Ride With Nick Hoffman",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "American made",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ranch America",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "Life on the edge",
       "show_logo": "",
       "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "MLF General Tire Team Series",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Michael Waddell Podcast",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jim Shockey's Shock Therapy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "MeatEater Trivia",
+      "show_name": "Live 2 Hunt With Cody & Kelsy",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -243,15 +235,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "The MeatEater Podcast Redux",
+      "show_name": "Bowlife",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crush with lee & tiffany",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hunt masters",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Farming the Wild",
+      "show_name": "Realtree outdoors",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -259,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "United plates",
+      "show_name": "Bone collector",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -267,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "MeatEater",
+      "show_name": "Buckmasters",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -275,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "McMillan",
+      "show_name": "Buck Commander",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -283,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hardcore carnivore",
+      "show_name": "Live 2 Hunt With Cody & Kelsy",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -291,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cast iron cowboy",
+      "show_name": "Bowlife",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -299,11 +307,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Major League Fishing's Bass Pro Tour",
+      "show_name": "Crush with lee & tiffany",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hunt masters",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

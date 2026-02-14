@@ -1,25 +1,17 @@
 {
   "channel": "de las Estrellas -2 Horas - México (XEW)",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Doménica Montero",
+      "show_name": "La Rosa de Guadalupe",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Punto Enrique Acevedo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Código de Investigación",
+      "show_name": "Faisy nights",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Iglesia Universal",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -63,59 +63,67 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Un novio para dos hermanas",
+      "show_name": "Santo y Blue Demon vs Drácula",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "10:30",
+      "start_time": "09:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fiebre de amor",
+      "show_name": "La niña de los hoyitos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:30",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cuéntamelo Ya...Al Fin!",
+      "show_name": "Más Deporte\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:30",
+      "start_time": "13:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Por tu maldito amor",
+      "show_name": "¿Dónde quedó la bolita?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:30",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Acción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
       "show_name": "El Chapulín Colorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/tomorrow/el-chapulín-colorado.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg",
       "show_category": "Acción",
-      "start_time": "16:30",
-      "end_time": "19:00",
+      "start_time": "17:00",
+      "end_time": "18:45",
       "episode_description": "El Chapulín Colorado, serie creada por Roberto Gómez Bolaños (Chespirito) que relata las aventuras de un Superhéroe. Transmitida por primera vez en México en 1970 y aceptada por las familias mexicanas y toda Latino América.Reconocido por su Chipote Chillón y por sus divertidas frases como \"Síganme los buenos\" y \"No contaban con mi astucia\"."
     },
     {
-      "show_name": "Esta historia me suena",
+      "show_name": "No se aceptan devoluciones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
+      "start_time": "18:45",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Como dice el dicho",
+      "show_name": "Noche de bodas",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Rosa de Guadalupe",
+      "show_name": "¿Apostarías por Mí?",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

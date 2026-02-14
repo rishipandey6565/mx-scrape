@@ -1,52 +1,92 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
+    {
+      "show_name": "Atencion obras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
+    },
     {
       "show_name": "Cachitos de hierro y cromo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
+      "start_time": "00:15",
+      "end_time": "01:05",
       "episode_description": ""
     },
     {
-      "show_name": "Españoles en el mundo",
+      "show_name": "Tendido cero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "01:05",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias 24 horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "02:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Flash Moda",
+      "show_name": "Medina en TVE",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buenas Noticias TV",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:15",
       "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Imprescindibles",
+      "show_name": "Shalom",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:35",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
-      "show_name": "Tenderete",
+      "show_name": "Ultimas preguntas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:35",
+      "start_time": "05:45",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pueblo de Dios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
+      "end_time": "07:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "OBJETIVO IGUALDAD 30",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:10",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conversatorios en casa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
       "end_time": "07:55",
       "episode_description": ""
     },
@@ -59,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pagina dos",
+      "show_name": "Un país para leerlo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:50",
@@ -67,26 +107,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Escarabajo verde",
+      "show_name": "Saber vivir",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:20",
-      "end_time": "09:50",
+      "end_time": "09:55",
       "episode_description": ""
     },
     {
-      "show_name": "Vuelvo a empezar",
+      "show_name": "Se hace lo que se puede",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:50",
-      "end_time": "10:50",
+      "start_time": "09:55",
+      "end_time": "10:25",
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia abierta",
+      "show_name": "Beatus Ille",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:50",
+      "start_time": "10:25",
+      "end_time": "10:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Flash Moda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:55",
       "end_time": "11:20",
       "episode_description": ""
     },
@@ -111,30 +159,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:55",
-      "end_time": "14:30",
+      "end_time": "14:55",
       "episode_description": ""
     },
     {
-      "show_name": "Informe semanal",
+      "show_name": "Cine de barrio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
+      "start_time": "14:55",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "DecoMasters",
+      "show_name": "Vuelvo a empezar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:50",
+      "start_time": "16:30",
+      "end_time": "17:25",
       "episode_description": ""
     },
     {
-      "show_name": "Viaje al centro de la tele",
+      "show_name": "Turismo rural en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:50",
+      "start_time": "17:25",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Beatus Ille",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aqui la tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -147,35 +211,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Benidorm Fest",
+      "show_name": "Imprescindibles",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
-      "end_time": "21:35",
+      "end_time": "20:35",
       "episode_description": ""
     },
     {
-      "show_name": "Post Binidorm Fest",
+      "show_name": "COMERSE EL MUNDO",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:35",
-      "end_time": "22:25",
+      "start_time": "20:35",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Dias de cine",
+      "show_name": "Plano general",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:25",
-      "end_time": "23:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atencion obras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:35",
-      "end_time": "00:15",
+      "start_time": "22:30",
+      "end_time": "22:30",
       "episode_description": ""
     }
   ]

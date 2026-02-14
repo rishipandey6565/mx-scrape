@@ -1,36 +1,20 @@
 {
   "channel": "TV5MONDE",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:42",
+      "end_time": "01:28",
       "episode_description": ""
     },
     {
-      "show_name": "Taj Mahal",
+      "show_name": "Notre Dame de Moncton",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:42",
-      "end_time": "02:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Le prénom",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:09",
-      "end_time": "02:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un si grand soleil",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:37",
+      "start_time": "01:28",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,30 +31,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:32",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Mémoire de suisse romande",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
+      "start_time": "04:33",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Silence, ça pousse !",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:55",
+      "end_time": "05:51",
       "episode_description": ""
     },
     {
-      "show_name": "L'épicerie",
+      "show_name": "Le grand jt des territoires",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:51",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -79,62 +63,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:00",
+      "end_time": "08:13",
       "episode_description": ""
     },
     {
-      "show_name": "Telematin",
+      "show_name": "L'aventure du monde des mondes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:51",
+      "start_time": "08:13",
+      "end_time": "08:38",
       "episode_description": ""
     },
     {
-      "show_name": "Chine, les grands maítres de l",
+      "show_name": "Kassa le messager",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:51",
-      "end_time": "08:18",
+      "start_time": "08:38",
+      "end_time": "09:15",
       "episode_description": ""
     },
     {
-      "show_name": "C'est du belge",
+      "show_name": "Refuges de montagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:18",
-      "end_time": "08:45",
+      "start_time": "09:15",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Nos amis sauvages",
+      "show_name": "La suisse des lacs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
-      "end_time": "09:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "C'est succulent",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:12",
-      "end_time": "09:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tout le monde veut prendre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:39",
-      "end_time": "10:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un si grand soleil",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:37",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -147,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Allons y Franco",
+      "show_name": "64' Débat",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -155,58 +115,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "Notre Dame de Moncton",
+      "show_name": "Speciale questions pour",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
-      "end_time": "13:37",
+      "end_time": "12:38",
       "episode_description": ""
     },
     {
-      "show_name": "Petit pas",
+      "show_name": "Le match dans le match",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:37",
+      "start_time": "12:38",
+      "end_time": "13:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Papilles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:01",
+      "end_time": "13:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:28",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le journal de la rts",
+      "show_name": "Football Ligue 1 McDonald's",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:27",
+      "end_time": "15:05",
       "episode_description": ""
     },
     {
-      "show_name": "Slam",
+      "show_name": "Football Ligue 1 McDonald's",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:27",
-      "end_time": "15:00",
+      "start_time": "15:05",
+      "end_time": "16:04",
       "episode_description": ""
     },
     {
-      "show_name": "TV5Monde le Journal Afrique",
+      "show_name": "La grande galerie francophone",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Objectif monde l'hebdo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La suisse des lacs",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:04",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -219,67 +179,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le premier venu",
+      "show_name": "Les amants de brasmort",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "18:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ya benti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:53",
       "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "L'actu news",
+      "show_name": "Le Journal de la RTBF",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "20:02",
+      "end_time": "19:56",
       "episode_description": ""
     },
     {
-      "show_name": "Les perles",
+      "show_name": "Les Victoires de la Musique",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:02",
-      "end_time": "20:24",
+      "start_time": "19:56",
+      "end_time": "23:07",
       "episode_description": ""
     },
     {
-      "show_name": "Les perles",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:24",
-      "end_time": "20:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:46",
-      "end_time": "21:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "OPJ",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:46",
-      "end_time": "23:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Le 6h info",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:31",
-      "end_time": "23:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "C dans l'air",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:58",
-      "end_time": "01:28",
+      "start_time": "23:07",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

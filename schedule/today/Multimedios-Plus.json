@@ -1,28 +1,44 @@
 {
   "channel": "Multimedios Plus",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
-      "show_name": "SNSerio",
+      "show_name": "Es Show, el musical",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
-      "show_name": "Buenas Noches Don Fematt",
+      "show_name": "Orbital",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:45",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Curubito",
+      "show_name": "China al minuto",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fuera del control",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:15",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chismorreo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:30",
       "episode_description": ""
     },
@@ -43,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Telediario Express",
+      "show_name": "TD Nocturno CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -51,39 +67,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Telediario Matutino CDMX",
+      "show_name": "Telediario matutino FS CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telediario Matutino CDMX",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "VIvalavi CDMX",
+      "show_name": "Vivalavi",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "VIvalavi CDMX",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Telediario vespertino MTY",
+      "show_name": "Telediario Vespertino FS CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chismorreo CDMX",
+      "show_name": "FAD Mty",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La bola del 6 CDMX",
+      "show_name": "Especial de Homenajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "C4 en Alerta (CDMX)",
+      "show_name": "Gruperisimo",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -123,23 +123,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Telediario Nocturno CDMX",
+      "show_name": "Telediario Nocturno FS CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telediario Nocturno CDMX",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las Rapiditas CDMX",
+      "show_name": "Inaudito CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -147,19 +139,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio 22H",
+      "show_name": "Gruperisimo",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Es Show, el musical",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:45",
-      "end_time": "00:45",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
