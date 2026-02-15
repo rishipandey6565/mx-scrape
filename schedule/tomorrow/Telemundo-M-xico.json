@@ -1,6 +1,6 @@
 {
   "channel": "Telemundo (México)",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
       "show_name": "Lo mejor de caso cerrado",
@@ -35,74 +35,82 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi Familia Perfecta",
+      "show_name": "Lo mejor de caso cerrado",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "09:20",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi Familia Perfecta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "10:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Decisiones unos ganan",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:10",
+      "end_time": "11:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Reina del Sur",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:50",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El clon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "15:15",
       "episode_description": ""
     },
     {
       "show_name": "Pasión Prohibida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:20",
-      "end_time": "11:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pasión Prohibida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:20",
-      "end_time": "13:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pasión Prohibida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:20",
-      "end_time": "15:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias de la vírgen morena",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:10",
-      "end_time": "17:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias de la vírgen morena",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:20",
-      "end_time": "19:20",
+      "start_time": "15:15",
+      "end_time": "16:55",
       "episode_description": ""
     },
     {
       "show_name": "Lo mejor de caso cerrado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:20",
-      "end_time": "21:20",
+      "start_time": "16:55",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Lo mejor de caso cerrado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:20",
-      "end_time": "23:20",
+      "start_time": "19:00",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lo mejor de caso cerrado",
+      "show_name": "La Reina del Sur",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
+      "start_time": "21:00",
+      "end_time": "22:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El clon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:40",
       "end_time": "00:20",
       "episode_description": ""
     }

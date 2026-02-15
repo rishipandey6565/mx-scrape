@@ -1,9 +1,9 @@
 {
   "channel": "Bloomberg",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Aldea global",
+      "show_name": "Bloomberg Investigates",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,79 +11,103 @@
       "episode_description": ""
     },
     {
-      "show_name": "Con Ortega a las 10:00",
+      "show_name": "Bloomberg Primer",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
       "show_name": "Bloomberg Primer",
       "show_logo": "",
       "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "01:00",
-      "end_time": "01:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Investigates",
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "02:30",
       "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
       "show_name": "The Circuit",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Made",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "An Optimist's Guide to the Planet",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Investigates",
+      "show_name": "Bloomberg Primer",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Investigates",
+      "show_name": "Bloomberg Chief Future Officer",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "LEADERS With Francine Lacqua",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "An Optimist's Guide to the Planet",
+      "show_name": "Bloomberg Investigates",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -91,23 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Next Africa",
+      "show_name": "An Optimist's Guide to the Planet",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bloomberg Chief Future Officer",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_name": "The Circuit",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -115,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg New Economy",
+      "show_name": "Bloomberg Chief Future Officer",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "An Optimist's Guide to the Planet",
+      "show_name": "Bloomberg Investigates",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -131,23 +147,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_name": "An Optimist's Guide to the Planet",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Infinite Explorer with Hannah Fry",
+      "show_name": "Bloomberg Investigates",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -155,15 +163,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Story Lines",
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Circuit",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Story Lines",
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -171,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_name": "Moonshot",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -179,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Next Africa",
+      "show_name": "Bloomberg Primer",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -187,10 +203,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_name": "Bloomberg Next Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -203,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Mishal Husain Show",
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -211,10 +235,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Story Lines",
+      "show_name": "The Mishal Husain Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer to Peer Conversations",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -227,31 +259,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Originals",
+      "show_name": "Factor Fintec",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A Qué No Sabías",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Entre Dichos",
+      "show_name": "La silla roja",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Moonshot",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Aldea global",
+      "show_name": "Gabinete de seguridad",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

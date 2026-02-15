@@ -1,9 +1,9 @@
 {
   "channel": "a+",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "La venganza de Gabino Barrera",
+      "show_name": "El navegante",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -99,58 +99,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Charro a la fuerza",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gata Salvaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Pistoleros del oeste",
+      "show_name": "El colmillo de buda",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Quietos Todos",
+      "show_name": "La muerte es puntual",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "17:45",
       "episode_description": ""
     },
     {
-      "show_name": "Pancho Pistolas IV",
+      "show_name": "Me canse de rogarle",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:45",
+      "start_time": "17:45",
+      "end_time": "19:45",
       "episode_description": ""
     },
     {
-      "show_name": "Narcotráfico Sentencia",
+      "show_name": "Los diablos del terror",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:45",
-      "end_time": "20:30",
+      "start_time": "19:45",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Traficante por Ambición",
+      "show_name": "Ahora Más Noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "22:15",
+      "start_time": "21:30",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "El navegante",
+      "show_name": "Narda o el verano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,6 +1,6 @@
 {
   "channel": "CNN Internacional",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
       "show_name": "Feature",
@@ -19,15 +19,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Feature",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CNN News Room",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "African voices",
+      "show_name": "CNN Market Place Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -35,39 +43,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "CNN News Room",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:45",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "CNN News Room",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "CNN Creators The Intro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "CNN News Room",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "African voices",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Feature",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "First of All",
+      "show_name": "Inside Politics",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -107,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Smerconish",
+      "show_name": "State of the union",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -115,23 +107,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN Creators The Intro",
+      "show_name": "Fareed Zakaria GPS",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Inside Africa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Amanpour Hour",
+      "show_name": "Inside Politics",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -147,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Feature",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -155,10 +139,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "African voices",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -171,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Whole Story",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -195,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Inside Africa",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -219,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Smerconish",
+      "show_name": "The Whole Story",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -227,23 +219,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "World Sport",
+      "show_name": "Fareed Zakaria GPS",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Feature",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Inside Africa",
+      "show_name": "African voices",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -251,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "African voices",
+      "show_name": "CNN Market Place Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -267,34 +251,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marketplace Africa",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
-      "end_time": "22:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Marketplace Africa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:45",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "CNN News Room",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
+      "end_time": "23:45",
       "episode_description": ""
     },
     {
-      "show_name": "Feature",
+      "show_name": "World Sport",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "23:45",
       "end_time": "00:00",
       "episode_description": ""
     }

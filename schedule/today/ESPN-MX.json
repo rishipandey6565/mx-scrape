@@ -1,34 +1,34 @@
 {
   "channel": "ESPN MX",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Live: Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/live-fútbol-picante.webp",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_i_h8_ab.jpg",
       "show_category": "Sports",
       "start_time": "00:00",
       "end_time": "00:00",
       "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
     },
     {
-      "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/live-sportscenter.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "00:00",
       "end_time": "01:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "ESPN KnockOut",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/espn-knockout.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN."
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_i_h8_ab.jpg",
       "show_category": "Sports",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -36,51 +36,131 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "Enfocados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/enfocados.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "04:00",
-      "end_time": "10:00",
-      "episode_description": "Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia."
+      "end_time": "05:00",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "Clasificación de Concacaf para la Copa Mundial de Fútbol Sub-17 de 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/clasificación-de-concacaf-para-la-copa-mundial-de-fútbol-sub-17-de-2026.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "05:00",
+      "end_time": "05:20",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
+    },
+    {
+      "show_name": "Live: Fútbol Serie A",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p3606599_b_v12_cf.jpg",
+      "show_category": "Sports",
+      "start_time": "05:20",
+      "end_time": "07:30",
+      "episode_description": "Desde el estadio Friuli, en Udine, Friuli-Venezia Giulia, Italia."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_i_h8_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "07:30",
+      "end_time": "07:50",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
+    },
+    {
+      "show_name": "Live: Fútbol Serie A",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p3606599_b_v12_cf.jpg",
+      "show_category": "Sports",
+      "start_time": "07:50",
+      "end_time": "10:00",
+      "episode_description": "Desde el estadio Giovanni Zini, en Cremona, Lombardía, Italia."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "10:00",
-      "end_time": "18:00",
-      "episode_description": "Fase de grupos, Grupo A de la Clasificatoria Masculina Sub-17 Concacaf 2026. México se enfrenta a Trinidad y Tobago. Desde el Hasely Crawford Stadium, en Puerto de España, Trinidad y Tobago."
+      "end_time": "10:50",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "Clasificación de Concacaf para la Copa Mundial de Fútbol Sub-17 de 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/clasificación-de-concacaf-para-la-copa-mundial-de-fútbol-sub-17-de-2026.webp",
+      "show_name": "Live: Fútbol Serie A",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p3606599_b_v12_cf.jpg",
       "show_category": "Sports",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Fase de grupos, Grupo A de la Clasificatoria Masculina Sub-17 Concacaf 2026. México se enfrenta a Trinidad y Tobago. Desde el Hasely Crawford Stadium, en Puerto de España, Trinidad y Tobago."
+      "start_time": "10:50",
+      "end_time": "13:00",
+      "episode_description": "Desde el Estadio Olímpico Grande Torino, en Turín, Italia."
     },
     {
-      "show_name": "Clásico Mundial de Béisbol 2013",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/clásico-mundial-de-béisbol-2013.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
+    },
+    {
+      "show_name": "Live: Fútbol Serie A",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p3606599_b_v12_cf.jpg",
+      "show_category": "Sports",
+      "start_time": "13:30",
+      "end_time": "15:40",
+      "episode_description": "Desde el estadio Diego Armando Maradona, en Nápoles, Italia."
+    },
+    {
+      "show_name": "ESPN Tenis",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15597645_b_v12_ad.jpg",
+      "show_category": "Sports",
+      "start_time": "15:40",
+      "end_time": "16:00",
+      "episode_description": "Revive la final individual masculina del Roland Garros 2025 entre Jannik Sinner (Italia) y Carlos Alcaraz (España). Desde el estadio Roland Garros, en París, Francia. Disputado el 8 de junio de 2025."
+    },
+    {
+      "show_name": "2026 NBA All-Star Game",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31728627_b_v12_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "16:00",
+      "end_time": "19:00",
+      "episode_description": "Cobertura de la NBA All-Star 2026 donde los mejores jugadores de Estados Unidos se enfrentan a los mejores alrededor del mundo. Desde el Intuit Dome, en Inglewood, California."
+    },
+    {
+      "show_name": "Live: Dallas Open 2026",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31916074_st_v8_ac.jpg",
       "show_category": "Sports",
       "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
+      "end_time": "21:00",
+      "episode_description": "Cobertura de la gran final del Dallas Open 2026. Desde el Ford Center en the Star, en Frisco, Texas, Estados Unidos."
     },
     {
-      "show_name": "Clásico Mundial de Béisbol 2023",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/today/clásico-mundial-de-béisbol-2023.webp",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_i_h8_ab.jpg",
       "show_category": "Sports",
-      "start_time": "20:00",
-      "end_time": "04:00",
-      "episode_description": "Cobertura del torneo internacional de béisbol profesional."
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_i_h8_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
     }
   ]
 }

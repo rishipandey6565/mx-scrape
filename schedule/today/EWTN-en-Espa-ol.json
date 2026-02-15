@@ -1,6 +1,6 @@
 {
   "channel": "EWTN en Español",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
       "show_name": "Santo Rosario",
@@ -11,47 +11,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "El mensaje de Lourdes",
+      "show_name": "Tertulias de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mientras el Mundo Gira",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Razón y fe",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Explora con El cazador de milagros",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -59,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cocina franciscana",
+      "show_name": "De Dos en Dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -67,10 +59,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa brigida de Suecia: Los primeros años",
+      "show_name": "Ángelus con el Papa León XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vaticano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
+      "show_name": "Coronilla de la Divina Misericordia - mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a la bendita Virgen María",
+      "show_name": "Letanía al santísimo nombre de Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:50",
@@ -99,18 +99,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misa Diaria",
+      "show_name": "La Quinta Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi familia católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mi Ratito con Jesús",
+      "show_name": "Lukas Storyteller",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lukas Storyteller",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:15",
       "end_time": "08:30",
       "episode_description": ""
     },
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mis Angelitos",
+      "show_name": "Mi Ratito con Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -131,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santos y Héroes",
+      "show_name": "Somos Católicos",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -139,26 +155,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Explora con El cazador de milagros",
+      "show_name": "El Corazón de Jesús en la Historia",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cocina franciscana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa brigida de Suecia: Los primeros años",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Yo decido: Fundamentos de la ética",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
@@ -171,87 +187,79 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misa Diaria",
+      "show_name": "Ángelus con el Papa León XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "13:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Santo Rosario desde Lourdes - Francia",
+      "show_name": "Letanía al santísimo nombre de Jesús",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Letanía a la bendita Virgen María",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:20",
+      "start_time": "13:00",
+      "end_time": "13:20",
       "episode_description": ""
     },
     {
       "show_name": "Adoración eucarística desde la capilla de EWTN",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:20",
-      "end_time": "14:30",
+      "start_time": "13:20",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Explora con El cazador de milagros",
+      "show_name": "Misa del Domingo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
+      "start_time": "13:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "El mensaje de Lourdes",
+      "show_name": "El Santo Rosario desde Lourdes - Francia",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Razón y fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Favoritos de Nuestra Fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
+      "show_name": "El Corazón de Jesús en la Historia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vaticano",
+      "show_name": "Tertulias de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Explora con El cazador de milagros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa brigida de Suecia: Los primeros años",
+      "show_name": "Mientras el Mundo Gira",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -259,39 +267,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cocina franciscana",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Yo decido: Fundamentos de la ética",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vaticano",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -299,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Razón y fe",
+      "show_name": "De Dos en Dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -307,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
+      "show_name": "Ángelus con el Papa León XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

@@ -1,109 +1,101 @@
 {
   "channel": "HBO Mundi",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
-    {
-      "show_name": "Gangster americano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Viernes 13",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:22",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Río Helado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Waltz with bashir",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:40",
-      "end_time": "06:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No nos dejes caer esta noche",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:10",
-      "end_time": "07:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Orgullo y prejuicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:50",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Expiación, deseo y pecado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "12:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lazos de vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:05",
-      "end_time": "13:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El brutalista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:55",
-      "end_time": "17:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Juez",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:35",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jurado Nº 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No nos dejes caer esta noche",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:40",
-      "episode_description": ""
-    },
     {
       "show_name": "La lista de Schindler",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:40",
+      "start_time": "00:00",
       "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buenas costumbres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daddio",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/daddio.jpg",
+      "show_category": "Drama",
+      "start_time": "04:45",
+      "end_time": "06:30",
+      "episode_description": "Ciudad de Nueva York. Aeropuerto JFK. Una mujer joven se sube al asiento trasero de un taxi amarillo, el taxista pone el vehículo en marcha y ambos se adentran en la noche hacia Manhattan, entablando una conversación de lo más inesperada que desemboca en un viaje único, épico y extraordinario."
+    },
+    {
+      "show_name": "Eterno resplandor de una",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "08:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ella",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/ella.jpg",
+      "show_category": "Drama",
+      "start_time": "08:25",
+      "end_time": "10:35",
+      "episode_description": "Es el año 2025, Theodore Twombly (Joaquin Phoenix) es un hombre solitario e introvertido que trabaja para una compañía que contrata escritores profesionales que escriben cartas amorosas para personas que no son capaces de hacerlo por ellos mismos. Infeliz luego de haberse divorciado de su amor platónico de su infancia, Catherine (Rooney Mara), Theodore compra un sistema operativo parlante con lo último en inteligencia artificial diseñado para adaptarse a sus necesidades y aprender de su dueño. Ahora su nuevo sistema operativo llamado por ella misma como “Samantha” (Scarlett Johansson) él aprenderá muchas cosas gracias a la omnipresencia de su nuevo software parlante."
+    },
+    {
+      "show_name": "Red Social",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/red_social.jpg",
+      "show_category": "Película",
+      "start_time": "10:35",
+      "end_time": "12:40",
+      "episode_description": "Nombre que recibe la película \"The Social Network\" en Latinoamérica, que cuenta la historia de Facebook desde sus comienzos y cómo fue que Mark Zuckerberg se vuelve multimillonario."
+    },
+    {
+      "show_name": "The Settlers",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:40",
+      "end_time": "14:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shaman",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:25",
+      "end_time": "16:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
+      "start_time": "16:05",
+      "end_time": "17:55",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
+    },
+    {
+      "show_name": "Monkey Man El despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La muerte de un unicornio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nosferatu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:55",
+      "end_time": "00:10",
       "episode_description": ""
     }
   ]

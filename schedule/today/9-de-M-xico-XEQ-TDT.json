@@ -1,28 +1,20 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Velvet, el nuevo imperio",
+      "show_name": "Gavilán o paloma",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:30",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -39,30 +31,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "08:30",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "12:30",
+      "start_time": "07:30",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reventon musical",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
+      "start_time": "10:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -75,43 +59,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hazaña del deporte Vive",
+      "show_name": "Las tres tumbas",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lucha libre CMLL",
+      "show_name": "América vs. Monterrey",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/america_vs_monterrey.png",
+      "show_category": "Fútbol",
+      "start_time": "19:00",
+      "end_time": "21:05",
+      "episode_description": "Desde el estadio Azteca ubicado en la ciudad de México, se enfrentan los equipos Club de Fútbol América Versus el Club de Fútbol Monterrey."
+    },
+    {
+      "show_name": "Lamberto Quintero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:30",
+      "start_time": "21:05",
+      "end_time": "23:15",
       "episode_description": ""
     },
     {
-      "show_name": "Un sueño de amor",
+      "show_name": "La Escuelita V.I.P",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rosas blancas para mi hermana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gavilán o paloma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:45",
-      "end_time": "00:30",
+      "start_time": "23:15",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

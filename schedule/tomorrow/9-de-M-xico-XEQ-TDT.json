@@ -1,9 +1,17 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Gavilán o paloma",
+      "show_name": "La Escuelita V.I.P",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,10 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -31,14 +55,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "07:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Iglesia de Dios Internacional",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
+      "start_time": "06:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": ""
     },
@@ -47,6 +87,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -59,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las tres tumbas",
+      "show_name": "La inocente",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -67,26 +115,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "América vs. Monterrey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/9-de-M-xico-XEQ-TDT/tomorrow/américa-vs-monterrey.webp",
-      "show_category": "Fútbol",
-      "start_time": "19:00",
-      "end_time": "21:05",
-      "episode_description": "Desde el estadio Azteca ubicado en la ciudad de México, se enfrentan los equipos Club de Fútbol América Versus el Club de Fútbol Monterrey."
-    },
-    {
-      "show_name": "Lamberto Quintero",
+      "show_name": "Una familia de diez",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:05",
-      "end_time": "23:15",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Escuelita V.I.P",
+      "show_name": "Caso cerrado Edición estelar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:15",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Velvet, el nuevo imperio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "00:00",
       "episode_description": ""
     }

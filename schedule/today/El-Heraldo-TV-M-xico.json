@@ -1,9 +1,9 @@
 {
   "channel": "El Heraldo TV (México)",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
-      "show_name": "Infomerciales",
+      "show_name": "Basquetbol LNBP",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -39,14 +39,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -87,22 +79,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Todo deporte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fundación Andrade",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -131,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Función de lucha libre CMLL",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -139,42 +115,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "GastroLab",
+      "show_name": "Basquetbol LNBP",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gamertag",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Basquetbol LNBP",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Función de lucha libre CMLL",
+      "show_name": "Manita de gato",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Eco Latinoamérica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -187,26 +155,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Guía del Hater",
+      "show_name": "Gobernando tu Ciudad",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "La pinche complejidad",
+      "show_name": "Que si quede huella",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:30",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Basquetbol LNBP",
+      "show_name": "El dedo en la llaga",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

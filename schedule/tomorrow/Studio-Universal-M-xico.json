@@ -1,102 +1,134 @@
 {
   "channel": "Studio Universal (México)",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "007 Operación Skyfall",
+      "show_name": "Knives Out: Entre navajas y secretos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:40",
+      "end_time": "01:20",
       "episode_description": ""
     },
     {
-      "show_name": "El plan perfecto El impostor",
+      "show_name": "Mack & Rita",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:40",
-      "end_time": "02:35",
+      "start_time": "01:20",
+      "end_time": "02:55",
       "episode_description": ""
     },
     {
-      "show_name": "Doom: Aniquilación",
+      "show_name": "Mustang: La rehabilitación",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:35",
-      "end_time": "04:20",
+      "start_time": "02:55",
+      "end_time": "04:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood on Set",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:35",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood on Set",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historias de Miedo Para Contar en la Oscuridad",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/scary_stories_to_tell_in_the_dark.jpg",
+      "show_category": "Terror",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "En América de 1968. El cambio está soplando en el viento… pero aparentemente muy alejado de los disturbios en las ciudades está el pequeño pueblo de Mill Valley, donde durante generaciones, la sombra de la familia Bellows ha crecido enormemente. En su mansión al borde de la ciudad, Sarah, una joven con horribles secretos, convirtió su torturada vida en una serie de historias de miedo, escritas en un libro que ha trascendido en el tiempo – historias que tienen una manera de convertirse muy reales para un grupo de adolescentes que descubren el aterrador tomo de Sarah."
+    },
+    {
+      "show_name": "Downton Abbey",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/downton_abbey.jpg",
+      "show_category": "Drama",
+      "start_time": "06:00",
+      "end_time": "08:10",
+      "episode_description": "Sigue la vida de la familia Crawley y los sirvientes que trabajaron para ellos a finales del siglo XX en una casa en las afueras del condado inglés de Yorkshire."
+    },
+    {
+      "show_name": "El Principe y yo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:10",
+      "end_time": "10:05",
       "episode_description": ""
     },
     {
       "show_name": "El príncipe y yo II",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:20",
-      "end_time": "06:00",
+      "start_time": "10:05",
+      "end_time": "11:50",
       "episode_description": ""
     },
     {
-      "show_name": "Assassin's Creed",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/assassins-creed.webp",
-      "show_category": "Acción",
-      "start_time": "06:00",
-      "end_time": "07:50",
-      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
-    },
-    {
-      "show_name": "Bloodshot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/bloodshot.webp",
-      "show_category": "Acción",
-      "start_time": "07:50",
-      "end_time": "09:50",
-      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
-    },
-    {
-      "show_name": "Interestelar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/interestelar.webp",
-      "show_category": "Acción",
-      "start_time": "09:50",
-      "end_time": "12:55",
-      "episode_description": "Un grupo de exploradores hacen uso de un recién descubierto agujero de gusano que actualmente limita los viajes espaciales y la conquista de largas distancias de los viajes interestelares."
-    },
-    {
-      "show_name": "Al Filo del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/al-filo-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "12:55",
-      "end_time": "14:55",
-      "episode_description": "Bill Cage (Tom Cruise) es un soldado que se encuentra la última batalla contra fuerzas alienígenas, cuando este fracasa y muere empieza nuevamente precisamente en el mismo día una y otra vez, ahora con la ayuda de Rita Vrataski (Emily Blunt) deberá aprender tras cada derrota a convertirse en un mejor guerrero."
-    },
-    {
-      "show_name": "Mission: Impossible Rogue Nation",
+      "show_name": "Querido John",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:55",
-      "end_time": "17:15",
+      "start_time": "11:50",
+      "end_time": "13:50",
       "episode_description": ""
     },
     {
-      "show_name": "Spectre",
+      "show_name": "Votos de amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:15",
+      "start_time": "13:50",
+      "end_time": "15:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amigos por siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:50",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sing 2: ¡Ven y Canta de Nuevo!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_2_ven_y_canta_de_nuevo.jpg",
+      "show_category": "Animación",
+      "start_time": "18:00",
       "end_time": "20:00",
-      "episode_description": ""
+      "episode_description": "Esta temporada navideña, llega el nuevo capítulo de la exitosa franquicia animada de Illumination con grandes sueños y éxitos espectaculares mientras el siempre optimista koala, Buster Moon (Matthew McConaughey) y su elenco estelar de artistas se preparan para lanzar su extravagancia escénica más deslumbrante hasta ahora… todo en la brillante capital mundial del entretenimiento. Solo hay un problema: primero tienen que persuadir a la estrella de rock más solitaria del mundo."
     },
     {
-      "show_name": "Sin Tiempo Para Morir",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/sin-tiempo-para-morir.webp",
-      "show_category": "Acción",
+      "show_name": "Trolls 2: Gira mundial",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/trolls_word_tour.jpg",
+      "show_category": "Animación",
       "start_time": "20:00",
-      "end_time": "23:00",
-      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
+      "end_time": "21:40",
+      "episode_description": "Poppy (Anna Kendrick) y Branch (Justin Timberlake) descubren que son solo una de las seis tierras diferentes y dedicada a seis tipos diferentes de música: Funk, Country, Tecno, Clásica, Pop y Rock. Su mundo está a punto de hacerse mucho más grande y mucho más fuerte. La Reina Barb (Rachel Bloom), miembro de la realeza del hard rock, ayudada por su padre, el rey Thrash (Ozzy Osbourne), quiere destruir todos los demás tipos de música para que el rock pueda reinar. Con el destino del mundo en juego, Poppy y Branch, junto con sus amigos, se dispusieron a visitar todas las demás tierras para unificar a los Trolls en armonía."
     },
     {
-      "show_name": "Knives Out: Entre navajas y secretos",
+      "show_name": "Minions 2: Nace un villano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "01:20",
+      "start_time": "21:40",
+      "end_time": "23:20",
       "episode_description": ""
+    },
+    {
+      "show_name": "M3gan",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/m3gan.jpg",
+      "show_category": "Terror",
+      "start_time": "23:20",
+      "end_time": "01:10",
+      "episode_description": "M3gan (Amie Donald) es una maravilla de la inteligencia artificial, una muñeca realista programada para ser la mejor compañera de un niño y la mejor aliada de los padres. Diseñada por la brillante experta en robótica de la compañía de juguetes Gemma (Allison Williams), M3gan puede escuchar, mirar y aprender mientras se convierte en amiga y maestra, compañera de juguetes y protectora, para el niño al que está unida.Cuando Gemma de repente se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady (Violet McGraw), Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3gan con Cady en un intento por resolver ambos problemas, una decisión que tendrá consecuencias inimaginables."
     }
   ]
 }

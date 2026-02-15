@@ -1,749 +1,173 @@
 {
   "channel": "Galicia TV",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
       "show_name": "Libro de Familia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bos Días",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "03:46",
       "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:02",
+      "start_time": "03:46",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Glumpers",
+      "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:02",
-      "end_time": "00:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Boom & Reds",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:06",
-      "end_time": "00:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El diario de Alicia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:10",
-      "end_time": "00:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El diario de Alicia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:15",
-      "end_time": "00:20",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "O Termómetro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:20",
-      "end_time": "00:30",
+      "start_time": "04:30",
+      "end_time": "06:50",
       "episode_description": ""
     },
     {
-      "show_name": "Timmy y sus amigos",
+      "show_name": "Galicia Noticias Mañá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "00:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telmo y Tula: Pequeños Cocineros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:40",
-      "end_time": "00:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telmo y Tula: Pequeños Cocineros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:48",
-      "end_time": "00:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maddie y Triggs",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:55",
-      "end_time": "01:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maddie y Triggs",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:04",
-      "end_time": "01:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maddie y Triggs",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:12",
-      "end_time": "01:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El hombre más chiquito del mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:20",
-      "end_time": "01:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chien Pourri",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:22",
-      "end_time": "01:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chien Pourri",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:34",
-      "end_time": "01:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Queres un conto?",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:46",
-      "end_time": "01:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vivír o mar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:55",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vivír o mar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "As Aventuras De Ladybug E Cat Noir",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:02",
-      "end_time": "02:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "As Aventuras De Ladybug E Cat Noir",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:24",
-      "end_time": "02:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nacer de nuevo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:25",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nacer de nuevo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "02:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Polo camiño da fe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:40",
-      "end_time": "02:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Polo camiño da fe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:45",
-      "end_time": "02:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "As Aventuras De Ladybug E Cat Noir",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:46",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La santa misa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "As Aventuras De Ladybug E Cat Noir",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:08",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bos Dias Fin de semana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "03:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Doraemon: El gato cósmico",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:53",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gaña a Túa Aldea",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gaña a Túa Aldea",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
-      "end_time": "04:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:16",
-      "end_time": "04:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:43",
-      "end_time": "04:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "A liga dos cantantes extraordinarios",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:50",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "A liga dos cantantes extraordinarios",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:10",
-      "end_time": "05:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:37",
-      "end_time": "06:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:04",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "06:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia noticias fin de semana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:55",
+      "start_time": "06:50",
       "end_time": "07:25",
       "episode_description": ""
     },
     {
-      "show_name": "Telexornal mediodía Fin de semana",
+      "show_name": "Telexornal mediodía",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:25",
-      "end_time": "08:05",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
       "show_name": "Deportes Mediodía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:05",
-      "end_time": "08:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportes Mediodía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:06",
-      "end_time": "08:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportes Mediodía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:10",
-      "end_time": "08:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No foco",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:20",
-      "end_time": "08:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No foco",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:25",
+      "start_time": "08:15",
       "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "No foco",
+      "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "08:35",
+      "end_time": "08:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:48",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "12:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hora galega",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:40",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:35",
-      "end_time": "08:45",
+      "start_time": "14:30",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
-      "show_name": "O tempo",
+      "show_name": "Quen anda aí?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
-      "end_time": "08:50",
+      "start_time": "14:45",
+      "end_time": "17:32",
       "episode_description": ""
     },
     {
-      "show_name": "O tempo",
+      "show_name": "Atrápame se podes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:50",
-      "end_time": "09:00",
+      "start_time": "17:32",
+      "end_time": "18:12",
       "episode_description": ""
     },
     {
-      "show_name": "La santa misa",
+      "show_name": "Zigzag Diario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportes Mediodía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:10",
-      "end_time": "09:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O tempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:25",
-      "end_time": "09:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:32",
-      "end_time": "09:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Polo camiño da fe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:35",
-      "end_time": "09:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia bonita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:55",
-      "end_time": "09:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:57",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia bonita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Na Gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:24",
-      "end_time": "10:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:50",
-      "end_time": "10:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Na Gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:54",
-      "end_time": "11:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:10",
-      "end_time": "11:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Na Gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:12",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Na Gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:32",
-      "end_time": "11:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bonanza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:50",
-      "end_time": "11:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:55",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "12:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Imos ao Choio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:25",
-      "end_time": "12:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bonanza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:38",
-      "end_time": "13:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Traballo feito",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:10",
-      "end_time": "13:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bonanza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:26",
-      "end_time": "13:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telexornal serán fin de semana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:58",
-      "end_time": "14:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bonanza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:12",
-      "end_time": "14:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O tempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:48",
-      "end_time": "14:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O tempo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:50",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "A miña gran cidade",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Código 092: en primeira liña",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Código 092: en primeira liña",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "48 Horas para o si",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:29",
-      "end_time": "16:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia bonita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:50",
-      "end_time": "17:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Luar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:55",
-      "end_time": "18:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pensando en Tí",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:04",
+      "start_time": "18:12",
       "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "Libro de Familia",
+      "show_name": "Telexornal serán",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Libro de Familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:20",
+      "end_time": "19:02",
       "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:20",
-      "end_time": "19:30",
+      "start_time": "19:02",
+      "end_time": "19:22",
       "episode_description": ""
     },
     {
-      "show_name": "A miña gran cidade",
+      "show_name": "Land rober",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "19:22",
+      "end_time": "20:25",
       "episode_description": ""
     },
     {
-      "show_name": "Libro de Familia",
+      "show_name": "Expediente oculto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Libro de Familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Libro de Familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "48 Horas para o si",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:20",
-      "end_time": "22:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Libro de Familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:10",
-      "end_time": "01:00",
+      "start_time": "20:25",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

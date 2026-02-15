@@ -1,149 +1,125 @@
 {
   "channel": "Europa Europa",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
-    {
-      "show_name": "El gran sueño",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rocco Schiavone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:50",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El leon",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "02:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las cartas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:45",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias de la ducha",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El ministro de Propaganda",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "05:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amar, beber y cantar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:40",
-      "end_time": "07:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Montalbano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:35",
-      "end_time": "09:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No hay lugar como el hoga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:25",
-      "end_time": "10:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No hay lugar como el hoga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:25",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No hay lugar como el hoga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El sueño de Cassandra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:40",
-      "end_time": "14:35",
-      "episode_description": ""
-    },
     {
       "show_name": "Batalla por Sebastopol",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:35",
-      "end_time": "16:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El ministro de Propaganda",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:45",
-      "end_time": "19:00",
+      "start_time": "00:00",
+      "end_time": "01:50",
       "episode_description": ""
     },
     {
       "show_name": "El caso Collini",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:10",
+      "start_time": "01:50",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "El alemán",
+      "show_name": "Los bastardos de Pizzofalcone",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:10",
-      "end_time": "21:55",
+      "start_time": "04:00",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
       "show_name": "El comisario Ricciardi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:55",
-      "end_time": "23:40",
+      "start_time": "05:45",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El alemán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "08:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Archie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:15",
+      "end_time": "09:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Archie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:05",
+      "end_time": "09:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Archie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:55",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expreso Transiberiano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "12:40",
       "episode_description": ""
     },
     {
       "show_name": "Batalla por Sebastopol",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:40",
-      "end_time": "01:50",
+      "start_time": "12:40",
+      "end_time": "14:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El caso Collini",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:50",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Montalbano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El rastro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La maldición de Rookford",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "23:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La sombra del día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:10",
+      "end_time": "01:25",
       "episode_description": ""
     }
   ]
