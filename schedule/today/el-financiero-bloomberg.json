@@ -1,182 +1,334 @@
 {
   "channel": "El Financiero Bloomberg",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
       "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/con-ortega-a-las-diez.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
       "start_time": "00:00",
       "end_time": "01:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- A la caza de un nuevo tipo de imán para impulsar el futuro",
       "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Los científicos desarrollan imanes cada vez más potentes para obtener fuentes de energía limpia como la fusión. Pero el dominio chino de la cadena de suministro de imanes de tierras raras es una amenaza para la disponibilidad global de..."
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e11-jamie-dimon-jpmorgan-chase-chairman-ceo_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 11 - Jamie Dimon, JPMorgan Chase Chairman & CEO",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Jamie Dimon, presidente y director ejecutivo de JPMorgan Chase"
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Inside North Korea's Secret Remote IT Workforce",
+      "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
+      "episode_description": "Esta es la historia de cómo la casa de una mujer de Arizona se convirtió en una puerta de entrada para los agentes informáticos de Corea del Norte: una \"granja de computadoras portátiles\" clandestina que se infiltró... ."
     },
     {
-      "show_name": "The Pulse",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/the-pulse.webp",
-      "show_category": "Economía",
+      "show_name": "The Circuit",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Inside Barbie's World",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Francine Lacqua te presenta las informaciones y noticias más relevantes, así como también sus comentarios y análisis, sobre el acontecer relacionado al complejo mundo de los negocios en Europa."
+      "end_time": "03:30",
+      "episode_description": "Barbie finalmente salió del pasillo de los juguetes y entró en la pantalla grande en su debut en Hollywood. Mattel espera usar eso a su favor transformando IP icónicas en éxitos de taquilla."
     },
     {
-      "show_name": "Bloomberg Brief",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-brief.webp",
-      "show_category": "Interés general",
+      "show_name": "Made",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_made-s00e04-quiero-ser-competidora-de-motocross_l_m.jpg",
+      "show_category": "Episodio 4 - Neon Lights Go Upscale",
+      "start_time": "03:30",
+      "end_time": "03:40",
+      "episode_description": "Lite Brite Neon, el taller de referencia para artistas internacionales y su restaurante favorito del día."
+    },
+    {
+      "show_name": "Made",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_made-s00e05-quiero-ser-patinadora-sobre-hielo_l_m.jpg",
+      "show_category": "Episodio 5 - Bloodroot Blades Forges Knives From Scrap Metal",
+      "start_time": "03:40",
+      "end_time": "03:50",
+      "episode_description": "En Bloodroot Blades, una simple herramienta de cocina también puede ser una obra de arte recuperada."
+    },
+    {
+      "show_name": "Made",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_made-s00e06-quiero-ser-ciclista-de-montana_l_m.jpg",
+      "show_category": "Episodio 6 - This Is How a Wooden Surfboard Is Made",
+      "start_time": "03:50",
+      "end_time": "04:00",
+      "episode_description": "Las tablas de surf de grano se construyen mediante un proceso aditivo que tiene mucho en común con la construcción tradicional de barcos de madera."
+    },
+    {
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Dusk Or Dawn",
       "start_time": "04:00",
       "end_time": "05:00",
-      "episode_description": "Noticias, datos y análisis de mercado que necesitas para marcar tu agenda."
+      "episode_description": "¿Cómo se distingue el anochecer del amanecer en la era del cambio climático? En el primer episodio de La guía del planeta para optimistas, el presentador Nikolaj Coster-Waldau comienza su viaje global para descubrirlo."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-surveillance.webp",
-      "show_category": "Economía",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - The Poison in Us All",
       "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "end_time": "06:00",
+      "episode_description": "Los productos químicos PFAS se utilizan en miles de productos destinados a hacer la vida más fácil."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-surveillance.webp",
-      "show_category": "Economía",
-      "start_time": "05:00",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Run for Your Life",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "En 2021, Agnes Tirop batió el récord mundial femenino de 10.000 metros. Cinco semanas después, ella estaba muerta. Bloomberg Investigates examina su asesinato y la amenaza de violencia contra otros corredores kenianos."
+    },
+    {
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 2 - Shelter",
+      "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "episode_description": "El refugio es una de las necesidades más básicas de la humanidad. A medida que crece la población mundial, ¿cómo podemos repensar la forma en que vivimos para construir un mañana más sostenible?"
     },
     {
-      "show_name": "Bloomberg Open Interest",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Economía",
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 11",
       "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Todas las noticias que necesitas saber sobre el movimiento del mercado para comenzar con impulso el día de operaciones en Estados Unidos."
+      "end_time": "08:30",
+      "episode_description": "Un análisis profundo mensual de las noticias más importantes de África desde la perspectiva de Bloomberg. Los inversores globales ven al continente como una de las principales áreas de oportunidad y crecimiento, y algunas naciones africanas"
     },
     {
-      "show_name": "Bloomberg Technology",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-technology.webp",
-      "show_category": "Tecnología",
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-chief-future-officer-s05e07-gina-goetter-hasbro_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 7 - Gina Goetter, Hasbro",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Los directores financieros desempeñan un papel fundamental en la definición de la estrategia corporativa y el posicionamiento de las organizaciones para afrontar los retos futuros."
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e10-bill-browder-hermitage-co-founder_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 10 - Bill Browder, Hermitage Co-Founder",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio Bill Browder, cofundador de Hermitage"
+    },
+    {
+      "show_name": "Bloomberg New Economy: Thriving in an Age of Extremes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Un espacio donde entablamos conversaciones sinceras con directores ejecutivos, inversores y líderes gubernamentales sobre cómo afrontar y prosperar en esta era de incertidumbre económica."
+    },
+    {
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Regenerate",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
+      "episode_description": "La capacidad de la naturaleza para regenerarse existía mucho antes de que los humanos habitaran la Tierra. ¿Qué podemos aprender de su capacidad innata para ayudar a reparar el daño que hemos causado?"
     },
     {
-      "show_name": "Bloomberg Real Yield",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-real-yield.webp",
-      "show_category": "Noticiero",
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s07e17-ray-dalio-bridgewater-associates-founder-co-chairman-co-cio_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 17 - Ray Dalio, Bridgewater Associates Founder, Co-Chairman & Co-CIO",
       "start_time": "11:00",
       "end_time": "11:30",
-      "episode_description": "Edición que muestra un enfoque analítico de los más relevantes temas globales y eventos que afectan directamente los mercados de deuda, a nivel nacional e internacional, con un toque informativo y veraz."
+      "episode_description": "El fundador y co-director ejecutivo del Grupo Carlyle, David Rubenstein, realiza exclusivas entrevistas a personalidades de gran renombre en el mundo de los negocios en Estados Unidos y a nivel global."
     },
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-markets.webp",
-      "show_category": "Negocios",
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e11-jamie-dimon-jpmorgan-chase-chairman-ceo_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 11 - Jamie Dimon, JPMorgan Chase Chairman & CEO",
       "start_time": "11:30",
       "end_time": "12:00",
-      "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Jamie Dimon, presidente y director ejecutivo de JPMorgan Chase"
     },
     {
-      "show_name": "Bloomberg Balance of Power",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-balance-of-power.webp",
-      "show_category": "Periodístico",
+      "show_name": "The Infinite Explorer with Hannah Fry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Hannah Fry Decodes Spain's Complex Culture",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Una mirada en profundidad a la intersección de la política y los negocios globales."
+      "episode_description": "Hannah Fry viaja a España para descifrar su historia y cultura. Aprende sobre los ritmos del flamenco, un lenguaje de silbos montañeses y el simbolismo oculto en su urbanismo."
     },
     {
-      "show_name": "Bloomberg Businessweek",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-businessweek.webp",
-      "show_category": "Negocios",
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Metano en Texas",
       "start_time": "13:00",
+      "end_time": "13:20",
+      "episode_description": "En el oeste de Texas, grandes cantidades de metano, un poderoso gas de efecto invernadero, se están filtrando a la atmósfera."
+    },
+    {
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Broke Global Trade",
+      "start_time": "13:20",
+      "end_time": "13:40",
+      "episode_description": "La historia interna del barco que rompió el comercio mundial: El varamiento de seis días del Ever Given en el Canal de Suez en marzo pasado."
+    },
+    {
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - The Brazilian Amazon",
+      "start_time": "13:40",
       "end_time": "14:00",
-      "episode_description": "Carol Massar y Tim Stenovec reúnen las últimas noticias del mundo de los negocios y las finanzas y las interesantes historias de tecnología, política, economía y más a nivel global."
+      "episode_description": "La destrucción de las selvas tropicales de Brasil puede haber pasado por un punto sin retorno."
     },
     {
-      "show_name": "Bloomberg Markets: The Close",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-markets-the-close.webp",
-      "show_category": "Político",
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 4 - Skin Lightening",
       "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": "Las increíbles historias detrás de las características e investigaciones de Bloomberg News y Bloomberg Businessweek, contadas por los periodistas que las cubren."
+    },
+    {
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Istanbul Is the Place",
+      "start_time": "14:20",
+      "end_time": "14:40",
+      "episode_description": "Las increíbles historias detrás de las características e investigaciones de Bloomberg News y Bloomberg Businessweek, contadas por los periodistas que las cubren."
+    },
+    {
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 6 - Luxury Fashion Industry",
+      "start_time": "14:40",
       "end_time": "15:00",
-      "episode_description": "Bloomberg Markets: The Close. El programa acelerado es el espectáculo cercano al mercado por excelencia que lleva a los últimos minutos y segundos antes de la campana de cierre en Wall Street con las últimas noticias."
+      "episode_description": "Las increíbles historias detrás de las características e investigaciones de Bloomberg News y Bloomberg Businessweek, contadas por los periodistas que las cubren."
     },
     {
-      "show_name": "Al Sonar la Campanar con Raquel López-Portillo Maltos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e13-anish-shah-mahindra-group-ceo_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 13 - Anish Shah, Mahindra Group CEO",
       "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "Un programa que aborda lo más destacado de la información económica y financiera actual. Junto a Raquel López-Portillo Maltos, el público podrá informarse al completo a la hora de invertir y evaluar el mercado."
+      "end_time": "15:30",
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Anish Shah, director ejecutivo del Grupo Mahindra"
     },
     {
-      "show_name": "Ganadores y perdedores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/ganadores-y-perdedores.webp",
-      "show_category": "Economía",
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 12",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Un análisis profundo mensual de las principales historias de África a través de la lente de Bloomberg. En este programa se analizarán las medidas clave adoptadas para ayudar a África a superar la brecha con las potencias mundiales."
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e12-pif-governor-yasir-al-rumayyan_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 12 - PIF Governor Yasir Al-Rumayyan",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "En el mundo de las finanzas y los negocios se juega cada día el futuro de la economía. ¿Quién ganó y quién perdió en la jornada?"
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Gobernador del PIF, Yasir Al-Rumayyan"
     },
     {
-      "show_name": "El Financiero a las 17hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-17hs.webp",
-      "show_category": "Noticiero",
+      "show_name": "Tiempo de toros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-toros-1_l_m.jpg",
+      "show_category": "Magazine",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Directamente desde el campo o de la plaza, el espacio ofrece una mirada moderna y fresca a una de las celebraciones más populares del mundo, informándote sobre la actividad taurina y presentándote a los toreros."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 14",
+      "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "Mishal Husain entrevista a diversos líderes mundiales, titanes empresariales e íconos culturales. Con su característica curiosidad y tenacidad, revela quiénes son estas personalidades y analiza cómo perciben el mundo a su alrededor."
     },
     {
-      "show_name": "El Financiero a las 18hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-18hs.webp",
-      "show_category": "Noticiero",
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 24 - India s Deadly Mix of Nationalism and Religion",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "En este espacio te llevamos lo más cerca del corazón de México y el mundo, a través de los hechos sociales, políticos, económicos y de los personajes que definen el curso de la historia, la ciencia y la tecnología."
+      "end_time": "18:20",
+      "episode_description": "Los nacionalistas hindúes en toda la India están dando cobertura a los políticos aliados para promulgar leyes que discriminen explícitamente a los musulmanes. Pero muchos indios están retrocediendo."
     },
     {
-      "show_name": "El Financiero a las 19hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-19hs.webp",
-      "show_category": "Periodístico",
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 32 - Plants May One Day Provide Nickel for Your EV Battery",
+      "start_time": "18:20",
+      "end_time": "18:40",
+      "episode_description": "La agro-minería es el proceso de cultivo de plantas que absorben metales del suelo. La ciencia es sólida, pero ¿será esta innovación lo suficientemente escalable como para reducir las prácticas mineras tradicionales y destructivas?"
+    },
+    {
+      "show_name": "Bloomberg Mercury Story Lines",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 37 - How to Make a Killing Calling Companies Green.",
+      "start_time": "18:40",
+      "end_time": "19:00",
+      "episode_description": "MSCI, la empresa de calificación ESG más grande, ni siquiera intenta medir el impacto de una corporación en el mundo. Se trata de si el mundo podría meterse con el resultado final."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-wall-street-week_l_m.jpg",
+      "show_category": "Economía",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "Un diálogo con los principales nombres en finanzas sobre los problemas más importantes de la semana en Wall Street."
     },
     {
-      "show_name": "El Financiero a las 20hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-20hs.webp",
-      "show_category": "Noticiero",
+      "show_name": "Bloomberg Originals",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El fin de las marcas de lujo",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "Las grandes marcas como Starbucks, Gucci y Zara están enfrentando retos que podrían cambiar su futuro para siempre. En esta compilación analizamos cómo Starbucks ha perdido clientes por sus precios altos y tiempos de espera, cómo Gucci..."
     },
     {
-      "show_name": "Aldea global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Entre dichos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+      "end_time": "21:30",
+      "episode_description": "Un programa de entrevistas que recibe a diversos invitados para debatir temas de actualdiad en profundidad de la mano del conductor René Delgado."
     },
     {
-      "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/con-ortega-a-las-diez.webp",
-      "show_category": "Político",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
+      "show_name": "Moon shot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_moon-shot-s00e01-rural-internet_l_m.jpg",
+      "show_category": "Episodio 1 - NASA Next Search",
+      "start_time": "21:30",
+      "end_time": "21:45",
+      "episode_description": "La próxima búsqueda de vida de la NASA es en océanos extraterrestres. Cap 2:Dos científicos están construyendo un verdadero 'motor de impulso' de Star Trek."
+    },
+    {
+      "show_name": "Moon shot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_moon-shot-s00e02-star-trek_l_m.jpg",
+      "show_category": "Episodio 2 - Star Trek",
+      "start_time": "21:45",
+      "end_time": "22:00",
+      "episode_description": "El espacio puede ser la última frontera, pero no podemos llegar muy lejos con el combustible para cohetes. Ahora, dos científicos están trabajando en un dispositivo que algún día podría hacer realidad el \"motor de impulsos\" de Star Trek."
     },
     {
       "show_name": "Aldea global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 3 - Muerte en la montaña de siete colores",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+      "episode_description": "La Montaña Arcoíris ofrece a los turistas una vista perfecta que ha inundado las redes sociales. Pero detrás de este paraje viral se esconde la historia de una comunidad en guerra, gritos de socorro ignorados y asesinatos."
     }
   ]
 }

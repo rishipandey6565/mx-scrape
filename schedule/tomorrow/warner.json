@@ -1,196 +1,276 @@
 {
   "channel": "Warner Channel",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "The Pitt",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - 7:00 A.M. #1.1",
-      "start_time": "00:12",
-      "end_time": "01:08",
-      "episode_description": "Mientras intenta distraerse del aniversario de la muerte de su mentor, el Dr. Robby introduce a un nuevo grupo de pasantes en la vida en la sala de emergencias."
-    },
-    {
-      "show_name": "Cincuenta sombras más oscuras",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/cincuenta-sombras-más-oscuras.webp",
-      "show_category": "Fifty Shades Darker",
-      "start_time": "01:08",
-      "end_time": "03:13",
-      "episode_description": "Mientras que Christian lucha con sus demonios internos, Anastasia debe confrontar la envidia de sus mujeres anteriores, más la confusión sobre su relación con el atractivo millonario, un tipo misterioso lleno de secretos."
-    },
-    {
-      "show_name": "Cincuenta sombras liberadas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/cincuenta-sombras-liberadas.webp",
-      "show_category": "Fifty Shades Freed",
-      "start_time": "03:13",
-      "end_time": "05:02",
-      "episode_description": "Creyendo que han dejado atrás las sombras del pasado, los recién casados Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/all-american.webp",
-      "show_category": "Temporada 5 Episodio 13 - Day Ones",
-      "start_time": "05:02",
-      "end_time": "05:49",
-      "episode_description": "Mientras Olivia padece la pérdida de su padre, sus amigos y familiares deben dejar de lado su dolor para ayudarla mientras lucha por mantenerse sobria... Pero solo una persona puede ayudarla a encontrar la paz en medio de su dolor."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 86",
-      "start_time": "05:49",
-      "end_time": "06:00",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 85",
-      "start_time": "06:00",
-      "end_time": "06:13",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Corte nocturna",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7 - La corte subterránea",
-      "start_time": "06:13",
-      "end_time": "06:36",
-      "episode_description": "Cuando el tren se retrasa, Abby ve la oportunidad de servir a la justicia clandestina. Por otro lado, Gurgs intenta iniciar el proceso para que Abby pueda conocer a sus dos celebridades favoritas."
-    },
-    {
-      "show_name": "Corte nocturna",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - Luna de sangre",
-      "start_time": "06:36",
-      "end_time": "07:00",
-      "episode_description": "Una luna de sangre saca a relucir algunos de los casos más extraños que Nueva York tiene para ofrecer junto con un visitante sorpresa: la madre de Abby, que guarda algunos secretos."
-    },
-    {
-      "show_name": "Search Party",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/search-party.webp",
-      "show_category": "Temporada 3 Episodio 7 - Testigo deshonesto",
-      "start_time": "07:00",
-      "end_time": "07:25",
-      "episode_description": "Elliott toma la tribuna para testificar a favor de la defensa. La fe de Portia se profundiza, así como su vínculo con sus nuevos amigos cristianos. Drew hace una peligrosa elección de auto sabotaje y Dory recibe un terrible mensaje."
-    },
-    {
-      "show_name": "Search Party",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/search-party.webp",
-      "show_category": "Temporada 3 Episodio 8 - Una unión peligrosa",
-      "start_time": "07:25",
-      "end_time": "07:50",
-      "episode_description": "Cuando el grupo trata de hacer todo lo posible por hacer a un lado sus diferencias durante la épica boda de Elliott y Marc, Dory no puede evitar sentirse intranquila de que exista una presencia amenazante en los alrededores."
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e16_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 16 - La evaporación de la asignación",
+      "start_time": "02:01",
+      "end_time": "02:20",
+      "episode_description": "Sheldon y Amy tienen su primera pelea desde que se mudaron juntos. Mientras tanto, Raj se sorprende ante la realidad de la independencia financiera cuando deja de recibir el apoyo de su padre."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
-      "show_category": "Temporada 10 Episodio 21 - La agitación de la separación",
-      "start_time": "07:50",
-      "end_time": "08:11",
-      "episode_description": "Howard y Bernadette tienen algunas dificultades al dejar a Halley en la guardería, cuando Bernadette regresa al trabajo. Por otra parte, Bert le presenta al grupo a su novia Rebecca."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e17-the-comic-con-conundrum_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 17 - El enigma de la Comic-Con",
+      "start_time": "02:20",
+      "end_time": "02:41",
+      "episode_description": "Cuando Raj se queda sin la fortuna de su padre, asigna a Sheldon para estar a cargo de sus finanzas para lograr salir de deudas. Por otra parte, Penny considera acompañar a Leonard a la Comic-Con."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e18-the-escape-hatch-identification_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 18 - La identificación de la escotilla de escape",
+      "start_time": "02:41",
+      "end_time": "03:03",
+      "episode_description": "Cuando el grupo ofrece un lugar para que Raj viva, crea un conflicto inesperado entre todos y una discusión entre Amy y la madre de Leonard."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e19_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 19 - La fluctuación de la colaboración",
+      "start_time": "03:03",
+      "end_time": "03:23",
+      "episode_description": "Leonard, Penny y Raj se ajustan a la nueva convivencia y Sheldon expresa su interés por el trabajo de Amy."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e04-probador-de-laxantes-inseminador-de-caballos_l_m.jpg",
       "show_category": "Temporada 7 Episodio 4 - Probador de laxantes, inseminador de caballos",
-      "start_time": "08:11",
-      "end_time": "08:33",
+      "start_time": "03:23",
+      "end_time": "03:45",
       "episode_description": "Alan toma un trabajo con su madre para que pueda mudarse y tener tiempo a solas con Melissa, y Chelsea está molesta por la forma en que Jake la está tratando."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e05-por-el-bien-del-nino_l_m.jpg",
       "show_category": "Temporada 7 Episodio 5 - Por el bien del niño",
-      "start_time": "08:33",
-      "end_time": "08:57",
+      "start_time": "03:45",
+      "end_time": "04:06",
       "episode_description": "Jake rehúsa pasar sus fines de semana con Alan y Charlie después de que estos lo avergonzaran en público. Ahora los hermanos tendrán que poner a un lado sus diferencias para que Jake vuelva a pasar los fines de semana con ellos."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e06-dame-tu-pulgar_l_m.jpg",
       "show_category": "Temporada 7 Episodio 6 - Dame tu pulgar",
-      "start_time": "08:57",
-      "end_time": "09:20",
+      "start_time": "04:06",
+      "end_time": "04:28",
       "episode_description": "Por alguna extraña razón, Alan le sugiere a Chelsea que se someta a una cirugía para reducir el tamaño de sus senos y Charlie decide echarlo."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e07-lo-inmaculado_l_m.jpg",
       "show_category": "Temporada 7 Episodio 7 - Lo inmaculado",
-      "start_time": "09:20",
-      "end_time": "09:43",
+      "start_time": "04:28",
+      "end_time": "04:52",
       "episode_description": "Luego de que Charlie y Chelsea acordaran el día de su boda. él y Alan salen a emborracharse y despiertan en una cama junto a una mujer que no conocen."
     },
     {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 7 Episodio 8 - Madre del amor hermoso",
-      "start_time": "09:43",
-      "end_time": "10:03",
-      "episode_description": "La increíblemente atractiva antigua compañera de cuarto de Chelsea se quedará en la casa para sobrellevar su reciente rompimiento."
+      "show_name": "All American",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_all-american-s05e14-make-me-proud_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 14 - Make Me Proud",
+      "start_time": "04:52",
+      "end_time": "05:38",
+      "episode_description": "Jordan intenta ser un hombre ante la ausencia de su padre, pero cuando la muerte de Billy se utiliza para atraer atención positiva para el programa de fútbol GAU, Jordan se pregunta si su legado es solo vivir a la sombra de su progenitor."
+    },
+    {
+      "show_name": "Obreros milagrosos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_obreros-milagrosos-s02e08-first-date_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 8 - La primera cita",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Al y Prince Chauncley asisten a una clase de astronomía. Por su parte, Eddie conoce a una nueva vecina."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e86_l_m.jpg",
+      "show_category": "Episodio 86",
+      "start_time": "06:00",
+      "end_time": "06:09",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Corte nocturna",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 9 - Dos gotas de agua",
+      "start_time": "06:09",
+      "end_time": "06:35",
+      "episode_description": "Abby intenta que la corte aparezca en un podcast popular, pero el presentador solo tiene ojos para Dan, quien pronto descubre que ser el centro de atención puede tener sus desventajas."
+    },
+    {
+      "show_name": "Corte nocturna",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 10 - Maratón-Ton-Ton-Ton-Ton",
+      "start_time": "06:35",
+      "end_time": "06:58",
+      "episode_description": "Rand, el prometido de Abby, está en la ciudad para ayudarla a entrenar para un maratón al que Olivia decide unirse. Mientras tanto, Gurgs ayuda a Dan a intentar salvar un banco que tiene valor sentimental."
+    },
+    {
+      "show_name": "Search Party",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_search-party-s03e09-irrefutable-evidence_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 9 - Pruebas Irrefutables",
+      "start_time": "06:58",
+      "end_time": "07:24",
+      "episode_description": "Evidencia alarmante surge y restringe potencialmente las oportunidades de Dory y Drew de ser exonerados. En tanto, Elliott confronta sus raíces y Portia intenta corregir las cosas al haber testificado en contra de sus amigos."
+    },
+    {
+      "show_name": "Search Party",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_search-party-s03e10-the-reckoning_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 10 - La sentencia",
+      "start_time": "07:24",
+      "end_time": "07:51",
+      "episode_description": "Es el día más tenso en la vida del grupo de amigos, mientras el jurado delibera acerca del destino de Dory y Drew."
+    },
+    {
+      "show_name": "La herencia del Sr. Deeds",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-herencia-del-sr-deeds-2002_l_m.jpg",
+      "show_category": "Mr. Deeds",
+      "start_time": "07:51",
+      "end_time": "09:32",
+      "episode_description": "Para el conocido propietario de Deeds Pizza la vida es fácil en el pequeño restaurante del pueblo, hasta que el empresario Chuck Cedar trae la noticia de que está a punto de amasar un tipo de pasta diferente."
+    },
+    {
+      "show_name": "Momias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Mummies",
+      "start_time": "09:32",
+      "end_time": "11:07",
+      "episode_description": "Sigue a tres momias que terminan en el Londres actual y se embarcan en un viaje en busca de un antiguo anillo perteneciente a la familia real, robado por el ambicioso arqueólogo Lord Carnaby."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e22-the-congnition-regeneration_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 22 - La regeneración de la cognición",
+      "start_time": "11:07",
+      "end_time": "11:30",
+      "episode_description": "Leonard se molesta cuando Penny analiza aceptar una oferta laboral de Zack, su ex novio. Por otra parte, Howard enseña cosas nuevas a Sheldon."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e23_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 23 - El hundimiento giroscópico",
+      "start_time": "11:30",
+      "end_time": "11:51",
+      "episode_description": "Luego que Leonard, Sheldon y Wolowitz celebran la culminación del proyecto ultrasecreto para la Fuerza Aérea, se llevan una desagradable sorpresa. Además, a Amy le ofrecen un puesto durante el verano como investigadora visitante."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s10e24-the-long-distance-dissonance_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 24 - La disonancia de la larga distancia",
+      "start_time": "11:51",
+      "end_time": "12:12",
+      "episode_description": "El grupo está preocupado porque la ex admiradora de Sheldon, la Dra. Ramona Nowitzki, reaparece mientras Amy está en Princeton."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e01-the-proposal-proposal_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 1 - La proposición de la proposición",
+      "start_time": "12:12",
+      "end_time": "12:35",
+      "episode_description": "Amy le da a Sheldon una respuesta a su propuesta, mientras Howard y Bernadette deben lidiar con algunas noticias inesperadas."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e02-the-retraction-reaction_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 2 - La reacción de la disculpa",
+      "start_time": "12:35",
+      "end_time": "12:59",
+      "episode_description": "Leonard irrita a la Universidad y a la Comunidad de Física cuando hace una entrevista de radio vergonzosa. Bernadette y Amy hablan sobre su éxito. Después de la vergonzosa entrevista de radio, Penny consuela a su esposo."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e03-the-relaxation-integration_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 3 - La integración de la relajación",
+      "start_time": "12:59",
+      "end_time": "13:21",
+      "episode_description": "Sheldon y Amy luchan por elegir una fecha para la boda. Amy lo quiere cerca de un acantilado que Sheldon no quiere. Mientras tanto, Stuart y Raj luchan por uno de los compañeros de Bernadette para una cita."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 7 Episodio 9 - El aerosol para el cabello del capitán Terry",
-      "start_time": "10:03",
-      "end_time": "10:26",
-      "episode_description": "Alan intenta un nuevo estilo de peinado justo antes de salir con una chica. Chelsea, por su parte, le revela a Charlie que él no la ha estado complaciendo sexualmente, por lo menos no tanto como el mayor de los Harper pensaba."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e10-por-eso-son-tan-populares_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 10 - Por eso son tan populares",
+      "start_time": "13:21",
+      "end_time": "13:43",
+      "episode_description": "Charlie descubre que el estado financiero de Chelsey es muy diferente del que él pensaba."
     },
     {
-      "show_name": "Batman: El caballero de la noche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/batman-el-caballero-de-la-noche.webp",
-      "show_category": "The Dark Knight",
-      "start_time": "10:26",
-      "end_time": "13:04",
-      "episode_description": "Con la ayuda del teniente Jim Gordon y el Fiscal del Distrito Harvey Dent, Batman tiene como objetivo destruir el crimen organizado en Ciudad Gótica. Ahora es el momento de enfrentar a la nueva mente criminal conocida como Joker."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e11-aviso-es-verde_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 11 - Aviso, es verde",
+      "start_time": "13:43",
+      "end_time": "14:04",
+      "episode_description": "Charlie ayuda a Jake a que engañe a su novia cuando la chica se encuentra de viaje por las fiestas. Más adelante, Evelyn llevará a un muy famoso productor de televisión a la cena de Navidad en casa de Charlie."
     },
     {
-      "show_name": "En el tornado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/en-el-tornado.webp",
-      "show_category": "Into the Storm",
-      "start_time": "13:04",
-      "end_time": "14:35",
-      "episode_description": "En un solo día, la ciudad de Silverton es azotada por una serie de tornados sin precedentes. Todo el pueblo está a merced de ciclones erráticos y mortales, mientras que los cazadores de tormentas predicen que lo peor aún no ha llegado."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e12-chistes-sucios-pastel-y-celeste_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 12 - Chistes sucios, pastel y celeste",
+      "start_time": "14:04",
+      "end_time": "14:28",
+      "episode_description": "Jake espera poder reconquistar el corazón de Celeste componiéndole canciones de amor. Mientras tanto, Alan y Herb hacen todo lo posible para que Judith no se entere de que se han vuelto amigos."
     },
     {
-      "show_name": "Aquaman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/aquaman.webp",
-      "show_category": "Acción / 2018 /7.0",
-      "start_time": "14:35",
-      "end_time": "17:05",
-      "episode_description": "Cuenta la historia del origen de Arthur Curry, mitad humano y mitad atlante, quien emprende la aventura de su vida; una que lo obligará a enfrentarse a quien realmente es y también lo ayudará a descubrir si es merecedero del trono."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e13-bien-ni-un-polipo_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 13 - Bien, ¡Ni un pólipo!",
+      "start_time": "14:28",
+      "end_time": "14:51",
+      "episode_description": "Charlie pauta una colonoscopia para evitar viajar a conocer a los padres de Chelsey, pero durante el proceso, esta cambia los planes y convence a sus padres de que sean ellos quienes vayan a visitarla."
     },
     {
-      "show_name": "Constantine",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/constantine.webp",
-      "show_category": "Acción / 2005 /6.9",
-      "start_time": "17:05",
-      "end_time": "19:15",
-      "episode_description": "John Constantine conoce bien las maldiciones del Infierno y las bondades celestiales. La misteriosa muerte de una devota religiosa lo llevará, junto a la hermana de la fallecida, a luchar contra las fuerzas del mal."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e14-rudo-e-innecesario_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 14 - Rudo e innecesario",
+      "start_time": "14:51",
+      "end_time": "15:15",
+      "episode_description": "Alan termina en la cárcel después de una pelea en un bar, y a Charlie le preocupa que Chelsea pueda estar interesada en el abogado que toma el caso."
     },
     {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Wonder Woman 1984",
-      "start_time": "19:15",
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s07e15-la-piton-de-mi-cuarto_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 15 - La pitón de mi cuarto",
+      "start_time": "15:15",
+      "end_time": "15:39",
+      "episode_description": "Los celos de Charly ponen en riesgo su relación con Chelsea."
+    },
+    {
+      "show_name": "Shrek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shrek-2001_l_m.jpg",
+      "show_category": "Animación / 2001 /7.9",
+      "start_time": "15:39",
+      "end_time": "17:12",
+      "episode_description": "Después de que su pantano se llenará de criaturas mágicas, un ogro solitario y gruñón llamado Shrek acepta la misión de rescatar a la bella princesa Fiona, que guarda un oscuro secreto, para que Lord Farquaad pueda casarse con ella."
+    },
+    {
+      "show_name": "Shrek 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shrek-2-2004_l_m.jpg",
+      "show_category": "Animación / 2004 /7.2",
+      "start_time": "17:12",
+      "end_time": "18:47",
+      "episode_description": "Shrek y Fiona, convertida en ogro por amor, viajan a conocer a los padres de la joven, reyes de la mágica tierra de Muy, muy lejano. Horrorizados por el yerno, el rey prepara un complot para deshacerse de él."
+    },
+    {
+      "show_name": "Shrek tercero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shrek-tercero-2007_l_m.jpg",
+      "show_category": "Shrek the Third",
+      "start_time": "18:47",
+      "end_time": "20:22",
+      "episode_description": "Cuando Shrek se casó con Fiona, lo último que se imaginó es que podría convertirse en el siguiente rey. Pero cuando su suegro, el rey Harold, muere sin previo aviso, es exactamente lo que le espera."
+    },
+    {
+      "show_name": "Shrek para siempre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shrek-para-siempre-2010_l_m.jpg",
+      "show_category": "Shrek Forever After",
+      "start_time": "20:22",
       "end_time": "22:00",
-      "episode_description": "En 1984, en plena Guerra Fría, Diana Prince, la Mujer Maravilla, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva, conocida como Cheetah, una villana que posee fuerza y agilidad sobrehumanas."
-    },
-    {
-      "show_name": "Cincuenta sombras liberadas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/cincuenta-sombras-liberadas.webp",
-      "show_category": "Fifty Shades Freed",
-      "start_time": "22:00",
-      "end_time": "23:54",
-      "episode_description": "Creyendo que han dejado atrás las sombras del pasado, los recién casados Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas."
+      "episode_description": "Aburrido de su vida, Shrek hace un pacto con Rumpelstiltskin para volver a sentirse como un verdadero ogro, pero es engañado y enviado a una retorcida versión de Muy Muy Lejano. Deberá restaurar su mundo y recuperar el amor de Fiona."
     },
     {
       "show_name": "Bad Boys para siempre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/bad-boys-para-siempre.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bad-boys-para-siempre-2020_l_m.jpg",
       "show_category": "Bad Boys for Life",
-      "start_time": "23:54",
+      "start_time": "22:00",
       "end_time": "",
       "episode_description": "Los detectives de Miami, Mike Lowrey y Marcus Burnett, deben enfrentarse a una pareja de narcotraficantes que causan estragos vengativos en su ciudad."
     }
