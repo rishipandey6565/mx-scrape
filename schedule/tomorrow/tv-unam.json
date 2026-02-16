@@ -1,198 +1,182 @@
 {
   "channel": "TV UNAM",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Tiempo de filmoteca de la UNAM",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/tiempo-de-filmoteca-de-la-unam.webp",
-      "show_category": "Documental",
-      "start_time": "00:00",
-      "end_time": "00:15",
-      "episode_description": "Un espacio para la difusión del cine a través del abordaje de las obras de diferentes cineastas.Al final de cada proyección de las cintas, la actriz Alejandra Toussaint entrevista a distintos invitados para comentar las historias."
-    },
-    {
-      "show_name": "Íconos del jazz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/íconos-del-jazz.webp",
-      "show_category": "- Jimmy Smith. Primera parte",
-      "start_time": "00:15",
-      "end_time": "01:15",
-      "episode_description": "Revivimos los grandes clásicos del jazz envueltos en la onda digital para seguirnos deleitando con sus notas sostenidas."
-    },
-    {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "01:15",
-      "end_time": "01:15",
+      "start_time": "01:00",
+      "end_time": "01:00",
       "episode_description": "Un programa sin contenido ni programación."
     },
     {
       "show_name": "Fuera del aire",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/fuera-del-aire.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuera-del-aire_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "01:15",
+      "start_time": "01:00",
       "end_time": "08:00",
       "episode_description": "Un programa sin contenido ni programación."
     },
     {
-      "show_name": "Enlaces",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/enlaces.webp",
-      "show_category": "Tecnología",
+      "show_name": "Música en escena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Duo Fischer-Pepi",
       "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política."
-    },
-    {
-      "show_name": "Noticiero científico y cultural iberoamericano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/noticiero-científico-y-cultural-iberoamericano.webp",
-      "show_category": "Noticiero",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
-    },
-    {
-      "show_name": "Maestros detrás de las ideas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/maestros-detrás-de-las-ideas.webp",
-      "show_category": "- Pablo González Casanova. Los territorios intelectuales de la democracia",
-      "start_time": "09:00",
       "end_time": "09:30",
-      "episode_description": "González Casanova comparte su pasión como sociólogo, profesor e investigador de la UNAM."
+      "episode_description": "Concierto sinfónico llevado a cabo en las inmediaciones del Teatro Morelos. El público podrá disfrutar del talento de un grupo de músicos profesionales mientras interpretan las composiciones más desafiantes y complejas."
     },
     {
-      "show_name": "Bajo un mismo sol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/bajo-un-mismo-sol.webp",
-      "show_category": "Episodio 7",
+      "show_name": "Fuerza latina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 169 - El universo femenino en el cine de Antonella Sudasassi",
       "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "Ofrece espacios de comunicación alternativa a los pueblos y nacionalidades originarias del Ecuador, fortaleciendo la identidad cultural."
+      "episode_description": "La cineasta costarricense Antonella Sudasassi nos cuenta cómo desnudan temas universales a través de sus películas."
     },
     {
-      "show_name": "Cultura.21",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/cultura21.webp",
+      "show_name": "Ventana mirador universitario",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ventana-mirador-universitario-1_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento."
-    },
-    {
-      "show_name": "De los dioses, el maíz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/de-los-dioses-el-maíz.webp",
-      "show_category": "Temporada 1 Episodio 3 - Maíz de colores, maíz diverso",
-      "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Haremos un recorrido por los distintos tipos, sabores, y formas que tiene el Maíz en nuestro país. Así nos veremos identificados: Maíz y ser humano, juntos y reflejo uno del otro."
+      "episode_description": "Brinda información, asesoría y apoyo en diversos ámbitos, tales como el educativo, social, familiar y de salud, todo para asegurar el pleno desarrollo de las familias mexicanas, así como también del resto del mundo."
     },
     {
-      "show_name": "La villa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Calle Juan de Montoro - Segunda parte",
+      "show_name": "Íconos del jazz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_iconos-del-jazz-jimmy-smith-segunda-parte-2_l_m.jpg",
+      "show_category": "- Jimmy Smith. Segunda parte",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Programa que busca el rescate de la historia de las calles y plazas de la anteriormente conocida como \"la villa de las Aguas Calientes\"."
+      "end_time": "12:00",
+      "episode_description": "Revivimos los grandes clásicos del jazz envueltos en la onda digital para seguirnos deleitando con sus notas sostenidas."
     },
     {
       "show_name": "Chaplin",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "- Policía",
-      "start_time": "11:30",
-      "end_time": "12:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Bajo la mirada de Chaplin, cada pequeño acontecimiento diario se convierte en una gran comedia."
     },
     {
-      "show_name": "Concierto sinfónico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/concierto-sinfónico.webp",
-      "show_category": "- OFUNAM",
-      "start_time": "12:00",
-      "end_time": "14:00",
-      "episode_description": "Presentación de la Orquesta Filarmónica de la UNAM, el conjunto sinfónico más antiguo en el panorama cultural de la Ciudad de México."
+      "show_name": "El falso escultor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-falso-escultor-1959_l_m.jpg",
+      "show_category": "A Bucket of Blood",
+      "start_time": "12:30",
+      "end_time": "13:45",
+      "episode_description": "Walter, un camarero infeliz, sueña con ser escultor. Para ello empieza a matar a fin de conseguir modelos más \"realistas\" y convertirse así en el artista más importante del ambiente."
     },
     {
-      "show_name": "Especial - 12 aniversario luctuoso Juan Gelman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Federico Campbell. Trabajo de la memoria",
+      "show_name": "Patrimonio mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_patrimonio-mundial-budapest-las-orillas-del-danubio-y-el-barrio-del-castillo-de-buda-hungria_l_m.jpg",
+      "show_category": "- Budapest - Las orillas del Danubio y el barrio del Castillo de Buda, Hungría",
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": "El aspecto de la capital húngara está marcado por la destrucción y las reconstrucciones. Sobre los cimientos de las antiguas edificaciones se alza el Budapest actual."
+    },
+    {
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Juan Gelman fue un destacado poeta argentino. Desde muy joven se dedicó a la escritura y desarrolló una amplia trayectoria como periodista, traductor y militante activo en organizaciones político-militares como las FAR y Montoneros."
+      "episode_description": "Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región."
     },
     {
-      "show_name": "Especial 82 años. Palabra empeñada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- José María Pérez Gay. Consejos de la memoria",
+      "show_name": "La UNAM responde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-unam-responde_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "Explora la vida y obra de grandes escritores y pensadores como José Emilio Pacheco, Francisco Hernández, y Eraclio Zepeda. Se centra en el legado literario y la trayectoria intelectual de los protagonistas."
+      "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
     },
     {
-      "show_name": "Heredarás el viento",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/heredarás-el-viento.webp",
-      "show_category": "Biográfico / 1960 /8.2",
+      "show_name": "FIC53",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Kaoru Watanabe and Bloodlines Interwoven, Reino Unido",
       "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": "Transmisión del Festival Internacional Cervantino (FIC), una celebración cultural nacional que busca llegar a los rincones de toda la República mexicana a través del Circuito Cervantino."
+    },
+    {
+      "show_name": "La lista de Erick",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-lista-de-erick-vaya-con-dios_l_m.jpg",
+      "show_category": "- Vaya con Dios",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras."
+    },
+    {
+      "show_name": "Fuerza latina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 169 - El universo femenino en el cine de Antonella Sudasassi",
+      "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "En una pequeña ciudad de Tennessee se juzga a un profesor por enseñar a sus alumnos la teoría de la evolución de las especies. Así se produce una una explosiva batalla judicial entre el abogado defensor y un líder ultraconservador."
+      "episode_description": "La cineasta costarricense Antonella Sudasassi nos cuenta cómo desnudan temas universales a través de sus películas."
     },
     {
-      "show_name": "Revista de la Universidad de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/revista-de-la-universidad-de-méxico.webp",
-      "show_category": "Cultural",
+      "show_name": "En directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- José Meyer Ft. Samantha Barrón",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Espacio de reflexión y diálogo que reúne mensualmente distintas voces y, desde numerosos puntos de vista, a veces opuestos, aborda temas relevantes que permiten entender mejor nuestro mundo."
+      "end_time": "18:30",
+      "episode_description": "Conciertos de grandes intérpretes."
     },
     {
-      "show_name": "Italiana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 1",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Magazine que nos ofrece piezas de arte, cultura, gastronomía, turismo, moda y diseño promocionando la excelencia del \"Made in Italy\"."
+      "show_name": "La UNAM responde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-unam-responde_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "El programa cuenta con la participación de especialistas de la UNAM que aportarán a la audiencia información con respecto a la amenaza de salud que representa la pandemia de COVID-19."
+    },
+    {
+      "show_name": "Chaplin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Policía",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Bajo la mirada de Chaplin, cada pequeño acontecimiento diario se convierte en una gran comedia."
+    },
+    {
+      "show_name": "Íconos del jazz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_iconos-del-jazz-jimmy-smith-segunda-parte-2_l_m.jpg",
+      "show_category": "- Jimmy Smith. Segunda parte",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "Revivimos los grandes clásicos del jazz envueltos en la onda digital para seguirnos deleitando con sus notas sostenidas."
+    },
+    {
+      "show_name": "No memes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_no-memes_l_m.jpg",
+      "show_category": "Tecnología",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Noticiario tecnológico en el que exploramos la actualidad de gadgets, redes sociales, el cibermundo y los videojuegos. De jóvenes a jóvenes"
     },
     {
       "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/leémelo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_leemelo_l_m.jpg",
       "show_category": "Educativo",
-      "start_time": "18:30",
-      "end_time": "19:30",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
     },
     {
-      "show_name": "Diálogos por la democracia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/diálogos-por-la-democracia.webp",
-      "show_category": "Político",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Espacio universitario que busca promover el diálogo, el debate y la participación ciudadana para generar reflexión sobre la cultura electoral y democrática en México."
-    },
-    {
-      "show_name": "Media 20.1",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/media-201.webp",
-      "show_category": "Interés general",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Gabriel Sosa Plata platica con el próximo Coordinador de Comunicación Social, sobre la apertura que tendrán los medios en el próximo sexenio y el impulso que se les dará a televisoras y estaciones de radio más pequeñas."
-    },
-    {
-      "show_name": "Urban Beat",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tv-unam/tomorrow/urban-beat.webp",
-      "show_category": "Temporada 6 Episodio 24 - José Meyer Ft. Samantha Barron",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "José Meyer y Samantha Barrón unen estilos en \"Solo por Hoy\", una íntima mezcla de R&B y soul. Aclamada por fans del indie en español, la química entre ambos brilla en este tema."
-    },
-    {
-      "show_name": "Nuestras cosmovisiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Los espacios arquitectónicos y las pinturas como representación del cosmos",
+      "show_name": "Calzonzín inspector",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_calzonzin-inspector-1973-1_l_m.jpg",
+      "show_category": "Comedia / 1973",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Consta de trece capítulos que proponen un viaje a través del tiempo, el espacio, el conocimiento y las creencias de las culturas mesoamericanas, cuyos elementos aún forman parte del México moderno."
+      "end_time": "23:45",
+      "episode_description": "Trata de dos indígenas que están confundidos por los inspectores del gobierno de la capital y por el alcalde corrupto de un pueblo pequeño. Era un momento en que la libertad de expresión en los asuntos políticos era muy restringido."
     },
     {
-      "show_name": "Alfie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Película /6.2",
-      "start_time": "23:00",
+      "show_name": "Tiempo de filmoteca de la UNAM",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-filmoteca-de-la-unam_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": ""
+      "episode_description": "Un espacio para la difusión del cine a través del abordaje de las obras de diferentes cineastas.Al final de cada proyección de las cintas, la actriz Alejandra Toussaint entrevista a distintos invitados para comentar las historias."
     }
   ]
 }

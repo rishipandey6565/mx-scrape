@@ -1,98 +1,74 @@
 {
   "channel": "Canal 44 - udgtv",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Palco 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/palco-44.webp",
-      "show_category": "Episodio 235 - Ballet Nacional de Panamá",
+      "show_name": "Catadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_catadores-s01e01-te_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Té",
       "start_time": "00:02",
+      "end_time": "00:30",
+      "episode_description": "Inés Berton además de una experimentada catadora de té, es pionera en Argentina en la producción de alta calidad. Ella misma crea los blends que comercializa por todo el mundo."
+    },
+    {
+      "show_name": "Científicos en acción",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cientificos-en-accion-s02e05-formacion-de-profesores-en-chile_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 5 - Formación de profesores en Chile",
+      "start_time": "00:30",
       "end_time": "01:00",
+      "episode_description": "Amaro Gómez-Pablos nos llevará a conocer investigaciones y experiencias científicas contadas desde el día a día de sus protagonistas."
+    },
+    {
+      "show_name": "Ruta 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ruta-44-s00e497-el-brote-de-sarampion-en-jalisco_l_m.jpg",
+      "show_category": "Episodio 497 - El brote de sarampión en Jalisco",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Con más de mil casos acumulados, Jalisco encabeza los estados del país con la mayor presencia de sarampión, después de que durante una década México había permanecido sin registrar un solo caso."
+    },
+    {
+      "show_name": "Bajo la piel del conflicto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "El documental es una aproximación al conocimiento neurocientífico con el objetivo de entender los principales conflictos sociales. El documental está dividido en tres grandes bloques: el aprendizaje, el juicio moral y el cerebro social."
+    },
+    {
+      "show_name": "Al máximo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_magazine-al-maximo_l_m.jpg",
+      "show_category": "Al máximo",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
+    },
+    {
+      "show_name": "Palco 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_palco-44-s00e235-ballet-nacional-de-panama_l_m.jpg",
+      "show_category": "Episodio 235 - Ballet Nacional de Panamá",
+      "start_time": "04:00",
+      "end_time": "05:30",
       "episode_description": "Cada semana los mejores exponentes de la música se dan cita en este espacio. Un boleto de acceso completo para disfrutar, desde la comodidad del hogar, de distintos conciertos en los que la audiencia goza de variadas propuestas musicales."
     },
     {
-      "show_name": "La cocina de mi abuela",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/la-cocina-de-mi-abuela.webp",
-      "show_category": "Temporada 1 Episodio 1 - Pasteles de garbanzo",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Un deleite al paladar con los mejores platos de los 40 municipios de Norte de Santander"
-    },
-    {
-      "show_name": "Oficios del fin del mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - Industria turbera",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Debido al frío clima en el que prolifera, Tierra del Fuego es un lugar idóneo para la producción de la tuba y conoceremos todo el proceso productivo de este valioso recurso, tan fundamental para diversos cultivos."
-    },
-    {
-      "show_name": "Enamórate de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 6 - Villa Tamazulapam del Progreso",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Hoy conoceremos historias y leyendas de Tamazulapam del Progreso, pero también visitaremos el ojo de agua grande y el ojo de agua chico, el nacimiento de agua azufrada, el cañón del lugar y los platillos típicos de la región."
-    },
-    {
-      "show_name": "La lista de Erick",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/la-lista-de-erick.webp",
-      "show_category": "Episodio 219 - Nicaragua: el mapa de los sabores",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Erick realiza un viaje por Nicaragua que se convierte en una auténtica aventura gastronómica, cuyo objetivo es encontrar los ingredientes esenciales de la cocina local."
-    },
-    {
-      "show_name": "La tribunera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/la-tribunera.webp",
-      "show_category": "La tribunera",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
-    },
-    {
-      "show_name": "De propia voz, maestras y maestros de la Universidad de Guadalajara",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 10 - Francisco Medina",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Estudió muy joven en la Escuela de Artes Plásticas de la UdeG y estuvo en la primera generación de Arquitectura. Impartió cátedra a más de 50 generaciones."
-    },
-    {
-      "show_name": "Café Chéjov",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/café-chéjov.webp",
-      "show_category": "Temporada 6 Episodio 1 - Socorro Venegas",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Edición en donde la palabra se vuelve imagen a través de la literatura, con un recorrido que muestra sus máximos exponentes, historias, logros, motivaciones y algunas recomendaciones para los amantes del género."
-    },
-    {
       "show_name": "Evali: morir vapeando",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Salud",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": "Hay más preguntas que respuestas sobre cómo la vaporización afecta nuestra salud. Desde 2019, se han extendido casos de una misteriosa enfermedad del vapeo conocida como EVALI, una lesión pulmonar asociada con el uso del producto."
     },
     {
-      "show_name": "RT reporta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Silbo Gomero: ecos de tradición",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "En el mundo existen sistemas de comunicación que todavía pueden sorprendernos. En España, uno de ellos se puede encontrar en las Canarias: el silbo gomero."
-    },
-    {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
@@ -100,7 +76,7 @@
     },
     {
       "show_name": "44 en el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "06:02",
       "end_time": "06:15",
@@ -108,227 +84,211 @@
     },
     {
       "show_name": "Corte NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/corte-ncc.webp",
-      "show_category": "Noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_corte-ncc-s00e21_l_m.jpg",
+      "show_category": "Episodio 21",
       "start_time": "06:15",
       "end_time": "06:30",
       "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
     },
     {
-      "show_name": "Enlaces",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 393",
+      "show_name": "Eco Latinoamérica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_eco-latinoamerica-s00e147_l_m.jpg",
+      "show_category": "Episodio 147",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política."
+      "episode_description": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región."
     },
     {
-      "show_name": "Al máximo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/al-máximo.webp",
-      "show_category": "Al máximo",
+      "show_name": "UDG Noticias - Emisión matutina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
-    },
-    {
-      "show_name": "Oficios del fin del mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - Industria turbera",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Debido al frío clima en el que prolifera, Tierra del Fuego es un lugar idóneo para la producción de la tuba y conoceremos todo el proceso productivo de este valioso recurso, tan fundamental para diversos cultivos."
-    },
-    {
-      "show_name": "Los que los chicos opinan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8",
-      "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": ""
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad."
     },
     {
-      "show_name": "Un gringo en tierra Zhue",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/un-gringo-en-tierra-zhue.webp",
-      "show_category": "Episodio 6",
+      "show_name": "DW noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dw-noticias_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "09:00",
       "end_time": "09:15",
-      "episode_description": "Isabela, Matías y Coato deciden llevar a Tonny, un explorador accidentado, a una aventura ancestral a través de diez pictogramas Guanes, los cuales ayudarán a que vuele su imaginación y recree las historias plasmadas en ellas."
+      "episode_description": "El noticiero de la DW prioriza el desarrollo de las historias de América Latina desde una perspectiva europea. Muestra los temas que afectan a las personas en todo el mundo con más profundidad y análisis de primera mano."
     },
     {
-      "show_name": "Los Pérez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/los-pérez.webp",
-      "show_category": "Episodio 3 - La salud es lo primero",
+      "show_name": "NCC cultura en movimiento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 40",
       "start_time": "09:15",
       "end_time": "09:30",
-      "episode_description": "Zila se encuentra enferma y Denis se encuentra motivado e intenta invitarla a jugar y cantar. Pero ella no se encuntra en condiciones, prefiere conservar energías y esperar a curarse, porque sabe que la salud está primero."
+      "episode_description": "Un espacio noticioso que explora diversas temáticas vinculadas a la identidad mexicana. El público podrá informarse al completo sobre gastronomía, museografía, turismo, artesanía, festivales e historias."
     },
     {
-      "show_name": "Súper niños",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/súper-niños.webp",
-      "show_category": "Episodio 1 - Super Beats",
+      "show_name": "Fil de bolsillo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 25",
       "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Una serie animada en formato documental que busca reconocer los talentos artísticos y cognitivos que tienen los niños del Gran Santander. Detrás de cada niño y cada niña espera un talento con una gran historia por descubrir."
+      "end_time": "09:33",
+      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
     },
     {
-      "show_name": "LaboraTIC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/laboratic.webp",
-      "show_category": "Episodio 26 - E-Working",
+      "show_name": "NCC Reporte climático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 237 - Moda lenta: tejiendo un futuro sostenible",
+      "start_time": "09:33",
+      "end_time": "10:00",
+      "episode_description": "Reporte sobre cambio climático con un enfoque de periodismo de soluciones que muestra la manera en que los sectores académicos y sociales, así como las autoridades, enfrentan los efectos del cambio climático."
+    },
+    {
+      "show_name": "Incluídos: trabajar sin prejuicios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_incluidos-trabajar-sin-prejuicios-s00e01-ibm_l_m.jpg",
+      "show_category": "Episodio 1 - IBM",
       "start_time": "10:00",
       "end_time": "10:30",
-      "episode_description": "El profesor Geekberto junto su amiga robot, Computadora, se ha propuesto compartir con nosotros desde su garaje todos sus conocimientos, secretos y consejos, para facilitarnos el acceso al infinito universo digital."
+      "episode_description": "Alejandro, Diego y Susana son profesionales del área de sistemas."
     },
     {
-      "show_name": "Birli Birloque - Oficios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/birli-birloque-oficios.webp",
-      "show_category": "Temporada 2 Episodio 10 - Animales del mundo prehispánico",
+      "show_name": "La lista de Erick",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-lista-de-erick-s00e46-estudiar-en-rusia-mision-posible_l_m.jpg",
+      "show_category": "Episodio 46 - Estudiar en Rusia misión posible",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Rogelio III nos invita a hacer un recorrido por el zoológico del altiplano de Tlaxcala en donde podremos identificar muchos animales, como leones, aves, insectos y hasta mascotas despistadas."
+      "episode_description": "En este capítulo Erick Fonseca visita la biblioteca más legendaria de Moscú y da un paseo por la calle más famosa de la ciudad. También ve con sus propios ojos los autos más legendarios de la Rusia de los últimos 100 años."
     },
     {
-      "show_name": "La banda de Andy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 8 - Aventuras de estatuas en San Agustín",
+      "show_name": "Minuto 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-minuto-44_l_m.jpg",
+      "show_category": "Minuto 44",
       "start_time": "11:00",
-      "end_time": "11:10",
-      "episode_description": "Los personajes llegan al Huila, con la intuición de que el árbol tiene que ver algo con las estatuas y la pista que recibieron en el desierto de la Tatacoa."
+      "end_time": "12:00",
+      "episode_description": "Acércate a las actividades de los atletas poniendo bajo la lupa todas las disciplinas deportivas en este espacio, donde distintos personajes exponen sus puntos de vista sobre diferentes temas relacionados con la vida en este mundo."
     },
     {
-      "show_name": "Creando con Bach",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/creando-con-bach.webp",
-      "show_category": "Episodio 6 - Castor de plastilina",
-      "start_time": "11:10",
-      "end_time": "11:20",
-      "episode_description": "Los niños aprenderán y practicarán la técnica del moldeado con plastilina."
+      "show_name": "A puro chile",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-puro-chile-s00e06-el-chile-chiquito_l_m.jpg",
+      "show_category": "Episodio 6 - El chile chiquito",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "¿Cómo puede gustarnos algo tan astringente como el picante? ¿De qué manera y a qué edad nos vamos inclinando por las salsas picosas? ¿Es un gusto adquirido y cultural? Acompáñanos a descubrirlo."
     },
     {
-      "show_name": "El zoológico de Tina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/el-zoológico-de-tina.webp",
-      "show_category": "Episodio 2",
-      "start_time": "11:20",
-      "end_time": "11:30",
-      "episode_description": "Tina es una niña que, acompañada por su fiel cerdito mascota Polly, vive diferentes aventuras en las que aprende el valor de los animales y su importancia en el mundo."
+      "show_name": "Sabroso y saludable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sabroso-y-saludable-s05e04-queretaro_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 4 - Querétaro",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Tenemos como principal argumento la frase de Hipócrates; \"Deja que los alimentos sean tu medicina y que la medicina sea tu alimento.\" Los menús que se preparan, son originales y están formulados para prevenir enfermedades."
+    },
+    {
+      "show_name": "UDG Noticias - Emisión vespertina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad."
+    },
+    {
+      "show_name": "En directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_en-directo_l_m.jpg",
+      "show_category": "Entrevista",
+      "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": "Este programa le da voz al público, mediante reportajes, llamadas en vivo y testimoniales, para que denuncie o exprese sus inquietudes, a las cuales se pretende dar respuesta con la voz de funcionarios públicos."
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/desde-el-zoológico.webp",
-      "show_category": "Episodio 667 - Reconociendo a Chimuelo",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Chimuelo es un capibara macho, pero, es uno de los más longevos que han estado bajo cuidado profesional en el zoológico Guadalajara y hoy, lo visitamos en su recinto junto a tres de sus hijas de distintas camadas."
-    },
-    {
-      "show_name": "Enamórate de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 6 - Villa Tamazulapam del Progreso",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Hoy conoceremos historias y leyendas de Tamazulapam del Progreso, pero también visitaremos el ojo de agua grande y el ojo de agua chico, el nacimiento de agua azufrada, el cañón del lugar y los platillos típicos de la región."
-    },
-    {
-      "show_name": "Palco 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/palco-44.webp",
-      "show_category": "Episodio 235 - Ballet Nacional de Panamá",
-      "start_time": "12:30",
-      "end_time": "14:00",
-      "episode_description": "Cada semana los mejores exponentes de la música se dan cita en este espacio. Un boleto de acceso completo para disfrutar, desde la comodidad del hogar, de distintos conciertos en los que la audiencia goza de variadas propuestas musicales."
-    },
-    {
-      "show_name": "Café Chéjov",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/café-chéjov.webp",
-      "show_category": "Temporada 6 Episodio 1 - Socorro Venegas",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Edición en donde la palabra se vuelve imagen a través de la literatura, con un recorrido que muestra sus máximos exponentes, historias, logros, motivaciones y algunas recomendaciones para los amantes del género."
-    },
-    {
-      "show_name": "De propia voz, maestras y maestros de la Universidad de Guadalajara",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 10 - Francisco Medina",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "Estudió muy joven en la Escuela de Artes Plásticas de la UdeG y estuvo en la primera generación de Arquitectura. Impartió cátedra a más de 50 generaciones."
-    },
-    {
-      "show_name": "Para tomarlo en cuenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/para-tomarlo-en-cuenta.webp",
-      "show_category": "Temporada 2 Episodio 126 - Dandelina, canto y calle",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "Salir del círculo de violencia doméstica significa quemar las naves, una joven madre canta en las calles de Guadalajara para sostenerse y encontrar éxito."
-    },
-    {
-      "show_name": "Ruta 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/ruta-44.webp",
-      "show_category": "Episodio 497 - El brote de sarampión en Jalisco",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Con más de mil casos acumulados, Jalisco encabeza los estados del país con la mayor presencia de sarampión, después de que durante una década México había permanecido sin registrar un solo caso."
-    },
-    {
-      "show_name": "Sótanos del joder",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 209 - Segundo round con el jefe de Hacienda de Jalisco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico-s00e618-brigadas-forestales-parte-1_l_m.jpg",
+      "show_category": "Episodio 618 - Brigadas forestales - Parte 1",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Luego de que medio explicó las bondades, que solo el gobierno ve, de la tarjeta única naranja, el secretario de Hacienda, Luis García, defiende al Servicio Estatal Tributario-."
+      "episode_description": "Danae Vázquez te lleva a pasar todo un día en el zoológico de Guadalajara. Acompáñala en sus labores diarias en las que tiene que convivir con feroces animales, temidas criaturas y adorables especies del mundo animal."
+    },
+    {
+      "show_name": "Fil de bolsillo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 25",
+      "start_time": "17:00",
+      "end_time": "17:03",
+      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
     },
     {
       "show_name": "Noticiero NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/noticiero-ncc.webp",
-      "show_category": "Noticiero",
-      "start_time": "17:00",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc-s00e838_l_m.jpg",
+      "show_category": "Episodio 838",
+      "start_time": "17:03",
       "end_time": "17:30",
       "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
     },
     {
-      "show_name": "NCC Salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/ncc-salud.webp",
-      "show_category": "Episodio 288",
+      "show_name": "NCC cultura en movimiento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 40",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+      "end_time": "17:45",
+      "episode_description": "Un espacio noticioso que explora diversas temáticas vinculadas a la identidad mexicana. El público podrá informarse al completo sobre gastronomía, museografía, turismo, artesanía, festivales e historias."
     },
     {
-      "show_name": "RT reporta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Silbo Gomero: ecos de tradición",
+      "show_name": "NCC cultura en movimiento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 38",
+      "start_time": "17:45",
+      "end_time": "18:00",
+      "episode_description": "Un espacio noticioso que explora diversas temáticas vinculadas a la identidad mexicana. El público podrá informarse al completo sobre gastronomía, museografía, turismo, artesanía, festivales e historias."
+    },
+    {
+      "show_name": "Incluídos: trabajar sin prejuicios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_incluidos-trabajar-sin-prejuicios-s00e01-ibm_l_m.jpg",
+      "show_category": "Episodio 1 - IBM",
       "start_time": "18:00",
       "end_time": "18:30",
-      "episode_description": "En el mundo existen sistemas de comunicación que todavía pueden sorprendernos. En España, uno de ellos se puede encontrar en las Canarias: el silbo gomero."
+      "episode_description": "Alejandro, Diego y Susana son profesionales del área de sistemas."
     },
     {
-      "show_name": "Evali: morir vapeando",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Salud",
+      "show_name": "Talento deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_talento-deportivo-s00e623-angel-beltran-futbol-americano_l_m.jpg",
+      "show_category": "Episodio 623 - Ángel Beltrán - Fútbol americano",
       "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "Hay más preguntas que respuestas sobre cómo la vaporización afecta nuestra salud. Desde 2019, se han extendido casos de una misteriosa enfermedad del vapeo conocida como EVALI, una lesión pulmonar asociada con el uso del producto."
+      "episode_description": "Serie que retrata a los deportistas consagrados y también expone las historias de vida de los atletas en el camino a la cima. A través de testimonios, se presentan los procesos por los cuales pasaron para llegar a la cumbre."
     },
     {
-      "show_name": "Salvador Allende",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Biográfico / 2004 /7.6",
+      "show_name": "Al máximo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_magazine-al-maximo_l_m.jpg",
+      "show_category": "Al máximo",
       "start_time": "19:00",
-      "end_time": "21:00",
-      "episode_description": "El documental Salvador Allende sigue la vida del presidente chileno desde su infancia en Valparaíso hasta su muerte el 11 de septiembre de 1973 tras el golpe de Estado militar, a través de documentos de archivos."
+      "end_time": "20:00",
+      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
     },
     {
-      "show_name": "Fresa y chocolate",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/fresa-y-chocolate.webp",
-      "show_category": "Strawberry and Chocolate",
-      "start_time": "21:00",
+      "show_name": "UDG Noticias - Emisión nocturna",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad."
+    },
+    {
+      "show_name": "Ruta 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ruta-44-s00e498-el-controvertido-caso-de-las-infancias-trans_l_m.jpg",
+      "show_category": "Episodio 498 - El controvertido caso de las infancias trans",
+      "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "David es un comunista convencido que estudia sociología en la Universidad de La Habana. Diego es un artista homosexual ahogado en la homofobia del régimen. A pesar de sus abismales diferencias, entre ambos surge una profunda amistad."
+      "episode_description": "Espacio de investigación y análisis que toma el pulso a los temas más importantes de Jalisco y México, donde se abre una tribuna para hablar con lenguaje crítico, enriquecido con aportes de especialistas sobre los tópicos que se abordan."
     },
     {
-      "show_name": "Territorio reportaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 276 - El campo, una crisis inducida - Parte I",
+      "show_name": "Noticiero NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc-s00e839_l_m.jpg",
+      "show_category": "Episodio 839",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
+    },
+    {
+      "show_name": "UDG Noticias deportivas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "La realidad no está seccionada; esto significa que todos los fenómenos naturales y sociales ocurren no solo de forma concomitante, sino que lo usual es que unos sean causa o efecto de los otros."
+      "episode_description": "Manténgase informado sobre toda la actualida deportiva."
     }
   ]
 }

@@ -1,190 +1,110 @@
 {
   "channel": "TNT HD",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Lobo guerrero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/lobo-guerrero.webp",
-      "show_category": "Zhan lang",
-      "start_time": "01:52",
-      "end_time": "03:28",
-      "episode_description": "Durante un entrenamiento militar, un soldado del ejército chino y experto en artes marciales queda en la mira de una banda de sicarios que buscan asesinarlo por orden de la mafia. Ya no es un ejercicio: ahora lucha por su vida."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 15",
-      "start_time": "03:28",
-      "end_time": "04:12",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 71",
-      "start_time": "04:12",
-      "end_time": "04:26",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 72",
-      "start_time": "04:26",
-      "end_time": "04:37",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 152",
-      "start_time": "04:37",
-      "end_time": "04:42",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 154",
-      "start_time": "04:42",
-      "end_time": "04:47",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 156",
-      "start_time": "04:47",
-      "end_time": "04:52",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 158",
-      "start_time": "04:52",
-      "end_time": "04:57",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 160",
-      "start_time": "04:57",
-      "end_time": "05:00",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 73",
-      "start_time": "05:00",
-      "end_time": "05:12",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hollywood-one-on-one.webp",
-      "show_category": "Episodio 74",
-      "start_time": "05:12",
-      "end_time": "05:24",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 145",
-      "start_time": "05:24",
-      "end_time": "05:27",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 147",
-      "start_time": "05:27",
-      "end_time": "05:30",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "Blumhouse. Jóvenes y brujas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/blumhouse-jóvenes-y-brujas.webp",
-      "show_category": "The Craft: Legacy",
-      "start_time": "05:30",
-      "end_time": "05:30",
-      "episode_description": "Lily es una adolescente que, tras mudarse a la casa de la flamante pareja de su madre, ingresa a un instituto nuevo. Allí conocerá a tres compañeras que le harán saber que es una bruja al igual que ellas."
-    },
-    {
-      "show_name": "Blumhouse. Jóvenes y brujas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/blumhouse-jóvenes-y-brujas.webp",
-      "show_category": "The Craft: Legacy",
-      "start_time": "05:30",
-      "end_time": "07:05",
-      "episode_description": "Lily es una adolescente que, tras mudarse a la casa de la flamante pareja de su madre, ingresa a un instituto nuevo. Allí conocerá a tres compañeras que le harán saber que es una bruja al igual que ellas."
-    },
-    {
-      "show_name": "Spider-Man: Un nuevo universo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/spider-man-un-nuevo-universo.webp",
-      "show_category": "Spider-Man: Into the Spider-Verse",
-      "start_time": "07:05",
-      "end_time": "09:06",
-      "episode_description": "El adolescente Miles Morales se convierte en el Hombre Araña de su realidad, cruzándose en su camino con cinco contrapartes de otras dimensiones para detener una amenaza de todas las realidades."
-    },
-    {
-      "show_name": "Escuadrón suicida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/escuadrón-suicida.webp",
-      "show_category": "Suicide Squad",
-      "start_time": "09:06",
-      "end_time": "11:15",
-      "episode_description": "Una agencia gubernamental secreta recluta a algunos de los súper villanos más peligrosos encarcelados para formar una fuerza de trabajo defensiva. Su primera misión: salvar al mundo del apocalipsis."
-    },
-    {
-      "show_name": "Transformers: La era de la extinción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/transformers-la-era-de-la-extinción.webp",
-      "show_category": "Transformers: Age of Extinction",
-      "start_time": "11:15",
-      "end_time": "14:11",
-      "episode_description": "El Gobierno de Estados Unidos está utilizando la tecnología rescatada en el asedio de Chicago para desarrollar sus propios Transformers. Mientras tanto, un mecánico inventor encuentra un Marmon semi-trailer y descubre que es Optimus Prime."
-    },
-    {
       "show_name": "Transformers: El último caballero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/transformers-el-último-caballero.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_transformers-el-ultimo-caballero-2017-1_l_m.jpg",
       "show_category": "Transformers: The Last Knight",
-      "start_time": "14:11",
-      "end_time": "16:56",
+      "start_time": "01:34",
+      "end_time": "04:11",
       "episode_description": "Humanos y Transformers están en guerra. La clave para asegurar la subsistencia de la humanidad está en la historia oculta de los Transformers en la Tierra. Cade Yeager, junto a su equipo, hará todo lo posible para salvar al planeta Tierra."
     },
     {
-      "show_name": "Hellboy 2: el ejército dorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/hellboy-2-el-ejército-dorado.webp",
-      "show_category": "Hellboy 2: The Golden Army",
-      "start_time": "16:56",
-      "end_time": "19:04",
-      "episode_description": "Cuando se rompe la antigua tregua entre los seres humanos y los primeros hijos de la Tierra, el infierno se apodera del mundo. Solo Hellboy puede detener al oscuro líder Nuada y salvar al mundo de la aniquilación."
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e27_l_m.jpg",
+      "show_category": "Episodio 27",
+      "start_time": "04:11",
+      "end_time": "05:00",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
-      "show_name": "Venom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/venom.webp",
-      "show_category": "C.Ficción / 2018 /6.7",
-      "start_time": "19:04",
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e76_l_m.jpg",
+      "show_category": "Episodio 76",
+      "start_time": "05:00",
+      "end_time": "05:13",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Amarte hasta Marte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Space Oddity",
+      "start_time": "05:13",
+      "end_time": "05:13",
+      "episode_description": "Un hombre busca la ayuda de una compañía de seguros para planificar un viaje de ida a Marte."
+    },
+    {
+      "show_name": "Amarte hasta Marte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Space Oddity",
+      "start_time": "05:13",
+      "end_time": "06:53",
+      "episode_description": "Un hombre busca la ayuda de una compañía de seguros para planificar un viaje de ida a Marte."
+    },
+    {
+      "show_name": "Spider-Man: Un nuevo universo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_spider-man-un-nuevo-universo-2018_l_m.jpg",
+      "show_category": "Spider-Man: Into the Spider-Verse",
+      "start_time": "06:53",
+      "end_time": "08:57",
+      "episode_description": "El adolescente Miles Morales se convierte en el Hombre Araña de su realidad, cruzándose en su camino con cinco contrapartes de otras dimensiones para detener una amenaza de todas las realidades."
+    },
+    {
+      "show_name": "El Hombre Araña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-arana-2002-1_l_m.jpg",
+      "show_category": "Spider-Man",
+      "start_time": "08:57",
+      "end_time": "11:06",
+      "episode_description": "Luego de ser mordido por una araña genéticamente alterada, Peter Parker desarrollará una fuerza sobrehumana y la capacidad de trepar por las paredes. Tras un hecho trágico, él jurará luchar contra el crimen, convirtiéndose en Spider-Man."
+    },
+    {
+      "show_name": "El Hombre Araña 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-arana-3-2007-1_l_m.jpg",
+      "show_category": "Spider-Man 3",
+      "start_time": "11:06",
+      "end_time": "13:35",
+      "episode_description": "Peter parece haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes."
+    },
+    {
+      "show_name": "El sorprendente Hombre Araña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-sorprendente-hombre-arana-2012-1_l_m.jpg",
+      "show_category": "The Amazing Spider-Man",
+      "start_time": "13:35",
+      "end_time": "16:02",
+      "episode_description": "Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman."
+    },
+    {
+      "show_name": "El sorprendente Hombre Araña 2: La venganza de Electro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-sorprendente-hombre-arana-2-la-venganza-de-electro-2014-2_l_m.jpg",
+      "show_category": "The Amazing Spider-Man 2",
+      "start_time": "16:02",
+      "end_time": "18:34",
+      "episode_description": "Peter Parker lleva una vida muy ocupada. Las cosas cambiarán para él cuando aparezca un nuevo villano, Electro, y regrese un viejo amigo, Harry Osborn, al tiempo que descubre nuevas pistas sobre su pasado."
+    },
+    {
+      "show_name": "Spider-Man: Lejos de casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_spider-man-lejos-de-casa-2019_l_m.jpg",
+      "show_category": "Spider-Man: Far from Home",
+      "start_time": "18:34",
       "end_time": "21:00",
-      "episode_description": "Eddie Brock lleva tiempo intentando desenmascarar al famoso genio científico Carlton Drake. Al investigar uno de los experimentos, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y adquiere nuevos e increíbles superpoderes."
+      "episode_description": "Peter Parker decide unirse a sus mejores amigos en unas vacaciones europeas. Sin embargo, el plan de Peter de dejar atrás a los súper heroicos durante unas semanas se descarta rápidamente cuando acepta ayudar a Nick Fury."
     },
     {
-      "show_name": "Venom: Carnage liberado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Venom: Let There Be Carnage",
+      "show_name": "Spider-Man: Sin camino a casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Spider-Man: No Way Home",
       "start_time": "21:00",
-      "end_time": "22:41",
-      "episode_description": "Eddie Brock intenta relanzar su carrera entrevistando al asesino en serie Cletus Kasady, que se convierte en el huésped del simbionte Carnage y escapa de la cárcel tras una ejecución fallida."
+      "end_time": "23:37",
+      "episode_description": "La identidad secreta de Peter Parker se revela al mundo entero. Desesperado por ayuda, Peter recurre al Doctor Strange para hacer que el mundo olvide que él es Spider-Man. Pero el hechizo sale terriblemente mal con grandes consecuencias."
     },
     {
-      "show_name": "Transformers: La era de la extinción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tnt-hd/today/transformers-la-era-de-la-extinción.webp",
-      "show_category": "Transformers: Age of Extinction",
-      "start_time": "22:41",
-      "end_time": "01:34",
-      "episode_description": "El Gobierno de Estados Unidos está utilizando la tecnología rescatada en el asedio de Chicago para desarrollar sus propios Transformers. Mientras tanto, un mecánico inventor encuentra un Marmon semi-trailer y descubre que es Optimus Prime."
+      "show_name": "El sorprendente Hombre Araña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-sorprendente-hombre-arana-2012-1_l_m.jpg",
+      "show_category": "The Amazing Spider-Man",
+      "start_time": "23:37",
+      "end_time": "01:56",
+      "episode_description": "Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman."
     }
   ]
 }
