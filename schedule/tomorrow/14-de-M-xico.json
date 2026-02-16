@@ -1,44 +1,60 @@
 {
   "channel": "14 de México",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
-    {
-      "show_name": "Blue Demon vs. Las invasoras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:10",
-      "episode_description": ""
-    },
     {
       "show_name": "Los de Abajo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:10",
-      "end_time": "03:15",
+      "start_time": "00:00",
+      "end_time": "01:05",
       "episode_description": ""
     },
     {
-      "show_name": "Goitia, un dios para sí mismo",
+      "show_name": "Un vago sin oficio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:15",
-      "end_time": "05:15",
+      "start_time": "01:05",
+      "end_time": "02:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Malditos polleros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:20",
+      "end_time": "03:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tercera oportunidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:55",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:15",
-      "end_time": "07:00",
+      "start_time": "04:30",
+      "end_time": "06:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Punto de referencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:10",
+      "end_time": "07:10",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "07:10",
       "end_time": "07:30",
       "episode_description": ""
     },
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres haciendo historia",
+      "show_name": "TV Migrante Informa",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -67,58 +83,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiario France 24",
+      "show_name": "Ventana al Mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:45",
-      "end_time": "11:30",
+      "end_time": "11:15",
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Reportaje 14",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Misión salud",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un vago sin oficio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:20",
+      "start_time": "11:15",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:20",
-      "end_time": "16:10",
+      "start_time": "11:45",
+      "end_time": "12:40",
       "episode_description": ""
     },
     {
-      "show_name": "Cartas para la libertad",
+      "show_name": "Tv Médica",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:10",
-      "end_time": "17:00",
+      "start_time": "12:40",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Abiertamente",
+      "show_name": "MUCHO+Q2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noticiario France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Maestros olvidados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:25",
+      "end_time": "15:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los tres huastecos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:55",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -155,27 +179,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "TV Migrante Informa",
+      "show_name": "Debate Público",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infodemia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los de Abajo",
+      "show_name": "Clandestinos",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:05",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tercera oportunidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:05",
       "episode_description": ""
     }
   ]

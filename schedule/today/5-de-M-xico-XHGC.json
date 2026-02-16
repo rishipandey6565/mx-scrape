@@ -1,20 +1,52 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "BOX Televisa\nEn Vivo",
+      "show_name": "Cigüeñas La Historia que",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -27,98 +59,130 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rugrats Aventuras en Pañales",
+      "show_name": "Dora, La Exploradora",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/dora_la_exploradora.png",
+      "show_category": "Aventura",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "(Dora, La Exploradora) Dora Márquez es una niña de 7 años que en cada episodio de la serie busca o ayuda a alguien. En esta serie Dora pregunta a los televidentes que la ayuden a buscar nuevas formas de buscar lugares con la ayuda de un mapa. En la versión en inglés ella enseña un poco de español.Ella tiene un corazón tierno y temperamento formidable ya que incluyendo a sus enemigos que continuamente tratan de robarle cosas a ella y a su grupo y nunca muestra ningún enojo. En esta serie también enseña sus costumbres familiares y su ejemplo de amor hacia su familia para todos aquellos que desconocen sus tradiciones y costumbres. Dora conoce a Botas el mono, el que se convierte en su mejor amigo cuando ella salva sus amadas botas rojas de ahí su hombre. A Dora le encantan los deportes. Ella juega muchos deportes, su favorito el beisbol que junto con Botas y otros amigos que son entrenados por su papá. Entre otras cosas también está el futbol y la música tocando su flauta de madera."
+    },
+    {
+      "show_name": "Rubble y Equipo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:55",
+      "start_time": "06:30",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Real Oviedo vs. Athletic Club",
+      "show_name": "Las aventuras del Gato",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:55",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Pitufos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "T.U.F.F. Puppy",
+      "show_name": "El chapulin colorado animado",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:45",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Scooby Doo El abominable",
+      "show_name": "100% lobo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "12:15",
+      "start_time": "10:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Sammy 2 El gran escape",
+      "show_name": "Star Trek Prodigy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:15",
-      "end_time": "14:15",
+      "start_time": "11:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Familia Monster",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/la-familia-monster.webp",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
       "show_category": "Animación",
-      "start_time": "14:15",
-      "end_time": "16:25",
-      "episode_description": "La familia Wishbone es todo menos feliz. Tienen un negocio al borde del colapso, un padre cansado y sus hijos son atormentados en la escuela. Un día son invitados a una fiesta a la que, por error, solamente ellos llegan disfrazados. Lo que no esperaban, es que una verdadera bruja les lanzará un conjuro convirtiendo sus disfraces en realidad. Ahora tendrán que unirse más que nunca para cruzar medio mundo y encontrar a la bruja que ponga fin a su hechizo. Muchas aventuras en el camino sucederán, incluyendo monstruos de la vida real que les harán reencontrarse como una familia y lo que tanto han anhelado la felicidad."
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
     },
     {
-      "show_name": "Cruz Azul vs. Tigres\nEn Vivo",
+      "show_name": "Miraculous Ladybug",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:25",
-      "end_time": "18:30",
+      "start_time": "14:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Megamente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/megamente.webp",
-      "show_category": "Película",
-      "start_time": "18:30",
-      "end_time": "20:30",
-      "episode_description": "Nombre que recibe en Latinoamérica la película estadounidense \"Megamind\".Megamente (Will Ferrell) y Metro Man (Brad Pitt) son provenientes de otro planeta, cada uno cae en diferentes lugares del planeta. Megamente en una cárcel y Metro Man en una familia educada donde será criado con principios ambos se enfrentaran en un futuro siendo archienemigos."
-    },
-    {
-      "show_name": "Home No hay lugar como",
+      "show_name": "Bob Esponja La pelicula",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "el chavo animado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una casa patas arriba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:45",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Belleza Verdadera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
       "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cigüeñas La Historia que",
+      "show_name": "Chucky",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/chucky.jpg",
+      "show_category": "Terror",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Una idílica ciudad estadounidense se ve sumida en el caos después de que un muñeco antiguo de \"Good Guy\" apareciera en una venta de garaje suburbana. Pronto, todos deberán lidiar con una serie de horribles asesinatos que comenzarán a exponer las profundas hipocresías y los secretos ocultos de la ciudad."
+    },
+    {
+      "show_name": "Contacto deportivo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,9 +1,9 @@
 {
   "channel": "Multimedios Plus",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Gruperisimo",
+      "show_name": "Okus Pokus Las Magadas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fuera del control",
+      "show_name": "Inaudito CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Orbital",
+      "show_name": "Cuando los ángeles caen",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,31 +27,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Es Show, el musical",
+      "show_name": "El Curubito",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Orbital",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Más Serio que SNSerio",
+      "show_name": "Paketemociones",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telediario Express",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Telediario matutino FS CDMX",
+      "show_name": "Telediario Matutino Monterrey",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telediario Matutino CDMX",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rumbo al campeonato, CDMX",
+      "show_name": "VIvalavi CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -67,39 +91,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gruperisimo",
+      "show_name": "Telediario vespertino MTY",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PakTEMOciones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Pantallazo",
+      "show_name": "Chismorreo CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cuando los ángeles caen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cantadísimo",
+      "show_name": "La bola del 6 CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "C4 en Alerta (CDMX)",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Telediario Nocturno FS CDMX",
+      "show_name": "Telediario Nocturno Monterrey",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -107,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Inaudito CDMX",
+      "show_name": "Telediario Nocturno CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -115,27 +147,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "MT Express",
+      "show_name": "Las Rapiditas CDMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "SNSerio\nRepetición",
+      "show_name": "Milenio 22H",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "23:00",
+      "start_time": "22:00",
+      "end_time": "22:45",
       "episode_description": ""
     },
     {
-      "show_name": "Okus Pokus Las Magadas",
+      "show_name": "Es show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "22:45",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

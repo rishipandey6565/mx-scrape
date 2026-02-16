@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Grace: Princesa de Mónaco",
+      "show_name": "El tercer hombre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Grace: Princesa de Mónaco",
+      "show_name": "El tercer hombre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:02",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noche, Boleros y Son",
+      "show_name": "La Hora Nacional",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:45",
@@ -35,26 +35,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Big Cities",
+      "show_name": "Diario De Viaje",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:45",
-      "end_time": "02:00",
+      "end_time": "02:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Diálogos En Confianza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:45",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "La aventura de México desconocido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "Aprender a Envejecer",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": ""
     },
@@ -83,183 +91,175 @@
       "episode_description": ""
     },
     {
-      "show_name": "Daniel Tigre y su Vecindad",
+      "show_name": "Once Noticias a las seis",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:07",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "06:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:45",
-      "end_time": "07:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:15",
-      "end_time": "07:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:22",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "07:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:37",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Juani y Gatón",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "07:52",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Shaun, el cordero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:52",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La orquestita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi hermano el monstruo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Academia de superhéroes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "08:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Prueba total",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:45",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Code Lyoko Evolution",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "80 Millones",
+      "show_name": "Diálogos En Confianza",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
-      "end_time": "11:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Aprender a Envejecer",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Once Noticias al minuto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "12:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La isla de las mujeres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:03",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conmemoraciones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Foro Once",
+      "show_name": "Once Noticias a las dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:55",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A+A",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
       "show_name": "Radio, Televisión, y Cinematografía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:55",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La independencia inconclusa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
+      "start_time": "15:55",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Big Cities",
+      "show_name": "Escuela de rugidos",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "16:15",
+      "end_time": "16:07",
       "episode_description": ""
     },
     {
-      "show_name": "Grace: Princesa de Mónaco",
+      "show_name": "Sam y Julia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
+      "start_time": "16:07",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juani y Gatón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "17:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dr. W",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:07",
+      "end_time": "17:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La orquestita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El escuadrón de lo increíble",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los periodistas en Canal Once",
+      "show_name": "Once Noticias al minuto",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historias de vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:03",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arquitectura y Ciudad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Once Noticias al minuto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Poldark",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:03",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Once noticias, fin de semana",
+      "show_name": "Perspectivas históricas",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -267,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Identidad",
+      "show_name": "Ciudad Infinita",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -275,23 +275,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "El once inicial",
+      "show_name": "Punto de referencia, tu noticiero",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El método, principio de identidad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Operación mamut",
+      "show_name": "Masiosare",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -299,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El tercer hombre",
+      "show_name": "La Ausente",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

@@ -1,9 +1,17 @@
 {
   "channel": "Galicia TV",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
       "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia por Diante",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,14 +23,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "03:46",
+      "end_time": "03:45",
       "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:46",
+      "start_time": "03:45",
+      "end_time": "03:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O agro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:50",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -39,22 +55,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "06:50",
+      "end_time": "06:54",
       "episode_description": ""
     },
     {
       "show_name": "Galicia Noticias Mañá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:50",
-      "end_time": "07:25",
+      "start_time": "06:54",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal mediodía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:25",
+      "start_time": "07:30",
       "end_time": "08:15",
       "episode_description": ""
     },
@@ -71,14 +87,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "08:48",
+      "end_time": "08:39",
       "episode_description": ""
     },
     {
       "show_name": "Atrápame se podes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:48",
+      "start_time": "08:39",
       "end_time": "09:15",
       "episode_description": ""
     },
@@ -87,14 +103,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:15",
-      "end_time": "12:40",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Hora galega",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:40",
+      "start_time": "12:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -119,22 +135,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:45",
-      "end_time": "17:32",
+      "end_time": "17:15",
       "episode_description": ""
     },
     {
       "show_name": "Atrápame se podes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:32",
-      "end_time": "18:12",
+      "start_time": "17:15",
+      "end_time": "18:05",
       "episode_description": ""
     },
     {
       "show_name": "Zigzag Diario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:12",
+      "start_time": "18:05",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -151,22 +167,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:02",
-      "end_time": "19:22",
+      "end_time": "19:15",
       "episode_description": ""
     },
     {
       "show_name": "Land rober",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:22",
-      "end_time": "20:25",
+      "start_time": "19:15",
+      "end_time": "20:15",
       "episode_description": ""
     },
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Latitude galega",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:25",
+      "start_time": "20:15",
+      "end_time": "21:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galegos no mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:10",
+      "end_time": "23:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:10",
       "end_time": "00:00",
       "episode_description": ""
     }

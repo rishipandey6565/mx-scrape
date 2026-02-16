@@ -1,52 +1,68 @@
 {
   "channel": "TV Chile",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "La colombiana",
+      "show_name": "El Medio Día",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:15",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "24 noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chile Conectado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "Frutos del País",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
-      "end_time": "01:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Había una Vez",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:45",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "24 horas tu mañana",
+      "show_name": "24 AM",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "05:00",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
       "show_name": "Buenos Días a Todos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "08:00",
+      "start_time": "04:45",
+      "end_time": "07:45",
       "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:00",
+      "start_time": "07:45",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -67,10 +83,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Medio Día",
+      "show_name": "El especialista responde",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Medio Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -103,22 +127,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:55",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "24 Horas Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:55",
-      "end_time": "19:45",
+      "start_time": "18:00",
+      "end_time": "19:40",
       "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:45",
+      "start_time": "19:40",
       "end_time": "20:45",
       "episode_description": ""
     },
@@ -131,19 +155,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:45",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "El Medio Día",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "00:00",
+      "start_time": "21:45",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
+      "end_time": "00:45",
       "episode_description": ""
     }
   ]

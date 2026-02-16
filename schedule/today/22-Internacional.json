@@ -1,297 +1,369 @@
 {
   "channel": "22 Internacional",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Crónicas y relatos de México",
+      "show_name": "Tocando base",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "Un recorrido por distintos barrios de la Ciudad de México y sus alrededores, para conocer su historia, sus construcciones más representativas y algunas costumbres conservadas a lo largo del tiempo."
+      "episode_description": "Reality documental que sigue a los jugadores de béisbol de los Bravos de León, desde los entrenamientos hasta cada juego por los diferentes estados de la República mexicana."
     },
     {
-      "show_name": "Trazos de Guanajuato",
+      "show_name": "Colombiar",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
       "end_time": "00:30",
-      "episode_description": "Grecia Lozano es una viajera enamorada de las leyendas y tradiciones de Guanajuato, así como de la historia y los lugares. En sus travesías recorre poblados en busca de personajes, sitios o mitos que hayan marcado la vida de sus habitantes."
+      "episode_description": "Una mirada real a los mejores y más imperdibles sitios de Colombia."
     },
     {
-      "show_name": "Conextados a la red",
+      "show_name": "Mexicanos exitosos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Informativo en donde se comparte lo más relevante de la semana en los diferentes estados del territorio mexicano."
-    },
-    {
-      "show_name": "TV UNAM",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Reportaje. Lo mejor de la creación audiovisual de nuestra Máxima Casa de Estudios."
-    },
-    {
-      "show_name": "Con la X en la frente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Un punto de encuentro que busca darle visibilidad a las exposiciones, actividades y expresiones culturales mexicanas."
-    },
-    {
-      "show_name": "La dichosa palabra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Un programa que de forma amena responde las dudas de los espectadores sobre el uso del idioma español, además de explicar el origen y el significado de las palabras."
-    },
-    {
-      "show_name": "Relatos de mujeres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "La historia de mujeres apasionadas dignas de inspiración. Lejos de los estereotipos, sus acciones fueron determinantes y trascendieron en el tiempo."
-    },
-    {
-      "show_name": "Réquiem por Leona Vicario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Tras la muerte de Leona Vicario, se anuncia una convocatoria para decidir si es nombrada ``Benemérita y Madre de la Patria``, lo que desata los más controvertidos enfrentamientos."
-    },
-    {
-      "show_name": "Crónicas y relatos de México",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Un recorrido por distintos barrios de la Ciudad de México y sus alrededores, para conocer su historia, sus construcciones más representativas y algunas costumbres conservadas a lo largo del tiempo."
-    },
-    {
-      "show_name": "Especiales del 22",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "Presentación de temas relacionados con la cultura y el arte, las letras e historia de México."
-    },
-    {
-      "show_name": "¿Y tú, tú qué vas a hacer?",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Un viajero descubre la riqueza gastronómica, cultural y tradicional de Guanajuato en México, en un viaje por 22 ciudades."
-    },
-    {
-      "show_name": "Tocando base",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Reality documental que sigue a los jugadores de béisbol de los Bravos de León, desde los entrenamientos hasta cada juego por los diferentes estados de la República mexicana."
-    },
-    {
-      "show_name": "Tocando base",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Reality documental que sigue a los jugadores de béisbol de los Bravos de León, desde los entrenamientos hasta cada juego por los diferentes estados de la República mexicana."
-    },
-    {
-      "show_name": "Reportajes generales 24",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Un programa con reportajes de interés general."
-    },
-    {
-      "show_name": "SanaMente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Especialistas y expertos comparten recomendaciones sobre la prevención de enfermedades y la salud integral."
-    },
-    {
-      "show_name": "NCC: Edición salud",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Una versión especializada en salud del Noticiero científico y cultural Iberoamericano NCC, que busca difundir la ciencia y la tecnología médica en todo Latinoamérica."
-    },
-    {
-      "show_name": "Consulta directa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Un espacio donde la población comparte sus dudas y preguntas a los mejores especialistas de salud."
-    },
-    {
-      "show_name": "Consulta directa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "13:00",
-      "episode_description": "Un espacio donde la población comparte sus dudas y preguntas a los mejores especialistas de salud."
+      "episode_description": ""
     },
     {
       "show_name": "Mundo tortuga",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": "La relación del humano y la tortuga marina de Baja California Sur y Japón."
     },
     {
       "show_name": "Mundo tortuga",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "01:30",
+      "end_time": "02:00",
       "episode_description": "La relación del humano y la tortuga marina de Baja California Sur y Japón."
     },
     {
       "show_name": "Mar adentro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "Bios: Naturaleza y sociedad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
+      "start_time": "02:30",
+      "end_time": "03:00",
       "episode_description": "En el desierto de Baja California el manejo cinegético del borrego cimarrón resulta un singular ejemplo de modelo de conservación. La subasta de las piezas de cacería a nivel internacional es positiva para la la economía regional."
-    },
-    {
-      "show_name": "La dichosa palabra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "Un programa que de forma amena responde las dudas de los espectadores sobre el uso del idioma español, además de explicar el origen y el significado de las palabras."
-    },
-    {
-      "show_name": "La dichosa palabra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Un programa que de forma amena responde las dudas de los espectadores sobre el uso del idioma español, además de explicar el origen y el significado de las palabras."
-    },
-    {
-      "show_name": "Marquesina 22",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "Un espacio dedicado al mundo de la cinematografía en el que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
     },
     {
       "show_name": "Los que hicieron nuestro cine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "``La mujer del puerto`` es una película de drama romántico mexicana de 1934, dirigida por Arcady Boytler y Raphael J. Sevilla, y escrita por Carlos de Nájera y protagonizada por Andrea Palma. Basada en la novela Le Port del francés Guy de Maupassant."
     },
     {
       "show_name": "Mexicanos exitosos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Un programa que presenta las vidas de diversos personajes, que aparentemente no tienen nada en común, pero cuyas historias están marcadas por el reconocimiento personal, familiar o social."
     },
     {
       "show_name": "Amores cubanos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "Se rastrea a varias parejas que se casaron en medio de la crisis económica cubana hace casi 30 años para saber qué fue de sus vidas."
     },
     {
-      "show_name": "¡Qué lindo es mi México!",
+      "show_name": "Reportajes generales 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Un programa con reportajes de interés general."
+    },
+    {
+      "show_name": "SanaMente",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Especialistas y expertos comparten recomendaciones sobre la prevención de enfermedades y la salud integral."
+    },
+    {
+      "show_name": "Trazos de Guanajuato",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Grecia Lozano es una viajera enamorada de las leyendas y tradiciones de Guanajuato, así como de la historia y los lugares. En sus travesías recorre poblados en busca de personajes, sitios o mitos que hayan marcado la vida de sus habitantes."
+    },
+    {
+      "show_name": "Consulta directa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Un espacio donde la población comparte sus dudas y preguntas a los mejores especialistas de salud."
+    },
+    {
+      "show_name": "Consulta directa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Un espacio donde la población comparte sus dudas y preguntas a los mejores especialistas de salud."
+    },
+    {
+      "show_name": "NCC: Edición salud",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Una versión especializada en salud del Noticiero científico y cultural Iberoamericano NCC, que busca difundir la ciencia y la tecnología médica en todo Latinoamérica."
+    },
+    {
+      "show_name": "Conferencia matutina de la presidenta de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Transmisión de la conferencia de Claudia Sheinbaum, presidenta de México. Desde el Palacio Nacional."
+    },
+    {
+      "show_name": "Conferencia matutina de la presidenta de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Transmisión de la conferencia de Claudia Sheinbaum, presidenta de México. Desde el Palacio Nacional."
+    },
+    {
+      "show_name": "Conferencia matutina de la presidenta de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Transmisión de la conferencia de Claudia Sheinbaum, presidenta de México. Desde el Palacio Nacional."
+    },
+    {
+      "show_name": "Conferencia matutina de la presidenta de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Transmisión de la conferencia de Claudia Sheinbaum, presidenta de México. Desde el Palacio Nacional."
+    },
+    {
+      "show_name": "Mañanera 360",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Análisis de los temas de mayor interés de la conferencia matutina presidencial, así como un balance informativo de lo que sucede en México."
+    },
+    {
+      "show_name": "Mañanera 360",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Análisis de los temas de mayor interés de la conferencia matutina presidencial, así como un balance informativo de lo que sucede en México."
+    },
+    {
+      "show_name": "Leer, una hora inesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Espacio que busca acercar a las personas con la lectura a través de charlas y diversas actividades."
+    },
+    {
+      "show_name": "Leer, una hora inesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Espacio que busca acercar a las personas con la lectura a través de charlas y diversas actividades."
+    },
+    {
+      "show_name": "La dichosa palabra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Un programa que de forma amena responde las dudas de los espectadores sobre el uso del idioma español, además de explicar el origen y el significado de las palabras."
+    },
+    {
+      "show_name": "La dichosa palabra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Un programa que de forma amena responde las dudas de los espectadores sobre el uso del idioma español, además de explicar el origen y el significado de las palabras."
+    },
+    {
+      "show_name": "Colombiar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Una mirada real a los mejores y más imperdibles sitios de Colombia."
+    },
+    {
+      "show_name": "Reportajes generales 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Un programa con reportajes de interés general."
+    },
+    {
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica."
+    },
+    {
+      "show_name": "El sabor de mi tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Acompañado del diario de su abuela, un nieto revive los primeros viajes de ésta y su historia, y da fé de cómo los espíritus de cocineras y cocineros que marcaron su camino se manifestaron en su casa antes de que muriera."
+    },
+    {
+      "show_name": "Mar adentro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Recorrido para explorar el golfo de California, la costa pacífica de la península de Baja California y las islas de Revillagigedo para apreciar las especies endémicas mientras conviven en su entorno natural, en el también llamado Acuario del mundo."
+    },
+    {
+      "show_name": "Me voy pal norte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Las experiencias de migrantes en busca del sueño americano. Las dificultades que enfrentan en su travesía, como la detención en la frontera, pérdida de familiares en el desierto y la lucha por mantener sus raíces y cultura."
+    },
+    {
+      "show_name": "Historias de mujeres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Un programa dedicado a todas esas mujeres que han superado obstáculos, rechazo social, sueños frustrados, soledad y obsesiones."
+    },
+    {
+      "show_name": "La raíz doble: No hay lengua sin pueblo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "El pueblo chinanteco aún conserva sus raíces casi intactas; más allá del paso del tiempo, preservan la naturaleza de las tierras que habitaban, sus usos y costumbres, vestimenta, comida típica y su lengua materna."
+    },
+    {
+      "show_name": "Mexicanos exitosos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Así me fue",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Un viaje alrededor del estado de Guanajuato para visitar los santuarios más íntimos de cada uno de sus municipios; conociendo las tradiciones, cultura, la gastronomía y el pueblo."
+    },
+    {
+      "show_name": "Veinte y más por el Arte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Un programa que muestra el trabajo que realizan los beneficiarios de una beca otorgada por el Fondo Nacional para la Cultura y las Artes."
+    },
+    {
+      "show_name": "Los que hicieron nuestro cine",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
       "end_time": "18:30",
-      "episode_description": "Un espacio en el que se celebra la música mexicana. Una ventana muy importante para las expresiones artísticas de México."
+      "episode_description": "Un recorrido por el desarrollo del cine mexicano, abordándose las películas icónicas de los años 30 hasta los 70. Además, una mirada al cine desde el 2000 hasta la actualidad, mostrándose el trabajo de la gente que construye el cine en el siglo XXI."
     },
     {
-      "show_name": "¡Qué lindo es mi México!",
+      "show_name": "Amores cubanos",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "Un espacio en el que se celebra la música mexicana. Una ventana muy importante para las expresiones artísticas de México."
+      "episode_description": "Se rastrea a varias parejas que se casaron en medio de la crisis económica cubana hace casi 30 años para saber qué fue de sus vidas."
     },
     {
-      "show_name": "Festival Internacional Cervantino 2025",
+      "show_name": "Culturas veintidós",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "El festival de artes escénicas más importante de América Latina que se realiza en Guanajuato, México, en su edición 53."
+      "episode_description": "Noticiario cultural que busca brindar acceso al arte, a las ciencias, a las humanidades y a nuestra actualidad mediante el disfrute y la comprensión."
     },
     {
-      "show_name": "Festival Internacional Cervantino 2025",
+      "show_name": "Culturas veintidós",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "El festival de artes escénicas más importante de América Latina que se realiza en Guanajuato, México, en su edición 53."
+      "episode_description": "Noticiario cultural que busca brindar acceso al arte, a las ciencias, a las humanidades y a nuestra actualidad mediante el disfrute y la comprensión."
     },
     {
-      "show_name": "Festival Internacional Cervantino 2025",
+      "show_name": "Masiosare",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
       "end_time": "20:30",
-      "episode_description": "El festival de artes escénicas más importante de América Latina que se realiza en Guanajuato, México, en su edición 53."
+      "episode_description": "Espacio para discutir temas relevantes de la vida pública nacional e internacional con un gran elenco de analistas."
     },
     {
-      "show_name": "Festival Internacional Cervantino 2025",
+      "show_name": "Masiosare",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "El festival de artes escénicas más importante de América Latina que se realiza en Guanajuato, México, en su edición 53."
+      "episode_description": "Espacio para discutir temas relevantes de la vida pública nacional e internacional con un gran elenco de analistas."
     },
     {
-      "show_name": "La historia de Maru Toledo y las mujeres del maíz",
+      "show_name": "Punto de referencia, tu noticiero",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
       "end_time": "21:30",
-      "episode_description": "Se retrata la vida e historia de una de las expertas en cocina prehispánica más reconocidas de México."
+      "episode_description": "El acontecer nacional e internacional para armar el rompecabezas cotidiano de la información desde una mirada de experiencia y prestigio."
     },
     {
-      "show_name": "La historia de Maru Toledo y las mujeres del maíz",
+      "show_name": "Punto de referencia, tu noticiero",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": "Se retrata la vida e historia de una de las expertas en cocina prehispánica más reconocidas de México."
+      "episode_description": "El acontecer nacional e internacional para armar el rompecabezas cotidiano de la información desde una mirada de experiencia y prestigio."
     },
     {
-      "show_name": "Cortometraje",
+      "show_name": "En lo profundo de México",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -299,28 +371,28 @@
       "episode_description": ""
     },
     {
-      "show_name": "Trazos de Guanajuato",
+      "show_name": "En lo profundo de México",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
       "end_time": "23:00",
-      "episode_description": "Grecia Lozano es una viajera enamorada de las leyendas y tradiciones de Guanajuato, así como de la historia y los lugares. En sus travesías recorre poblados en busca de personajes, sitios o mitos que hayan marcado la vida de sus habitantes."
+      "episode_description": ""
     },
     {
-      "show_name": "Tocando base",
+      "show_name": "Leémelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
       "end_time": "23:30",
-      "episode_description": "Reality documental que sigue a los jugadores de béisbol de los Bravos de León, desde los entrenamientos hasta cada juego por los diferentes estados de la República mexicana."
+      "episode_description": "Distintas personalidades comparten sus encuentros con sus primeros libros. Recomiendan obras literarias que fueron fundamentales para su desarrollo personal, y comentan sus más recientes lecturas."
     },
     {
-      "show_name": "Tocando base",
+      "show_name": "Leémelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "Reality documental que sigue a los jugadores de béisbol de los Bravos de León, desde los entrenamientos hasta cada juego por los diferentes estados de la República mexicana."
+      "episode_description": "Distintas personalidades comparten sus encuentros con sus primeros libros. Recomiendan obras literarias que fueron fundamentales para su desarrollo personal, y comentan sus más recientes lecturas."
     }
   ]
 }
