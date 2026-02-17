@@ -1,18 +1,26 @@
 {
   "channel": "Canal 5 Galavision",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/sognare.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Crónicas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Sognare es la almohada más cómoda que podrás tener. Ésta te ayuda a mantener la columna vertebral en una postura correcta cada noche para evitar la fatiga crónica y las contracturas en cuello y espalda."
+      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/rtc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
       "end_time": "05:00",
@@ -76,23 +84,23 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/crónicas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
-      "show_category": "Publicidad",
+      "show_name": "Iglesia de Dios internacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_iglesia-de-dios-internacional_l_m.jpg",
+      "show_category": "Religioso",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Un programa religioso para reencontrarse con la calidez de Dios y sus sagradas enseñanzas. Maria Luisa Piravique alienta a la comunidad a reflexionar sobre sus propias accioens y a adecuarlas al ejemplo de Cristo."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -100,7 +108,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -108,7 +116,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -116,7 +124,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -124,7 +132,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -132,7 +140,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -140,63 +148,63 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
-      "show_category": "Publicidad",
+      "show_name": "Crónicas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
+    },
+    {
+      "show_name": "Crónicas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
+      "show_category": "Periodístico",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
-      "show_category": "Publicidad",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
-    },
-    {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/inova.webp",
-      "show_category": "Publicidad",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "12:30",
       "end_time": "13:00",
@@ -204,7 +212,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "13:00",
       "end_time": "13:30",
@@ -212,7 +220,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "13:30",
       "end_time": "14:00",
@@ -220,43 +228,27 @@
     },
     {
       "show_name": "XXV Juegos Olímpicos de Invierno Milano-Cortina 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "XXV Juegos Olímpicos de Invierno Milano-Cortina 2026",
       "start_time": "14:00",
-      "end_time": "16:55",
+      "end_time": "17:00",
       "episode_description": "Vive las emociones de las competiciones de los Juegos Olímpicos de Invierno Milano-Cortina 2026. En evento que se lleva a cabo en Milán y Cortina d'Ampezzo, combina más de 3.500 atletas de 93 países, 195 medallas y 16 disciplinas."
     },
     {
-      "show_name": "América vs. Monterrey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 9",
-      "start_time": "16:55",
-      "end_time": "19:00",
-      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
+      "show_name": "La inocente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-inocente-1972_l_m.jpg",
+      "show_category": "Drama / 1972 /7.0",
+      "start_time": "17:00",
+      "end_time": "22:00",
+      "episode_description": "Una madre trata de proteger a su hija, una mujer, que no puede desarrollar su madurez debido a un daño cerebral durante el parto, de la cruel realidad del mundo."
     },
     {
-      "show_name": "El chivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/el-chivo.webp",
-      "show_category": "Comedia / 1992",
-      "start_time": "19:00",
-      "end_time": "20:45",
-      "episode_description": "Un cacique controla el pueblo de San Isidro de las Veredas y hace lo que quiere impunemente, pues todos los habitantes le deben dinero. El cura del pueblo pide ayuda a los tres alegres hermanos Macías para buscar una solución."
-    },
-    {
-      "show_name": "Lamberto Quintero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/lamberto-quintero.webp",
-      "show_category": "Drama / 1987 /7.0",
-      "start_time": "20:45",
-      "end_time": "23:00",
-      "episode_description": "Don Lamberto Quintero es un importante personaje de la zona, al que todo el pueblo recurre en busca de ayuda y dinero. Pero su poder y su riqueza son envidia de otro gran líder, el Sr. Valderrama."
-    },
-    {
-      "show_name": "La escuelita VIP",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-5-galavision/today/la-escuelita-vip.webp",
-      "show_category": "Comedia",
-      "start_time": "23:00",
+      "show_name": "Velvet, el nuevo imperio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "22:00",
       "end_time": "00:00",
-      "episode_description": "Comedia para toda la familia que utiliza el doble sentido para divertir a la gente. Jorguito del Mazo Geis va a repetir tercer año, en el que convivirá con niños que han sido expulsados de otros colegios."
+      "episode_description": "La diseñadora Ana Velázquez llega a Velvet y se enamora de Alberto, el heredero de la empresa. Sin embargo, se trata de un amor prohibido, marcado por las intrigas e imposible de llevar a cabo debido a un matrimonio por conveniencia."
     }
   ]
 }
