@@ -1,110 +1,102 @@
 {
   "channel": "Cinema Platino",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Justicia implacable",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las Aventuras de un Cerdito",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:46",
-      "end_time": "03:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amsterdam",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:07",
-      "end_time": "05:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Robin Hood",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:25",
-      "end_time": "07:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Si Solo Pudiera Imaginar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/si-solo-pudiera-imaginar.webp",
-      "show_category": "Drama",
-      "start_time": "07:24",
-      "end_time": "09:19",
-      "episode_description": "La verdadera e inspiradora historia detrás de la querida y exitosa canción \"MercyMe\", que corona la última esperanza para muchos, es un recordatorio apasionante del poder del verdadero perdón."
-    },
-    {
-      "show_name": "Sismo Magnitud 9.5",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:19",
-      "end_time": "11:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Duro de Cuidar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/duro-de-cuidar.webp",
-      "show_category": "Acción",
-      "start_time": "11:16",
-      "end_time": "13:20",
-      "episode_description": "El mejor agente de protección del mundo Michael Bryce (Ryan Reynolds), está llamado a proteger la vida de su peor enemigo, uno de los sicarios más letales del mundo, Darius Kincaid (Samuel L. Jackson). El implacable guardaespaldas y el asesino manipulador han estado en los opuestos extremos de la bala por años y son lanzados juntos por 24 horas salvajes. Durante su estridente e hilarante aventura desde Inglaterra hasta Holanda, se topan con persecuciones de alta velocidad, extravagantes escapadas de botes y un despiadado dictador de Europa oriental, Vladislav Dukhovich (Gary Oldman), quien está en búsqueda de sangre. Sonia Kincaid (Salma Hayek) se une al caos como la esposa igualmente notoria de Darius."
-    },
-    {
-      "show_name": "Dicha",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:20",
-      "end_time": "15:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Guerra del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/la-guerra-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "15:09",
-      "end_time": "17:27",
-      "episode_description": "Los viajeros del tiempo llegan desde 2051 para entregar un mensaje urgente: Dentro de 30 años, la humanidad está perdiendo una guerra contra una especie alienígena mortal. La única esperanza de supervivencia es que soldados y civiles sean transportados al futuro y se unan a la lucha. Decidido a salvar a al mundo para su hija, Dan Forester (Chris Pratt) se une a un científico brillante y su padre separado para reescribir el destino del planeta."
-    },
-    {
-      "show_name": "Judy",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:27",
-      "end_time": "19:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El túnel",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:28",
-      "end_time": "21:17",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Inconcebible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:17",
-      "end_time": "23:06",
-      "episode_description": ""
-    },
-    {
       "show_name": "Luchando con mi Familia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/luchando-con-mi-familia.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/luchando_con_mi_familia.jpg",
       "show_category": "Biografía",
-      "start_time": "23:06",
+      "start_time": "00:00",
       "end_time": "01:00",
       "episode_description": "Basada en la increíble historia real de la estrella de la WWE, Paige (Florence Pugh). Nacida de una familia muy unida de luchadores, Paige y su hermano Zak (Jack Lowden) se quedan sorprendidos cuando tienen la oportunidad única en la vida de intentar entrar en la WWE. Pero cuando solo Paige se gana un lugar en el programa de entrenamiento competitivo, debe dejar a su familia y enfrentarse a este nuevo mundo despiadado. El Viaje de Paige la empuja a profundizar, luchar por su familia y, finalmente, demostrarle al mundo que lo que la hace diferente es lo que la puede convertir en una estrella."
+    },
+    {
+      "show_name": "El Hombre del Norte",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_del_norte.jpg",
+      "show_category": "Acción",
+      "start_time": "01:00",
+      "end_time": "03:20",
+      "episode_description": "Del visionario director Robert Eggers llega El Hombre del Norte, una epopeya llena de acción que sigue a un joven príncipe vikingo en búsqueda para vengar el asesinato de su padre."
+    },
+    {
+      "show_name": "Trece vidas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:20",
+      "end_time": "05:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Todo sobre los Ricardo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:49",
+      "end_time": "08:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tres segundos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:04",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sin Escape",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_escape.jpg",
+      "show_category": "Acción",
+      "start_time": "10:00",
+      "end_time": "11:47",
+      "episode_description": "Jack (Owen Wilson) decide viajar con su familia Annie (Lake Bell), Lucy (Sterling Jerins) y Beeze (Claire Geare) al sureste de Asia. Mientras bajan del avión conocen a un extranjero igual que ellos llamado Hammond (Pierce Brosnan) quien conoce y le da buenas expectativas del país, pero él no sabe que ese país está a punto de pasar por un conflicto armado y ahora ellos deberán correr por sus vidas."
+    },
+    {
+      "show_name": "Ni en tus sueños",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:47",
+      "end_time": "13:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La conferencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:55",
+      "end_time": "15:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Mayordomo de la Casa Blanca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:48",
+      "end_time": "18:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amigos por siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:04",
+      "end_time": "19:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Terror a 47 Metros: El Segundo Ataque",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terror_a_47_metros_el_segundo_ataque.jpg",
+      "show_category": "Aventura",
+      "start_time": "19:57",
+      "end_time": "21:34",
+      "episode_description": "Cuatro chicas adolescentes se zambullen en una ciudad submarina en ruinas, rápidamente se dan cuenta que el laberinto claustrofóbico de cuevas sumergidas es el territorio de los tiburones más mortíferos."
+    },
+    {
+      "show_name": "Respect: La Historia de Aretha Franklin",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/respect_la_historia_de_aretha_franklin.jpg",
+      "show_category": "Biografía",
+      "start_time": "21:34",
+      "end_time": "00:05",
+      "episode_description": "Tras el ascenso de la carrera de Aretha Franklin (Jennifer Hudson) desde una niña cantado en el coro de la iglesia de su padre hasta su estrellato internacional, \"Respect\" es la notable historia real del viaje de la artista para encontrar su voz y convertirse en la Reina del Soul."
     }
   ]
 }

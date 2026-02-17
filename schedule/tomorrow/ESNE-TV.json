@@ -1,6 +1,6 @@
 {
   "channel": "ESNE TV",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
       "show_name": "Enamórate",
@@ -27,34 +27,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Palabras Que Edifican",
+      "show_name": "La hora del encuentro",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Santo Rosario - Las comunicadoras eucarísticas del Padre Celestial",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Videos musicales",
+      "show_name": "Audiencia del Papa Leon XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "04:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "Conciertos Católicos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -155,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caminos de Esperanza",
+      "show_name": "Audiencia del Papa Leon XIV",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Acompañándote",
+      "show_name": "Caminos de Esperanza",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -184,6 +176,62 @@
       "show_category": "",
       "start_time": "17:00",
       "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Actualidad y Fé",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santa Misa desde Capilla San Juan Pablo II",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Palabras Que Edifican",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un corazón que escucha",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Audiencia del Papa Leon XIV",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Congresos Católicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enamórate",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

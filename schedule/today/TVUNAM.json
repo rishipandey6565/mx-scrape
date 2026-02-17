@@ -1,49 +1,65 @@
 {
   "channel": "TVUNAM",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Tiempo de Filmoteca UNAM Sala",
+      "show_name": "Tiempo de Filmoteca UNAM",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "No memes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "04:00",
+      "start_time": "00:30",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "07:00",
+      "start_time": "03:30",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "06:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Música en escena",
+      "show_name": "La matiné",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Patrimonio mundial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza latina. Mujeres",
+      "show_name": "Noticiero Científico",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íconos del Jazz",
+      "show_name": "Mundo real Rutas de esclavitu",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -67,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chaplin",
+      "show_name": "Alrededor del mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -75,23 +91,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "La matiné",
+      "show_name": "Jueves de ciencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "13:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patrimonio mundial",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Científico",
+      "show_name": "Incluidos. Trabajos sin preju",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -107,23 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "53° Festival internacional Cer",
+      "show_name": "Concierto sinfónico",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La lista de Erick",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza latina. Mujeres",
+      "show_name": "Noticiero Científico",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Directo Urban Beat",
+      "show_name": "Especial 3 aniversario luctuos",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chaplin",
+      "show_name": "Alrededor del mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Íconos del Jazz",
+      "show_name": "Mundo real Rutas de esclavitu",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "No memes",
+      "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "RockLab. Donde hay vida más al",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",

@@ -1,44 +1,52 @@
 {
   "channel": "FX (México)",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "Brigada A Los Magníficos",
+      "show_name": "Agentes del desorden",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:15",
+      "end_time": "00:03",
       "episode_description": ""
     },
     {
-      "show_name": "Los muertos no mueren",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FX-M-xico/tomorrow/los-muertos-no-mueren.webp",
-      "show_category": "Comedia",
-      "start_time": "00:15",
-      "end_time": "02:23",
-      "episode_description": "En el pequeño y tranquilo pueblo de Centerville, algo no está del todo bien. La luna se ve grande y muy bajo en el cielo, las horas del día se vuelven impredecibles y los animales comienzan a exhibir un comportamiento inusual. Nadie prevé la repercusión más extraña y peligrosa que pronto comenzará a plagar el pueblo: los muertos no mueren – se levantan de sus tumbas atacando salvajemente para darse un festín con los vivos – y los ciudadanos deben luchar por su supervivencia."
-    },
-    {
-      "show_name": "Zombie Tidal Wave",
+      "show_name": "Un héroe encubierto 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:23",
-      "end_time": "03:55",
+      "start_time": "00:03",
+      "end_time": "01:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Escuadrón de la muerte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:53",
+      "end_time": "03:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Love in the Forecast",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:20",
+      "end_time": "04:55",
       "episode_description": ""
     },
     {
       "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:55",
-      "end_time": "04:42",
+      "start_time": "04:55",
+      "end_time": "05:42",
       "episode_description": ""
     },
     {
       "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:42",
+      "start_time": "05:42",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -55,55 +63,63 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:54",
-      "end_time": "10:24",
+      "end_time": "09:12",
       "episode_description": ""
     },
     {
-      "show_name": "Prometeo",
+      "show_name": "¿Qué te juegas?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:24",
-      "end_time": "12:45",
+      "start_time": "09:12",
+      "end_time": "11:19",
       "episode_description": ""
     },
     {
-      "show_name": "Wall Street 2",
+      "show_name": "Días perrunos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:45",
-      "end_time": "15:16",
+      "start_time": "11:19",
+      "end_time": "13:36",
       "episode_description": ""
     },
     {
-      "show_name": "Tras líneas enemigas",
+      "show_name": "La aldea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:16",
-      "end_time": "17:17",
+      "start_time": "13:36",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "Snowden",
+      "show_name": "Viento de Libertad",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/viento_de_libertad.jpg",
+      "show_category": "Drama",
+      "start_time": "15:45",
+      "end_time": "18:07",
+      "episode_description": "Verano de 1979 en Turingia. Las familias Strelzyk y Wetzel tienen un plan audaz. Quieren volar desde la Alemania del este hacia el oeste con un globo aerostático hecho por ellos mismos. Incluso cuando se construye el globo, el padre Günter Wetzel (David Kross) permanece en contra de la fuga. Teme que el globo sea demasiado pequeño. Con cuatro personas, la familia Strelzyk se embarca en una aventura potencialmente mortal. Sin Embargo, poco antes de la frontera, el globo comienza a caer repentinamente debido a problemas técnicos y comienza una carrera desgarradora contra el reloj."
+    },
+    {
+      "show_name": "Viviendo con el enemigo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:17",
-      "end_time": "19:56",
+      "start_time": "18:07",
+      "end_time": "20:12",
       "episode_description": ""
     },
     {
-      "show_name": "Sunshine Alerta Solar",
+      "show_name": "Misión Babilonia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:56",
+      "start_time": "20:12",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Agentes del desorden",
+      "show_name": "Los Excéntricos Tenenbaums",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:02",
+      "end_time": "00:06",
       "episode_description": ""
     }
   ]

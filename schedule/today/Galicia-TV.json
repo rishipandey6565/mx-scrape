@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "48 Horas para o si",
+      "show_name": "Libro de Familia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -23,11 +23,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "03:50",
+      "end_time": "03:45",
       "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:45",
+      "end_time": "03:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O agro",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:50",
@@ -171,18 +179,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Latitude galega",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
-      "end_time": "21:00",
+      "end_time": "23:10",
       "episode_description": ""
     },
     {
       "show_name": "Libro de Familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
+      "start_time": "23:10",
       "end_time": "00:00",
       "episode_description": ""
     }

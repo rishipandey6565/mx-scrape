@@ -1,10 +1,10 @@
 {
   "channel": "FOX SPORTS",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "00:00",
       "end_time": "00:00",
@@ -12,31 +12,39 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "00:00",
-      "end_time": "03:30",
+      "end_time": "02:00",
+      "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
+    },
+    {
+      "show_name": "+90",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1619703993.jpg",
+      "show_category": "Deportivo",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "No hay información disponible."
+    },
+    {
+      "show_name": "La última palabra",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
+      "show_category": "Fútbol",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
+    },
+    {
+      "show_name": "Central Fox",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
+      "show_category": "Noticiero",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": "Show de noticias, compila la información más relevante del mundo deportivo en sus ediciones diarias."
     },
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
-      "show_category": "Fútbol",
-      "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
-    },
-    {
-      "show_name": "Fox Fight Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fight-club.webp",
-      "show_category": "Lucha",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
-    },
-    {
-      "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Fox Fit",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fit.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505124.jpg",
       "show_category": "Deportivo",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Fox Fit",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fit.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505124.jpg",
       "show_category": "Deportivo",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "08:00",
       "end_time": "09:00",
@@ -76,47 +84,55 @@
     },
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": "El show de debate más influyente del futbol mexicano, con los temas más relevantes y polémicos. ¡Aquí se dice lo que muchos nunca quisieran escuchar!"
     },
     {
-      "show_name": "Budo Combat",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/budo-combat.webp",
-      "show_category": "Artes Marciales",
+      "show_name": "+90",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1619703993.jpg",
+      "show_category": "Deportivo",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Primera liga de combate de karate y kickboxing profesional del Reino Unido."
+      "episode_description": "No hay información disponible."
     },
     {
-      "show_name": "Major Arena Soccer League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/major-arena-soccer-league.webp",
-      "show_category": "Fútbol",
+      "show_name": "AEW Collision",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/38156003.jpg",
+      "show_category": "Lucha",
       "start_time": "11:00",
       "end_time": "13:30",
-      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
-    },
-    {
-      "show_name": "AEW Dynamite",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/aew-dynamite.webp",
-      "show_category": "Lucha",
-      "start_time": "13:30",
-      "end_time": "15:30",
-      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
+      "episode_description": "Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro."
     },
     {
       "show_name": "Fox Fight Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-fight-club.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/24505135.jpg",
       "show_category": "Lucha",
-      "start_time": "15:30",
-      "end_time": "16:00",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
     },
     {
+      "show_name": "All Elite Show",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/43334181.jpg",
+      "show_category": "Lucha",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "Un espacio que presenta combates y encuentros organizados por la empresa All Elite Wrestling. EL público podrá disfrutar de una propuesta de lucha libre profesional con un cuadrilátero repleto de adrenalina, saltos, golpes y maniobras."
+    },
+    {
+      "show_name": "+90",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1619703993.jpg",
+      "show_category": "Deportivo",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "No hay información disponible."
+    },
+    {
       "show_name": "Fox Sports Radio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-sports-radio.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22587565.jpg",
       "show_category": "Magazine",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -124,7 +140,7 @@
     },
     {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -132,7 +148,7 @@
     },
     {
       "show_name": "Money Line Show",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/money-line-show.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/23812416.jpg",
       "show_category": "Juegos",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -140,31 +156,31 @@
     },
     {
       "show_name": "Fox Sports Radio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-sports-radio.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22587565.jpg",
       "show_category": "Magazine",
       "start_time": "19:00",
       "end_time": "20:00",
       "episode_description": "Se informa y analiza los acontecimientos deportivos que se generan en el día con rigor periodístico, en tono relajado y ameno."
     },
     {
-      "show_name": "Fox Gol México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/fox-gol-méxico.webp",
-      "show_category": "Fútbol",
+      "show_name": "+90",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1619703993.jpg",
+      "show_category": "Deportivo",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Programa de análisis especializado en futbol mexicano, con el resumen previo y el resultado posterior de cada jornada."
-    },
-    {
-      "show_name": "+90",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/90.webp",
-      "show_category": "Deportivo",
-      "start_time": "21:00",
-      "end_time": "22:00",
       "episode_description": "No hay información disponible."
     },
     {
+      "show_name": "Fox Gol femenil",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/23091418.jpg",
+      "show_category": "Fútbol",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Esta producción original estará dedicada a todo lo que sucede en el fútbol femenil nacional e internacional, pero principalmente tratará la actividad de la Liga MX."
+    },
+    {
       "show_name": "Central Fox",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/central-fox.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/22289825.jpg",
       "show_category": "Noticiero",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -172,7 +188,7 @@
     },
     {
       "show_name": "La última palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS/tomorrow/la-última-palabra.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/37143219.jpg",
       "show_category": "Fútbol",
       "start_time": "23:00",
       "end_time": "00:00",

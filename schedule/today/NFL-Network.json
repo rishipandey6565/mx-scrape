@@ -1,25 +1,25 @@
 {
   "channel": "NFL Network",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "NFL Football",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Super bowl Classics",
+      "show_name": "NFL Football",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "02:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Mic'd Up",
+      "show_name": "NFL Insiders",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A football life",
+      "show_name": "NFL 360",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -75,18 +75,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "A football life",
+      "show_name": "NFL 360",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "A football life",
+      "show_name": "NFL 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Roundtables Field General",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },

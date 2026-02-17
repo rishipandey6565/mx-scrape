@@ -1,52 +1,36 @@
 {
   "channel": "AYM Sports",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Lucha libre",
+      "show_name": "Hoy Futbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Revolucionando",
+      "show_name": "Artes Marciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "00:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Béisbol Liga Mexicana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:00",
+      "start_time": "02:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Mexicano Femenino LNBP",
+      "show_name": "En los deportes, vámonos de largo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "WBC Fights",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Encendiendo las redes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
+      "start_time": "06:00",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -59,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Artes Marciales",
+      "show_name": "Lucha libre",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -71,19 +55,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gancho al Hígado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "En los deportes, vámonos de largo",
+      "show_name": "Ultra MX",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -115,42 +91,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pesca en Directo",
+      "show_name": "En los deportes, vámonos de largo",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "WBC Fights",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "LFA Total",
+      "show_name": "Liga de Fútbol Americano Mexicano",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol Mexicano Liga Premier MX",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Ultra MX",
+      "show_name": "Pesca en Directo",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alta Velocidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },

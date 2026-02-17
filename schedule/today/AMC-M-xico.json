@@ -1,44 +1,52 @@
 {
   "channel": "AMC (México)",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "En peligro de extinción",
+      "show_name": "Crank, veneno en la sangre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:35",
+      "end_time": "00:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sicario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:25",
+      "end_time": "02:35",
       "episode_description": ""
     },
     {
       "show_name": "Sicario: El Día del Soldado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/sicario-el-día-del-soldado.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sicario_2_soldado.jpg",
       "show_category": "Acción",
-      "start_time": "01:35",
-      "end_time": "03:45",
+      "start_time": "02:35",
+      "end_time": "04:45",
       "episode_description": "La guerra contra las drogas en la frontera entre Estados Unidos – México se ha intensificado a medida que los cárteles comenzaron a traficar con terroristas en la frontera con Estados Unidos. Para luchar en la guerra, el agente federal Matt Graver (Josh Brolin) vuelve hacer equipo con el volátil Alejandro (Benicio del Toro)."
     },
     {
-      "show_name": "El Vengador Del Futuro",
+      "show_name": "Z",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:45",
-      "end_time": "05:50",
+      "start_time": "04:45",
+      "end_time": "06:10",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:50",
-      "end_time": "06:25",
+      "start_time": "06:10",
+      "end_time": "06:35",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:25",
+      "start_time": "06:35",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -107,75 +115,51 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Legalmente Rubia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:50",
-      "episode_description": ""
-    },
-    {
       "show_name": "Siempre a tu lado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:50",
-      "end_time": "15:40",
+      "start_time": "11:00",
+      "end_time": "12:50",
       "episode_description": ""
     },
     {
       "show_name": "Dos locas en fuga",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:40",
-      "end_time": "17:20",
+      "start_time": "12:50",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Hobbit Un Viaje Inesperado",
+      "show_name": "Hobbit La desolación de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:20",
-      "end_time": "20:20",
+      "start_time": "14:30",
+      "end_time": "17:25",
       "episode_description": ""
     },
     {
-      "show_name": "Contrarreloj",
+      "show_name": "El hobbit la batalla de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:20",
+      "start_time": "17:25",
+      "end_time": "19:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Terminator: La Salvación",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_la_salvacion.jpg",
+      "show_category": "Acción",
+      "start_time": "19:55",
       "end_time": "22:00",
-      "episode_description": ""
+      "episode_description": "En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas."
     },
     {
-      "show_name": "Talamasca The Secret",
+      "show_name": "Apocalypto",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Crank Veneno en la sangre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:45",
-      "end_time": "00:25",
+      "end_time": "00:15",
       "episode_description": ""
     }
   ]

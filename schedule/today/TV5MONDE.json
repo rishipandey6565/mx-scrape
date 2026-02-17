@@ -1,28 +1,36 @@
 {
   "channel": "TV5MONDE",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Auschwitz muzeum",
+      "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:31",
+      "end_time": "00:38",
       "episode_description": ""
     },
     {
-      "show_name": "Benjamin orenstein, la mémoire",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:31",
-      "end_time": "01:26",
+      "start_time": "00:38",
+      "end_time": "01:42",
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "La grande galerie francophone",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:26",
+      "start_time": "01:42",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un si grand soleil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -39,38 +47,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:32",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le magazine de la riviera",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
+      "start_time": "04:33",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "FOOT!",
+      "show_name": "Mise au point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:39",
+      "end_time": "05:55",
       "episode_description": ""
     },
     {
-      "show_name": "Le dessous des cartes",
+      "show_name": "Curieux bégin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:39",
-      "end_time": "05:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chef Pays",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:54",
+      "start_time": "05:55",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -91,34 +91,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ding Dong Montre-moi ta maiso",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:16",
+      "end_time": "08:17",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Comment ca va le nord?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:16",
-      "end_time": "08:43",
+      "start_time": "08:17",
+      "end_time": "08:41",
       "episode_description": ""
     },
     {
-      "show_name": "A bon entendeur",
+      "show_name": "# Version française",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:43",
-      "end_time": "09:10",
+      "start_time": "08:41",
+      "end_time": "09:08",
       "episode_description": ""
     },
     {
-      "show_name": "L'épicerie",
+      "show_name": "Chef Pays",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:10",
+      "start_time": "09:08",
       "end_time": "09:39",
       "episode_description": ""
     },
@@ -151,14 +151,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:03",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
-      "show_name": "Trentenaires",
+      "show_name": "OPJ",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:03",
+      "start_time": "12:05",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,18 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:00",
+      "end_time": "16:01",
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:01",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -211,83 +211,51 @@
       "episode_description": ""
     },
     {
-      "show_name": "Des racines & des ailes",
+      "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
-      "end_time": "19:34",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "L'actu news",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:34",
-      "end_time": "20:05",
+      "start_time": "19:30",
+      "end_time": "20:02",
       "episode_description": ""
     },
     {
-      "show_name": "Or de vie",
+      "show_name": "La grande librairie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:05",
-      "end_time": "21:30",
+      "start_time": "20:02",
+      "end_time": "21:36",
       "episode_description": ""
     },
     {
-      "show_name": "Allez ma fille",
+      "show_name": "#Investigation",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "21:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nature morte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:45",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:22",
-      "end_time": "22:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Les perles",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:44",
-      "end_time": "23:06",
+      "start_time": "21:36",
+      "end_time": "23:07",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:06",
-      "end_time": "23:31",
+      "start_time": "23:07",
+      "end_time": "23:32",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:31",
-      "end_time": "00:38",
+      "start_time": "23:32",
+      "end_time": "01:02",
       "episode_description": ""
     }
   ]

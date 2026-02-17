@@ -1,12 +1,52 @@
 {
   "channel": "Telefe Internacional",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
       "show_name": "Vidas robadas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Entre Caníbales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Montecristo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Descubrir America",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vinos y placeres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Plano x plano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:25",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -91,18 +131,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Check-in",
+      "show_name": "Gravedad Zero",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
-      "end_time": "18:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Entre Caníbales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:40",
       "end_time": "19:45",
       "episode_description": ""
     },
@@ -115,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Check-in",
+      "show_name": "Gravedad Zero",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
@@ -123,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gravedad Zero",
+      "show_name": "Staff",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -135,14 +167,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "21:15",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Staff",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
