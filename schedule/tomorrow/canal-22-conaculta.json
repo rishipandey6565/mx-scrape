@@ -1,58 +1,50 @@
 {
   "channel": "Canal 22",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
       "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "01:30",
       "episode_description": "Programación a confirmar."
     },
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
-      "start_time": "00:30",
-      "end_time": "01:30",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
-    },
-    {
-      "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
+      "show_name": "Un lugar llamado México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Turismo",
       "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+      "episode_description": "Un documental que recorre los rincones culturales del estado mexicano de Campeche. Reservas naturales, rutas históricas y personajes emblemáticos de la República Mexicana, forman parte de los sitios que se presentan."
     },
     {
       "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": "Programación a confirmar."
     },
     {
-      "show_name": "Naturaleza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/naturaleza.webp",
+      "show_name": "Historia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_historia_l_m.jpg",
       "show_category": "Documental",
       "start_time": "02:30",
       "end_time": "03:30",
-      "episode_description": "Transmisión que llevará al televidente a recorrer lugares poco conocidos por el hombre y a saber más acerca de la vida de algunas especies. Muestra la situación en que se encuentra la flora y fauna del planeta tierra."
+      "episode_description": ""
     },
     {
-      "show_name": "Lumbreras del cine mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entrevista",
+      "show_name": "Shorts México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shorts-mexico_l_m.jpg",
+      "show_category": "Cine",
       "start_time": "03:30",
       "end_time": "04:30",
-      "episode_description": "Entrevistas a diferentes realizadores y trabajadores de proyectos audiovisuales."
+      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
     },
     {
       "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "04:30",
       "end_time": "05:00",
@@ -60,7 +52,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -68,7 +60,7 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -76,7 +68,7 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
@@ -84,39 +76,39 @@
     },
     {
       "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
       "end_time": "09:00",
       "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
     },
     {
-      "show_name": "Humanismo Mexicano y memoria histórica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Educativo",
+      "show_name": "Detector de mentiras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_detector-de-mentiras_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
+      "show_name": "Marquesina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Magazine",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Programación a confirmar."
+      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
     },
     {
       "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
@@ -124,7 +116,7 @@
     },
     {
       "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "12:00",
       "end_time": "13:00",
@@ -132,71 +124,55 @@
     },
     {
       "show_name": "Me voy pal norte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/me-voy-pal-norte.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-pal-norte_l_m.jpg",
       "show_category": "Documental",
       "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": "Las experiencias de migrantes en busca del sueño americano. Las dificultades que enfrentan en su travesía, como la detención en la frontera, pérdida de familiares en el desierto y la lucha por mantener sus raíces y cultura."
     },
     {
-      "show_name": "¡Llegamos todas!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_name": "SanaMente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Salud",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Cada episodio es una ventana a la vida y trayectoria de una mujer que ha desafiado las diferentes barreras de género, redefiniendo el liderazgo en México. Es un espacio donde la cercanía y la reflexión son protagonistas."
+      "episode_description": "Un espacio dedicado a la prevención de enfermedades. En cada emisión, expertos en psicología, nutrición y medicina acompañarán a la conductora Aissa García para dialogar sobre la salud integral."
     },
     {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
+      "show_name": "Rodando caminos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Programación a confirmar."
+      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
     },
     {
       "show_name": "¡Clic clac!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/clic-clac.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_clic-clac-1_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
       "episode_description": "Espacio que propone un equilibrio entre formación y entretenimiento para niños, abarcando temas como ciencia, literatura, naturaleza, arte, tradiciones mexicanas e historia, presentados de una forma muy creativa."
     },
     {
-      "show_name": "Piedras que hablan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/piedras-que-hablan.webp",
-      "show_category": "Interés general",
+      "show_name": "A confirmar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
+      "show_category": "Variedades",
       "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Descubre diversos sitios arqueológicos a través de la historia de sus exploraciones, así como también algunos de los descubrimientos más significativos relacionados a su pasado y cómo éstos pueden mostrarnos tanta información."
-    },
-    {
-      "show_name": "La dichosa palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/la-dichosa-palabra.webp",
-      "show_category": "Talk Show",
-      "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
+      "episode_description": "Programación a confirmar."
     },
     {
-      "show_name": "Un lugar llamado México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Turismo",
+      "show_name": "Miss Friman's War",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Comedia",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Un documental que recorre los rincones culturales del estado mexicano de Campeche. Reservas naturales, rutas históricas y personajes emblemáticos de la República Mexicana, forman parte de los sitios que se presentan."
-    },
-    {
-      "show_name": "La oveja eléctrica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/la-oveja-eléctrica.webp",
-      "show_category": "Interés general",
-      "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
+      "episode_description": "Un grupo de mujeres se enfrenta tanto al machismo como a una industria corrupta de comestibles. Aborda temas que son tan relevantes hoy como lo eran entonces: la demanda de alimentos buenos e intactos y la lucha por la igualdad de derechos."
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -204,7 +180,7 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -212,19 +188,27 @@
     },
     {
       "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/punto-de-referencia.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
       "show_category": "Político",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
     },
     {
-      "show_name": "Shorts México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/shorts-méxico.webp",
-      "show_category": "Cine",
+      "show_name": "Pantalla de cristal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pantalla-de-cristal_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de las producciones audiovisuales de México, con notas de interés y novedades."
+    },
+    {
+      "show_name": "A confirmar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
+      "episode_description": "Programación a confirmar."
     }
   ]
 }

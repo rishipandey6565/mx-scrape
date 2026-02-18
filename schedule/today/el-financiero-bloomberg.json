@@ -1,82 +1,122 @@
 {
   "channel": "El Financiero Bloomberg",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "Bloomberg Wall Street Week",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-wall-street-week.webp",
-      "show_category": "Economía",
+      "show_name": "Al cierre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Un diálogo con los principales nombres en finanzas sobre los problemas más importantes de la semana en Wall Street."
+      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
+    },
+    {
+      "show_name": "Con Ortega a las diez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
       "show_name": "Bloomberg The Opening Trade",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "01:00",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
     },
     {
       "show_name": "The Pulse",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/the-pulse.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-pulse_l_m.jpg",
       "show_category": "Economía",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Francine Lacqua te presenta las informaciones y noticias más relevantes, así como también sus comentarios y análisis, sobre el acontecer relacionado al complejo mundo de los negocios en Europa."
     },
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-markets.webp",
-      "show_category": "Negocios",
+      "show_name": "Bloomberg Brief",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-brief_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "04:00",
-      "end_time": "04:00",
-      "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
+      "end_time": "05:00",
+      "episode_description": "Noticias, datos y análisis de mercado que necesitas para marcar tu agenda."
     },
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/bloomberg-markets.webp",
-      "show_category": "Negocios",
-      "start_time": "04:00",
+      "show_name": "Bloomberg Surveillance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-surveillance_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+    },
+    {
+      "show_name": "Bloomberg Surveillance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-surveillance_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "05:00",
+      "end_time": "08:00",
+      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+    },
+    {
+      "show_name": "Bloomberg Open Interest",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": "Todas las noticias que necesitas saber sobre el movimiento del mercado para comenzar con impulso el día de operaciones en Estados Unidos."
+    },
+    {
+      "show_name": "Bloomberg Technology",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-technology_l_m.jpg",
+      "show_category": "Tecnología",
+      "start_time": "10:00",
       "end_time": "11:00",
+      "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
+    },
+    {
+      "show_name": "Bloomberg Crypto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-crypto_l_m.jpg",
+      "show_category": "Periodístico",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Las nuevas tecnologías están remodelando el mundo que conocíamos antiguamente. Entre ellas destacamos a las criptomonedas, una moneda completamente digital y blockchain."
+    },
+    {
+      "show_name": "Bloomberg Markets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-markets_l_m.jpg",
+      "show_category": "Negocios",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
     },
     {
-      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/the-david-rubenstein-show-peer-to-peer-conversations.webp",
-      "show_category": "Temporada 11 Episodio 12 - PIF Governor Yasir Al-Rumayyan",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Gobernador del PIF, Yasir Al-Rumayyan"
-    },
-    {
-      "show_name": "Bloomberg Investigates",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Inside North Korea's Secret Remote IT Workforce",
+      "show_name": "Bloomberg Balance of Power",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-balance-of-power_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Esta es la historia de cómo la casa de una mujer de Arizona se convirtió en una puerta de entrada para los agentes informáticos de Corea del Norte: una \"granja de computadoras portátiles\" clandestina que se infiltró... ."
+      "episode_description": "Una mirada en profundidad a la intersección de la política y los negocios globales."
     },
     {
-      "show_name": "Bloomberg Investigates",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 3 - Muerte en la montaña de siete colores",
+      "show_name": "Bloomberg Businessweek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-businessweek_l_m.jpg",
+      "show_category": "Negocios",
       "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "La Montaña Arcoíris ofrece a los turistas una vista perfecta que ha inundado las redes sociales. Pero detrás de este paraje viral se esconde la historia de una comunidad en guerra, gritos de socorro ignorados y asesinatos."
+      "episode_description": "Carol Massar y Tim Stenovec reúnen las últimas noticias del mundo de los negocios y las finanzas y las interesantes historias de tecnología, política, economía y más a nivel global."
     },
     {
-      "show_name": "The Infinite Explorer with Hannah Fry",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 6 - Hannah Fry Decodes Spain's Complex Culture",
+      "show_name": "Bloomberg Markets: The Close",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-markets-the-close_l_m.jpg",
+      "show_category": "Político",
       "start_time": "14:00",
       "end_time": "15:00",
-      "episode_description": "Hannah Fry viaja a España para descifrar su historia y cultura. Aprende sobre los ritmos del flamenco, un lenguaje de silbos montañeses y el simbolismo oculto en su urbanismo."
+      "episode_description": "Bloomberg Markets: The Close. El programa acelerado es el espectáculo cercano al mercado por excelencia que lleva a los últimos minutos y segundos antes de la campana de cierre en Wall Street con las últimas noticias."
     },
     {
       "show_name": "Al Sonar la Campanar con Raquel López-Portillo Maltos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "15:00",
       "end_time": "16:00",
@@ -84,7 +124,7 @@
     },
     {
       "show_name": "Ganadores y perdedores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/ganadores-y-perdedores.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ganadores-y-perdedores_l_m.jpg",
       "show_category": "Economía",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -92,7 +132,7 @@
     },
     {
       "show_name": "El Financiero a las 17hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-17hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-17hs_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -100,7 +140,7 @@
     },
     {
       "show_name": "El Financiero a las 18hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-18hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-18hs_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -108,7 +148,7 @@
     },
     {
       "show_name": "El Financiero a las 19hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-19hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-19hs_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -116,7 +156,7 @@
     },
     {
       "show_name": "El Financiero a las 20hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/el-financiero-a-las-20hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-20hs_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "21:00",
@@ -124,7 +164,7 @@
     },
     {
       "show_name": "Al cierre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/al-cierre.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -132,19 +172,19 @@
     },
     {
       "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/con-ortega-a-las-diez.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Silla roja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/today/silla-roja.webp",
-      "show_category": "Entrevista",
+      "show_name": "Entre dichos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Entrevistas realizadas por los más destacados periodistas a los personajes del momento."
+      "episode_description": "Un programa de entrevistas que recibe a diversos invitados para debatir temas de actualdiad en profundidad de la mano del conductor René Delgado."
     }
   ]
 }

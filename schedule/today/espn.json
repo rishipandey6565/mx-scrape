@@ -1,18 +1,26 @@
 {
   "channel": "ESPN",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "Atl. San Luis vs. Querétaro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 6, Estadio Alfonso Lastras",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026."
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -20,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Trabzonspor vs. Fenerbahce",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 22, Akyazi Stadyumu",
+      "show_name": "Al Hilal (Ksa) vs. Al-Wahda (UAE)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Liga de Campeones Élite de la AFC",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Vive los partidos de la 68º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía."
+      "episode_description": "La Liga de Campeones Élite de la AFC 2025-2026 es la cuadragésima cuarta edición del principal campeonato de fútbol de clubes de Asia organizado por la Confederación Asiática de Fútbol (AFC), y la primera bajo su nueva denominación."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -44,95 +52,79 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Final",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ATP World Tour - ABN AMRO World Tennis Tournament",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Disfruta del ABN AMRO Open 2026, el mayor torneo de tenis ATP e ITF de los Países Bajos. La edición 53 del torneo cuenta con tenistas de talla mundial que compiten en el Rotterdam Ahoy de Róterdam, Países Bajos."
+      "end_time": "09:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Ronda Final, Pebble Beach Golf Links, Pebble Beach, CA, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "PGA Tour - AT&T Pebble Beach Pro-Am",
-      "start_time": "10:00",
+      "show_name": "Excelsior vs. AZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 23, Van Donge & De Roo Stadion",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "Goles de la Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-serie-a_l_m.jpg",
+      "show_category": "Goles de la Serie A",
+      "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Los mejores jugadores del PGA Tour compiten por un premio de 20 millones de dólares en Pebble Beach Golf Links y Spyglass Hill Golf Course."
+      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
     },
     {
-      "show_name": "30 for 30",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/30-for-30.webp",
-      "show_category": "- The Philly Special",
+      "show_name": "NBA All-Star Game",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "NBA All-Star Game",
       "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "Explora cómo una jugada audaz durante el Super Bowl LII se convirtió en un símbolo cultural que capturó el espíritu, la resiliencia y la identidad de desvalidos de los Philadelphia Eagles y su ciudad."
+      "end_time": "13:30",
+      "episode_description": "Disfruta las emociones y todo el talento que presenta la edición número 75 del Juego de las Estrellas de la NBA. La cita tendrá lugar en el Intuit Dome de Inglewood, California, la casa de Los Angeles Clippers."
     },
     {
-      "show_name": "Acción de la NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/acción-de-la-nba.webp",
-      "show_category": "Acción de la NBA",
-      "start_time": "13:00",
-      "end_time": "13:25",
-      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
-    },
-    {
-      "show_name": "El show de la Copa Libertadores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/el-show-de-la-copa-libertadores.webp",
-      "show_category": "El show de la Copa Libertadores",
-      "start_time": "13:25",
-      "end_time": "13:50",
-      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
-    },
-    {
-      "show_name": "Coventry City vs. Middlesbrough",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 32, Coventry Building Society Arena",
-      "start_time": "13:50",
-      "end_time": "16:00",
+      "show_name": "Bristol City vs. Wrexham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 32, Ashton Gate Stadium",
+      "start_time": "13:30",
+      "end_time": "15:55",
       "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
     },
     {
-      "show_name": "Cremonese vs. Genoa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 25, Stadio Giovanni Zini",
-      "start_time": "16:00",
+      "show_name": "Carabobo (Ven) vs. Huachipato (Chi)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación, Estadio Polideportivo Misael Delgado",
+      "start_time": "15:55",
       "end_time": "18:00",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+      "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_name": "Liverpool (Uru) vs. Ind. Medellín (Col)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación, Estadio Belvedere",
       "start_time": "18:00",
-      "end_time": "18:50",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
-    },
-    {
-      "show_name": "Atl. San Luis vs. Querétaro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 9, Estadio Alfonso Lastras",
-      "start_time": "18:50",
-      "end_time": "21:00",
-      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
+      "end_time": "20:30",
+      "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "21:00",
+      "start_time": "20:30",
       "end_time": "22:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -140,7 +132,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "00:00",

@@ -1,134 +1,150 @@
 {
   "channel": "TCM",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
-      "show_name": "La casa de la montaña embrujada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "House on Haunted Hill",
-      "start_time": "01:26",
-      "end_time": "02:43",
-      "episode_description": "Un excéntrico millonario invita a cinco personas a su mansión, donde se dice que se han cometido crímenes en el pasado. Les ofrece 10.000 dólares si pasan allí una noche entera, incomunicados, hasta que vuelvan los criados."
+      "show_name": "Como un torrente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Some Came Running",
+      "start_time": "00:12",
+      "end_time": "02:34",
+      "episode_description": "El novelista Dave Hirsh regresa a casa tras años de ausencia. Su hermano quiere que Dave siente cabeza y le presenta a la profesora de inglés Gwen French. Dave guarda rencor hacia su hermano y pasa sus días con un jugador profesional."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 82",
-      "start_time": "02:43",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e85_l_m.jpg",
+      "show_category": "Episodio 85",
+      "start_time": "02:34",
+      "end_time": "02:48",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e83_l_m.jpg",
+      "show_category": "Episodio 83",
+      "start_time": "02:48",
       "end_time": "03:00",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 28",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e26_l_m.jpg",
+      "show_category": "Episodio 26",
       "start_time": "03:00",
       "end_time": "03:39",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 85",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e27_l_m.jpg",
+      "show_category": "Episodio 27",
       "start_time": "03:39",
-      "end_time": "03:52",
+      "end_time": "04:17",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
-      "show_name": "Calamity Jane",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Western / 1953 /7.2",
-      "start_time": "03:52",
-      "end_time": "05:38",
-      "episode_description": "La exploradora india Calamity Jane es tan dura, jactanciosa y hábil con un arma como cualquier otra. Posee una personalidad bastante abrumadora. Pero el teniente del ejército que ella prefiere no aprecia realmente sus mejores cualidades."
-    },
-    {
-      "show_name": "The Long, Long Trailer",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Romántica / 1954 /7.0",
-      "start_time": "05:38",
-      "end_time": "05:38",
-      "episode_description": "Nicky y Tacy se van a casar. Nicky quiere ahorrar dinero para comprarse una casa, pero Tacy sueña con empezar con su propia casa sobre ruedas: un remolque en el que vivirán una luna de miel única."
-    },
-    {
-      "show_name": "The Long, Long Trailer",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Romántica / 1954 /7.0",
-      "start_time": "05:38",
-      "end_time": "07:19",
-      "episode_description": "Nicky y Tacy se van a casar. Nicky quiere ahorrar dinero para comprarse una casa, pero Tacy sueña con empezar con su propia casa sobre ruedas: un remolque en el que vivirán una luna de miel única."
-    },
-    {
-      "show_name": "La novia incógnita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "In the Good Old Summertime",
-      "start_time": "07:19",
-      "end_time": "09:10",
-      "episode_description": "Los constantes enfrentamientos entre Andrew y Verónica, por celos profesionales entre ellos, es lo que atrapa de la película, además del hecho de que ninguno de los dos sospecha que el uno es el amor por correspondencia del otro."
-    },
-    {
-      "show_name": "La reina del oeste",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Annie Get Your Gun",
-      "start_time": "09:10",
-      "end_time": "11:06",
-      "episode_description": "Annie Oakley es una pistolera y acróbata profesional del circo temático de Buffalo Bill, donde su mayor desafío no será dar en el blanco, sino ganar el corazón de un guapo colega."
-    },
-    {
-      "show_name": "Once a la medianoche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/once-a-la-medianoche.webp",
-      "show_category": "Ocean's Eleven",
-      "start_time": "11:06",
-      "end_time": "13:24",
-      "episode_description": "Durante la noche de Navidad, un grupo de amigos, que combatieron juntos durante la II Guerra Mundial, se reúne bajo el liderazgo de Danny Ocean para elaborar un plan con el que robar cinco casinos justo antes de la noche de Año Nuevo."
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e28_l_m.jpg",
+      "show_category": "Episodio 28",
+      "start_time": "04:17",
+      "end_time": "04:52",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Las siete caras del Dr. Lao",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "Seven Faces of Dr. Lao",
-      "start_time": "13:24",
-      "end_time": "15:11",
+      "start_time": "04:52",
+      "end_time": "04:52",
       "episode_description": "Un mago oriental llega a Abalone en el viejo oeste y empieza a deshacer entuertos con la ayuda de una carpa de circo llena de extrañas creaciones."
     },
     {
-      "show_name": "A través de la noche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "All Through the Night",
-      "start_time": "15:11",
-      "end_time": "17:06",
-      "episode_description": "El jugador de Broadway Gloves Donahue quiere descubrir quién mató al pastelero de su tarta de queso favorita. Ve a la cantante de club nocturno Leda Hamilton salir de la pastelería, y comienza su lista de sospechosos."
+      "show_name": "Las siete caras del Dr. Lao",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Seven Faces of Dr. Lao",
+      "start_time": "04:52",
+      "end_time": "06:37",
+      "episode_description": "Un mago oriental llega a Abalone en el viejo oeste y empieza a deshacer entuertos con la ayuda de una carpa de circo llena de extrañas creaciones."
     },
     {
-      "show_name": "Crimen perfecto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/crimen-perfecto.webp",
-      "show_category": "Dial M for Murder",
-      "start_time": "17:06",
+      "show_name": "El legado de Ip Man",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-legado-de-ip-man-2018-1_l_m.jpg",
+      "show_category": "Yip Man ngoi zyun: Cheung Tin Chi",
+      "start_time": "06:37",
+      "end_time": "08:27",
+      "episode_description": "Cheung Tin Chi, con un perfil bajo debido a su derrota contra Ip Man, se mete en problemas luego de pelearse con un poderoso extranjero."
+    },
+    {
+      "show_name": "La vuelta al mundo en 80 días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-vuelta-al-mundo-en-80-dias-1956_l_m.jpg",
+      "show_category": "Around the World in 80 Days",
+      "start_time": "08:27",
+      "end_time": "11:25",
+      "episode_description": "Phileas Fogg apuesta una gran suma de dinero a que es capaz de dar la vuelta al mundo en 80 días. En el disparatado viaje lo acompañará su fiel y ocurrente mayordomo Passepartout, además de un detective que piensa que Fogg es el culpable de"
+    },
+    {
+      "show_name": "Águila solitaria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Spirit of St. Louis",
+      "start_time": "11:25",
+      "end_time": "13:53",
+      "episode_description": "El audaz Charles Lindbergh se propone cruzar el Atlántico sin escalas. Desde Nueva York a París, el piloto vive en su avión treinta y seis horas de soledad que suponen una hazaña histórica."
+    },
+    {
+      "show_name": "Más corazón que odio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Searchers",
+      "start_time": "13:53",
+      "end_time": "15:59",
+      "episode_description": "Un veterano de la Guerra Civil que busca a su sobrina, capturada por indios comanches que masacraron a su familia en su granja de Texas, encarnará una larga y obsesiva búsqueda en donde también buscará dar con su propia humanidad."
+    },
+    {
+      "show_name": "Blood on the Moon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 1948 /6.9",
+      "start_time": "15:59",
+      "end_time": "17:35",
+      "episode_description": "Jim Garry es un cowboy honesto que termina mezclándose en un asunto turbio por culpa de un amigo, Tate Riling, un agente del gobierno que quiere hacerse con una reserva india a un precio irrisorio por medio de la estafa."
+    },
+    {
+      "show_name": "De mal en peor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_de-mal-en-peor-2017_l_m.jpg",
+      "show_category": "A Bad Idea Gone Wrong",
+      "start_time": "17:35",
       "end_time": "19:00",
-      "episode_description": "Tony Wendice, un frío y calculador ex tenista profesional, quiere asesinar a su bella y rica esposa Margot, porque sospecha que le es infiel, aunque lo que más le interesa es quedarse con su fortuna."
+      "episode_description": "Marlon y Leo, dos hombres con problemas económicos y sin ninguna experiencia en el mundo del crimen, deciden robar una casa en un barrio cerrado."
     },
     {
-      "show_name": "Un retazo de azul",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "A Patch of Blue",
+      "show_name": "El hombre equivocado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-equivocado-1956_l_m.jpg",
+      "show_category": "The Wrong Man",
       "start_time": "19:00",
-      "end_time": "20:54",
-      "episode_description": "Una muchacha ciega vive en un sórdido departamento junto a su madre y su abuelo alcohólico. Sus únicos momentos de de felicidad son cuando un cariñosos vecino de origen polaco la lleva a pasear al parque."
+      "end_time": "20:53",
+      "episode_description": "Manny es un músico de jazz que vive en Nueva York con su esposa Rose y sus dos hijos pequeños. En una aseguradora, una empleada lo confunde con un ladrón y lo denuncia a la policía. Comienza entonces para él una angustiosa pesadilla."
     },
     {
-      "show_name": "Drácula vuelve de la tumba",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Dracula Has Risen from the Grave",
-      "start_time": "20:54",
-      "end_time": "22:34",
-      "episode_description": "Monseñor llega a un pueblo, cerca del castillo de Drácula, se encuentra con que la gente sigue atemorizada. Monseñor, convence al cura del pueblo para que le acompañe el castillo, donde pretende realizar un exorcismo."
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_signos-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 10 - La naturaleza de los signos",
+      "start_time": "20:53",
+      "end_time": "21:56",
+      "episode_description": "Después de detenerlo, Pablo traslada a Antonio a la comisaría de Penitentes mientras busca una manera de contarle a Laura lo que está pasando con su hermano."
     },
     {
-      "show_name": "El rock de la cárcel",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Jailhouse Rock",
-      "start_time": "22:34",
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_signos-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - La frontera entre Acuario y Piscis",
+      "start_time": "21:56",
+      "end_time": "22:53",
+      "episode_description": "Un mes después de la muerte de Pablo, Laura busca retomar su línea de investigación; y tratará de descifrar el oscuro mensaje oculto en el horóscopo de Acuario. Antonio sigue los pasos de Florencia para impedir que revele lo que sabe."
+    },
+    {
+      "show_name": "Reflejos en un ojo dorado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_reflejos-en-un-ojo-dorado-1967_l_m.jpg",
+      "show_category": "Reflections in a Golden Eye",
+      "start_time": "22:53",
       "end_time": "",
-      "episode_description": "Narra la historia de Vince, quien mata accidentalmente a un hombre por salvar el honor de una mujer. Por el hecho, debe permanecer en la cárcel, donde conoce a Hunk, un antiguo cantante que le enseña a tocar la guitarra."
+      "episode_description": "Historia en la que se entremezclan problemas de adulterio, 'voyeurismo' y homosexualidad. Una mujer casada con un militar vive una aventura sentimental con un compañero de su marido."
     }
   ]
 }
