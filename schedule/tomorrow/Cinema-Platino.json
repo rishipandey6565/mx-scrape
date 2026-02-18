@@ -1,126 +1,110 @@
 {
   "channel": "Cinema Platino",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
-      "show_name": "Respect: La Historia de Aretha Franklin",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/respect-la-historia-de-aretha-franklin.webp",
-      "show_category": "Biografía",
-      "start_time": "00:00",
-      "end_time": "00:05",
-      "episode_description": "Tras el ascenso de la carrera de Aretha Franklin (Jennifer Hudson) desde una niña cantado en el coro de la iglesia de su padre hasta su estrellato internacional, \"Respect\" es la notable historia real del viaje de la artista para encontrar su voz y convertirse en la Reina del Soul."
-    },
-    {
-      "show_name": "El protector",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:05",
-      "end_time": "01:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El bar de las grandes esperanzas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:55",
-      "end_time": "03:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Guerra Brillante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/una-guerra-brillante.webp",
-      "show_category": "Biografía",
-      "start_time": "03:47",
-      "end_time": "05:38",
-      "episode_description": "La historia épica de la feroz competencia entre los más grandes inventores de la era industrial sobre qué sistema eléctrico alimentaría el nuevo siglo. Con el respaldo de J.P. Morgan (Matthew Macfadyen), Edison (Benedict Cumberbatch), deslumbra al mundo iluminando Manhattan. Pero Westinghouse (Michael Shannon), ayudado por Nikola Tesla (Nicholas Hoult), ha visto fallas fatales en el diseño actual de Edison. Encendiendo una guerra de corrientes, Westinghouse y Tesla apuestan todo en las riesgosas y peligrosas corrientes."
-    },
-    {
-      "show_name": "Un holograma para el rey",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:38",
-      "end_time": "07:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El captor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:20",
-      "end_time": "08:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "7500: Avión Secuestrado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:56",
-      "end_time": "10:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Somnia: Antes de Despertar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:32",
-      "end_time": "12:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Birdman",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:16",
-      "end_time": "14:17",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ellas Hablan",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:17",
-      "end_time": "16:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reporte Clasificado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/reporte-clasificado.webp",
-      "show_category": "Biografía",
-      "start_time": "16:04",
-      "end_time": "18:07",
-      "episode_description": "Al miembro idealista Daniel J. Jones (Adam Driver), la senadora Dianne Feinstein (Annette Bening), su jefa, le ha asignado la tarea de liderar una investigación sobre el Programa de Detención e Interrogatorio de la CIA, creado a raíz del atentado del 11 de septiembre. La incesante búsqueda de la verdad por parte de Jones conduce a asombrosos hallazgos que descubren hasta qué punto la principal agencia de inteligencia del país destruyó evidencia, subvirtió la ley y ocultó un secreto monstruoso al público estadounidense."
-    },
-    {
-      "show_name": "Gringo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:07",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rogue",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Fundador",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/el-fundador.webp",
-      "show_category": "Biografía",
-      "start_time": "21:53",
-      "end_time": "23:53",
-      "episode_description": "Cuenta la historia real de Ray Kroc (Michael Keaton), un vendedor de Illinois y como conoció a Mac (John Carroll Lynch) y Dick McDonald (Nick Offerman), dos hombres que estaban llevando una operación de hamburguesas en el sur de California en los años 50’s. Krock quedó impresionado por la rapidez del sistema de los hermanos en hacer comida rápida y vio un gran potencial en la franquicia."
-    },
-    {
       "show_name": "Atrapada En El Fondo Del Mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/atrapada-en-el-fondo-del-mar.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/atrapada_en_el_fondo_del_mar.jpg",
       "show_category": "Drama",
-      "start_time": "23:53",
+      "start_time": "00:00",
       "end_time": "01:18",
       "episode_description": "Unos días después de Navidad, las medias hermanas Ida (Moa Gammel) y Tuva (Madeleine Martin) deciden hacer una inmersión en una remota costa, pero un deslave deja atrapada a Tuva bajo el agua. Ida regresa a la superficie para descubrir que el mismo desplazamiento de roca ha cubierto todo su equipo dejándolas completamente aisladas sin ninguna posibilidad de pedir ayuda. Mientras se desarrolla la frenética carrera por la supervivencia, Ida se someterá a los imposibles para ayudar a Tuva."
+    },
+    {
+      "show_name": "¿Por qué los hombres son infieles?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:18",
+      "end_time": "02:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La ballena",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:54",
+      "end_time": "04:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un acto de esperanza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:56",
+      "end_time": "06:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una buena mentira",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:46",
+      "end_time": "08:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agente Bajo Fuego",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/angel_has_fallen.jpg",
+      "show_category": "Acción",
+      "start_time": "08:40",
+      "end_time": "10:44",
+      "episode_description": "Cuando hay un intento de asesinato contra el presidente de los Estados Unidos, Allan Trumbull (Morgan Freeman), su hombre de confianza, el agente del Servicio Secreto Mike Banning (Gerard Butler), es acusado injustamente y puesto bajo custodia. Después de escapar de la captura, se convierte en un hombre que huye y debe evadir a su propia agencia y ser más astuto que el FBI para encontrar la verdadera amenaza hacia el presidente. Desesperado por descubrir la verdad, Bannin trabaja con aliados poco probables para ayudar a limpiar su nombre, evitar que su familia sufra daños y salvar al país del peligro inminente."
+    },
+    {
+      "show_name": "La increíble historia de David Copperfield",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:44",
+      "end_time": "12:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Hombre al Agua!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/overboard_2018.jpg",
+      "show_category": "Comedia",
+      "start_time": "12:50",
+      "end_time": "14:47",
+      "episode_description": "Leonardo (Eugenio Derbez), un playboy egoísta, mimado y de la familia más adinerada de México y Kate (Anna Faris), una madre soltera de clase trabajadora es contratada para limpiar el yate de lujo de Leonardo. Después de haber sido despedida injustamente y negarse a pagarle a ella, Leonardo hace una fiesta donde bebe demasiado y cae por la borda quedando inconsciente y despertando en la costa de Oregón con amnesia. Cuando Kate se entera de esto, ella se presenta en el hospital y decidida a recuperar su dinero, convence a Leonardo que él es su marido y hace que trabaje por primera vez en su vida. Al principio miserable e inepto, Leonardo se instala lentamente. Finalmente se gana el respeto de su nueva \"familia\" y sus compañeros de trabajo. Pero, con la familia de Leonardo multimillonaria en camino, y la posibilidad que su memoria pudiera regresar en cualquier momento, ¿Durará con su nueva familia o Leonardo finalmente recordara todo y la dejará para siempre?"
+    },
+    {
+      "show_name": "Contrarreloj",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:47",
+      "end_time": "16:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Pasajero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:25",
+      "end_time": "18:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Casa Gucci",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_casa_gucci.jpg",
+      "show_category": "Crimen",
+      "start_time": "18:13",
+      "end_time": "20:54",
+      "episode_description": "La Casa Gucci está inspirada en la impactante historia real de imperio familiar detrás de la casa de moda italiana Gucci. A lo largo de tres décadas de amor, traición, decadencia, venganza y en última instancia un asesinato, veremos lo que significa un nombre, lo que vale y hasta dónde llegará una familia por el control."
+    },
+    {
+      "show_name": "Juego de Ladrones",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_robo_perfecto.jpg",
+      "show_category": "Acción",
+      "start_time": "20:54",
+      "end_time": "23:18",
+      "episode_description": "Una saga de crímenes de Los Ángeles en la línea de \"Calor\", sigue la vida de una unidad de élite del departamento del sheriff del condado de Los Ángeles y la banda de ladrones de bancos más exitosa del estado, mientras los forajidos planean un atraco aparentemente imposible al Banco de la Reserva Federal del centro de Los Ángeles."
+    },
+    {
+      "show_name": "Addicted",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:18",
+      "end_time": "01:12",
+      "episode_description": ""
     }
   ]
 }

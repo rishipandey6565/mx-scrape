@@ -1,52 +1,36 @@
 {
   "channel": "AMC (México)",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
+    {
+      "show_name": "Terminator 2: El Juicio Final",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_2_el_juicio_final.jpg",
+      "show_category": "Acción",
+      "start_time": "00:00",
+      "end_time": "00:35",
+      "episode_description": "El T-800 (Arnold Schwarzenegger) es enviado a para proteger a John Connor (Edward Furlong), el chico destinado a liderar a los sobrevivientes que luchan por la libertad del futuro. Sarah Connor (Linda Hamilton), la madre de John, una superviviente por excelencia que ha sido institucionalizada por su advertencia del holocausto nuclear que ella sabe que es inevitable. Juntos el trío debe encontrar una forma de detener al enemigo final: El T-1000 (Robert Patrick), el exterminador más letal jamás creado."
+    },
     {
       "show_name": "Apocalypto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:15",
+      "start_time": "00:35",
+      "end_time": "03:05",
       "episode_description": ""
     },
     {
       "show_name": "Hellboy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:15",
-      "end_time": "02:20",
+      "start_time": "03:05",
+      "end_time": "05:10",
       "episode_description": ""
     },
     {
-      "show_name": "Crank, veneno en la sangre",
+      "show_name": "El desarmadero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:20",
-      "end_time": "03:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La noche del demonio 4",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:55",
-      "end_time": "05:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:45",
-      "end_time": "06:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:10",
+      "start_time": "05:10",
       "end_time": "06:35",
       "episode_description": ""
     },
@@ -131,39 +115,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Locos de ira",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:35",
-      "end_time": "13:30",
+      "end_time": "12:10",
       "episode_description": ""
     },
     {
-      "show_name": "Los siete magníficos",
+      "show_name": "Espejito, espejito",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "16:00",
+      "start_time": "12:10",
+      "end_time": "14:10",
       "episode_description": ""
     },
     {
-      "show_name": "Terminator: La Salvación",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/terminator-la-salvación.webp",
-      "show_category": "Acción",
-      "start_time": "16:00",
-      "end_time": "18:05",
-      "episode_description": "En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas."
-    },
-    {
-      "show_name": "Crepúsculo",
+      "show_name": "Locos de ira",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:05",
-      "end_time": "20:15",
+      "start_time": "14:10",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
       "show_name": "Desesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:05",
+      "end_time": "17:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Saga CrepúsculoLuna Nueva",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hércules",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
@@ -171,12 +163,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Terminator 2: El Juicio Final",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/terminator-2-el-juicio-final.webp",
-      "show_category": "Acción",
+      "show_name": "Los tres mosqueteros",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:35",
-      "episode_description": "El T-800 (Arnold Schwarzenegger) es enviado a para proteger a John Connor (Edward Furlong), el chico destinado a liderar a los sobrevivientes que luchan por la libertad del futuro. Sarah Connor (Linda Hamilton), la madre de John, una superviviente por excelencia que ha sido institucionalizada por su advertencia del holocausto nuclear que ella sabe que es inevitable. Juntos el trío debe encontrar una forma de detener al enemigo final: El T-1000 (Robert Patrick), el exterminador más letal jamás creado."
+      "end_time": "00:15",
+      "episode_description": ""
     }
   ]
 }

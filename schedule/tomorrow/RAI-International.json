@@ -1,6 +1,6 @@
 {
   "channel": "RAI International",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
       "show_name": "TG Rai News",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tg3",
+      "show_name": "TG1",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Udienza Papale",
+      "show_name": "GEN Z",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -163,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "TGR Leonardo",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -203,34 +211,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi fanno male i capelli",
+      "show_name": "Don Matteo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:30",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Italian genius",
+      "show_name": "Il confronto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:15",
+      "start_time": "21:00",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
       "show_name": "Porta a Porta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:15",
-      "end_time": "22:45",
+      "start_time": "21:30",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
       "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:45",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

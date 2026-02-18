@@ -1,25 +1,25 @@
 {
   "channel": "Film & Arts",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
-      "show_name": "Wallander",
+      "show_name": "Tres colores Rojo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Quería esconderme",
+      "show_name": "Gaby Moreno en el Troubadour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
+      "start_time": "01:00",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hitchcock Confidencial",
+      "show_name": "Hérouville Sessions",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mickey Rourke Como un hombre",
+      "show_name": "All Creatures Great & Small T",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Concierto para 4 Pianos",
+      "show_name": "All Creatures Great & Small T",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -59,18 +59,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Thierry Malandain Las Estacio",
+      "show_name": "Gaby Moreno en el Troubadour",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "08:45",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Quería esconderme",
+      "show_name": "Hérouville Sessions",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Revelaciones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -79,51 +87,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Wallander",
+      "show_name": "All Creatures Great & Small T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:40",
+      "start_time": "13:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "All Creatures Great & Small T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:40",
-      "end_time": "14:40",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Quería esconderme",
+      "show_name": "Tres colores Rojo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:40",
-      "end_time": "17:00",
+      "start_time": "15:00",
+      "end_time": "16:50",
       "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gaby Moreno en el Troubadour",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
+      "start_time": "16:50",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hérouville Sessions",
+      "show_name": "Tim Burton, un monstruo de cin",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Showtrial",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Showtrial",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -147,11 +147,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tres colores Rojo",
+      "show_name": "McDonald & Dodds",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "00:40",
       "episode_description": ""
     }
   ]

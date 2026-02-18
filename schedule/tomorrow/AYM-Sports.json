@@ -1,6 +1,6 @@
 {
   "channel": "AYM Sports",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
       "show_name": "Hoy Futbol",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lucha libre",
+      "show_name": "Artes Marciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -23,14 +23,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gancho al Hígado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -43,23 +35,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Artes Marciales",
+      "show_name": "Lucha libre",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
       "show_name": "Béisbol Liga Mexicana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ultra MX",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cross Over",
+      "show_name": "En los deportes, vámonos de largo",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gancho al Hígado",
+      "show_name": "Alta Velocidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -91,10 +91,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El pierrotazo",
+      "show_name": "Liga Premier Tv",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gancho al Hígado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },

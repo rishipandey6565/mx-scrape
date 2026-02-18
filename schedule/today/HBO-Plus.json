@@ -1,118 +1,86 @@
 {
   "channel": "HBO Plus",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "O albergue",
+      "show_name": "Batman Azteca: Choque de imperios",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/batman_azteca_choque_de_imperios.jpg",
+      "show_category": "Animación",
+      "start_time": "00:00",
+      "end_time": "01:19",
+      "episode_description": "Cuando su padre es asesinado por los conquistadores españoles. Yohualli (Horacio García Rojas) escapa a Tenochtitlan para advertir al rey Moctezuma y a su sumo sacerdote, Yoka (Omar Chaparro), del peligro inminente. Pero descubrirá que si quiere justicia deberá tomarla por sus propias manos, con el miedo como aliado y la noche como manto."
+    },
+    {
+      "show_name": "Candyman",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "01:19",
+      "end_time": "03:00",
       "episode_description": ""
+    },
+    {
+      "show_name": "Se busca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Liga de la Justicia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_liga_de_la_justicia.jpg",
+      "show_category": "Acción",
+      "start_time": "04:50",
+      "end_time": "06:55",
+      "episode_description": "Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas."
+    },
+    {
+      "show_name": "Annabelle 3: Viene a Casa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/annabelle_3_viene_a_casa.jpg",
+      "show_category": "Terror",
+      "start_time": "06:55",
+      "end_time": "08:44",
+      "episode_description": "Decididos a evitar que Annabelle cause más estragos, los demonólogos Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) llevan a la muñeca poseída a la habitación cerrada con artefactos en su casa, colocándola \"a salvo\" detrás de un vidrio sagrado y alistando la bendición santa de un sacerdote. Pero una noche profana de horror aguarda a que Annabelle despierte a los espíritus malignos en la habitación, quienes se fijan en un nuevo objetivo: la hija de diez años de los Warrens, Judy (Mckenna Grace) y sus amigas."
+    },
+    {
+      "show_name": "Shazam! Fúria dos deuses",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:44",
+      "end_time": "10:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Al Filo del Mañana",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/al_filo_del_manana.jpg",
+      "show_category": "Acción",
+      "start_time": "10:59",
+      "end_time": "12:59",
+      "episode_description": "Bill Cage (Tom Cruise) es un soldado que se encuentra la última batalla contra fuerzas alienígenas, cuando este fracasa y muere empieza nuevamente precisamente en el mismo día una y otra vez, ahora con la ayuda de Rita Vrataski (Emily Blunt) deberá aprender tras cada derrota a convertirse en un mejor guerrero."
     },
     {
       "show_name": "La Quinta Ola",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/la-quinta-ola.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_quinta_ola.jpg",
       "show_category": "Acción",
-      "start_time": "01:00",
-      "end_time": "03:00",
+      "start_time": "12:59",
+      "end_time": "14:59",
       "episode_description": "Cuatro olas de ataques alienígenas han dejado la mayor parte de la tierra devastada. Contra el miedo y la desconfianza, Cassie Sullivan (Chloë Grace Moretz) huye desesperadamente tratando de salvar su pequeño hermano Sammy (Zackary Arthur). Mientras esperan la quita ola, Cassie se une con un joven llamado Evan (Alex Roe), quien podría ser su última esperanza – si tan solo pudiera confiar en él."
     },
     {
-      "show_name": "Harry Potter y la Piedra Filosofal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/harry-potter-y-la-piedra-filosofal.webp",
-      "show_category": "Aventura",
-      "start_time": "03:00",
-      "end_time": "05:35",
-      "episode_description": "Harry Potter (Daniel Radcliffe) se entera en su cumpleaños número 11 que es el primer hijo huérfano de dos hechiceros poderosos y posee sus propios poderes mágicos. En la Escuela de Brujería y Hechicería de Hogwarts, Harry se embarca en la aventura de su vida. Aprende el deporte de altura de Quidditch y juega una emocionante partida de ajedrez con piezas vivas en su camino para enfrentar a un Mago Oscuro empeñado en destruirlo."
+      "show_name": "Evil Dead: El Despertar",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/evil_dead_el_despertar.jpg",
+      "show_category": "Terror",
+      "start_time": "14:59",
+      "end_time": "16:40",
+      "episode_description": "Trasladando la acción de los bosques a la ciudad, \"Evil Dead: El Despertar\" cuenta la retorcida historia de dos hermanas distanciadas, cuyo reencuentro se ve truncado por la aparición de demonios poseedores de carne, lo que las empuja a una batalla primordial por la supervivencia mientras se enfrentan a la versión más pesadillesca imaginable de la familia."
     },
     {
-      "show_name": "El Hombre de Acero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/el-hombre-de-acero.webp",
+      "show_name": "Furiosa: De la Saga Mad Max",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/furiosa_de_la_saga_mad_max.jpg",
       "show_category": "Acción",
-      "start_time": "05:35",
-      "end_time": "08:05",
-      "episode_description": "(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada."
-    },
-    {
-      "show_name": "Invasores",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:05",
-      "end_time": "09:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La momia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:50",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La momia regresa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "14:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La momia La tumba del emperador Dragón",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:15",
-      "end_time": "16:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Observados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:15",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fragmentado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/fragmentado.webp",
-      "show_category": "Horror",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Tres chicas son secuestradas por Kevin (James McAvoy), un hombre con 23 personalidades distintas, evidenciadas por su psiquiatra de confianza, la Dra. Fletcher (Betty Buckley). Una de las personalidades de Kevin ha secuestrado a tres chicas; Claire (Haley Lu Richardson), Marcia (Jessica Sula) y Casey (Anya Taylor-Joy), ahora ellas deberán convencer a cualquiera de las personalidades para poder ser liberadas, antes que una personalidad que aún permanece sumergida en Kevin domine a las demás."
-    },
-    {
-      "show_name": "O cavaleiro dos sete reinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hombre de Acero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/el-hombre-de-acero.webp",
-      "show_category": "Acción",
-      "start_time": "20:40",
-      "end_time": "23:09",
-      "episode_description": "(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada."
-    },
-    {
-      "show_name": "O cavaleiro dos sete reinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:09",
-      "end_time": "23:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Batman Azteca: Choque de imperios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/batman-azteca-choque-de-imperios.webp",
-      "show_category": "Animación",
-      "start_time": "23:49",
-      "end_time": "01:19",
-      "episode_description": "Cuando su padre es asesinado por los conquistadores españoles. Yohualli (Horacio García Rojas) escapa a Tenochtitlan para advertir al rey Moctezuma y a su sumo sacerdote, Yoka (Omar Chaparro), del peligro inminente. Pero descubrirá que si quiere justicia deberá tomarla por sus propias manos, con el miedo como aliado y la noche como manto."
+      "start_time": "16:40",
+      "end_time": "19:15",
+      "episode_description": "Mientras el mundo caía, la joven Furiosa (Anya Taylor-Joy) es arrebatada del Lugar Verde de Muchas Madres y cae en manos de una gran Horda de Motociclistas liderada por el Señor de la Guerra Dementus (Chris Hemsworth). Navegando por Wasteland, se encuentran con la Ciudadela presidida por el Immortan Joe (Lachy Hulme). Mientras los dos Tiranos luchan por el dominio, Furiosa debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino a casa."
     }
   ]
 }

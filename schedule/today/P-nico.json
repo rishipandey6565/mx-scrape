@@ -1,125 +1,133 @@
 {
   "channel": "Pánico",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
-    {
-      "show_name": "Sacrificio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Guardería",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:25",
-      "end_time": "01:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Goldsmith",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:57",
-      "end_time": "03:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Circo de los Muertos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:31",
-      "end_time": "05:23",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Gatehouse",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:23",
-      "end_time": "07:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ringu 0",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:05",
-      "end_time": "08:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Tierra de Nadie: El Amanecer de Reeker",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:49",
-      "end_time": "10:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Art House Massacre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:22",
-      "end_time": "11:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Cuidadora de la Mansión Garret",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:56",
-      "end_time": "13:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Araña Negra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
-      "end_time": "15:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Habitación 1174",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:46",
-      "end_time": "17:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La invasión",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:24",
-      "end_time": "19:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Swerve",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:02",
-      "end_time": "20:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Cazador de Monstruos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:41",
-      "end_time": "22:21",
-      "episode_description": ""
-    },
     {
       "show_name": "El Lago de los Muertos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:21",
+      "start_time": "00:00",
       "end_time": "00:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Final",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:04",
+      "end_time": "02:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Masacre Redwood: Aniquilación",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:01",
+      "end_time": "03:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golem: La Leyenda",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/golem_la_leyenda.jpg",
+      "show_category": "Terror",
+      "start_time": "03:52",
+      "end_time": "05:33",
+      "episode_description": "Hanna (Hani Furstenberg) es una mujer conjura a una extraña criatura conocida como Golem para defender a su pueblo de una invasión de extranjeros. Sin embargo, pronto se da cuenta de que la fuerza de ese ser es superior a lo que imaginaba en un principio, pero lo que ella ignoraba es que es un ser muy peligroso y maligno incapaz de distinguir el bien del mal."
+    },
+    {
+      "show_name": "La Leyenda de Halloween Jack",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:33",
+      "end_time": "06:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dark Touch",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:59",
+      "end_time": "08:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Abandon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:35",
+      "end_time": "10:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Maldición de la Bruja",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:20",
+      "end_time": "11:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Secreto Matusita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:50",
+      "end_time": "13:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kyrsya-Tufland",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:14",
+      "end_time": "14:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Te veo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:50",
+      "end_time": "16:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Incantation",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:31",
+      "end_time": "18:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hija",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:16",
+      "end_time": "19:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Maligno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:58",
+      "end_time": "21:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Solum",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:29",
+      "end_time": "23:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El mundo maravilloso de Willy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:11",
+      "end_time": "00:48",
       "episode_description": ""
     }
   ]

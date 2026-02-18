@@ -1,28 +1,36 @@
 {
   "channel": "Studio Universal (México)",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "M3gan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/today/m3gan.webp",
-      "show_category": "Terror",
-      "start_time": "00:00",
-      "end_time": "01:10",
-      "episode_description": "M3gan (Amie Donald) es una maravilla de la inteligencia artificial, una muñeca realista programada para ser la mejor compañera de un niño y la mejor aliada de los padres. Diseñada por la brillante experta en robótica de la compañía de juguetes Gemma (Allison Williams), M3gan puede escuchar, mirar y aprender mientras se convierte en amiga y maestra, compañera de juguetes y protectora, para el niño al que está unida.Cuando Gemma de repente se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady (Violet McGraw), Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3gan con Cady en un intento por resolver ambos problemas, una decisión que tendrá consecuencias inimaginables."
-    },
-    {
-      "show_name": "Scream",
+      "show_name": "Escuadrón de la muerte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:10",
+      "start_time": "00:00",
+      "end_time": "01:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jarhead Law of return",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:20",
       "end_time": "03:10",
       "episode_description": ""
     },
     {
-      "show_name": "Maravillas espaciales: Historias de la Estación Espacial",
+      "show_name": "Querido John",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:10",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood on Set",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": ""
     },
@@ -35,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Queen y Slim: Los fugitivos",
+      "show_name": "Hollywood on Set",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -51,76 +59,68 @@
       "episode_description": ""
     },
     {
-      "show_name": "La nueva gran estafa",
+      "show_name": "Hollywood On Set",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "09:15",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Ahora son 13",
+      "show_name": "007 Quantum of Solace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/quantum_of_solace.jpg",
+      "show_category": "Acción",
+      "start_time": "07:30",
+      "end_time": "09:30",
+      "episode_description": "James Bond (Daniel Craig) una vez más el agente 007 se arma, esta vez su instinto lo lleva a un viaje por Austria, Italia y Sudamérica para vengarse por la pérdida de la mujer que amaba mientras intenta parar a un ecologista con intenciones de dominar la fuente de recursos naturales más preciada del mundo."
+    },
+    {
+      "show_name": "007 Operación Skyfall",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "11:25",
+      "start_time": "09:30",
+      "end_time": "12:10",
       "episode_description": ""
     },
     {
-      "show_name": "Mission: Impossible Rogue Nation",
+      "show_name": "Spectre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:25",
-      "end_time": "13:45",
+      "start_time": "12:10",
+      "end_time": "14:55",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/today/rocky.webp",
-      "show_category": "Drama",
-      "start_time": "13:45",
-      "end_time": "16:00",
-      "episode_description": "Rocky Balboa (Sylvester Stallone) es un luchador de Filadelfia que es despreciado por el dueño de su gimnasio, patrocinado por un tiburón prestamista y rechazado por una tímida Adrian (Talia Shire), cuyo hermano carnicero mantiene ingeniándoselas una pareja romántica. Rocky habría permanecido en está rutina si el campeón de peso pesado Apollo Creed (Carl Weathers) no hubiera publicado una pelea para el Bicentenario dándole la oportunidad a un \"nadie\" para que se convierta en un \"alguien\". El \"semental italiano\" entrena con seriedad y recorre la distancia… ¡contra todo pronóstico!"
+      "show_name": "Sin Tiempo Para Morir",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_tiempo_para_morir.jpg",
+      "show_category": "Acción",
+      "start_time": "14:55",
+      "end_time": "18:00",
+      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
     },
     {
-      "show_name": "Rocky II",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "18:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rocky III",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:10",
+      "show_name": "Al Filo del Mañana",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/al_filo_del_manana.jpg",
+      "show_category": "Acción",
+      "start_time": "18:00",
       "end_time": "20:00",
-      "episode_description": ""
+      "episode_description": "Bill Cage (Tom Cruise) es un soldado que se encuentra la última batalla contra fuerzas alienígenas, cuando este fracasa y muere empieza nuevamente precisamente en el mismo día una y otra vez, ahora con la ayuda de Rita Vrataski (Emily Blunt) deberá aprender tras cada derrota a convertirse en un mejor guerrero."
     },
     {
-      "show_name": "Rocky IV",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Bloodshot",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bloodshot.jpg",
+      "show_category": "Acción",
       "start_time": "20:00",
-      "end_time": "21:45",
-      "episode_description": ""
+      "end_time": "22:05",
+      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
     },
     {
-      "show_name": "Rocky Balboa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:45",
-      "end_time": "23:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Escuadrón de la muerte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:40",
-      "end_time": "01:20",
-      "episode_description": ""
+      "show_name": "Assassin's Creed",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/assassin_s_creed.jpg",
+      "show_category": "Acción",
+      "start_time": "22:05",
+      "end_time": "00:00",
+      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
     }
   ]
 }

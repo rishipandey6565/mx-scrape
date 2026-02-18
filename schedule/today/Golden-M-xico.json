@@ -1,117 +1,109 @@
 {
   "channel": "Golden (México)",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
-    {
-      "show_name": "Un sueño posible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El gran pequeño",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:46",
-      "end_time": "02:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Por mis bigotes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:38",
-      "end_time": "04:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tres ladrones y un bebé",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:22",
-      "end_time": "06:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El descanso",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:43",
-      "end_time": "09:11",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Bamba",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:11",
-      "end_time": "11:11",
-      "episode_description": ""
-    },
-    {
-      "show_name": "28 días",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:11",
-      "end_time": "13:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un sueño posible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:04",
-      "end_time": "15:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nada Que Ver",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-M-xico/today/nada-que-ver.webp",
-      "show_category": "Suspenso",
-      "start_time": "15:26",
-      "end_time": "17:00",
-      "episode_description": "Después de renunciar a su trabajo, Carlos (Guillermo Villegas), un perezoso enfermero que está ahogado en deudas, comienza a cuidar de Paola (Fiona Palomo), una estudiante de arquitectura que perdió la vista repentinamente. Siendo dos personas completamente diferentes, aprenderán uno del otro y descubrirán que el amor no siempre es a primera vista."
-    },
-    {
-      "show_name": "El Roomie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-M-xico/today/el-roomie.webp",
-      "show_category": "Comedia",
-      "start_time": "17:00",
-      "end_time": "18:45",
-      "episode_description": "Vivi (Fiona Palomo) es una joven escritora que se ve obligada a buscar un roomie para pagar la hipoteca de su departamento. Lo que ella no sospecha es que Ro (José Eduardo Derbez), el supuesto compañero perfecto que encontró, tiene un peculiar estilo de vida: nunca pagar renta. A pesar de que Vivi descubre a Ro, decide abrirle las puertas de su casa y de su vida porque sus artimañas la llevan a reencontrarse como escritora y tanto ella como su roomie van a descubrir su real valor."
-    },
-    {
-      "show_name": "¡Qué despadre!",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:45",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Mujer sin Filtro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-M-xico/today/una-mujer-sin-filtro.webp",
-      "show_category": "Comedia",
-      "start_time": "20:30",
-      "end_time": "22:17",
-      "episode_description": "El 99% de las personas nunca dice exactamente lo que piensa. Paz (Fernanda Castillo) es una bella mujer que, por amabilidad, ha permitido que todos a su alrededor la traten como si no valiera nada, callando lo que piensa para no herir susceptibilidades. Hasta que un día en su cabeza, un fenómeno irremediable suprime su filtro social convirtiéndola en parte de ese 1% y obligándola a expresar lo que realmente piensa y siente."
-    },
-    {
-      "show_name": "Ya Veremos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-M-xico/today/ya-veremos.webp",
-      "show_category": "Drama",
-      "start_time": "22:17",
-      "end_time": "23:51",
-      "episode_description": "Santi (Emiliano Aramayo) es un niño que ha tenido que lidiar con la separación de sus padres, Rodrigo (Mauricio Ochmann) y Alejandra (Fernanda Castillo). Ellos están obligados a verse de vez en cuando, ya que, comparten el tiempo de su hijo. Un día reciben la noticia de que Santi debe someterse a una cirugía para no perder la vista, así que éste hace una lista de deseos para cumplirlos juntos con sus dos padres, antes de la operación. Rodrigo y Alejandra deberán aprender a convivir, embarcándose – sin sospecharlo – en un viaje que al final, hará que sea muy difícil separarse de nuevo."
-    },
     {
       "show_name": "Sobreviviendo mis XV",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:51",
+      "start_time": "00:00",
       "end_time": "01:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La niña de la mina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:45",
+      "end_time": "03:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cómo Cortar a tu Patán",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_cortar_a_tu_patan.jpg",
+      "show_category": "Película",
+      "start_time": "03:13",
+      "end_time": "05:01",
+      "episode_description": "Amanda (Mariana Treviño) es una exitosa terapeuta que se especializa en tratar a las mujeres que han sufrido por patanes. Ella vive alejada de los hombres y el compromiso. Enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de Pepe (Sebastián Zurita), un patán con cuernos sin escrúpulos, Amanda emprende un plan que la llevará a enfrentarse a su más grande miedo… el amor. Hará todo lo que este a su alcance para separarlos y demostrarle a su hermana que su mejor amigo Leo (Christopher Von Uckermann) es mucho mejor partido que Pepe."
+    },
+    {
+      "show_name": "Educando a mamá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:01",
+      "end_time": "06:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ojos que no ven",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:44",
+      "end_time": "08:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un holograma para el rey",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:20",
+      "end_time": "10:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bajo cero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:05",
+      "end_time": "11:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciudad de sombras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:53",
+      "end_time": "13:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Fugitivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:51",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hotel Mumbai: El Atentado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_mumbai_el_atentado.jpg",
+      "show_category": "Drama",
+      "start_time": "16:15",
+      "end_time": "18:30",
+      "episode_description": "Una apasionante historia sobre humanidad y heroísmo, cuenta vívidamente el calvario de 2008 al Taj Hotel por un grupo de terroristas en Mumbai, india. Entre el personal del hotel se encuentran el renombrado chef Hemant Oberoi (Anupam Kher) y un camarero Arjun (Dev Patel), quienes eligen arriesgar sus vidas para proteger a los huéspedes. Mientras la situación avanza, una pareja desesperada se ve obligada a hacer sacrificios impensables para proteger a su hijo recién nacido."
+    },
+    {
+      "show_name": "Top Gun Pasión y Gloria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infidelidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "22:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La intriga",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:46",
+      "end_time": "01:33",
       "episode_description": ""
     }
   ]
