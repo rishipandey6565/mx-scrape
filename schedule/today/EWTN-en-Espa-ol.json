@@ -1,6 +1,6 @@
 {
   "channel": "EWTN en Español",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
       "show_name": "Santo Rosario",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tras los pasos de Rafael",
+      "show_name": "Las Piedras Vivas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mientras el Mundo Gira",
+      "show_name": "Conozca Primero Su Fe Católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Herejias",
+      "show_name": "Señor, ¿Quién Eres Tú?",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Yo decido: Fundamentos de la ética",
+      "show_name": "El Credo",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un camino inesperado",
+      "show_name": "Siervo de Dios, Diego Hernández",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tips para ser feliz",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,10 +67,90 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Camino de Esperanza",
+      "show_name": "Vidas por la vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conozca Primero Su Fe Católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santo Rosario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "06:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Letanía al santísimo sacramento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:50",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Misa Diaria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi familia católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Rosario de los Niños",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Piedras Vivas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vidas por la vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conozca Primero Su Fe Católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -79,14 +159,54 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Que no te la cuenten",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Coronilla de la Divina Misericordia Cantada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Misa Diaria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Santo Rosario desde Lourdes - Francia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al santísimo nombre de Jesús",
+      "show_name": "Letanía al santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Adoración eucarística desde la capilla de EWTN",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:20",
       "end_time": "14:30",
       "episode_description": ""
     },
@@ -95,11 +215,35 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conozca Primero Su Fe Católica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Piedras Vivas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vidas por la vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia Papal",
+      "show_name": "Siervo de Dios, Diego Hernández",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -115,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los apóstoles de Cristo, testigos de los milagros",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -123,15 +267,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Piedras Vivas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vidas por la vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia Papal",
+      "show_name": "Siervo de Dios, Diego Hernández",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -147,10 +307,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los apóstoles de Cristo, testigos de los milagros",
+      "show_name": "Que no te la cuenten",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Via crucis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santo Rosario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

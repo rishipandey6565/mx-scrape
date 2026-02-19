@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Historias del Más Allá",
+      "show_name": "Perfiles",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,10 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Película",
+      "show_name": "Bionatura",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "100% grupero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De pata de perro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -31,6 +47,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "05:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Himno del Estado de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:55",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -115,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Retratos",
+      "show_name": "¡Escápate!",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -155,15 +179,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Destino Verde",
+      "show_name": "Las mil y una notas",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Abierto al Publico",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Su casa EDOMEX",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -171,10 +203,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cinescape",
+      "show_name": "Denominación de origen",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los secretos mejor guardados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -187,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "100% grupero",
+      "show_name": "Noches en vela",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

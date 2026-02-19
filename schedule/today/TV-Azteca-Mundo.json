@@ -1,6 +1,6 @@
 {
   "channel": "TV Azteca Mundo",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
       "show_name": "Un día cualquiera",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "Nada Personal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TV-Azteca-Mundo/today/nada-personal.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg",
       "show_category": "",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -84,7 +84,7 @@
     },
     {
       "show_name": "Venga la alegría",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TV-Azteca-Mundo/today/venga-la-alegría.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png",
       "show_category": "",
       "start_time": "09:00",
       "end_time": "11:00",
@@ -92,7 +92,7 @@
     },
     {
       "show_name": "Venga la alegría",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TV-Azteca-Mundo/today/venga-la-alegría.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png",
       "show_category": "",
       "start_time": "11:00",
       "end_time": "13:00",
@@ -100,7 +100,7 @@
     },
     {
       "show_name": "Ventaneando",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TV-Azteca-Mundo/today/ventaneando.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png",
       "show_category": "Programa",
       "start_time": "13:00",
       "end_time": "14:00",
@@ -136,6 +136,46 @@
       "show_category": "",
       "start_time": "17:00",
       "end_time": "18:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Acércate a Rocío",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:15",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rutas de la Vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:15",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nada Personal",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:15",
+      "episode_description": "Nada Personal es una serie que trae Discovery Channel para Latinoamérica donde asesinos a sueldo son contratados para matar sin piedad.La serie tipo documental Nada Personal es presentada por Steve Schirippa, conocido por la serie de mafiosos “Los Soprano”. En este programa se verán historias verídicas de asesinatos hechos por contrato.En cada capítulo de la serie, se narra la historia de un trabajo profesional que trata de cómo se contacta, las instrucciones dadas al asesino para llevar a cabo las peticiones del cliente."
+    },
+    {
+      "show_name": "Hechos noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:15",
+      "end_time": "23:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un día cualquiera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:15",
+      "end_time": "00:15",
       "episode_description": ""
     }
   ]

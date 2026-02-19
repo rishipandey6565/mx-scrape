@@ -1,9 +1,9 @@
 {
   "channel": "EWTN en Español",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Los apóstoles de Cristo, testigos de los milagros",
+      "show_name": "Santo Rosario",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,27 +15,67 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Visitados por la luz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Via crucis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Reforma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cambio de agujas",
+      "show_name": "Kerigma de Amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cristonautas, Navegamos en Cristo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -59,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al santísimo sacramento",
+      "show_name": "Las iglesias ocultas de Roma: un peregrinaje de Cuaresma",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:50",
@@ -75,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi familia católica",
+      "show_name": "Meditación de los Dolores de la Virgen María, desde la Basílica de los Ángeles",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -91,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las Piedras Vivas",
+      "show_name": "Visitados por la luz",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -99,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vidas por la vida",
+      "show_name": "Cristonautas, Navegamos en Cristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -107,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -123,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Que no te la cuenten",
+      "show_name": "Via crucis",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -131,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Coronilla de la Divina Misericordia Cantada",
+      "show_name": "Coronilla de la Divina Misericordia",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -155,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al santísimo sacramento",
+      "show_name": "Letanía al Sagrado Corazón de Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -179,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -187,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las Piedras Vivas",
+      "show_name": "Visitados por la luz",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -195,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vidas por la vida",
+      "show_name": "Cristonautas, Navegamos en Cristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -203,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siervo de Dios, Diego Hernández",
+      "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -219,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Que no te la cuenten",
+      "show_name": "Kerigma de Amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -227,15 +267,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Dos en Dos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las Piedras Vivas",
+      "show_name": "Visitados por la luz",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -243,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vidas por la vida",
+      "show_name": "Cristonautas, Navegamos en Cristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -251,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siervo de Dios, Diego Hernández",
+      "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -267,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Que no te la cuenten",
+      "show_name": "Kerigma de Amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -275,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "La Reforma",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

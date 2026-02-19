@@ -1,6 +1,6 @@
 {
   "channel": "ESNE TV",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
       "show_name": "Enamórate",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Abriendo Horizontes",
+      "show_name": "Conciertos Católicos",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Desde el Corazón del Papa",
+      "show_name": "Donde Dios llora",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo lo Puedo en Cristo",
+      "show_name": "Documentales",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -155,18 +155,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "El secreto de la felicidad",
+      "show_name": "Tiempo para Tí",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ecclesia on line",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -179,11 +171,67 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla y Santo Rosario desde Guadalajara Mexico",
+      "show_name": "La hora del encuentro",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santo Rosario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santa Misa desde Capilla San Juan Pablo II",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Palabras Que Edifican",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sanando el corazón herido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En El Corazón De Jesús",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Congresos Católicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enamórate",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

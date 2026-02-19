@@ -1,9 +1,9 @@
 {
   "channel": "AYM Sports",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Hoy Futbol",
+      "show_name": "Lucha libre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,31 +11,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Artes Marciales",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:30",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Béisbol Liga Mexicana",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "07:00",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hoy Futbol",
+      "show_name": "El pierrotazo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Campeones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baloncesto Mexicano Femenino LNBP",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El pierrotazo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baloncesto Mexicano LNBP",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lucha libre",
+      "show_name": "Fútbol Mexicano Liga Expansión",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -43,31 +75,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Béisbol Liga Mexicana",
+      "show_name": "IWRG: Platicando con",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "13:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Ultra MX",
+      "show_name": "Beísbol Serie de las Américas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
+      "start_time": "11:30",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "En los deportes, vámonos de largo",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
+      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Alta Velocidad",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -75,31 +107,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Encendiendo las redes",
+      "show_name": "Beísbol Serie de las Américas",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol Mexicano Sub 20",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Liga Premier Tv",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
       "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "Gancho al Hígado",
+      "show_name": "IWRG: Platicando con",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -107,35 +123,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Liga de Fútbol Americano Mexicano",
+      "show_name": "Fútbol Mexicano Liga Expansión",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "22:00",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Pesca en Directo",
+      "show_name": "Campeones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:30",
+      "start_time": "21:00",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Alta Velocidad",
+      "show_name": "Kickboxing",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hoy Futbol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "21:30",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

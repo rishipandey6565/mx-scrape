@@ -1,102 +1,118 @@
 {
   "channel": "HBO Mundi",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
-    {
-      "show_name": "Una batalla tras otra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Habitación (2015)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/la-habitación-2015.webp",
-      "show_category": "Drama",
-      "start_time": "00:55",
-      "end_time": "03:00",
-      "episode_description": "Joy (Brie Larson) junto a Jack (Jacob Tremblay), un niño de 5 años viven atrapados en un cuarto sin ventanas que mide tres metros cuadrados al que le llaman “La Habitación”. Joy ha creado todo un universo para Jack en “La Habitación” asegurándose que no le falte nada a Jack en este pequeño lugar. A medida que la curiosidad de Jack crece acerca del lugar donde vive y la resistencia su madre toca fondo, ellos comienzan a tramar un arriesgado plan para escapar a algo que les creará un miedo aún mayor: el mundo real."
-    },
-    {
-      "show_name": "Las Dos Reinas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/las-dos-reinas.webp",
-      "show_category": "Biografía",
-      "start_time": "03:00",
-      "end_time": "05:10",
-      "episode_description": "Explora la turbulenta vida de la carismática María Estuardo (Saoirse Ronan). Reina de Francia a los 16 y viuda a los 18, Mary desafía la presión para volver a casarse. En cambio, ella regresa a su Escocia natal para reclamar su trono legítimo. Pero Escocia e Inglaterra están bajo el dominio de la convincente Isabel I (Margot Robbie). Cada joven reina contempla a su \"hermana\" con miedo y fascinación. Rivales en el poder y en el amor, y las mujeres regentes en un mundo masculino, las dos deben decidir cómo jugar el juego del matrimonio contra la independencia. Determinada a gobernar como mucho más que una figura decorativa, María I afirma su reclamo al trono inglés, amenazando la soberanía de Isabel I. La traición, la rebelión y las conspiraciones dentro de cada corte ponen en peligro ambos tronos – y el cambio del curso de la historia."
-    },
-    {
-      "show_name": "Rey Richard Una familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:10",
-      "end_time": "07:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jerry Maguire",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:40",
-      "end_time": "10:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El juego de la fortuna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:05",
-      "end_time": "12:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Orgullo y prejuicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:25",
-      "end_time": "14:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El esquema fenicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:35",
-      "end_time": "16:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El brutalista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:20",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "On Swift Horses",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No nos dejes caer esta noche",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:05",
-      "end_time": "23:45",
-      "episode_description": ""
-    },
     {
       "show_name": "Waltz with bashir",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
+      "start_time": "00:00",
       "end_time": "01:20",
       "episode_description": ""
+    },
+    {
+      "show_name": "Río Helado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:20",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Beacon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Front Room",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:45",
+      "end_time": "06:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
+      "start_time": "06:25",
+      "end_time": "08:15",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
+    },
+    {
+      "show_name": "El sustituto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:15",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expiación, deseo y pecado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "12:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Settlers",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:55",
+      "end_time": "14:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Infiltrado del KKKlan",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg",
+      "show_category": "Biografía",
+      "start_time": "14:40",
+      "end_time": "17:00",
+      "episode_description": "La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular."
+    },
+    {
+      "show_name": "Monkey Man El despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "19:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:05",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nosotros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "22:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
+      "start_time": "22:55",
+      "end_time": "00:45",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
     }
   ]
 }
