@@ -1,254 +1,182 @@
 {
   "channel": "Warner Channel",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Encontrados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 20 - Desaparecida siendo independiente",
-      "start_time": "01:50",
-      "end_time": "02:37",
-      "episode_description": "Un cartel de persona desaparecida hace que Margaret entre en un caso sobre una mujer desaparecida con síndrome de Down."
+      "show_name": "Historia de una vida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_historia-de-una-vida-1998_l_m.jpg",
+      "show_category": "The Truman Show",
+      "start_time": "00:06",
+      "end_time": "01:52",
+      "episode_description": "Un ciudadano modelo tiene la sensación de que le vigilan y no se equivoca. En cada segundo del día ha sido el protagonista inadvertido del reality show más largo de la historia sin que él lo supiera."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
-      "show_category": "Temporada 11 Episodio 19 - La disociación del inquilino",
-      "start_time": "02:37",
-      "end_time": "02:59",
-      "episode_description": "Leonard compite en contra de Sheldon por la presidencia de la Tenants Association. Mientras tanto, Bernadette envía a Howard y a Raj a localizar al dueño de un dron que cayó en su jardín."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 8 Episodio 6 - Vibrando con tu mágico error",
-      "start_time": "02:59",
-      "end_time": "03:21",
-      "episode_description": "Charlie no haya qué hacer cuando descubre que la chica de su cita es cuatro años mayor que él. Alan, por su lado, usará su imaginación para consumir -antes de que expiren- las pastillas \"azules\" que tanto lo hacen disfrutar."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 8 Episodio 7 - La gazeta de la perra loca",
-      "start_time": "03:21",
-      "end_time": "03:43",
-      "episode_description": "La nueva novia de Charlie no puede soportar el acoso de Rose. Ahora, Charlie deberá tomar una decisión."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 8 Episodio 8 - Primavera en un palito",
-      "start_time": "03:43",
-      "end_time": "04:06",
-      "episode_description": "Charlie y Alan intentan conectar a su madre con Russell, el farmacéutico."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 8 Episodio 9 - Un buen tiempo en África Central",
-      "start_time": "04:06",
-      "end_time": "04:29",
-      "episode_description": "Charlie se obsesiona por la suplente de Berta. Mientras tanto, Alan piensa que el ex esposo de Lyndsay lo está persiguiendo."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/all-american.webp",
-      "show_category": "Temporada 5 Episodio 18 - This Is How You Do It",
-      "start_time": "04:29",
-      "end_time": "05:16",
-      "episode_description": "Crecen los problemas en el equipo de fútbol americano de la GAU y Spencer debe intentar reunir a todos. Asher y Jaymee (Mia Horcher como estrella invitada) están listos para compartir su noticia, pero no todos los apoyan."
-    },
-    {
-      "show_name": "Obreros milagrosos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/obreros-milagrosos.webp",
-      "show_category": "Temporada 3 Episodio 7 - Oregon Trail: White Savior",
-      "start_time": "05:16",
-      "end_time": "05:39",
-      "episode_description": "Benny intenta convertirse en un héroe para una tribu de nativos americanos."
-    },
-    {
-      "show_name": "Obreros milagrosos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/obreros-milagrosos.webp",
-      "show_category": "Temporada 3 Episodio 8 - Oregon Trail: Over the Mountain",
-      "start_time": "05:39",
-      "end_time": "06:00",
-      "episode_description": "La caravana intenta cruzar las Montañas Azules."
-    },
-    {
-      "show_name": "Search Party",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/search-party.webp",
-      "show_category": "Temporada 4 Episodio 7 - El bucle infinito",
-      "start_time": "06:00",
-      "end_time": "06:28",
-      "episode_description": "La verdadera Lylah aparece, y la banda finalmente consigue una pista sólida sobre el paradero de Dory."
-    },
-    {
-      "show_name": "Search Party",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/search-party.webp",
-      "show_category": "Temporada 4 Episodio 8 - La impostora",
-      "start_time": "06:28",
-      "end_time": "06:59",
-      "episode_description": "Después de haber arrastrado a su familia a la ruina financiera y haber quedado rápidamente harta de su incompetencia, Chantal es visitada por unos nuevos amigos, quienes la inspiran a relatar su historia de vida."
-    },
-    {
-      "show_name": "Superman & Lois",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 6 - En su sano juicio",
-      "start_time": "06:59",
-      "end_time": "07:43",
-      "episode_description": "Clark se encuentra en una situación que desconoce y Lois forja una nueva amistad. Mientras tanto, Superman visita inesperadamente a Bruno Mannheim."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 82",
-      "start_time": "07:43",
-      "end_time": "07:57",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 152",
-      "start_time": "07:57",
-      "end_time": "07:59",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "U-571",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/u-571.webp",
-      "show_category": "Acción / 2000 /6.6",
-      "start_time": "07:59",
-      "end_time": "09:57",
-      "episode_description": "Durante la Segunda Guerra Mundial, un grupo de marinos debe apropiarse de un aparato decodificador de códigos nazi, instalado en un submarino alemán. Una peligrosa misión que decidirá la Batalla del Atlántico."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e22-the-monetary-insufficiency_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 22 - La insuficiencia monetaria",
+      "start_time": "01:52",
+      "end_time": "02:13",
+      "episode_description": "Mientras Sheldon va a Las Vegas para ganar millones de dólares en nombre de la ciencia, Penny y Bernadette llevan a Amy de compras para conseguir vestido de boda, pero se ven envueltas en una red de mentiras."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e23_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 23 - La realineación fraternal",
+      "start_time": "02:13",
+      "end_time": "02:35",
+      "episode_description": "Cuando Sheldon descubre que su madre no asistirá a su boda a menos que invite a su hermano Georgie, él y Leonard viajan a Texas para terminar con el conficto familiar."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s11e24_l_m.jpg",
       "show_category": "Temporada 11 Episodio 24 - La asimetría de la pajarita",
-      "start_time": "09:57",
-      "end_time": "10:20",
+      "start_time": "02:35",
+      "end_time": "02:58",
       "episode_description": "Los padres de Amy llegan con la familia de Sheldon. Todos están pendientes de que todo vaya según lo planeado, excepto los novios."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s12e01_l_m.jpg",
       "show_category": "Temporada 12 Episodio 1 - La configuración conyugal",
-      "start_time": "10:20",
-      "end_time": "10:43",
+      "start_time": "02:58",
+      "end_time": "03:21",
       "episode_description": "Después de su boda, Amy y Sheldon se van de luna de miel."
     },
     {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
-      "show_category": "Temporada 12 Episodio 2 - La transferencia del regalo de boda",
-      "start_time": "10:43",
-      "end_time": "11:05",
-      "episode_description": "Leonard y Penny le dan a Sheldon y Amy un sorprendente regalo de boda."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/the-big-bang-theory.webp",
-      "show_category": "Temporada 12 Episodio 3 - El cálculo de la procreación",
-      "start_time": "11:05",
-      "end_time": "11:26",
-      "episode_description": "La vida de los Wolowitz se complica cuando Stuart comienza a llevar a su nueva novia a casa. Además, Penny y Leonard hablan de comenzar una familia mientras Koothrappali explora un matrimonio arreglado."
-    },
-    {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s08e12-cereal-de-hoyitos-y-palitos-o-mi-perrito-murio_l_m.jpg",
       "show_category": "Temporada 8 Episodio 12 - Cereal de hoyitos y palitos o mi perrito murió",
-      "start_time": "11:26",
-      "end_time": "11:49",
+      "start_time": "03:21",
+      "end_time": "03:43",
       "episode_description": "Cuando Charlie y Courtney se separan, Charlie cae en una depresión y va a ver a su psiquiatra."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s08e13-zorrillo-popo-de-perro-y-ketchup_l_m.jpg",
       "show_category": "Temporada 8 Episodio 13 - Zorrillo, popó de perro y kétchup",
-      "start_time": "11:49",
-      "end_time": "12:13",
+      "start_time": "03:43",
+      "end_time": "04:05",
       "episode_description": "La paranoia y los miedos de Alan lo atacarán cuando Charlie y Lindsey comiencen a ser más amigables de lo normal."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s08e14-buscando-submarinos-japoneses_l_m.jpg",
       "show_category": "Temporada 8 Episodio 14 - Buscando submarinos japoneses",
-      "start_time": "12:13",
-      "end_time": "12:36",
+      "start_time": "04:05",
+      "end_time": "04:28",
       "episode_description": "Charlie continúa obsesionado con Rose, quien cree que está casada luego de una charla con ella en la tienda. Mientras tanto, Jake y Eldrige comienzan a grabar su propia estafa al estilo Jackass."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s08e15-tres-zorras-y-un-sandwich-filadelfia_l_m.jpg",
       "show_category": "Temporada 8 Episodio 15 - Tres zorras y un sándwich Filadelfia",
-      "start_time": "12:36",
-      "end_time": "13:00",
+      "start_time": "04:28",
+      "end_time": "04:51",
       "episode_description": "Rose continuará 'engañando a su marido' con Charlie. Alan, por su parte, encuentra ciertos cambios en su consultorio."
     },
     {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 8 Episodio 16 - El puñetero cura",
-      "start_time": "13:00",
-      "end_time": "13:22",
-      "episode_description": "Rose descubre un fraude perpetrado por Alan y Alan a cambio, descubre a \"Manny\", el maniquí que está \"casado\" con Rose. Mientras, Charlie está ávido por compartir unos momentos a solas con Rose."
+      "show_name": "All American",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_all-american-s05e19-sabotage_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 19 - Sabotage",
+      "start_time": "04:51",
+      "end_time": "05:36",
+      "episode_description": "A Olivia se le presenta una oportunidad emocionante, pero debe decidir si se encuentra en el momento adecuado para dar un paso tan grande. El entrenamiento de fútbol americano en Coastal lleva a Spencer, Jordan y Asher a visitar a JJ."
     },
     {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 1 Episodio 1 - Piloto",
-      "start_time": "13:22",
-      "end_time": "13:47",
-      "episode_description": "Después de 12 años de matrimonio, la esposa de Alan, Judith, lo echa a patadas. Por esta razón, decide volver hacia su hermano mayor, Charlie, para pedir ayuda."
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e77_l_m.jpg",
+      "show_category": "Episodio 77",
+      "start_time": "05:36",
+      "end_time": "05:47",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e78_l_m.jpg",
+      "show_category": "Episodio 78",
+      "start_time": "05:47",
+      "end_time": "05:57",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e156_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 156",
+      "start_time": "05:57",
+      "end_time": "06:00",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "Superman & Lois / Search Party",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "06:00",
+      "end_time": "08:19",
+      "episode_description": ""
     },
     {
       "show_name": "Cobra Kai",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Esqueleto",
-      "start_time": "13:47",
-      "end_time": "14:10",
-      "episode_description": "Miguel ayuda a Johnny a anunciar Cobra Kai en la web. Daniel acepta ser chaperón en el baile de Halloween para poder vigilar a su hija."
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Cobra Kai nunca muere",
+      "start_time": "08:19",
+      "end_time": "08:48",
+      "episode_description": "Robbie está en problemas con su padre. Johnny planea cerrar Cobra Kai después de que Miguel se lesione. La relación de Samantha y Kyler toca fondo. Una valla publicitaria destrozada crea tensión para Daniel."
     },
     {
       "show_name": "Crepúsculo la saga: Amanecer - Parte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/crepúsculo-la-saga-amanecer-parte-2.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_crepusculo-la-saga-amanecer-parte-2-2012_l_m.jpg",
       "show_category": "The Twilight Saga: Breaking Dawn - Part 2",
-      "start_time": "14:10",
-      "end_time": "16:04",
+      "start_time": "08:48",
+      "end_time": "10:39",
       "episode_description": "Renesmee, la pequeña hija de Bella y Edward, es acusada falsamente de ser inmortal. Los Volturi quieren asesinar a toda la familia, pero los Cullen harán todo por defender su amor enfrentando al clan más poderoso."
     },
     {
       "show_name": "La saga Crepúsculo: Amanecer - Parte I",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/la-saga-crepúsculo-amanecer-parte-i.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-saga-crepusculo-amanecer-parte-i-2011_l_m.jpg",
       "show_category": "The Twilight Saga: Breaking Dawn - Part 1",
-      "start_time": "16:04",
-      "end_time": "18:03",
+      "start_time": "10:39",
+      "end_time": "12:37",
       "episode_description": "El amor que Edward y Bella sienten el uno por el otro se sella con su casamiento. Durante la luna de miel, Bella queda embarazada. El rápido crecimiento del feto afecta gravemente a su salud, llevándola al borde de la muerte."
     },
     {
-      "show_name": "Lo imposible",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/lo-imposible.webp",
-      "show_category": "The Impossible",
-      "start_time": "18:03",
-      "end_time": "20:00",
-      "episode_description": "De vacaciones en Tailandia, una familia es separada cuando un feroz tsunami golpea a su hotel. Comienza así un frenético y desesperado periplo para rencontrarse y sobrevivir."
+      "show_name": "Batman regresa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_batman-regresa-1992_l_m.jpg",
+      "show_category": "Batman Returns",
+      "start_time": "12:37",
+      "end_time": "14:49",
+      "episode_description": "Gotham City se enfrenta a dos nuevas amenazas: el diabólico y siniestro Pingüino, una criatura solitaria y extrañamente deformada que quiere convertirse en amo de la ciudad, y la hermosa y seductora, aunque letalmente peligrosa, Gatúbela."
     },
     {
-      "show_name": "RED",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/red.webp",
-      "show_category": "Acción / 2010",
-      "start_time": "20:00",
+      "show_name": "Tenet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Acción / 2020 /7.4",
+      "start_time": "14:49",
+      "end_time": "17:28",
+      "episode_description": "Armado con tan solo una palabra, Tenet, un agente de la CIA sin nombre deberá pelear por la supervivencia del mundo entero en una misión que le lleva a viajar a través del oscuro mundo del espionaje internacional."
+    },
+    {
+      "show_name": "Los juegos del hambre: Sinsajo - Parte 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-juegos-del-hambre-sinsajo-parte-1-2014_l_m.jpg",
+      "show_category": "The Hunger Games: Mockingjay - Part 1",
+      "start_time": "17:28",
+      "end_time": "19:34",
+      "episode_description": "Katniss Everdeen regresa desde el Distrito trece tras, literalmente, destrozar los juegos para siempre. Bajo el liderazgo de la Presidenta Coin, esta guerrera lucha por salvar a Peeta y a una nación conmovida por su coraje."
+    },
+    {
+      "show_name": "Los juegos del hambre: Sinsajo - Parte 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-juegos-del-hambre-sinsajo-parte-2-2015_l_m.jpg",
+      "show_category": "The Hunger Games: Mockingjay - Part 2",
+      "start_time": "19:34",
       "end_time": "22:00",
-      "episode_description": "Un equipo de ex agentes de la CIA retirados hace tiempo son misteriosamente atacados y obligados a volver a la actividad para descubrir quién quiere verlos muertos, ¡y así salvar sus vidas!"
+      "episode_description": "La guerra en Panem lleva a la destrucción de los distritos por parte del Capitolio, y Katniss Everdeen, líder de la rebelión, debe unir las fuerzas de su ejército contra el presidente Snow, mientras todo lo que ama pende de un hilo."
     },
     {
-      "show_name": "Luna de miel en familia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/tomorrow/luna-de-miel-en-familia.webp",
-      "show_category": "Blended",
+      "show_name": "Dos policías rebeldes II",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-policias-rebeldes-ii-2003_l_m.jpg",
+      "show_category": "Bad Boys II",
       "start_time": "22:00",
       "end_time": "",
-      "episode_description": "Después de una desastrosa cita a ciegas, los padres solteros Lauren y Jim no desean volver a verse nunca más. Sin embargo, al ir de vacaciones con sus hijos, se reencuentran durante una semana en un lujoso resort de safari en África."
+      "episode_description": "Los oficiales Mike y Marcus planean capturar a un capo de la droga que quiere controlar el tráfico de narcóticos. Todo se complica cuando Mike se enamora de la hermana de Marcus, quien trabaja como agente encubierta para la DEA."
     }
   ]
 }
