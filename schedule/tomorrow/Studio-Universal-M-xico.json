@@ -1,36 +1,36 @@
 {
   "channel": "Studio Universal (México)",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "El Teléfono Negro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/el-teléfono-negro.webp",
-      "show_category": "Terror",
+      "show_name": "Los Infiltrados",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:45",
-      "episode_description": "Finney Shaw (Mason Thames), un tímido, pero inteligente niño de 13 años, es secuestrado por un sádico asesino y encerrado en un sótano a prueba de ruidos donde gritar no sirve de nada. Cuando un teléfono desconectado en la pared comienza a sonar, Finney descubre que puede escuchar las voces de las víctimas anteriores del asesino. Y están decididos a asegurarse de que lo que les pasó a ellos no le pase a Finney."
-    },
-    {
-      "show_name": "Scream",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:45",
-      "end_time": "03:45",
+      "end_time": "00:55",
       "episode_description": ""
     },
     {
-      "show_name": "Cats",
+      "show_name": "Quiero matar a mi jefe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:45",
-      "end_time": "05:30",
+      "start_time": "00:55",
+      "end_time": "02:40",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood on Set",
+      "show_name": "Mack & Rita",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "02:40",
+      "end_time": "04:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Votos de amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:10",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -51,76 +51,60 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rocky III",
+      "show_name": "007 Operación Skyfall",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "08:50",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky IV",
+      "show_name": "Spectre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:50",
-      "end_time": "10:35",
+      "start_time": "09:45",
+      "end_time": "12:35",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky Balboa",
+      "show_name": "Sin Tiempo Para Morir",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_tiempo_para_morir.jpg",
+      "show_category": "Acción",
+      "start_time": "12:35",
+      "end_time": "15:40",
+      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
+    },
+    {
+      "show_name": "Knives Out: Entre navajas y secretos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:35",
-      "end_time": "12:30",
+      "start_time": "15:40",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Locos Addams",
+      "show_name": "Batman inicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:05",
+      "start_time": "18:00",
+      "end_time": "20:25",
       "episode_description": ""
     },
     {
-      "show_name": "Los locos Addams 2",
+      "show_name": "Batman El caballero de la noche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:05",
-      "end_time": "15:45",
+      "start_time": "20:25",
+      "end_time": "23:05",
       "episode_description": ""
     },
     {
-      "show_name": "Paddington 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
-      "end_time": "17:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mission: Impossible Rogue Nation",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:40",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El contador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Infiltrados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:15",
-      "end_time": "00:55",
-      "episode_description": ""
+      "show_name": "Interestelar",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/interestelar.jpg",
+      "show_category": "Acción",
+      "start_time": "23:05",
+      "end_time": "02:15",
+      "episode_description": "Un grupo de exploradores hacen uso de un recién descubierto agujero de gusano que actualmente limita los viajes espaciales y la conquista de largas distancias de los viajes interestelares."
     }
   ]
 }

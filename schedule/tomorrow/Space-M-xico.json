@@ -1,101 +1,125 @@
 {
   "channel": "Space (México)",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
       "show_name": "IT Capítulo Dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:52",
+      "end_time": "01:06",
       "episode_description": ""
     },
     {
-      "show_name": "Little Bone Lodge",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:52",
-      "end_time": "04:30",
-      "episode_description": ""
+      "show_name": "La Huérfana: El Origen",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_huerfana_el_origen.jpg",
+      "show_category": "Crimen",
+      "start_time": "01:06",
+      "end_time": "02:46",
+      "episode_description": "La aterradora saga de Esther continúa en esta emocionante precuela del original e impactante éxito de terror, La Huérfana. Después de orquestar una fuga brillante de un centro psiquiátrico de Estonia, Esther (Isabelle Fuhrman) viaja a Estados Unidos haciéndose pasar por la hija desaparecida de una familia adinerada. Sin embargo, surge un giro inesperado que la enfrenta a una madre que protegerá a su familia de la \"niña\" asesina a toda costa."
     },
     {
       "show_name": "The Beacon",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
+      "start_time": "02:46",
+      "end_time": "04:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Monolith",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:24",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fuego con fuego",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:24",
+      "end_time": "06:34",
       "episode_description": ""
     },
     {
-      "show_name": "Batman v Superman: Dawn of Justice",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/tomorrow/batman-v-superman-dawn-of-justice.webp",
-      "show_category": "Acción",
-      "start_time": "07:24",
-      "end_time": "09:59",
-      "episode_description": "Temiendo que los actos de Superman (Henry Cavill) no sean castigados, Batman (Ben Affleck) carga contra Superman, mientras el mundo pelea con el tipo de héroe que el mundo en realidad necesita. Con Batman y Superman peleándose entre sí, una nueva amenaza llamada Doomsday, creada por Lex Luthor (Jesse Eisenberg) amenaza con destruir la humanidad. Ahora Batman y Superman deberán superar sus diferencias y unirse junto a la Mujer Maravilla (Gal Gadot) para detener la destrucción de Metrópolis ocasionada por Lex Luthor y Doomsday."
-    },
-    {
-      "show_name": "Los Federales",
+      "show_name": "Twist",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:59",
-      "end_time": "12:24",
+      "start_time": "06:34",
+      "end_time": "08:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Vengador Del Futuro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:10",
+      "end_time": "10:10",
       "episode_description": ""
     },
     {
       "show_name": "Sniper Legacy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:24",
-      "end_time": "14:09",
+      "start_time": "10:10",
+      "end_time": "11:56",
       "episode_description": ""
-    },
-    {
-      "show_name": "Venom",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:09",
-      "end_time": "16:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Venom: Carnage Liberado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/tomorrow/venom-carnage-liberado.webp",
-      "show_category": "Acción",
-      "start_time": "16:03",
-      "end_time": "17:55",
-      "episode_description": "Eddie Brock (Tom Hardy) debe adaptarse a su nueva vida con el simbionte alienígena Venom. Para recuperar su vida, Eddie se propone hacerle una entrevista al asesino en serie Cletus Kasady (Woody Harrelson) antes que reciba la inyección letal, sin saber que Kasady pronto se convertirá en el nuevo anfitrión del simbionte Carnage."
     },
     {
       "show_name": "S.W.A.T. - Unidad especial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:55",
-      "end_time": "20:03",
+      "start_time": "11:56",
+      "end_time": "14:01",
       "episode_description": ""
     },
     {
       "show_name": "Venganza despiadada",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:03",
+      "start_time": "14:01",
+      "end_time": "15:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Federales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:56",
+      "end_time": "18:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Difícil de matar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:23",
+      "end_time": "20:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Red De Corrupción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:06",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "IT Capítulo Dos",
+      "show_name": "La Huérfana: El Origen",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_huerfana_el_origen.jpg",
+      "show_category": "Crimen",
+      "start_time": "22:00",
+      "end_time": "23:45",
+      "episode_description": "La aterradora saga de Esther continúa en esta emocionante precuela del original e impactante éxito de terror, La Huérfana. Después de orquestar una fuga brillante de un centro psiquiátrico de Estonia, Esther (Isabelle Fuhrman) viaja a Estados Unidos haciéndose pasar por la hija desaparecida de una familia adinerada. Sin embargo, surge un giro inesperado que la enfrenta a una madre que protegerá a su familia de la \"niña\" asesina a toda costa."
+    },
+    {
+      "show_name": "El contador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "01:06",
+      "start_time": "23:45",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

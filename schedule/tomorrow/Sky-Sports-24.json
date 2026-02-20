@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 24",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Hamburger SV vs. 1. FC Union Be",
+      "show_name": "1. FSV Mainz 05 vs. Hamburger S",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,67 +15,99 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:15",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Hertha Berlin vs. Hannover 96",
+      "show_name": "Bundesliga special show #07",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Holstein Kiel vs. Schalke 04",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "05:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hoffenheim vs. Freiburg",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:15",
-      "end_time": "07:15",
+      "start_time": "01:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Leverkusen vs. St. Pauli",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:15",
-      "end_time": "09:15",
+      "start_time": "02:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Borussia Dortmund vs. 1. FSV Ma",
+      "show_name": "Hertha Berlin vs. Hannover 96",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "11:15",
+      "start_time": "04:00",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Werder Bremen vs. Bayern Munich",
+      "show_name": "Wolfsburg vs. Borussia Dortmund",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:15",
-      "end_time": "13:15",
+      "start_time": "06:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sky Sports 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:15",
+      "start_time": "08:15",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bayern Múnich vs. Frankfurt\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bundesliga special show #07",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sky Sports 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "RB Lipzig vs. Borussia Dortmund",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "1. FSV Mainz 05 vs. Hamburger S",
+      "show_name": "Schalke 04 vs. 1. FC Magdebu",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -83,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Leverkusen vs. St. Pauli",
+      "show_name": "1. FC Union Berlin vs. Leverkus",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -91,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "1. FSV Mainz 05 vs. Hamburger S",
+      "show_name": "Wolfsburg vs. RB Leipzig",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -99,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hamburger SV vs. 1. FC Union Be",
+      "show_name": "1. FC Köln vs. Hoffenheim",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -107,18 +139,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bundesliga special #14",
+      "show_name": "RB Leipzig vs. Borussia Dortmun",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
-      "end_time": "22:00",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "1. FSV Mainz 05 vs. Hamburger S",
+      "show_name": "Bundesliga special #14",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

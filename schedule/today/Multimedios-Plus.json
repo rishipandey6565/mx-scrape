@@ -1,12 +1,20 @@
 {
   "channel": "Multimedios Plus",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Cantadísimo",
+      "show_name": "SNSerio",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buenas Noches Don Fematt",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:45",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -147,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "SNSerio",
+      "show_name": "Es Show, el musical",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:45",

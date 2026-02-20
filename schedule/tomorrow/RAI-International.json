@@ -1,6 +1,6 @@
 {
   "channel": "RAI International",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
       "show_name": "TG Rai News",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "UnoMattina News",
+      "show_name": "Parlamento settegiorni",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:15",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TG1",
+      "show_name": "TG1 + TG1 Dialogo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,31 +35,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Unomattina (all'interno TG)",
+      "show_name": "Unomattina in famiglia",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:45",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Storie italiane",
+      "show_name": "Buongiorno benessere",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:45",
-      "end_time": "04:45",
+      "start_time": "03:30",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cinque minuti",
+      "show_name": "Punto Europa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Quante storie",
+      "show_name": "Tg3",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR Buongiorno Italia",
+      "show_name": "Il Settimanale",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -83,47 +83,71 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paparazzi!",
+      "show_name": "O anche no",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:30",
+      "end_time": "07:15",
       "episode_description": ""
     },
     {
-      "show_name": "TG Rai News",
+      "show_name": "Buongiorno benessere",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "07:45",
+      "start_time": "07:15",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
-      "show_name": "Casa Italia",
+      "show_name": "Linea verde discovery",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:45",
+      "start_time": "08:15",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
-      "show_name": "Piazza Affari",
+      "show_name": "Linea Bianca Olympia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:45",
+      "start_time": "08:45",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Linea Verde Italia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "La vita in diretta",
+      "show_name": "Documentario Geo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "10:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG1",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:15",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciao Maschio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "L' Eredità",
+      "show_name": "L'eredità weekend",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:45",
@@ -131,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TG1 + Cinque minuti",
+      "show_name": "TG1",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -139,50 +163,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR petrarca",
+      "show_name": "Prima festival",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
-      "end_time": "14:00",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
-      "show_name": "È Sempre Mezzogiorno",
+      "show_name": "Gli italians",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:15",
+      "start_time": "13:45",
+      "end_time": "14:15",
       "episode_description": ""
     },
     {
-      "show_name": "TGR Leonardo",
+      "show_name": "Being Italians Borsalino City",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:15",
+      "start_time": "14:15",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "Cartoni animati",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:15",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Il paradiso delle signore",
+      "show_name": "Home Sweet Rome!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Affari Tuoi",
+      "show_name": "Bar Centrale",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il Settimanale",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -195,42 +227,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un posto al sole",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "L'Eredità Sfida tra giganti",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:15",
+      "start_time": "18:30",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Punti di vista",
+      "show_name": "Milano vs. Scandicci",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:15",
-      "end_time": "21:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tv7",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:45",
-      "end_time": "22:45",
+      "start_time": "21:00",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
       "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:45",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

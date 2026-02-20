@@ -1,18 +1,34 @@
 {
   "channel": "FOX SPORTS PREMIUM",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Major Arena Soccer League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/major-arena-soccer-league.webp",
-      "show_category": "Fútbol",
+      "show_name": "Budo Sento Championship",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/15460851.jpg",
+      "show_category": "Artes Marciales",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
+    },
+    {
+      "show_name": "AEW Dynamite",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/17064946.jpg",
+      "show_category": "Lucha",
+      "start_time": "00:00",
+      "end_time": "03:30",
+      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
+    },
+    {
+      "show_name": "Budo Sento Championship",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/15460851.jpg",
+      "show_category": "Artes Marciales",
+      "start_time": "03:30",
       "end_time": "05:30",
-      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
+      "episode_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
     },
     {
       "show_name": "Major Arena Soccer League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/major-arena-soccer-league.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1987694447.jpg",
       "show_category": "Fútbol",
       "start_time": "05:30",
       "end_time": "08:00",
@@ -20,83 +36,59 @@
     },
     {
       "show_name": "Power Slap: Main Event",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/power-slap-main-event.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/46231570.jpg",
       "show_category": "Deportivo",
       "start_time": "08:00",
       "end_time": "11:00",
       "episode_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
     },
     {
-      "show_name": "AEW Dynamite",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/aew-dynamite.webp",
+      "show_name": "AEW Collision",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/38156003.jpg",
       "show_category": "Lucha",
       "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca."
+      "end_time": "13:30",
+      "episode_description": "Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro."
     },
     {
-      "show_name": "Power Slap: Main Event",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/power-slap-main-event.webp",
-      "show_category": "Deportivo",
-      "start_time": "13:00",
+      "show_name": "Red Bull - Cerro abajo",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/25894962.jpg",
+      "show_category": "D.Extremos",
+      "start_time": "13:30",
       "end_time": "15:00",
-      "episode_description": "Toda la cobertura de Power Slap, competencia internacional de lucha de bofetadas."
+      "episode_description": "Una carrera de ciclismo de montaña en la modalidad de descenso urbano."
     },
     {
       "show_name": "Budo Sento Championship",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/budo-sento-championship.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/15460851.jpg",
       "show_category": "Artes Marciales",
       "start_time": "15:00",
       "end_time": "17:00",
       "episode_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
     },
     {
-      "show_name": "Red Bull Cliff Diving World Series",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/red-bull-cliff-diving-world-series.webp",
-      "show_category": "D.Extremos",
+      "show_name": "AEW Collision",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/38156003.jpg",
+      "show_category": "Lucha",
       "start_time": "17:00",
-      "end_time": "19:00",
-      "episode_description": "Sé parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros."
-    },
-    {
-      "show_name": "LEGO F1 Bricks on Track",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/lego-f1-bricks-on-track.webp",
-      "show_category": "Documental",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": "Diez coches LEGO de Fórmula 1 para conducir. 400.000 piezas cada uno. 20 pilotos de F1. Un momento inolvidable en Miami. Un especial que revela cómo el Grupo LEGO y la Fórmula 1 lograron una primicia mundial en el Gran Premio de Miami."
-    },
-    {
-      "show_name": "Fox Fight Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/fox-fight-club.webp",
-      "show_category": "Lucha",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
+      "end_time": "19:30",
+      "episode_description": "Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro."
     },
     {
       "show_name": "Major Arena Soccer League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/major-arena-soccer-league.webp",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/1987694447.jpg",
       "show_category": "Fútbol",
-      "start_time": "20:30",
-      "end_time": "23:00",
+      "start_time": "19:30",
+      "end_time": "22:00",
       "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
     },
     {
-      "show_name": "Fox Fight Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/fox-fight-club.webp",
-      "show_category": "Lucha",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo."
-    },
-    {
-      "show_name": "Major Arena Soccer League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FOX-SPORTS-PREMIUM/tomorrow/major-arena-soccer-league.webp",
-      "show_category": "Fútbol",
-      "start_time": "23:30",
-      "end_time": "02:00",
-      "episode_description": "Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México."
+      "show_name": "Budo Sento Championship",
+      "show_logo": "http://www.reportv.com.ar/buscador/img/Programas/15460851.jpg",
+      "show_category": "Artes Marciales",
+      "start_time": "22:00",
+      "end_time": "00:00",
+      "episode_description": "Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales."
     }
   ]
 }

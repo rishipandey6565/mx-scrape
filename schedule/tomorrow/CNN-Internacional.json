@@ -1,9 +1,9 @@
 {
   "channel": "CNN Internacional",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "World Sport",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,26 +11,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "CNN News Room",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsroom",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:45",
+      "start_time": "00:30",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "World Sport",
+      "show_name": "African voices",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:45",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -39,19 +39,35 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "World Sport",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:45",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Amanpour Hour",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CNN Creators The Intro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Early Start",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -59,15 +75,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN This Morning",
+      "show_name": "African voices",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Feature",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "CNN News Central",
+      "show_name": "CNN This Morning Weekend",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -75,79 +99,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "CNN News Central",
+      "show_name": "First of All",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Connect the world",
+      "show_name": "Smerconish",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "08:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:45",
       "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Connect the world",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "One World",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "CNN Creators The Intro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inside Africa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Amanpour Hour",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "One World",
+      "show_name": "World Sport\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:45",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "African voices",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
+      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Amanpour",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -155,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Isa Soares Tonight",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -163,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "What We Know with Max Foster",
+      "show_name": "The Whole Story",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -171,23 +179,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Quest Means Business",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "African voices",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Lead with Jake Tapper",
+      "show_name": "World Sport\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -195,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "World Sport",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -203,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Brief with Jim Scuitto",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Erin Burnett OutFront",
+      "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Anderson Cooper 360\nEn Vivo",
+      "show_name": "Smerconish",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -227,26 +227,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Source",
+      "show_name": "World Sport",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Feature",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "CNN Newsnight",
+      "show_name": "Inside Africa",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "African voices",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Laura Coates Live",
+      "show_name": "Feature",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Marketplace Africa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "22:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Marketplace Africa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:45",
       "end_time": "23:00",
       "episode_description": ""
     },

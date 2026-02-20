@@ -1,52 +1,44 @@
 {
   "channel": "Film & Arts",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Tres colores Rojo",
+      "show_name": "McDonald & Dodds",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:40",
       "episode_description": ""
     },
     {
-      "show_name": "Gaby Moreno en el Troubadour",
+      "show_name": "Witness for the Prosecution T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "03:00",
+      "start_time": "00:40",
+      "end_time": "01:40",
       "episode_description": ""
     },
     {
-      "show_name": "Hérouville Sessions",
+      "show_name": "Witness for the Prosecution T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "start_time": "01:40",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Tim Burton, un monstruo de cin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
+      "start_time": "02:45",
+      "end_time": "06:15",
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Norma en la Nube",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Revelaciones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
+      "start_time": "06:15",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -59,26 +51,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gaby Moreno en el Troubadour",
+      "show_name": "El Lago de los Cisnes en 360°",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hérouville Sessions",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Revelaciones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -87,11 +63,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Showtrial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Showtrial",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -99,39 +83,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "McDonald & Dodds",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
+      "end_time": "15:40",
       "episode_description": ""
     },
     {
-      "show_name": "Tres colores Rojo",
+      "show_name": "Witness for the Prosecution T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
+      "start_time": "15:40",
       "end_time": "16:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Witness for the Prosecution T",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:50",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:50",
-      "end_time": "20:00",
+      "start_time": "18:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tim Burton, un monstruo de cin",
+      "show_name": "Orphea in Love",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
+      "start_time": "19:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Showtrial",
+      "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -139,19 +131,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Showtrial",
+      "show_name": "La marcha de los pingüinos",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:00",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "McDonald & Dodds",
+      "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:40",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

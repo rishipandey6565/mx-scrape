@@ -1,44 +1,36 @@
 {
   "channel": "TV Chile",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
+    {
+      "show_name": "El Medio Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
     {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "24 noche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
-      "end_time": "01:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Destinos Turísticos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "El especialista responde",
+      "show_name": "Chile Conectado",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Frutos del País",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -75,18 +67,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "Chile Conectado",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Destinos Turísticos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -127,47 +111,47 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:00",
+      "end_time": "18:55",
       "episode_description": ""
     },
     {
       "show_name": "24 Horas Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:40",
+      "start_time": "18:55",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Romané",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:40",
+      "start_time": "20:00",
       "end_time": "20:45",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "Chile Conectado",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
-      "end_time": "21:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Destinos Turísticos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:15",
-      "end_time": "22:30",
+      "end_time": "22:15",
       "episode_description": ""
     },
     {
       "show_name": "El Medio Día",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "00:00",
+      "start_time": "22:15",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]
