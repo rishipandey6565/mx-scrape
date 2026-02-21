@@ -1,34 +1,42 @@
 {
   "channel": "Canal 22",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
+      "show_name": "Chamuco TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_chamuco-tv_l_m.jpg",
+      "show_category": "Comedia",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": "¿Cómo reír ante la catástrofe? Hazlo de forma inteligente, por mucho tiempo la caricatura ha caracterizado a aquellos personajes públicos que han brillado por sus desatines, no te pierdas el único programa de moneros."
+    },
+    {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "01:30",
+      "end_time": "02:30",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Programación a confirmar."
-    },
-    {
-      "show_name": "Cinema 22 mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/cinema-22-mexicano.webp",
+      "show_name": "Cinema 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cinema-22_l_m.jpg",
       "show_category": "Película",
       "start_time": "02:30",
+      "end_time": "04:00",
+      "episode_description": "De Charles Chaplin a Wong Kar Wai. De Emilio \"El indio\" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22."
+    },
+    {
+      "show_name": "Me voy pal norte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-pal-norte_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Un espacio con las mejores producciones del cine mexicano e internacional. El público podrá disfrutar de las películas más emocionantes y que actuan como reflejo de la actualidad."
+      "episode_description": "Las experiencias de migrantes en busca del sueño americano. Las dificultades que enfrentan en su travesía, como la detención en la frontera, pérdida de familiares en el desierto y la lucha por mantener sus raíces y cultura."
     },
     {
       "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "04:30",
       "end_time": "05:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,147 +52,123 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "Fin de transmisión."
     },
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "Paraísos bajo el agua",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_paraisos-bajo-el-agua_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "06:30",
       "end_time": "07:30",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+      "episode_description": "Arrecifes, tiburones y barcos hundidos son algunos de los protagonistas del océano que contribuyen a dibujar el paisaje marítimo, el cual tiene una historia en la que también convergen desastres naturales, la caza y el turismo."
     },
     {
-      "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "Destino Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "07:30",
-      "end_time": "09:00",
-      "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
+      "end_time": "08:00",
+      "episode_description": "Descubra Oaxaca, el quinto estado más extenso de México."
     },
     {
-      "show_name": "Suave patria",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
-      "start_time": "09:00",
+      "show_name": "Documentales RT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Un espacio con documentales para todos los públicos. Un espacio para explorar y descubrir aspectos sobre política, sociedad, economía, cultura, ciencia y mucho más."
+    },
+    {
+      "show_name": "Consulta directa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_consulta-directa_l_m.jpg",
+      "show_category": "Salud",
+      "start_time": "08:30",
       "end_time": "09:30",
-      "episode_description": "Tanto escritores como personas comunes prestan su voz para que obras de la literatura cobren vida. En este espacio, el público podrá disfrutar de diversos pasajes de la obra La suave Patria, de Ramón López Velarde."
+      "episode_description": "Un espacio en donde especialistas médicos responden de manera directa las dudas de la población entorno al COVID-19 a través de una consulta directa vía telefónica o mensaje de WhatsApp."
     },
     {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "La hora nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "09:30",
       "end_time": "10:30",
-      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
+      "episode_description": "La hora nacional es un programa que busca fortalecer la integración nacional a través del idioma, la cultura, las tradiciones y la creación artística. Los conductores reciben a diversas personalidades destacadas para reflexionar."
     },
     {
-      "show_name": "La raíz doble",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/la-raíz-doble.webp",
-      "show_category": "Cultural",
+      "show_name": "A confirmar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
+      "show_category": "Variedades",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
-    },
-    {
-      "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
-    },
-    {
-      "show_name": "A fonda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
-      "start_time": "12:00",
-      "end_time": "13:30",
-      "episode_description": "A Fonda es una serie documental que busca reflexionar sobre la identidad chilanga (de oriundos y adaptados) a través de sus costumbres culinarias. El conductor Diego Mejía presenta el testimonio de diversos cocineros y habitantes."
-    },
-    {
-      "show_name": "Crónica animal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Laura Barrera protagoniza una serie sobre la relación entre los seres humanos y los animales. El programa se enfoca en temas de bienestar animal, la cultura del cuidado, y la presencia de animales emblemáticos en la identidad mexicana."
-    },
-    {
-      "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
+      "episode_description": ""
     },
     {
       "show_name": "¡Clic clac!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/clic-clac.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_clic-clac-1_l_m.jpg",
       "show_category": "Infantil",
-      "start_time": "14:30",
-      "end_time": "17:00",
+      "start_time": "11:00",
+      "end_time": "16:00",
       "episode_description": "Espacio que propone un equilibrio entre formación y entretenimiento para niños, abarcando temas como ciencia, literatura, naturaleza, arte, tradiciones mexicanas e historia, presentados de una forma muy creativa."
     },
     {
-      "show_name": "Vale la pena vivir",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/vale-la-pena-vivir.webp",
-      "show_category": "Animación",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Historias de adolescentes que luchan contra diferentes desafíos y las estrategias a las que recurren para enfrentarlos cuando sienten que sus propios pensamientos están en su contra."
+      "show_name": "FIC53",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Especial",
+      "start_time": "16:00",
+      "end_time": "18:30",
+      "episode_description": "Transmisión del Festival Internacional Cervantino (FIC), una celebración cultural nacional que busca llegar a los rincones de toda la República mexicana a través del Circuito Cervantino."
     },
     {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
-      "start_time": "18:00",
+      "show_name": "El club del deseo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Comedia",
+      "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "Programación a confirmar."
+      "episode_description": "Un grupo de adultos mayores asiste a un taller de sexualidad en un club social. Mientras las clases avanzan y la coordinadora del taller desarrolla distintos temas, conocemos a los protagonistas: sus historias de vida, sus deseos y tabúes."
     },
     {
-      "show_name": "Grandes figuras del arte mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/grandes-figuras-del-arte-mexicano.webp",
+      "show_name": "Léemelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Documentales biográficos de aquellos que han forjado la historia, la cultura y el arte del México contemporáneo."
+      "episode_description": "Un programa dedicado a compartir la pasión por la lectura y las conexiones que se tienen con los libros de la voz de distintos invitados. A través de la charla y el diálogo, se discute una obra y los temas que aborda."
     },
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "La dichosa palabra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-dichosa-palabra_l_m.jpg",
+      "show_category": "Talk Show",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
     },
     {
-      "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "Miss Friman's War",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Comedia",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
-    },
-    {
-      "show_name": "Punto de referencia - Tu noticiero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
+      "episode_description": "Un grupo de mujeres se enfrenta tanto al machismo como a una industria corrupta de comestibles. Aborda temas que son tan relevantes hoy como lo eran entonces: la demanda de alimentos buenos e intactos y la lucha por la igualdad de derechos."
     },
     {
       "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/tomorrow/a-confirmar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
       "show_category": "Variedades",
-      "start_time": "23:00",
+      "start_time": "22:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A confirmar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Programación a confirmar."
+      "episode_description": ""
     }
   ]
 }

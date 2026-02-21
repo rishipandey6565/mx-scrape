@@ -1,126 +1,158 @@
 {
   "channel": "TCM",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
-      "show_name": "Semilla de maldad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Blackboard Jungle",
-      "start_time": "01:12",
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e30_l_m.jpg",
+      "show_category": "Episodio 30",
+      "start_time": "01:45",
+      "end_time": "02:20",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e77_l_m.jpg",
+      "show_category": "Episodio 77",
+      "start_time": "02:20",
+      "end_time": "02:30",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e78_l_m.jpg",
+      "show_category": "Episodio 78",
+      "start_time": "02:30",
+      "end_time": "02:40",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e80_l_m.jpg",
+      "show_category": "Episodio 80",
+      "start_time": "02:40",
+      "end_time": "02:50",
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e93_l_m.jpg",
+      "show_category": "Episodio 93",
+      "start_time": "02:50",
       "end_time": "03:00",
-      "episode_description": "Un veterano recién llegado de la guerra, acepta un empleo en un conflictivo colegio. El nuevo profesor ha de luchar por ganarse el respeto de los alumnos. El profesor está decidido a hacer de sus alumnos hombres de provecho."
+      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 28",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e95_l_m.jpg",
+      "show_category": "Episodio 95",
       "start_time": "03:00",
-      "end_time": "03:38",
+      "end_time": "03:09",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 29",
-      "start_time": "03:38",
-      "end_time": "04:13",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e90_l_m.jpg",
+      "show_category": "Episodio 90",
+      "start_time": "03:09",
+      "end_time": "03:22",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "The Big Call",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Drama / 2017 /5.6",
-      "start_time": "04:13",
-      "end_time": "04:13",
-      "episode_description": "Un grupo especializado de policía intenta desarticular una banda internacional dedicada a las estafas telefónicas. Para ello infiltran a una agente entre los delincuentes."
-    },
-    {
-      "show_name": "The Big Call",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Drama / 2017 /5.6",
-      "start_time": "04:13",
-      "end_time": "06:13",
-      "episode_description": "Un grupo especializado de policía intenta desarticular una banda internacional dedicada a las estafas telefónicas. Para ello infiltran a una agente entre los delincuentes."
-    },
-    {
-      "show_name": "Las Aventuras de Huckleberry Finn",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Adventures of Huckleberry Finn",
-      "start_time": "06:13",
-      "end_time": "08:06",
-      "episode_description": "Relata las peripecias de un muchacho que se escapa en una balsa para vivir aventuras en el Mississippi. En sus andanzas le acompaña Jim, un esclavo que huye en busca de la libertad."
-    },
-    {
-      "show_name": "Los hermanos Karamazov",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Brothers Karamazov",
-      "start_time": "08:06",
-      "end_time": "10:38",
-      "episode_description": "Las consecuencias que tiene la muerte de un padre posesivo y dominante sobre sus hijos, uno de los cuales es acusado de su asesinato."
     },
     {
       "show_name": "La jungla de asfalto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "The Asphalt Jungle",
-      "start_time": "10:38",
-      "end_time": "12:38",
+      "start_time": "03:22",
+      "end_time": "05:18",
       "episode_description": "Un abogado corrupto y un grupo de delincuentes planean un atraco a una joyería. Si todo sale según lo previsto podrían hacerse ricos, pero la suerte también tiene que acompañarles, y puede que no esté de su parte el día del golpe."
     },
     {
-      "show_name": "Camelot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical / 1967 /6.6",
-      "start_time": "12:38",
-      "end_time": "15:44",
-      "episode_description": "El Rey Arturo ha establecido el reino perfecto en Camelot, donde gobierna junto a los caballeros de la Mesa Redonda. Pero las aspiraciones de su hijo ilegítimo, Mordred, pondrán en peligro todo lo que ha construido."
-    },
-    {
-      "show_name": "El ciclista",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/el-ciclista.webp",
-      "show_category": "The Racer",
-      "start_time": "15:44",
-      "end_time": "17:23",
-      "episode_description": "En lo que probablemente sea su último Tour de France, un ciclista de apoyo experimentado se ve obligado a enfrentar a sus demonios y a su deseo de saborear la victoria."
-    },
-    {
       "show_name": "El halcón y la flecha",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "The Flame and the Arrow",
-      "start_time": "17:23",
-      "end_time": "19:00",
+      "start_time": "05:18",
+      "end_time": "05:18",
       "episode_description": "Dardo, un personaje parecido a Robin Hood, utiliza una ruina romana en la Lombardía medieval como cuartel general junto a sus fieles seguidores. El objetivo es rebelarse contra sus tiránicos conquistadores."
     },
     {
-      "show_name": "Extraños en un tren",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/extraños-en-un-tren.webp",
-      "show_category": "Strangers on a Train",
+      "show_name": "El halcón y la flecha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Flame and the Arrow",
+      "start_time": "05:18",
+      "end_time": "06:49",
+      "episode_description": "Dardo, un personaje parecido a Robin Hood, utiliza una ruina romana en la Lombardía medieval como cuartel general junto a sus fieles seguidores. El objetivo es rebelarse contra sus tiránicos conquistadores."
+    },
+    {
+      "show_name": "Detective Dee y los cuatro reyes celestiales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Detective Dee: The Four Heavenly Kings",
+      "start_time": "06:49",
+      "end_time": "09:07",
+      "episode_description": "El detective Dee se ve obligado a defenderse de las acusaciones de la emperatriz Wu mientras investiga una ola de crímenes."
+    },
+    {
+      "show_name": "Tres padrinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "3 Godfathers",
+      "start_time": "09:07",
+      "end_time": "11:00",
+      "episode_description": "Tres bandidos que cruzan el desierto encuentran a una mujer embarazada que está sola. Da a luz un bebé en medio del páramo, pero ella muere a causa del parto, y los salteadores no tienen más remedio que hacerse cargo del pequeño."
+    },
+    {
+      "show_name": "El pueblo de los malditos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Village of the Damned",
+      "start_time": "11:00",
+      "end_time": "12:22",
+      "episode_description": "Todas las mujeres de un pueblo dan a luz a niños iguales que se comunican por telepatía. Un grupo de padres descubre que estos niños no son humanos e intentan acabar con este brote demoníaco."
+    },
+    {
+      "show_name": "La vuelta al mundo en 80 días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-vuelta-al-mundo-en-80-dias-1956_l_m.jpg",
+      "show_category": "Around the World in 80 Days",
+      "start_time": "12:22",
+      "end_time": "15:21",
+      "episode_description": "Phileas Fogg apuesta una gran suma de dinero a que es capaz de dar la vuelta al mundo en 80 días. En el disparatado viaje lo acompañará su fiel y ocurrente mayordomo Passepartout, además de un detective que piensa que Fogg es el culpable de"
+    },
+    {
+      "show_name": "Alma de valiente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Red Badge of Courage",
+      "start_time": "15:21",
+      "end_time": "16:35",
+      "episode_description": "Un joven recluta norteamericano se enfrenta al horror de la guerra de Secesión, debatiéndose entre sus ganas de luchar y las dudas sobre su propio coraje."
+    },
+    {
+      "show_name": "¿Qué fue de Baby Jane?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_que-fue-de-baby-jane-1962_l_m.jpg",
+      "show_category": "What Ever Happened to Baby Jane?",
+      "start_time": "16:35",
+      "end_time": "19:00",
+      "episode_description": "Dos estrellas infantiles de Hollywood ahora ya maduras, las hermanas Jane y Blanche, han tenido diferentes trayectorias artisticas. Mientras la primera al crecer fue olvidada por el publico, la segunda protagonizó una exitosa carrera."
+    },
+    {
+      "show_name": "Fuego",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 1969",
       "start_time": "19:00",
-      "end_time": "20:49",
-      "episode_description": "Un jugador de tenis en trámites de divorcio coincide en un tren con un desconocido que le propone intercambiar crímenes y asesinar a la mujer del deportista a cambio de que este mate a su padre."
+      "end_time": "20:23",
+      "episode_description": "Laura ama profundamente a Roberto y por eso se entrega en matrimonio. Pero el fuego que tiene en el cuerpo, una pasión sexual desenfrenada, la consume: no puede dejar de ceder a las tentaciones de la carne."
     },
     {
-      "show_name": "Otros pecados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/otros-pecados.webp",
-      "show_category": "Temporada 1 Episodio 2 - Las manos",
-      "start_time": "20:49",
-      "end_time": "21:38",
-      "episode_description": "Catalina Mayo es una notable tenista. Verónica, rigurosa entrenadora de ese deporte, la tomará como su discípula y la formará bajo sus estrictas reglas de entrenamiento, para que aprenda a sostener el éxito a cualquier precio."
+      "show_name": "La tentación desnuda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-tentacion-desnuda-1966_l_m.jpg",
+      "show_category": "Drama / 1966",
+      "start_time": "20:23",
+      "end_time": "22:15",
+      "episode_description": "Narra el encuentro de una voluptuosa mujer, víctima de un accidente náutico con un isleño ermitaño y religioso del río Paraná. Otros habitantes de las islas acecharán como moscas atraídos por la generosa anatomía de Sandra."
     },
     {
-      "show_name": "El Sargento negro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Sergeant Rutledge",
-      "start_time": "21:38",
-      "end_time": "23:34",
-      "episode_description": "Tras la guerra de Secesión en 1861 en los desolados territorios del estado de Arizona, algunos hombres de color son admitidos como soldados. El sargento Rutledge es uno de ellos y enfrenta una grave acusación en su pueblo."
-    },
-    {
-      "show_name": "Un rostro en la multitud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "A Face in the Crowd",
-      "start_time": "23:34",
+      "show_name": "La noche de la iguana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Night of the Iguana",
+      "start_time": "22:15",
       "end_time": "",
-      "episode_description": "Un reportero de radio convierte a un vagabundo en una poderosa estrella mediática."
+      "episode_description": "Un hombre intenta sobrevivir a su enfrentamiento con tres mujeres apasionantes en un México caluroso y primitivo. El sexo, el humor y la hipocresía están presentes en un filme basado en la obra teatral de Tennesee Williams."
     }
   ]
 }

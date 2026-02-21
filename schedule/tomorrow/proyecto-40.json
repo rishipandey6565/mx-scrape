@@ -1,26 +1,34 @@
 {
   "channel": "adn40",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Desde las cámaras",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/desde-las-cámaras.webp",
-      "show_category": "Político",
+      "show_name": "Ciudad 25",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "00:02",
+      "end_time": "00:15",
+      "episode_description": "Un programa de análisis y debate en tornor a los temas más destacados de la Ciudad de México. A través del espacio, el público podrá informarse al completo sobre la realidad local junto a expertos, periodista y reporteros."
+    },
+    {
+      "show_name": "La de 8",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-de-8_l_m.jpg",
+      "show_category": "Periodístico",
+      "start_time": "00:15",
       "end_time": "00:30",
-      "episode_description": "Edición que pone bajo la lupa el desempeño de los diputados y senadores de México a través del análisis y la reflexión a fondo de los experimentados analistas, con un toque informativo e imparcial."
+      "episode_description": "Tres periodistas debaten y pronostican cuál será la información que ocupará las primeras planas de los diarios al día siguiente."
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "03:58",
@@ -76,23 +84,55 @@
     },
     {
       "show_name": "Barras de ajuste",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/barras-de-ajuste.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
       "show_category": "Entretenimientos",
       "start_time": "03:58",
       "end_time": "04:02",
       "episode_description": "Barra de ajuste."
     },
     {
-      "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/rtc.webp",
-      "show_category": "Variedades",
+      "show_name": "Internet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_internet_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "04:02",
+      "end_time": "04:05",
+      "episode_description": "Vicente Fox entrevista a gente destacada del mundo de la ciencia, el arte y los negocios. El periodista logra construir un momentoíntimo con sus invitados para que hablen sobre la actualidad."
+    },
+    {
+      "show_name": "Social Media",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_social-media_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "04:05",
+      "end_time": "04:10",
+      "episode_description": "Lo último en historias de tendencias en plataformas de redes sociales."
+    },
+    {
+      "show_name": "Radio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "04:10",
+      "end_time": "04:15",
+      "episode_description": "Creado a petición de finanzas."
+    },
+    {
+      "show_name": "ADN40lab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "04:15",
+      "end_time": "04:20",
+      "episode_description": "Creado a petición de finanzas."
+    },
+    {
+      "show_name": "RTC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "04:20",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
       "end_time": "05:00",
@@ -100,203 +140,227 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Noticias para despertar con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Sarahí Uribe presenta un resumen completo de lo más importante del país y del mundo. El público podrá informarse con nálisis de expertos, alertas de tráfico, clima y todo lo que necesita para comenzar el día."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Noticias para despertar con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "06:02",
       "end_time": "06:30",
-      "episode_description": "Sarahí Uribe presenta un resumen completo de lo más importante del país y del mundo. El público podrá informarse con nálisis de expertos, alertas de tráfico, clima y todo lo que necesita para comenzar el día."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Noticias en tiempo real con Sarahí Uribe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "La periodista Sarahí Uribe recorre la ciudad para informar al público sobre diverso acontecimientos.A través de sus reportajes, se aborda tópicos sociales, políticos, económicos y culturales para acercar los hechos a la audiencia."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Así amanece con Leonardo Curzio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Lo mas relevante de la información actual y un panorama informativo del momento acompañado de entrevistas con los personajes y actores que marcan la agenda informativa."
+      "end_time": "07:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Noticias a ras de tierra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/noticias-a-ras-de-tierra.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "ADN Noticias con Brenda Peña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. El conductor Ricardo Raphael analiza los acontecimientos diarios junto a diversos expertos, para que el público se informe al completo."
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Brenda Peña presenta reportajes para que el público se informe al completo sobre la realidad."
     },
     {
-      "show_name": "Ya nadie está dormido con Javier Risco",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "ADN Noticias con Óscar Hernández",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "09:00",
       "end_time": "10:00",
-      "episode_description": "Informativo matutino que combina medios tradicionales y digitales para ofrecer noticias, análisis y una conexión directa con la audiencia. El programa acompaña a quienes ya están activos."
+      "episode_description": "El análisis de las noticias más importantes de la jornada con Óscar Hernández."
     },
     {
-      "show_name": "Tren del meme con Valentina Rodríguez, Viridiana Hernández y Hernán Hochstrasser",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entretenimientos",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Informativo que interactua con distintas plataformas consignando y analizando las cinco tendencias informativas del dia, a partir del genero digital de mayor distribucion y conversacion: el meme."
-    },
-    {
-      "show_name": "Las noticias contigo con Juan Pablo de Leo y Vaitiare Mateos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Las noticias contigo con Max Espejel y Brenda Peña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "El análisis de las noticias más importantes de la jornada con toda la información que necesitas saber con Juan Pablo de Leo y Vaitiare Mateos."
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Informacion, entretenimiento y cultura, llegan a ti, de la mano de Max Espejel y Brenda Peña."
     },
     {
-      "show_name": "ADN Noticias con Romina Ramos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "ADN Noticias con Max Espejel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Actualizacion informativa nacional e internacional del dia de la mano de Max Espejel."
+    },
+    {
+      "show_name": "Extra noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "Actualizacion informativa nacional e internacional del dia junto a la conductora Romina Ramos. A través del espacio, el público podrá informarse al completo sobre la realidad y los temas de agenda."
+      "episode_description": "Extra Noticias es un programa que explora y debate distintos temas sobre cultura pop; todo esto, desde la perspectiva de Horacio Vilalobos y todo su equipo, entre quienes se incluye a Pilar Boliver y Alejandro Brofft."
     },
     {
-      "show_name": "A quien corresponda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/a-quien-corresponda.webp",
+      "show_name": "Es tendencia con Brenda Peña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Jorge Garralda atiende denuncias sociales, generando un vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose a las comunidades latinas de Estados Unidos."
-    },
-    {
-      "show_name": "Es negocio con Carlos Mota",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
-      "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "Un programa que brinda la información financiera más destacada. El conductor Carlos Mota construye junto a diversos profesionales, un análisis crítico del acontecer económico para que el publico organcie sus finanzas de la mejor manera."
+      "episode_description": "Las noticias que son o seran tendencia en la agenda informativa. Una presentacion de los hechos y personas mas importantes del ambito nacional e internacional."
     },
     {
-      "show_name": "Es tendencia con José Luis Mora y Alejandra Molina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "ADN Noticias con Tania Gómez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Las noticias que son o serán tendencia en la agenda informativa. Una presentación de los hechos y personajes más importantes del ámbito nacional e internacional."
+      "episode_description": "El análisis de las noticias más importantes de la jornada con Tania Gómez."
     },
     {
-      "show_name": "ADN Noticias con Alejandro Brofft y Claudia Echeverry",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Es tendencia con Brenda Peña",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Alejandro Brofft y Claudia Echeverry abordan los acontecimientos diarios y complementan la información con reportajes y entrevistas."
+      "episode_description": "Las noticias que son o seran tendencia en la agenda informativa. Una presentacion de los hechos y personas mas importantes del ambito nacional e internacional."
     },
     {
-      "show_name": "ADN Noticias con Mara Durón y Yunué Cuevas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "Somos grandes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "El análisis de las noticias más destacadas de la jornada con la conducción de Mara Durón y Yunué Cuevas."
+      "episode_description": "Ninfa Salinas conduce un espacio con entrevistas y cápsulas a líderes y emprendedores de México. Con cada testimonio, los invitados demuestran cómo es que se puede salir adelante mediante las ideas, el esfuerzo y la dedicación."
     },
     {
-      "show_name": "Cotorreando la noticia con Juan Lecanda y Carlos Trillo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
+      "show_name": "ADN de la historia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_adn-de-la-historia_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "Un espacio con las últimas noticias internacionales y mexicanas llenas de parodias de personajes, opiniones duras y una visión fresca de la información con humor."
+      "episode_description": "Isabel, Benito y Alejandro tienen una conversación sobre la revolución mexicana. Cómo era nuestro país en la época de las Adelitas; cuáles eran los ejércitos revolucionarios, su contexto, sus campanas."
     },
     {
-      "show_name": "Noticias en tiempo real con Juan Manuel Jiménez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "ADN Noticias con Tania Gómez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "El análisis de las noticias más importantes de tu ciudad en tiempo real junto a Juan Manuel Jiménez."
+      "episode_description": "El análisis de las noticias más importantes de la jornada con Tania Gómez."
     },
     {
-      "show_name": "Ciudad desnuda con Yunue Cuevas y Mara Durón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
+      "show_name": "Extra noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Una revista informativa que destaca el lado humano, impactante y asombroso de la noticia. Las conductores yunue Cuevas y Mara Durón son las encargadas de informar al público de forma distendida y fresca."
+      "episode_description": "Extra Noticias es un programa que explora y debate distintos temas sobre cultura pop; todo esto, desde la perspectiva de Horacio Vilalobos y todo su equipo, entre quienes se incluye a Pilar Boliver y Alejandro Brofft."
     },
     {
-      "show_name": "Noticias en Red con Lucy Bravo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Es noticia con Max Espejel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Un espacio que aborda las noticias más relevantes de la jornada a través de análisis e informes."
+      "episode_description": "La información más destacada de México y el mundo, presentada a través de los personajes que son noticia."
     },
     {
-      "show_name": "Es noticia con Hannia Novell",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/es-noticia-con-hannia-novell.webp",
-      "show_category": "Noticiero",
+      "show_name": "ADN deportes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-adn-deportes_l_m.jpg",
+      "show_category": "ADN deportes",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Las informaciones más destacadas al momento, con un recorrido por los acontecimientos que han revolucionado al mundo, desde una óptica imparcial y objetiva."
+      "episode_description": "Te traemos toda la información del campo deportivo, donde cada disciplina se siente en la sangre y la pasión de los jugadores conquista cada campeonato."
     },
     {
-      "show_name": "Noticias república MX",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
+      "show_name": "No hay lugar común",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_no-hay-lugar-comun_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "22:00",
+      "end_time": "22:15",
+      "episode_description": "Espacio que te presenta la postura de personalidades que utilizan esta ventana para exponer sus opiniones y puntos de vista sobre diversos temas."
+    },
+    {
+      "show_name": "Ahora, futuro México y el mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ahora-futuro-mexico-y-el-mundo-5_l_m.jpg",
+      "show_category": "Periodístico",
+      "start_time": "22:15",
       "end_time": "22:30",
-      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias de México y el mudno.El público podrá informarse sobre los acontecimientos diarios a través de los personajes que son notici y junto a un equipo de periodistas."
+      "episode_description": "Programa de opinión y debate sobre los temas más actuales e importantes, no solo en el ámbito local, si no también del ámbito internacional."
     },
     {
-      "show_name": "Mesa República MX",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "Entrevista con Sarmiento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_entrevista-con-sarmiento_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "22:30",
+      "end_time": "22:45",
+      "episode_description": "Sergio Sarmiento entrevista a políticos, escritores, economistas, intelectuales, artistas y en general a los protagonistas de los principales acontecimientos del país. Todas las ideas tienen lugar en este espacio."
+    },
+    {
+      "show_name": "Punto de fuga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "22:45",
       "end_time": "23:00",
-      "episode_description": "La información más destacada de México y el mundo."
+      "episode_description": "Un espacio de conversación para indagar sobre temas de historia y filosofía. Diversos expertos ofrecen sus conocimientos y opinión para aportarle valor a la discusión."
     },
     {
-      "show_name": "Todo personal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/proyecto-40/tomorrow/todo-personal.webp",
-      "show_category": "Político",
+      "show_name": "Personajes geniales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "En el poder y en la política, absolutamente todo es personal. Acá encontrarás la presentación de la coyuntura que se genera en los temas relacionados con la agenda política nacional, el narcotráfico y la seguridad."
+      "end_time": "23:15",
+      "episode_description": "Un espacio donde abordamos los aportes de distintos personajes emblemáticos a lo largo de la historia de la humanidad."
     },
     {
-      "show_name": "Cotorreando la noticia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Comedia",
+      "show_name": "Su voz, su tiempo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
+      "start_time": "23:15",
+      "end_time": "23:30",
+      "episode_description": "Programa de entrevistas sobre la importancia de la participacion politica de las mujeres y sus repercusiones en la sociedad. Un programa creado para destacar y respaldar el liderazgo femenino en mexico."
+    },
+    {
+      "show_name": "México bravo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-mexico-bravo_l_m.jpg",
+      "show_category": "México bravo",
       "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Un espacio con las últimas noticias internacionales y mexicanas llenas de parodias de personajes, opiniones duras y una visión fresca de la información con humor."
+      "episode_description": "Espacio abierto al aprendizaje de un espectáculo arraigado en las tradiciones mexicanas, por lo que muchos de sus contenidos estarán vinculados a la cultura, la tradición y todo aquello que rodea a las fiestas de los toros."
     }
   ]
 }
