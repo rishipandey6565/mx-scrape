@@ -1,36 +1,12 @@
 {
   "channel": "AYM Sports",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Lucha libre",
+      "show_name": "Kickboxing",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Campeones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Campeones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El pierrotazo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -39,6 +15,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El pierrotazo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -75,42 +59,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "IWRG: Platicando con",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Beísbol Serie de las Américas",
+      "show_name": "Copa Billie Jean King 2025",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "14:30",
+      "start_time": "13:00",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Baloncesto Mexicano LNBP",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
+      "start_time": "16:00",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "IWRG: Platicando con",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Beísbol Serie de las Américas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
+      "start_time": "18:00",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -123,27 +99,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Mexicano Liga Expansión",
+      "show_name": "Boxeo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "21:00",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Boxeo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Kickboxing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "02:00",
+      "start_time": "22:00",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

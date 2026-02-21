@@ -1,93 +1,101 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
-    {
-      "show_name": "Irene, Yo Y Mi Otro Yo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Freaks",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:56",
-      "end_time": "03:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Recetas de amor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:44",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Love in the Forecast",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rey Arturo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:07",
-      "end_time": "11:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Forever my girl",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:34",
-      "end_time": "13:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un Amor Inquebrantable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/today/un-amor-inquebrantable.webp",
-      "show_category": "Biografía",
-      "start_time": "13:39",
-      "end_time": "15:58",
-      "episode_description": "Basada en la historia real e inspiradora del amor inquebrantable de una madre ante las probabilidades imposibles. Cuando el hijo adoptivo de Joyce Smith (Chrissy Metz), John (Marcel Ruiz) cae a través de un lago helado de Missouri, toda esperanza parece perdida. Pero mientras el cuerpo de John yace sin vida, Joyce se niega a rendirse. Su firme creencia inspira a los que la rodean a seguir orando para la recuperación de John, incluso ante la historia de cada caso y la predicción científica."
-    },
-    {
-      "show_name": "Sid & Judy recuerdo de una l",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:58",
-      "end_time": "17:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jugada perfecta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:58",
-      "end_time": "19:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Soledad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:58",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
     {
       "show_name": "La última palabra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
+      "start_time": "00:00",
       "end_time": "00:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pequeña Miss Sunshine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:07",
+      "end_time": "02:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dolor y Gloria",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/dolor_y_gloria.jpg",
+      "show_category": "Drama",
+      "start_time": "02:08",
+      "end_time": "04:05",
+      "episode_description": "Narra una serie de reencuentros de Salvador Mallo (Antonio Banderas), un director de cine en su ocaso. Algunos de ellos físicos, otros recordados: su infancia en los años 60, cuando emigró con sus padres a Paterna, un pueblo de Valencia en busca de prosperidad, el primer deseo, su primer amor adulto ya en el Madrid de los 80, el dolor de la ruptura de este amor cuando todavía estaba vivo y palpitante, la escritura como única terapia para olvidar lo inolvidable, el temprano descubrimiento del cine y el vacío, el inconmensurable vacío ante la imposibilidad de seguir rodando. \"Dolor y Gloria\" habla de la creación, de la dificultad de separarla de la propia vida y de las pasiones que le dan sentido y esperanza. En la recuperación de su pasado, Salvador encuentra la necesidad urgente de narrarlo, y en esa necesidad, encuentra también su salvación."
+    },
+    {
+      "show_name": "Hitchcock El Maestro del Sus",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:05",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Qué te juegas?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La gran aventura de Los Lunnis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:25",
+      "end_time": "11:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El discípulo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:04",
+      "end_time": "13:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blanca Nieves y los tres Chi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:25",
+      "end_time": "15:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Moulin Rouge, amor en rojo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:40",
+      "end_time": "18:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cats",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:01",
+      "end_time": "20:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "500 días con ella",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:05",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Otra oportunidad para amar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "00:05",
       "episode_description": ""
     }
   ]

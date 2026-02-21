@@ -1,125 +1,109 @@
 {
   "channel": "Golden Premier",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
-    {
-      "show_name": "El infiltrado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Botón de alarma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:08",
-      "end_time": "01:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Z, La Ciudad Perdida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/z-la-ciudad-perdida.webp",
-      "show_category": "Acción",
-      "start_time": "01:46",
-      "end_time": "04:08",
-      "episode_description": "Cuenta la increíble historia real de un explorador británico, Percy Fawcett (Charlie Hunnam), que viaja al Amazonas en los albores del siglo XX y descubre evidencias de una civilización avanzada previamente desconocida que alguna vez habitó esa región. A pesar de ser ridiculizado por el establecimiento de científicos que consideraba a los indígenas como \"salvajes\", Fawcett – apoyado por su devota esposa Nina Fawcett (Sienna Miller), su hijo Jack Fawcett (Tom Holland) y su ayudante de campo Henry Costin (Robert Pattinson) – regresa una vez más a su amada selva en un intento para probar su teoría, culminando en su misteriosa desaparición en 1925."
-    },
-    {
-      "show_name": "Los caballeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:08",
-      "end_time": "06:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un papá pirata",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:02",
-      "end_time": "07:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Placa de Acero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/placa-de-acero.webp",
-      "show_category": "Acción",
-      "start_time": "07:42",
-      "end_time": "09:26",
-      "episode_description": "Roberto S. Recto (Alfonso Dosal), oficial ejemplar recién egresado de la academia se une a la fuerza de policía y es asignado con su nuevo compañero, Adrián Vásquez (Adrián Vázquez), patrullero corrupto y holgazán que ha cedido su alma a la corrupción por creer que no existe otro camino posible en este sistema. Juntos tendrán que ir aprendiendo uno del otro para lograr tener la fuerza necesaria para triunfar sobre el crimen organizado y así traer justicia y salvación a la Ciudad de México."
-    },
-    {
-      "show_name": "2067",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:26",
-      "end_time": "11:23",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Precio del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/el-precio-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "11:23",
-      "end_time": "13:15",
-      "episode_description": "En un futuro donde el tiempo es literalmente dinero y la vejez se detiene a los 25, la única forma de mantenerse con vida es ganar, robar o heredar más tiempo. Pero cuando un pobre de clase obrera, Will Salas (Justin Timberlake) es acusado injustamente de asesinato, el junto con la ayuda de una bella chica (Amanda Seyfried) deberán encontrar la manera de acabar con el corrupto sistema antes que sus relojes se detengan."
-    },
-    {
-      "show_name": "Ad Astra: Hacia las Estrellas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/ad-astra-hacia-las-estrellas.webp",
-      "show_category": "Aventura",
-      "start_time": "13:15",
-      "end_time": "15:20",
-      "episode_description": "El astronauta Roy McBride (Brad Pitt) viaja a los bordes exteriores del sistema solar para encontrar a su padre desaparecido y descubrir un misterio que amenaza la supervivencia de nuestro planeta. Su viaje dejará al descubierto secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos."
-    },
-    {
-      "show_name": "En tiempo de brujas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:20",
-      "end_time": "16:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El caza terroristas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:57",
-      "end_time": "18:33",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Testigo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:33",
-      "end_time": "20:27",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Instinto predador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:27",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Looking Glass",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/tomorrow/looking-glass.webp",
-      "show_category": "Suspenso",
-      "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Después de perder a su hija en un trágico accidente, la pareja destrozada Ray (Nicolas Cage) y Maggie (Robin Tunney) compran un motel en medio de la nada con la esperanza de comenzar una nueva vida. Pero Ray comienza a notar cosas extrañas y decide comenzar a reconstruir la historia de un extraño asesinato asociado con el motel. Un día buscando en el sótano, Ray descubre un pasadizo, que conduce a un espejo de dos vías en una de las habitaciones. A medida que se obsesiona con las actividades inusuales que ocurren más allá del espejo, su matrimonio, su cordura y su propia vida se ven amenazados."
-    },
     {
       "show_name": "El cofre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
+      "start_time": "00:00",
       "end_time": "01:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Perro come perro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:18",
+      "end_time": "02:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ad Astra: Hacia las Estrellas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/ad_astra_hacia_las_estrellas.jpg",
+      "show_category": "Aventura",
+      "start_time": "02:53",
+      "end_time": "04:58",
+      "episode_description": "El astronauta Roy McBride (Brad Pitt) viaja a los bordes exteriores del sistema solar para encontrar a su padre desaparecido y descubrir un misterio que amenaza la supervivencia de nuestro planeta. Su viaje dejará al descubierto secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos."
+    },
+    {
+      "show_name": "Divina confusión",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:58",
+      "end_time": "06:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zapatero a tus zapatos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:46",
+      "end_time": "08:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Primera llegada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:26",
+      "end_time": "09:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El vendedor chino",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:59",
+      "end_time": "11:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrapen al Gringo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/atrapen_al_gringo.jpg",
+      "show_category": "",
+      "start_time": "11:51",
+      "end_time": "13:29",
+      "episode_description": "Encarcelado por las autoridades mexicanas por haber robado dinero de un jefe de la mafia de San Diego, Driver (Mel Gibson), es enviado a una prisión de mala muerte donde conocerá los peligros de que se le conoce como “El Pueblito”. Este no es un lugar para cualquiera y mucho menos para un extranjero, a menos que reciba la ayuda de alguien como el niño de 10 años, quien a su vez necesitará la ayuda de Driver."
+    },
+    {
+      "show_name": "Sin Límites",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_limites.jpg",
+      "show_category": "Misterio",
+      "start_time": "13:29",
+      "end_time": "15:16",
+      "episode_description": "Cuando un escritor que toma el riesgo de consumir una droga experimental que hace que él sea capaz de utilizar el 100 por ciento de su cerebro. Este hombre evoluciona en una versión perfecta de sí mismo, forzando a los hombres más corruptos que él en asesinos. El escritor sin trabajo Eddie Morra (Bradley Cooper) y cuya novia Lindy (Abbie Cornish) lo abandona por no verle futuro alguno. Todo esto se desvanece cuando un día, su ex hermanastro le da una muestra gratis de NZT – una droga nueva y misteriosa. Ahora tras probar el NZT, Eddie puede leer, escuchar, ver y analizar todo a la vez en un pequeño instante que hacen que nazca un nuevo Eddie, un hombre súper exitoso que llama la atención del gurú de los negocios Carl Van Loon (Robert De Niro), quien ve en él una máquina de hacer millones. Pero no todo será fácil para Eddie ya que deberá enfrentar los efectos contrarios que esta droga ocasionan."
+    },
+    {
+      "show_name": "La gran apuesta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:16",
+      "end_time": "17:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hombre en llamas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:28",
+      "end_time": "19:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Resistencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:56",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los dueños de la noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

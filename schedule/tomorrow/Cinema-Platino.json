@@ -1,102 +1,110 @@
 {
   "channel": "Cinema Platino",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
-      "show_name": "Vivarium",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/vivarium.webp",
-      "show_category": "Misterio",
+      "show_name": "Vikingos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/vikingos.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "00:37",
-      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
+      "end_time": "00:49",
+      "episode_description": "Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga."
     },
     {
-      "show_name": "Un Final Diferente",
+      "show_name": "La Cura Siniestra",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_cura_siniestra.jpg",
+      "show_category": "Terror",
+      "start_time": "00:49",
+      "end_time": "03:18",
+      "episode_description": "Un ambicioso joven es enviado para recuperar el gerente de su empresa de un misterioso centro de bienestar localizado en los Alpes Suizos. Pronto sospecha que los tratamientos milagrosos del balneario no son lo que parecen. Cuando comienza a desmarañar sus secretos oscuros, su cordura es puesta a prueba, siendo diagnosticado con la misma curiosa enfermedad que mantiene a todos los huéspedes en el lugar esperando la anhelada cura."
+    },
+    {
+      "show_name": "Assassin's Creed",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/assassin_s_creed.jpg",
+      "show_category": "Acción",
+      "start_time": "03:18",
+      "end_time": "05:10",
+      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
+    },
+    {
+      "show_name": "Sismo Magnitud 9.5",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:37",
-      "end_time": "02:42",
+      "start_time": "05:10",
+      "end_time": "07:08",
       "episode_description": ""
     },
     {
-      "show_name": "Aprendices Fuera de Línea",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/aprendices-fuera-de-línea.webp",
-      "show_category": "Comedia",
-      "start_time": "02:42",
-      "end_time": "04:46",
-      "episode_description": "(The Internship) Nick (Owen Wilson) y Billy (Vince Vaughn) son dos vencedores que por décadas han trabajado sin tener que preocuparse por saber de tecnología e internet, todo esto está por cambiar cuando se dan cuenta que la empresa para la cual han trabajado por años, se da a la quiebra. Sin trabajo, no les queda más que intentar conseguir trabajo en google, pero la tarea no es fácil ya que la competencia está repleta de jóvenes con gran talento que al igual que ellos desean trabajar para el gigante motor de búsqueda de internet."
+      "show_name": "Sin Tiempo Para Morir",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_tiempo_para_morir.jpg",
+      "show_category": "Acción",
+      "start_time": "07:08",
+      "end_time": "09:55",
+      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
     },
     {
-      "show_name": "El Mayordomo de la Casa Blanca",
+      "show_name": "Los caballeros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:46",
-      "end_time": "07:02",
+      "start_time": "09:55",
+      "end_time": "11:55",
       "episode_description": ""
     },
     {
-      "show_name": "Primicia mortal",
+      "show_name": "Un viaje extraordinario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:02",
-      "end_time": "09:05",
+      "start_time": "11:55",
+      "end_time": "13:41",
       "episode_description": ""
     },
     {
-      "show_name": "Como la vida misma",
+      "show_name": "Robin Hood",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:05",
-      "end_time": "11:04",
+      "start_time": "13:41",
+      "end_time": "15:39",
       "episode_description": ""
     },
     {
-      "show_name": "Maremoto",
+      "show_name": "Sentimientos que curan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:04",
-      "end_time": "12:53",
+      "start_time": "15:39",
+      "end_time": "17:12",
       "episode_description": ""
     },
     {
-      "show_name": "Ni en tus sueños",
+      "show_name": "Contrato para matar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:53",
-      "end_time": "15:01",
+      "start_time": "17:12",
+      "end_time": "18:49",
       "episode_description": ""
     },
     {
-      "show_name": "Un Caminio a Casa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:01",
-      "end_time": "17:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Secretos de una Obsesión",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:06",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El escándalo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:54",
-      "episode_description": ""
+      "show_name": "Mi ex es un Espía",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_ex_es_un_espia.jpg",
+      "show_category": "Acción",
+      "start_time": "18:49",
+      "end_time": "20:53",
+      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
     },
     {
       "show_name": "Vikingos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/vikingos.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/vikingos.jpg",
       "show_category": "Acción",
-      "start_time": "20:54",
-      "end_time": "00:49",
+      "start_time": "20:53",
+      "end_time": "23:59",
       "episode_description": "Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga."
+    },
+    {
+      "show_name": "Amor a la Italiana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:59",
+      "end_time": "01:37",
+      "episode_description": ""
     }
   ]
 }

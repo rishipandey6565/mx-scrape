@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 16",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
-      "show_name": "Athletic Club de Bilbao vs. Elc",
+      "show_name": "Real Betis vs. Rayo Vallecano",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RCD Mallorca vs. Real Betis",
+      "show_name": "Athletic Club de Bilbao vs. Elc",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Levante vs. Villarreal",
+      "show_name": "Real Sociedad vs. Real Oviedo",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Athletic Club de Bilbao vs. Elc",
+      "show_name": "Real Betis vs. Rayo Vallecano",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:45",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Real Sociedad vs. Real Oviedo",
+      "show_name": "Getafe vs. Sevilla\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -67,12 +67,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Real Betis vs. Rayo Vallecano",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Barcelona Vs. Levante",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_levante.png",
+      "show_category": "Deporte",
       "start_time": "09:15",
       "end_time": "11:15",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Camp Nou en la ciudad de Barcelona, España. Se enfrentan los equipos Fútbol Club Barcelona de Barcelona versus Levante Unión Deportiva, S.A.D. de Valencia."
     },
     {
       "show_name": "Previo",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "CA Osasuna vs. Real Madrid\nEn Vivo",
+      "show_name": "Celta de Vigo vs. RCD Mallorca",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Atlético de Madrid vs. RCD Espa",
+      "show_name": "Villarreal vs. Valencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Real Sociedad vs. Real Oviedo",
+      "show_name": "Getafe vs. Sevilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -115,23 +115,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Osasuna Vs. Real Madrid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/osasuna-vs-real-madrid.webp",
+      "show_name": "Barcelona Vs. Levante",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_levante.png",
       "show_category": "Deporte",
       "start_time": "18:00",
       "end_time": "20:00",
+      "episode_description": "Desde el estadio Camp Nou en la ciudad de Barcelona, España. Se enfrentan los equipos Fútbol Club Barcelona de Barcelona versus Levante Unión Deportiva, S.A.D. de Valencia."
+    },
+    {
+      "show_name": "Osasuna Vs. Real Madrid",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/osasuna_vs_real_madrid.png",
+      "show_category": "Deporte",
+      "start_time": "20:00",
+      "end_time": "22:00",
       "episode_description": "Desde el estadio El Sadar en la ciudad de Pamplona, Navarra, España, se enfrentan los equipos Club Atlético Osasuna versus el Real Madrid Club de Fútbol."
     },
     {
-      "show_name": "Atlético de Madrid vs. RCD Espa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Betis vs. Rayo Vallecano",
+      "show_name": "Villarreal vs. Valencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

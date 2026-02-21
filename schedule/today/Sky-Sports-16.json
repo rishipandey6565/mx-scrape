@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 16",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Real Oviedo vs. Athletic Club d",
+      "show_name": "Athletic Club de Bilbao vs. Elc",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Levante vs. Villarreal",
+      "show_name": "RCD Mallorca vs. Real Betis",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Getafe vs. Villarreal",
+      "show_name": "Levante vs. Villarreal",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -31,51 +31,75 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "05:45",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "Espanyol vs. Celta de Vigo",
+      "show_name": "Athletic Club de Bilbao vs. Elc",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sevilla vs. Deportivo Alavés",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Elche vs. CA Osasuna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rayo Vallecano vs. Atlético de",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:45",
-      "end_time": "13:45",
+      "start_time": "04:45",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Real Sociedad vs. Real Oviedo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Real Betis vs. Rayo Vallecano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CA Osasuna vs. Real Madrid\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Athletic Club de Bilbao vs. Elc",
+      "show_name": "Atlético de Madrid vs. RCD Espa",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -83,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Getafe vs. Villarreal",
+      "show_name": "Real Sociedad vs. Real Oviedo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -91,15 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Athletic Club de Bilbao vs. Rea",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Osasuna Vs. Real Madrid",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/osasuna_vs_real_madrid.png",
+      "show_category": "Deporte",
       "start_time": "18:00",
       "end_time": "20:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio El Sadar en la ciudad de Pamplona, Navarra, España, se enfrentan los equipos Club Atlético Osasuna versus el Real Madrid Club de Fútbol."
     },
     {
-      "show_name": "Atlético de Madrid vs. FC Barce",
+      "show_name": "Atlético de Madrid vs. RCD Espa",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -107,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Athletic Club de Bilbao vs. Elc",
+      "show_name": "Real Betis vs. Rayo Vallecano",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

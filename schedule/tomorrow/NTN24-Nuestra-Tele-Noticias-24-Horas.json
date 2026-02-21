@@ -1,6 +1,6 @@
 {
   "channel": "NTN24 (Nuestra Tele Noticias 24 Horas)",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
       "show_name": "Informativo NTN",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Tarde",
+      "show_name": "La tarde, fin de semana",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -91,26 +91,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Climax",
+      "show_name": "Poder Latino",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
       "show_name": "La Noche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "CST",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -131,10 +123,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Visión Global",
+      "show_name": "Climax",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CST",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -231,7 +231,7 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "00:01",
       "episode_description": ""
     }
   ]

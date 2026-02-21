@@ -1,9 +1,17 @@
 {
   "channel": "TV Chile",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
-      "show_name": "Aquí te las traigo Peter",
+      "show_name": "Había una Vez",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +19,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:45",
-      "episode_description": ""
-    },
-    {
       "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:45",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rejappening con ja",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hora 25",
+      "show_name": "Hacedor de Hambre",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Aquí te las traigo Peter",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -67,31 +75,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Había una Vez",
+      "show_name": "Hacedor de Hambre",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:45",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:00",
+      "start_time": "07:30",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "08:00",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
       "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hacedor de Hambre",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -115,18 +131,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Programa Pagado",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "17:40",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:40",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rejappening con ja",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Romané",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -135,27 +175,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:35",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "Humor de selección",
+      "show_name": "Rejappening con ja",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:35",
+      "start_time": "19:30",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destinos Turísticos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
       "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:45",
+      "end_time": "22:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquí te las traigo Peter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:15",
       "end_time": "23:15",
       "episode_description": ""
     },
     {
-      "show_name": "Frutos del País",
+      "show_name": "El especialista responde",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:15",
@@ -163,11 +219,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí te las traigo Peter",
+      "show_name": "Romané",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:45",
-      "end_time": "00:45",
+      "end_time": "01:45",
       "episode_description": ""
     }
   ]
