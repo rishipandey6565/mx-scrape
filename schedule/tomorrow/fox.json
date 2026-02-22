@@ -1,142 +1,126 @@
 {
   "channel": "Star Channel",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "Pobres criaturas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Poor Things",
-      "start_time": "01:11",
-      "end_time": "03:49",
-      "episode_description": "El Dr. Godwin resucita a la bella Bella Baxter para que aprenda a su lado. Sin embargo, ella huye en compañía de un abogado porque quiere recorrer el mundo, sedienta de deseo de igualdad y libertad."
+      "show_name": "Érase una vez en Queens",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Boogie",
+      "start_time": "01:18",
+      "end_time": "02:59",
+      "episode_description": "Boogie, un joven chino-estadounidense que vive en el barrio neoyorkino de Queens, lucha por equilibrar las expectativas de su familia inmigrante con sus propios sueños de convertirse en un jugador de la NBA."
     },
     {
-      "show_name": "La favorita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/la-favorita.webp",
-      "show_category": "The Favourite",
-      "start_time": "03:49",
-      "end_time": "05:49",
-      "episode_description": "Inglaterra está en guerra contra Francia. La debilitada reina ocupa el trono, pero es su amiga Lady Sarah quien gobierna en la práctica. La aparente armonía del palacio se verá interrumpida con la llegada de Abigail, una nueva sirvienta."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
-      "start_time": "05:49",
-      "end_time": "05:49",
-      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
+      "show_name": "Doom: aniquilación",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_doom-aniquilacion-2019-1_l_m.jpg",
+      "show_category": "Doom: Annihilation",
+      "start_time": "02:59",
+      "end_time": "04:40",
+      "episode_description": "Sigue a un grupo de marines espaciales que responden a una llamada de socorro desde una luna de Marte. Cuando llegan allí, descubren que criaturas demoníacas han tomado el control de la zona y amenazan con llevar el Infierno a la Tierra."
     },
     {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
-      "start_time": "05:49",
-      "end_time": "06:12",
-      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 7 - My New Role",
-      "start_time": "06:12",
-      "end_time": "07:00",
-      "episode_description": "El doctor Cox tiene problemas para adaptarse a su nuevo trabajo como Jefe de Medicina, y Carla se mete en problemas con las otras enfermeras debido a su relación con los médicos."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
-      "start_time": "07:00",
-      "end_time": "07:28",
-      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
-      "start_time": "07:28",
-      "end_time": "07:54",
-      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 7 - My New Role",
-      "start_time": "07:54",
-      "end_time": "08:21",
-      "episode_description": "El doctor Cox tiene problemas para adaptarse a su nuevo trabajo como Jefe de Medicina, y Carla se mete en problemas con las otras enfermeras debido a su relación con los médicos."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 8 Episodio 10 - My Comedy Show",
-      "start_time": "08:21",
-      "end_time": "08:53",
+      "start_time": "04:40",
+      "end_time": "05:02",
       "episode_description": "J.D. y Turk dirigen el show de comedia de los internos, pero se mortifican al descubrir que el chiste mas grande es sobre ellos. Elliot intenta que Denise pase mas tiempo con los internos."
     },
     {
-      "show_name": "Sin rodeos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/sin-rodeos.webp",
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 12 - Their Story II",
+      "start_time": "05:02",
+      "end_time": "05:02",
+      "episode_description": "Turk está celoso de J.D. por su nuevo puesto de poder en Sacred Heart. Mientras tanto, algunos de los internos comparten sus historias y experiencias."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 12 - Their Story II",
+      "start_time": "05:02",
+      "end_time": "07:00",
+      "episode_description": "Turk está celoso de J.D. por su nuevo puesto de poder en Sacred Heart. Mientras tanto, algunos de los internos comparten sus historias y experiencias."
+    },
+    {
+      "show_name": "Miamor perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_miamor-perdido-2018_l_m.jpg",
       "show_category": "Comedia / 2018",
-      "start_time": "08:53",
-      "end_time": "10:35",
-      "episode_description": "Paz tiene una vida aparentemente perfecta. Con trabajo, pareja, amigas, pero algo falla. Se siente angustiada y agobiada, hay algo que no funciona. En su desesperación acudirá a la consulta de un sanador hindú que le dará una poción mágica."
+      "start_time": "07:00",
+      "end_time": "09:18",
+      "episode_description": "Mario y Olivia se conocen y se enamoran instantáneamente. Sin embargo, con el tiempo, se separan. En medio del dolor, el gato de ambos escapa y con él desaparece el amor."
     },
     {
-      "show_name": "Guardianes de alta mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/guardianes-de-alta-mar.webp",
-      "show_category": "The Guardian",
-      "start_time": "10:35",
-      "end_time": "13:28",
-      "episode_description": "A un guardacostas aún consternado por la muerte de sus compañeros durante una misión, se le encomienda entrenar a la próxima generación de rescatistas. Allí conoce a Jake, a quien le enseñará el verdadero significado del heroísmo."
+      "show_name": "Australia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_australia-2008_l_m.jpg",
+      "show_category": "Drama / 2008 /6.6",
+      "start_time": "09:18",
+      "end_time": "12:49",
+      "episode_description": "Durante la 2da Guerra Mundial, una aristócrata inglesa intenta, con la ayuda de un ganadero local, salvar el ganado que heredó en Australia. Juntos emprenden un peligroso viaje hasta Darwin, que luego es invadida por Japón."
     },
     {
-      "show_name": "12 desafíos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/12-desafíos.webp",
-      "show_category": "12 Rounds",
-      "start_time": "13:28",
-      "end_time": "15:36",
-      "episode_description": "Danny Fisher, un oficial de la policía, detiene al ladrón Miles Jackson cuando intenta escapar con un multimillonario botín. Después de fugarse de prisión, el criminal busca su venganza y somete a Danny a una serie de desafíos."
+      "show_name": "S.O.S.: Familia en apuros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_s-o-s-familia-en-apuros-2012_l_m.jpg",
+      "show_category": "Parental Guidance",
+      "start_time": "12:49",
+      "end_time": "14:51",
+      "episode_description": "¡Abuelos al poder! Los niños de la familia Simmons quedan a cargo de sus abuelos maternos por una semana completa. Aunque al principio no se llevan bien, las situaciones más alocadas los convierten en los mayores cómplices."
     },
     {
-      "show_name": "¿Por qué él?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/por-qué-él.webp",
-      "show_category": "Why Him?",
-      "start_time": "15:36",
-      "end_time": "17:51",
-      "episode_description": "Una reunión de vacaciones amenaza con salir de los rieles cuando Ned Fleming se da cuenta de que el novio millonario de su hija está a punto de pedirle casamiento."
-    },
-    {
-      "show_name": "La batalla de los sexos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/la-batalla-de-los-sexos.webp",
-      "show_category": "Battle of the Sexes",
-      "start_time": "17:51",
-      "end_time": "20:10",
-      "episode_description": "El partido de tenis de 1973 entre la campeona mundial femenina Billie Jean King y el ex campeón masculino y buscavidas serial Bobby Riggs se convirtió en uno de los eventos deportivos televisados más vistos de todos los tiempos."
+      "show_name": "Sí, acepto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_si-acepto-2018_l_m.jpg",
+      "show_category": "For Today I Do",
+      "start_time": "14:51",
+      "end_time": "16:36",
+      "episode_description": "La ocupada chocolatera Charlotte ha dejado plantado al mecánico de helicópteros James dos veces. Ahora ella necesitará probarle que realmente quiere casarse con él."
     },
     {
       "show_name": "Viaje salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/viaje-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_viaje-salvaje-2017_l_m.jpg",
       "show_category": "Snatched",
-      "start_time": "20:10",
-      "end_time": "22:00",
+      "start_time": "16:36",
+      "end_time": "18:25",
       "episode_description": "Emily convence a su madre para ir a un viaje juntas a Ecuador. Pero una vez allí ambas mujeres son secuestradas, comenzando una aventura salvaje en el que su vínculo como madre e hija se fortalecerá mientras intentan escapar."
     },
     {
-      "show_name": "American Horror Stories",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 3 - Tenia",
-      "start_time": "22:00",
-      "end_time": "22:53",
-      "episode_description": "Una modelo prometedora no se detendrá ante nada en su búsqueda del éxito, pero lo conseguirá a costa de un hambre insaciable."
+      "show_name": "El valet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "The Valet",
+      "start_time": "18:25",
+      "end_time": "20:55",
+      "episode_description": "El valet Antonio es reclutado para actuar como el nuevo novio de la estrella mundial de cine Olivia. Esta artimaña lo empuja al centro de atención y a un caos inesperado."
     },
     {
-      "show_name": "El valet",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Valet",
-      "start_time": "22:53",
+      "show_name": "Los Simpson",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s07e18-the-violence-died_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 18 - El día que murió la violencia",
+      "start_time": "20:55",
+      "end_time": "21:26",
+      "episode_description": "Bart y Lisa ayudan a un vagabundo que dice haber inventado el concepto de la violencia en los dibujos animados."
+    },
+    {
+      "show_name": "Los Simpson",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s07e19-fish-called-selma_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 19 - El sueño de amor de Selma",
+      "start_time": "21:26",
+      "end_time": "22:00",
+      "episode_description": "La estrella de cine Troy McClure comienza a salir con Selma en un intento de silenciar los rumores extraños sobre su vida personal y resucitar su carrera."
+    },
+    {
+      "show_name": "Depredador: la presa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Prey",
+      "start_time": "22:00",
+      "end_time": "23:53",
+      "episode_description": "Naru, una hábil guerrera comanche criada por los mejores cazadores de las Grandes Llanuras en el siglo XVIII, lucha por proteger a su tribu de uno de los primeros depredadores altamente evolucionados en aterrizar en la Tierra."
+    },
+    {
+      "show_name": "Pobres criaturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Poor Things",
+      "start_time": "23:53",
       "end_time": "",
-      "episode_description": "El valet Antonio es reclutado para actuar como el nuevo novio de la estrella mundial de cine Olivia. Esta artimaña lo empuja al centro de atención y a un caos inesperado."
+      "episode_description": "El Dr. Godwin resucita a la bella Bella Baxter para que aprenda a su lado. Sin embargo, ella huye en compañía de un abogado porque quiere recorrer el mundo, sedienta de deseo de igualdad y libertad."
     }
   ]
 }
