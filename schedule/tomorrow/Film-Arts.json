@@ -1,89 +1,65 @@
 {
   "channel": "Film & Arts",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "Love and other impossible",
+      "show_name": "To Die For",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:15",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "La impaciencia del corazón",
+      "show_name": "Tournée",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:15",
-      "end_time": "02:25",
+      "start_time": "00:05",
+      "end_time": "02:15",
       "episode_description": ""
     },
     {
-      "show_name": "BauHaus",
+      "show_name": "Teatro Real W.A. Mozart Cosi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:25",
-      "end_time": "03:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "BauHaus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:10",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "BauHaus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El niño salvaje",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
+      "start_time": "02:15",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Wallander",
+      "show_name": "El síndrome Helsinki",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Graham Norton Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "La impaciencia del corazón",
+      "show_name": "In C Un ballet de Sasha Waltz",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:30",
+      "end_time": "08:55",
       "episode_description": ""
     },
     {
-      "show_name": "Thierry Malandain Las Estacio",
+      "show_name": "Tournée",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Teatro En Casa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:45",
+      "start_time": "08:55",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tim Burton, un monstruo de cin",
+      "show_name": "Miss Scarlet & The Duke",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -91,47 +67,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "BauHaus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "BauHaus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "BauHaus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Love and other impossible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:15",
-      "episode_description": ""
-    },
-    {
       "show_name": "Teatro Real W.A. Mozart Cosi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:15",
-      "end_time": "21:00",
+      "start_time": "12:00",
+      "end_time": "15:40",
       "episode_description": ""
     },
     {
       "show_name": "El síndrome Helsinki",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:40",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "To Die For",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "18:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Graham Norton Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:45",
+      "end_time": "19:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Revelaciones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:35",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Drawings of Yves Saint Lau",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bookish",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -139,11 +123,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "To Die For",
+      "show_name": "Vera",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:05",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
+      "end_time": "01:30",
       "episode_description": ""
     }
   ]

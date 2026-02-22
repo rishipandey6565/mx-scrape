@@ -1,109 +1,117 @@
 {
   "channel": "Cinema Platino",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
-    {
-      "show_name": "Vikingos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/vikingos.webp",
-      "show_category": "Acción",
-      "start_time": "00:00",
-      "end_time": "00:49",
-      "episode_description": "Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga."
-    },
-    {
-      "show_name": "La Cura Siniestra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/la-cura-siniestra.webp",
-      "show_category": "Terror",
-      "start_time": "00:49",
-      "end_time": "03:18",
-      "episode_description": "Un ambicioso joven es enviado para recuperar el gerente de su empresa de un misterioso centro de bienestar localizado en los Alpes Suizos. Pronto sospecha que los tratamientos milagrosos del balneario no son lo que parecen. Cuando comienza a desmarañar sus secretos oscuros, su cordura es puesta a prueba, siendo diagnosticado con la misma curiosa enfermedad que mantiene a todos los huéspedes en el lugar esperando la anhelada cura."
-    },
-    {
-      "show_name": "Assassin's Creed",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/assassins-creed.webp",
-      "show_category": "Acción",
-      "start_time": "03:18",
-      "end_time": "05:10",
-      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
-    },
-    {
-      "show_name": "Sismo Magnitud 9.5",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:10",
-      "end_time": "07:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sin Tiempo Para Morir",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/sin-tiempo-para-morir.webp",
-      "show_category": "Acción",
-      "start_time": "07:08",
-      "end_time": "09:55",
-      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
-    },
-    {
-      "show_name": "Los caballeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:55",
-      "end_time": "11:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un viaje extraordinario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:55",
-      "end_time": "13:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Robin Hood",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:41",
-      "end_time": "15:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sentimientos que curan",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:39",
-      "end_time": "17:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Contrato para matar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:12",
-      "end_time": "18:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi ex es un Espía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/mi-ex-es-un-espía.webp",
-      "show_category": "Acción",
-      "start_time": "18:49",
-      "end_time": "20:53",
-      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
-    },
-    {
-      "show_name": "Vikingos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/vikingos.webp",
-      "show_category": "Acción",
-      "start_time": "20:53",
-      "end_time": "23:59",
-      "episode_description": "Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga."
-    },
     {
       "show_name": "Amor a la Italiana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:59",
+      "start_time": "00:00",
       "end_time": "01:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La protegida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:37",
+      "end_time": "03:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AIR: La Historia Detrás del Logo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/air_la_historia_detras_del_logo.jpg",
+      "show_category": "",
+      "start_time": "03:26",
+      "end_time": "05:18",
+      "episode_description": "AIR: La Historia Detrás del Logo revela la increíble asociación revolucionaria entre el entonces novato Michael Jordan y la incipiente división de baloncesto de Nike, que revolucionó el mundo de los deportes y la cultura contemporánea con la marca Air Jordán.Una historia conmovedora que sigue la apuesta que define la carrera de un equipo poco convencional con todo en juego, la visión intransigente de una madre que sabe el valor del inmenso talento de su hijo y el fenómeno del baloncesto que se convertirá en el más grande de todos los tiempos."
+    },
+    {
+      "show_name": "Maremoto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:18",
+      "end_time": "07:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Por amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:06",
+      "end_time": "08:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La carta secreta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:48",
+      "end_time": "10:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amigos por siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:41",
+      "end_time": "12:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Dónde Está Bernadette?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:34",
+      "end_time": "14:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un Deseo en Nashville",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:26",
+      "end_time": "16:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "57 Segundos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:13",
+      "end_time": "17:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una Guerra Brillante",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_guerra_brillante.jpg",
+      "show_category": "Biografía",
+      "start_time": "17:54",
+      "end_time": "19:46",
+      "episode_description": "La historia épica de la feroz competencia entre los más grandes inventores de la era industrial sobre qué sistema eléctrico alimentaría el nuevo siglo. Con el respaldo de J.P. Morgan (Matthew Macfadyen), Edison (Benedict Cumberbatch), deslumbra al mundo iluminando Manhattan. Pero Westinghouse (Michael Shannon), ayudado por Nikola Tesla (Nicholas Hoult), ha visto fallas fatales en el diseño actual de Edison. Encendiendo una guerra de corrientes, Westinghouse y Tesla apuestan todo en las riesgosas y peligrosas corrientes."
+    },
+    {
+      "show_name": "Todo sobre los Ricardo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:46",
+      "end_time": "22:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La última gran estafa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_comeback_trail_2020.jpg",
+      "show_category": "Comedia",
+      "start_time": "22:01",
+      "end_time": "23:50",
+      "episode_description": "En deuda con la mafia y con necesidad de un nuevo plan para ganar dinero para salvar su pellejo, el codicioso productor de cine de grindhouse, Max Barber (Robert De Niro), decide producir una nueva película peligrosa, todo por el bien de matar a su actor principal en un truco para poder ganar el dinero del seguro. Pero cuando elige a Duke Montana (Tommy Lee Jones), una estrella de cine envejecida y decadente, como protagonista, Max nunca espera que el viejo borracho deprimido se revitalice al estar nuevamente frente a la cámara. Incapaz de matar a Duke en una acrobacia sencilla, Max incrementa la dificultad de las acrobacias, poniendo a Duke en situaciones cada vez más peligrosas. Y mientras Duke sobrevive acrobacia tras acrobacia, Max, sin saberlo, comienza a hacer la mejor película de su carrera."
+    },
+    {
+      "show_name": "Habitación 1174",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:50",
+      "end_time": "01:28",
       "episode_description": ""
     }
   ]
