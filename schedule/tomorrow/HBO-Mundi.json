@@ -1,117 +1,101 @@
 {
   "channel": "HBO Mundi",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "La cocina",
+      "show_name": "Jurado Nº 2",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:15",
+      "end_time": "00:35",
       "episode_description": ""
     },
     {
-      "show_name": "7 Days in Hell",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:15",
+      "show_name": "Huérfanos de Brooklyn",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huerfanos_de_brooklyn.jpg",
+      "show_category": "Crimen",
+      "start_time": "00:35",
       "end_time": "03:00",
-      "episode_description": ""
+      "episode_description": "Lionel Essrog (Edward Norton), un detective privado solitario que vive con el síndrome de Tourette, se aventura a resolver el asesinato de su mentor y único amigo, Frank Minna (Bruce Willis). Armado solo con unas pocas pistas y el motor de su mente obsesiva, Lionel desentraña secretos estrechamente guardados que mantienen el destino de Nueva York en equilibrio. En un misterio que lo lleva de los clubes de jazz empapados en ginebra en Harlem a los barrios marginales de Brooklyn y, finalmente, a los pasillos bañados en oro de los agentes de bolsa de Nueva York, Lionel se enfrenta a matones, corrupción y al hombre más peligroso de la ciudad. Para honrar a su amigo y salvar a la mujer que podría ser su propia salvación."
     },
     {
-      "show_name": "Los delincuentes",
+      "show_name": "The American Joika",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "06:10",
+      "end_time": "04:55",
       "episode_description": ""
     },
     {
-      "show_name": "El Buen Mentiroso",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/el-buen-mentiroso.webp",
-      "show_category": "Crimen",
-      "start_time": "06:10",
-      "end_time": "08:05",
-      "episode_description": "El estafador profesional Roy Courtnay (Ian McKellen) apenas puede creer su suerte cuando se encuentra con la viuda adinerada Betty McLeish (Helen Mirren) en línea. Cuando Betty le abre su hogar y su vida, Roy se sorprende al descubrir que se preocupa por ella, convirtiendo lo que debería ser una estafa cortada y seca en el camino de la cuerda floja más traicionero de su vida."
+      "show_name": "El Triángulo de la Tristeza",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_triangulo_de_la_tristeza.jpg",
+      "show_category": "Comedia",
+      "start_time": "04:55",
+      "end_time": "07:30",
+      "episode_description": "En esta divertidísima película de Ruben Östlund, ganador de la Palma de Oro, la jerarquía social se pone patas arriba, revelando la escandalosa relación entre poder y belleza. Carl (Harris Dickinson) y Yaya (Charlbi Dean), una pareja de modelos famosos, son invitados a un crucero de lujo para súper ricos, capitaneado por un desquiciado capitán de barco (Woody Harrelson). Lo que al principio parecía instagrameable acaba de forma catastrófica, dejando a los supervivientes varados en una isla desierta y luchando por la supervivencia."
     },
     {
-      "show_name": "Prófugo por accidente",
+      "show_name": "Sacrificio de leyenda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:05",
-      "end_time": "09:50",
+      "start_time": "07:30",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Jurado Nº 2",
+      "show_name": "La teoría del todo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:50",
-      "end_time": "11:50",
+      "start_time": "09:30",
+      "end_time": "11:40",
       "episode_description": ""
     },
     {
-      "show_name": "Waltz with bashir",
+      "show_name": "Red Social",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/red_social.jpg",
+      "show_category": "Película",
+      "start_time": "11:40",
+      "end_time": "13:45",
+      "episode_description": "Nombre que recibe la película \"The Social Network\" en Latinoamérica, que cuenta la historia de Facebook desde sus comienzos y cómo fue que Mark Zuckerberg se vuelve multimillonario."
+    },
+    {
+      "show_name": "On Swift Horses",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:50",
-      "end_time": "13:25",
+      "start_time": "13:45",
+      "end_time": "15:50",
       "episode_description": ""
     },
     {
-      "show_name": "Shaman",
+      "show_name": "El regreso del Capitán Garfio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:25",
-      "end_time": "15:05",
+      "start_time": "15:50",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
-      "show_name": "The Damned",
+      "show_name": "The Settlers",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:05",
-      "end_time": "16:40",
+      "start_time": "18:15",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mickey 17",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/mickey-17.webp",
-      "show_category": "Aventura",
-      "start_time": "16:40",
-      "end_time": "19:00",
-      "episode_description": "\"Mickey 17\". El improbable héroe, Mickey Barnes (Robert Pattinson), se encuentra en la extraordinaria circunstancia de trabajo para un empleador que exige el máximo compromiso con el trabajo… morir para ganarse la vida."
-    },
-    {
-      "show_name": "Portobello",
+      "show_name": "Monkey Man El despertar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:12",
+      "start_time": "20:00",
+      "end_time": "22:05",
       "episode_description": ""
     },
     {
-      "show_name": "No nos dejes caer esta noche",
+      "show_name": "Una batalla tras otra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:12",
-      "end_time": "21:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Portobello",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:57",
-      "end_time": "23:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jurado Nº 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:15",
-      "end_time": "00:35",
+      "start_time": "22:05",
+      "end_time": "00:50",
       "episode_description": ""
     }
   ]

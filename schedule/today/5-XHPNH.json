@@ -1,18 +1,26 @@
 {
   "channel": "5 (XHPNH)",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "Live: Box Televisa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/live-box-televisa.webp",
-      "show_category": "Sports",
+      "show_name": "Backdoor",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p17328726_b_v12_aa.jpg",
+      "show_category": "Specials",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "El mexicano Pedro Peñuñuri (13-2, 6 KOs) se enfrenta al excampeón mundial panameño Jezreel Corrales (26-8, 10 KOs) en un combate de peso ligero. Desde el Gimnasio Municipal de Ciudad Obregón, en Sonora."
+      "end_time": "00:00",
+      "episode_description": "Backdoor, el nuevo canal de comedia sensación de YouTube, aterriza en la televisión con divertidos personajes y sketches irreverentes. Parodias, humor negro y experiencias cotidianas llevadas al ridículo."
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
+      "show_category": "Paid Program",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Programa pagado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/programa-pagado.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
       "show_category": "Paid Program",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/crónicas.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28785242_b_v7_aa.jpg",
       "show_category": "News",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -76,107 +84,147 @@
     },
     {
       "show_name": "Especial de R.T.C.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/especial-de-rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg",
       "show_category": "Instructional",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/crónicas.webp",
-      "show_category": "News",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
+      "show_category": "Paid Program",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas."
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Venta de productos de todo tipo."
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "Rugrats, aventuras en pañales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/rugrats-aventuras-en-pañales.webp",
+      "show_name": "PJ Masks: Héroes en pijamas",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p12115698_b_v12_cb.jpg",
       "show_category": "Animated",
       "start_time": "06:00",
-      "end_time": "06:55",
-      "episode_description": "Unos bebés tienen grandes aventuras en el mundo de los adultos, donde todo lo que les rodea es más grande y misterioso."
+      "end_time": "06:30",
+      "episode_description": "Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción."
     },
     {
-      "show_name": "Live: Fútbol LaLiga",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/live-fútbol-laliga.webp",
-      "show_category": "Sports",
-      "start_time": "06:55",
+      "show_name": "PAW Patrol: Patrulla de cachorros",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p10077400_b_v12_ck.jpg",
+      "show_category": "Animated",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Un grupo de seis perritos de rescate dirigidos por un chico experto en tecnología llamado Ryder, tienen muchas aventuras con la patrulla de cachorros, ningún trabajo es demasiado grande y ningún cachorro muy pequeño para proteger a la comunidad."
+    },
+    {
+      "show_name": "Max y la pandilla medieval",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28040688_b_v12_ah.jpg",
+      "show_category": "Animated",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Max vive en una campiña inglesa del siglo XIV y siempre ha querido ser un caballero; con la ayuda de algunos nuevos amigos, llamados los Midknights, Max demuestra que puede ser uno de ellos."
+    },
+    {
+      "show_name": "Viva el rey Julien",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p11233187_b_v8_bi.jpg",
+      "show_category": "Animated",
+      "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Jornada 25 de la temporada 2025-2026 de LaLiga. Desde el estadio Coliseum Alfonso Pérez. Ambos equipos llegan tras semanas convulsas y con la necesidad de sumar para estabilizar sus proyectos."
+      "episode_description": "Las aventuras de Julien, el nuevo rey de la selva, que ha decidido transformar el reino en una zona de fiesta."
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/tuff-puppy.webp",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p11213272_b_v8_ad.jpg",
       "show_category": "Animated",
       "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "El cachorro Dudley es reclutado para proteger su ciudad natal y derrotar a unos agentes de una malvada organización animal."
+      "end_time": "10:00",
+      "episode_description": "Las aventuras de Sonic El Erizo y sus amigos, contra el malvado Dr. Eggman."
     },
     {
-      "show_name": "Paulie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/paulie.webp",
+      "show_name": "Los pitufos",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8554187_p_v8_ag.jpg",
       "show_category": "Movies",
-      "start_time": "11:00",
-      "end_time": "12:45",
-      "episode_description": "Paulie, un loro muy especial, emprende un largo viaje con un único objetivo: encontrar a Maire, su dueña, de la que ha sido separado."
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "episode_description": "Un portal mágico transporta a los pitufos a Manhattan, donde deben descubrir la forma de regresar a su aldea antes de que los encuentre el malvado mago Gargamel."
     },
     {
-      "show_name": "Godzilla 2000",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/godzilla-2000.webp",
+      "show_name": "Jurassic World: Campamento Cretácico",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p18638806_b_v11_ar.jpg",
+      "show_category": "Animated",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "episode_description": "Unos adolescentes asisten a un campamento de aventuras en el lado opuesto de la isla Nublar y deben unirse para sobrevivir cuando los dinosaurios causan estragos en la isla."
+    },
+    {
+      "show_name": "Los jóvenes titanes en acción",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p9843808_b_v8_bd.jpg",
+      "show_category": "Animated",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "Esta continuación de la popular serie presenta a Robin, Starfire, Raven, Beast Boy y Cyborg enfrentándose a los problemas habituales de la adolescencia mientras salvan el mundo."
+    },
+    {
+      "show_name": "Scooby-Doo y ¿quién crees tú?",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p17104339_b_v12_ad.jpg",
+      "show_category": "Animated",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": "El equipo regresa tan valiente, aventurero y obsesionado con casos como antes. Fred, Daphne, Velma, Shaggy y Scooby-Doo se unen a celebridades para resolver misterios."
+    },
+    {
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p184854_b_v11_be.jpg",
+      "show_category": "Animated",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": "Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar."
+    },
+    {
+      "show_name": "El Chavo Animado",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p230487_b_v12_an.jpg",
+      "show_category": "Animated",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": "Después de más de 30 años de entretenimiento para grandes y pequeños con la serie \"El Chavo del 8,\" Roberto Gómez Bolaños (mejor conocido como \"Chespirito\"), trae la versión animada de este famoso programa."
+    },
+    {
+      "show_name": "La luz del día",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p18777_k_h10_ac.jpg",
       "show_category": "Movies",
-      "start_time": "12:45",
-      "end_time": "14:45",
-      "episode_description": "Tokio es reducida a escombros, cuando de nuevo Godzilla lucha contra un objeto volador no identificado."
+      "start_time": "18:30",
+      "end_time": "20:45",
+      "episode_description": "Un grupo de delincuentes armados que huye de la policía se dirige por el túnel de Nueva Jersey y va directo contra unos camiones que transportan residuos tóxicos, lo que provoca una tremenda explosión y deja atrapadas a varias personas."
     },
     {
-      "show_name": "Los Goonies",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/los-goonies.webp",
-      "show_category": "Movies",
-      "start_time": "14:45",
-      "end_time": "16:55",
-      "episode_description": "Mikey, un chico de 13 años, y su pandilla de amigos buscan un tesoro del siglo XVII siguiendo el mapa de un pirata. Si no logran encontrar el botín, sus familias perderán sus casas, pero, para su desgracia, una familia de criminales los persigue."
+      "show_name": "Belleza verdadera",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p19622250_b_v8_ag.jpg",
+      "show_category": "Comedy",
+      "start_time": "20:45",
+      "end_time": "22:30",
+      "episode_description": "La vida de una estudiante cambia a medida que aprende técnicas de maquillaje. Jugyeong vive escondida detrás del maquillaje de su doloroso pasado. Suho pierde la alegría por su doloroso pasado."
     },
     {
-      "show_name": "Live: Fútbol Mexicano Primera División",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/live-fútbol-mexicano-primera-división.webp",
-      "show_category": "Sports",
-      "start_time": "16:55",
-      "end_time": "19:00",
-      "episode_description": "Acción de la fecha 7 del Torneo Clausura 2026 de la Liga MX. Pumas busca escalar al segundo lugar de la tabla y Rayados mantenerse en zona de liguilla."
-    },
-    {
-      "show_name": "Godzilla vs. Kong",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/godzilla-vs-kong.webp",
-      "show_category": "Movies",
-      "start_time": "19:00",
-      "end_time": "21:15",
-      "episode_description": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad."
-    },
-    {
-      "show_name": "Rampage: Devastación",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/rampage-devastación.webp",
-      "show_category": "Movies",
-      "start_time": "21:15",
+      "show_name": "Chucky",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20438519_b_v12_am.jpg",
+      "show_category": "Drama",
+      "start_time": "22:30",
       "end_time": "23:30",
-      "episode_description": "Un gorila, un lobo y una serpiente sufren una mutación genética y se convierten en seres gigantescos y violentos. El primatólogo que cuidaba del gorila y una experta en genética tratan de detenerlos y, al mismo tiempo, evitar que sufran daños."
+      "episode_description": "Cuando un muñeco antiguo de Chucky aparece en una venta de jardín de los suburbios, una idílica ciudad estadounidense se ve sumida en el caos."
     },
     {
-      "show_name": "Backdoor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/backdoor.webp",
-      "show_category": "Specials",
+      "show_name": "Live: Contacto deportivo",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p11530834_b_v12_ae.jpg",
+      "show_category": "Sports",
       "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "Backdoor, el nuevo canal de comedia sensación de YouTube, aterriza en la televisión con divertidos personajes y sketches irreverentes. Parodias, humor negro y experiencias cotidianas llevadas al ridículo."
+      "episode_description": "El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes."
     }
   ]
 }

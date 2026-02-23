@@ -1,126 +1,110 @@
 {
   "channel": "HBO Family Latinoamérica",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
-    {
-      "show_name": "Una Película de Minecraft",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/una-película-de-minecraft.webp",
-      "show_category": "Acción",
-      "start_time": "00:00",
-      "end_time": "00:42",
-      "episode_description": "Bienvenidos al mundo de Minecraft, donde la creatividad no solo te ayuda a crear, ¡sino que es esencial para la supervivencia! Cuatro inadaptados – Garrett \"The Garbage Man\" Garrios (Jason Momoa), Henry (Sebastian Hansen), Natalie (Emma Myers) y Dawn (Danielle Brooks) – se encuentran luchando con problemas cotidianos cuando, de repente, son arrastrados a través de un misterioso portal hacia el Overworld: un extraño y cúbico mundo de las maravillas que prospera gracias a la imaginación. Para volver a casa, tendrán que dominar este mundo (y también protegerlo de cosas malvadas como Piglins y Zombis) mientras se embarcan en una búsqueda mágica con un artesano inesperado y experto, Steve (Jack Black). Juntos, su aventura los desafiará a ser audaces y a reconectar con las cualidades que hacen que cada uno de ellos sea excepcionalmente creativos… las mismas habilidades que necesitan para prosperar en el mundo real."
-    },
-    {
-      "show_name": "Jack El Cazagigantes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/jack-el-cazagigantes.webp",
-      "show_category": "Aventura",
-      "start_time": "00:42",
-      "end_time": "02:37",
-      "episode_description": "(Jack the Giant Slayer) Un joven granjero llamado Jack (Nicholas Hoult) sin darse cuenta, abre una puerta de una raza de gigantes. Estas criaturas gigantescas quieren apoderarse de la tierra la cual una vez perdieron. Jack no solo deberá enfrentar a estos gigantes sino también rescatar a una princesa de la tierra de estas inmensas criaturas."
-    },
-    {
-      "show_name": "DC Liga de Súpermascotas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/dc-liga-de-súpermascotas.webp",
-      "show_category": "Animación",
-      "start_time": "02:37",
-      "end_time": "04:25",
-      "episode_description": "En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes."
-    },
-    {
-      "show_name": "Uma y Haggen Mitos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:25",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Kung Fu Panda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/kung-fu-panda.webp",
-      "show_category": "Animación",
-      "start_time": "06:00",
-      "end_time": "07:35",
-      "episode_description": "Un oso Panda llamado Po (Jack Black) - quien se considera a sí mismo el fan número uno del Kung Fu – un día podrá cumplir su sueño de ser parte de los legendarios Cinco Guerreros: Tigresa, Mono, Mantis, Víbora y Grulla."
-    },
-    {
-      "show_name": "Paddington Aventura en",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:35",
-      "end_time": "09:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reyes de las olas 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:24",
-      "end_time": "10:51",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cigüeñas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:51",
-      "end_time": "12:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cómo Entrenar a tu Dragón 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/cómo-entrenar-a-tu-dragón-2.webp",
-      "show_category": "Animación",
-      "start_time": "12:20",
-      "end_time": "14:05",
-      "episode_description": "Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones."
-    },
-    {
-      "show_name": "Pie Pequeño",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/pie-pequeño.webp",
-      "show_category": "Animación",
-      "start_time": "14:05",
-      "end_time": "15:42",
-      "episode_description": "Pie pequeño pone patas arriba la leyenda de Pie grande cuando un brillante joven Yeti encuentra algo que creía que no existía – un ser humano. Las noticias de este \"pie pequeño\" le dan fama y una oportunidad con la chica de sueños. También arroja a la simple comunidad Yeti en un alboroto sobre qué más podría estar allí en un gran mundo más allá de su aldea nevada, en una historia alegre sobre la amistad, el coraje y la alegría del descubrimiento."
-    },
-    {
-      "show_name": "Los Croods",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/los-croods.webp",
-      "show_category": "Animación",
-      "start_time": "15:42",
-      "end_time": "17:23",
-      "episode_description": "Los croods son la primera familia del mundo que viven protegidos en una cueva hasta que un día un terrible terremoto la destruye y ellos se ven forzados a abandonarla y se aventuran a un nuevo lugar con criaturas fabulosas y paisajes espectaculares donde deberán encontrar una nueva cueva para vivir."
-    },
-    {
-      "show_name": "Kung Fu Panda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Family-Latinoam-rica/tomorrow/kung-fu-panda.webp",
-      "show_category": "Animación",
-      "start_time": "17:23",
-      "end_time": "18:57",
-      "episode_description": "Un oso Panda llamado Po (Jack Black) - quien se considera a sí mismo el fan número uno del Kung Fu – un día podrá cumplir su sueño de ser parte de los legendarios Cinco Guerreros: Tigresa, Mono, Mantis, Víbora y Grulla."
-    },
-    {
-      "show_name": "Paddington Aventura en",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:57",
-      "end_time": "20:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Karate kid",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:47",
-      "end_time": "23:13",
-      "episode_description": ""
-    },
     {
       "show_name": "Meteoro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:13",
+      "start_time": "00:00",
       "end_time": "01:31",
       "episode_description": ""
+    },
+    {
+      "show_name": "Wicked",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:31",
+      "end_time": "04:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cómo Entrenar a tu Dragón 2",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_2.jpg",
+      "show_category": "Animación",
+      "start_time": "04:15",
+      "end_time": "06:00",
+      "episode_description": "Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones."
+    },
+    {
+      "show_name": "Open Season",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lluvia de hamburguesas 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:27",
+      "end_time": "09:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El regreso de la nana mágica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:05",
+      "end_time": "10:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un Jefe en Pañales",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_jefe_en_panales.jpg",
+      "show_category": "Animación",
+      "start_time": "10:52",
+      "end_time": "12:32",
+      "episode_description": "Tim (Tobey Maguire) es el niño más feliz del mundo, tiene a los padres más increíbles del mundo y él es el rey de la casa. Pero un día sus padres deciden llevar a un bebé (Alec Baldwin) a la casa para que sea el hermanito menor de Tim, quien poco a poco empezará a adueñarse de la casa. Una noche Tim descubre que él puede hablar y tratará de convencer a sus padres que él está tramando algo."
+    },
+    {
+      "show_name": "El espanta tiburones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:32",
+      "end_time": "14:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tom y Jerry",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:05",
+      "end_time": "15:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shrek",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:49",
+      "end_time": "17:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lluvia de hamburguesas 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:22",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Wicked",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "21:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aquaman",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg",
+      "show_category": "Acción",
+      "start_time": "21:43",
+      "end_time": "00:08",
+      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "El Cancionero y sus Amigos",
+      "show_name": "6a. Muestra de Cine",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,15 +11,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jazz, boleros y algo más",
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El macizo de Altái",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Música Hecha en México",
+      "show_name": "Culturas Veintidós\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Concierto María Reyna",
+      "show_name": "África, continente enigmático",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -39,6 +47,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La raíz doble",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -59,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conferencia del Pueblo\nEn Vivo",
+      "show_name": "Conferencia del Pueblo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -67,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vida Saludable",
+      "show_name": "Humanismo Mexicano",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -83,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La oveja eléctrica",
+      "show_name": "Tratos y retratos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -99,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -115,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NCC Salud",
+      "show_name": "Día de la Bandera",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -139,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -147,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Agua, Aire, Tierra, Fuego",
+      "show_name": "La Dichosa Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -171,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Punto de referencia",
+      "show_name": "Noticiero Punto de Referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -179,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "La oveja eléctrica",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -187,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pantalla de cristal",
+      "show_name": "Un Dia...con Osorno",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",

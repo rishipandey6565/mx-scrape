@@ -1,60 +1,20 @@
 {
   "channel": "RAI International",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "TG Rai News",
+      "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "TG1",
+      "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Unomattina in famiglia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:15",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Linea Bianca Olympia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Documentario Geo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cristianità",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Linea verde discovery",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
+      "start_time": "02:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -63,39 +23,47 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "10:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "14:00",
+      "start_time": "07:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
       "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "18:00",
+      "start_time": "11:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "22:00",
+      "start_time": "15:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Canal RAI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "02:00",
+      "start_time": "19:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Canal RAI",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]

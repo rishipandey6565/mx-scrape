@@ -1,9 +1,9 @@
 {
   "channel": "Cinema",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "El macho biónico",
+      "show_name": "El cabaretero y sus golfas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Río Escondido",
+      "show_name": "Dos alegres gavilanes",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:15",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las tres Elenas",
+      "show_name": "Te ví en televisión",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -27,15 +27,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Se acabaron las mujeres",
+      "show_name": "Recién casados... no molestar",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:45",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Recién casados... no molestar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Échenme al gato",
+      "show_name": "Cada oveja con su pareja",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -43,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "la marca del zorrillo",
+      "show_name": "El Charro y La Dama",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:45",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Rey del Barrio",
+      "show_name": "Maratón de baile",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dos alegres gavilanes",
+      "show_name": "El niño perdido",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:15",
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Te ví en televisión",
+      "show_name": "Simbad el mareado",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -75,23 +83,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Recién casados... no molestar",
+      "show_name": "Se acabaron las mujeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:45",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Recién casados... no molestar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Si yo fuera millonario",
+      "show_name": "El Rey del Barrio",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tú, solo tú",
+      "show_name": "Amor con amor se paga",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:15",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Me ha besado un hombre",
+      "show_name": "Para siempre, amor mío",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "De Pulquero A Millonario",
+      "show_name": "Celos",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:45",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El cabaretero y sus golfas",
+      "show_name": "Cada oveja con su pareja",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
