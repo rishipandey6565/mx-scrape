@@ -1,10 +1,18 @@
 {
   "channel": "Canal 5",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -12,7 +20,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -68,107 +76,139 @@
     },
     {
       "show_name": "Especial de RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
-      "show_category": "Periodístico",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Rugrats",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/rugrats.webp",
+      "show_name": "Dora: ¡Di Hello a la aventura!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "06:00",
-      "end_time": "06:55",
-      "episode_description": "Ve la vida desde el punto de vista de los bebés, del suelo hacia arriba. Tommy, Carlitos, Angélica, Phil, Lil y el bebé Dil viven interminables aventuras en el mundo de los adultos."
+      "end_time": "06:30",
+      "episode_description": "Sigue a Dora, Boots y el resto de sus amigos en aventuras repletas de acertijos y aprendizaje mientras exploran su camino a través de la mágica selva tropical."
     },
     {
-      "show_name": "Getafe vs. Sevilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 25, Estadio Coliseum Alfonso Pérez",
-      "start_time": "06:55",
+      "show_name": "Rubble y equipo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Sigue a Rubble y su familia de cachorros mientras usan sus increíbles vehículos de construcción para construir y reparar todo lo que la ciudad de Builder Cove necesita en aventuras de alto riesgo."
+    },
+    {
+      "show_name": "Las aventuras del Gato con Botas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-aventuras-del-gato-con-botas_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "El héroe felino favorito del mundo, amante (y conocedor de la leche) se calza sus botas características y entra en acción cuando, sin querer, rompe el hechizo mágico que protege a la ciudad oculta de San Lorenzo."
+    },
+    {
+      "show_name": "Los pitufos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-pitufos_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga."
+      "episode_description": "Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal."
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/tuff-puppy.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "El Chapulín colorado animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chapulin-colorado-animado_l_m.jpg",
+      "show_category": "Animación",
       "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "La historia se centra principalmente en torno a una ciudad llamada \"Petrópolis\", donde todos los habitantes son animales antropomórficos. Significa que no hay seres humanos presentes o al menos ninguno que se mencione todavía."
+      "end_time": "10:00",
+      "episode_description": "El Chapulín Colorado ayuda a una mujer a encontrar el anillo de brillantes de su jefe. El Chapulín Colorado pelea contra un lagartosaurio para evitar que destruya la ciudad."
     },
     {
-      "show_name": "Mi amigo Paulie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/mi-amigo-paulie.webp",
-      "show_category": "Paulie",
-      "start_time": "11:00",
-      "end_time": "12:45",
-      "episode_description": "Paulie, un loro al que le gusta hablar, es separado de su dueña, la pequeña Marie, porque los padres piensan que la niña depende demasiado de él. Pero Paulie no lo permitirá y emprende el camino a casa enfrentando varias dificultades."
+      "show_name": "100% lobo: el libro de Hath",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "episode_description": "Freddy y la manada Howlington se enfrentan con la magia oscura ancestral en una batalla épica a través del tiempo y el espacio para salvar a Milford, a los hombres lobo y al mundo tal como lo conocemos."
     },
     {
-      "show_name": "Godzilla 2000: el dinosaurio mutante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/godzilla-2000-el-dinosaurio-mutante.webp",
-      "show_category": "Godzilla 2000",
-      "start_time": "12:45",
-      "end_time": "14:45",
-      "episode_description": "Hacia la medianoche, Godzilla, un enorme reptil mutante consecuencia de pruebas nucleares, emerge del océano y destroza la ciudad de Hokkaido dirigiéndose hacia la planta nuclear de Tokai."
+      "show_name": "Star Trek: Prodigio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "episode_description": "Tras encontrar una nave abandonada de la Flota Estelar, un diverso grupo de jóvenes aventureros se une para explorar la galaxia y escapar de las garras de un terrible villano."
     },
     {
-      "show_name": "Los Goonies",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/los-goonies.webp",
-      "show_category": "The Goonies",
-      "start_time": "14:45",
-      "end_time": "16:55",
-      "episode_description": "Mikey, junto con su hermano mayor y sus amigos, se hacen llamar \"Los Goonies\". Un día deciden subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí encuentran el mapa de un tesoro perdido y deciden salir a buscarlo."
+      "show_name": "Sonic Boom",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonic-boom_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "¡Únete al intrépido Sonic y su gran amigo y compañero de aventuras, Tails, en sus nuevas hazañas y batallas contra su archienemigo Eggman! Para completar el equipo, están Knucles y Amy, además de un largo listado de enemigos granujas."
     },
     {
-      "show_name": "Pumas UNAM vs. Monterrey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 7, Estadio Olímpico Universitario",
-      "start_time": "16:55",
-      "end_time": "19:00",
-      "episode_description": "Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026."
+      "show_name": "Mi mascota es un león",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Mia et le lion blanc",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": "Una joven, que se ha mudado con sus padres desde Londres a África, desarrolla un vínculo sorprendente y especial con un león salvaje. Su increíble amistad la impulsa a viajar por la sabana para salvar a su mejor amigo."
     },
     {
-      "show_name": "Godzilla vs. Kong",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/godzilla-vs-kong.webp",
-      "show_category": "C.Ficción / 2021 /6.4",
-      "start_time": "19:00",
-      "end_time": "21:15",
-      "episode_description": "En un momento en que los monstruos caminan por la Tierra, la lucha de la humanidad por su futuro pone a Godzilla y Kong en un curso de colisión que verá a las dos fuerzas más poderosas del planeta chocar en una batalla espectacular."
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
     },
     {
-      "show_name": "Rampage: devastación",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/rampage-devastación.webp",
-      "show_category": "Rampage",
-      "start_time": "21:15",
+      "show_name": "El Chavo animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo-animado_l_m.jpg",
+      "show_category": "D.Animados",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": "Chavo vive en una vecindad mexicana, junto a sus amigos Popis, Ñoño, Patty y Quico, y vivirá situaciones alocadas en cada episodio."
+    },
+    {
+      "show_name": "Pánico en el túnel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panico-en-el-tunel-1996_l_m.jpg",
+      "show_category": "Daylight",
+      "start_time": "18:30",
+      "end_time": "20:45",
+      "episode_description": "El túnel que une Manhattan con Nueva Jersey se convierte en una trampa mortal debido a una accidente de tráfico que provoca una devastadora explosión, dejando a un grupo de pasajeros atrapados."
+    },
+    {
+      "show_name": "Belleza verdadera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Romántica",
+      "start_time": "20:45",
       "end_time": "23:30",
-      "episode_description": "El primatólogo Davis Okoye tiene un vínculo con George, un inteligente gorila al que ha estado cuidando. Pronto descubre que el apacible simio y otros animales padecen de una alteración y se convierten en criaturas embravecidas."
+      "episode_description": "Después de ser acosada y discriminada por su apariencia fea, una chica de secundaria se transforma en una hermosa \"diosa\" y rápidamente salta a la fama después de dominar el arte del maquillaje a través de videos tutoriales en línea."
     },
     {
-      "show_name": "Backdoor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/backdoor.webp",
-      "show_category": "Comedia",
+      "show_name": "Contacto deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-contacto-deportivo_l_m.jpg",
+      "show_category": "Contacto deportivo",
       "start_time": "23:30",
       "end_time": "",
-      "episode_description": "En Backdoor te haremos reír transformando situaciones cotidianas con humor por dónde no lo esperas. Nadie esta a salvo, también nos reímos de las instituciones como la política y las religiones."
+      "episode_description": "Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional."
     }
   ]
 }

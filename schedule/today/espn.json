@@ -1,18 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +12,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,23 +20,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Blackburn Rovers vs. Preston North End",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 33, Ewood Park",
+      "show_name": "Carlos Alcaraz (Esp) vs. Arthur Fils (Fra)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final, Khalifa International Tennis Complex, Doha, Qatar",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "episode_description": "Disfruta las emociones de los partidos de esta competencia perteneciente a la categoría ATP 500 que se realiza sobre canchas duras y cuenta con la participación de los tenistas más destacados del ranking."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,7 +44,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -60,67 +52,91 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "08:00",
-      "end_time": "08:50",
+      "end_time": "09:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Southampton vs. Charlton Athletic",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 33, St. Mary's Stadium",
-      "start_time": "08:50",
-      "end_time": "11:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
     },
     {
-      "show_name": "30 for 30",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/30-for-30.webp",
-      "show_category": "- The Philly Special",
-      "start_time": "11:00",
+      "show_name": "AZ vs. Sparta Rotterdam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 24, Afas Stadion",
+      "start_time": "09:30",
+      "end_time": "11:45",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "Jannik Sinner vs. Carlos Alcaraz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tenis-jannik-sinner-vs-carlos-alcaraz_l_m.jpg",
+      "show_category": "Tennis Highlights",
+      "start_time": "11:45",
       "end_time": "12:00",
-      "episode_description": "Explora cómo una jugada audaz durante el Super Bowl LII se convirtió en un símbolo cultural que capturó el espíritu, la resiliencia y la identidad de desvalidos de los Philadelphia Eagles y su ciudad."
+      "episode_description": ""
     },
     {
       "show_name": "Pacific Palisades, CA, USA, Riviera Country Club",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "PGA Tour - The Genesis Invitational",
       "start_time": "12:00",
-      "end_time": "18:00",
+      "end_time": "17:30",
       "episode_description": "El Genesis Invitational es donde se definen los legados, nacen las leyendas y las estrellas brillan con más fuerza. El PGA Tour regresa para competir en el Riviera Country Club una vez más."
     },
     {
-      "show_name": "El show de la Copa Libertadores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/el-show-de-la-copa-libertadores.webp",
-      "show_category": "El show de la Copa Libertadores",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
       "start_time": "18:00",
-      "end_time": "18:55",
-      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
+      "end_time": "18:30",
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
     },
     {
-      "show_name": "Mexico, Sultanes Femenil vs. Naranjeros Softbol Femenil, Estadio Fernando Valenzuela",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Liga Mexicana de Softbol",
-      "start_time": "18:55",
-      "end_time": "22:00",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
     },
     {
-      "show_name": "World Baseball Classic Recap 2017",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "World Baseball Classic Recap 2017",
-      "start_time": "22:00",
+      "show_name": "Leigh Wood vs. Josh Warrington",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": "Los mejores combates de boxeo y MMA."
+    },
+    {
+      "show_name": "Atalanta vs. Napoli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 26, Gewiss Stadium",
+      "start_time": "21:00",
       "end_time": "23:00",
-      "episode_description": "Un repaso acerca de lo más destacado del Clásico Mundial de Béisbol edición 2017. La producción recuerda las jugadas y partidos más emocionantes de la una competición internacional de béisbol profesional, de la cual participaron 16 equipos."
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "Juventus vs. Como",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 26, Allianz Stadium",
+      "show_name": "Tapatío vs. Tlaxcala",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 7, Estadio Akron",
       "start_time": "23:00",
       "end_time": "01:00",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
     }
   ]
 }
