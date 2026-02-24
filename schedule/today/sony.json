@@ -1,158 +1,190 @@
 {
   "channel": "Sony",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "Star Trek: Sin límites",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/star-trek-sin-límites.webp",
-      "show_category": "Star Trek Beyond",
-      "start_time": "00:29",
-      "end_time": "02:44",
-      "episode_description": "El equipo de la USS Enterprise explora los confines más alejados del espacio desconocido, donde se encuentran con un nuevo enemigo despiadado que los pone todos a prueba."
-    },
-    {
-      "show_name": "Casados con hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/casados-con-hijos.webp",
-      "show_category": "Temporada 2 Episodio 1 - La ratonera",
-      "start_time": "02:44",
-      "end_time": "03:15",
-      "episode_description": "Los Olivares tienen a un ratón en su sótano. Poncho se niega a pagar por un exterminador y con la ayuda de Esteban, trata de cazarlo, pero termina casi matando a su vecino."
-    },
-    {
-      "show_name": "The Good Doctor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/the-good-doctor.webp",
-      "show_category": "Temporada 2 Episodio 8 - Historias",
-      "start_time": "03:15",
-      "end_time": "04:05",
-      "episode_description": "Tumor de tórax, trompas de Falopio rotas y vacunas infantiles. En tanto, Shaun demuestra que el Dr. Glassman está perdiendo la memoria. Además, Claire está de vuelta con el Dr. Meléndez, mientras Lea sale a beber con amigos."
-    },
-    {
-      "show_name": "The Good Doctor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/the-good-doctor.webp",
-      "show_category": "Temporada 2 Episodio 9 - Empatía",
-      "start_time": "04:05",
-      "end_time": "05:00",
-      "episode_description": "El Dr. Neil Meléndez, el Dr. Morgan Reznick y la Dra. Claire Brown lidian con el deseo de un paciente, de realizar una operación que le impida actuar de acuerdo con sus impulsos pedófilos."
-    },
-    {
-      "show_name": "The Good Doctor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/the-good-doctor.webp",
-      "show_category": "Temporada 2 Episodio 10 - Cuarentena - Parte 1",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "El Dr. Murphy y el Dr. Lim tratan a dos pacientes que colapsan en el aeropuerto y cuyos síntomas apuntan a una infección en el aire que hace que el hospital quede en cuarentena."
-    },
-    {
-      "show_name": "Persecución de media noche de Boog y Elliot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/persecución-de-media-noche-de-boog-y-elliot.webp",
-      "show_category": "Boog & Elliot's Midnight Bun Run",
-      "start_time": "06:00",
-      "end_time": "06:05",
-      "episode_description": "Boog y Elliot intentan atacar a los campistas para robarles sus bollos recién horneados."
-    },
-    {
       "show_name": "Enloqueciendo contigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - Improvisaciones románticas",
-      "start_time": "06:05",
-      "end_time": "06:35",
-      "episode_description": "Jimena se preocupa porque hace varios días que ella y Pablo no tienen sexo. Hacen planes para tener una cita romántica, pero tienen invitados a cenar. Los planes se modifican en la medida en que la pareja recibe visitas."
-    },
-    {
-      "show_name": "Enloqueciendo contigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Vecinos del infierno",
-      "start_time": "06:35",
-      "end_time": "07:05",
-      "episode_description": "Pablo y Jimena ordenan una pizza, el repartidor confunde la orden con la de sus vecinos de enfrente."
-    },
-    {
-      "show_name": "Enloqueciendo contigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - El sofá",
-      "start_time": "07:05",
-      "end_time": "07:35",
-      "episode_description": "Pablo y Jimena van a comprar un sillón, Fernanda llega con Miguel a ayudarles. Miguel le cuenta a Pablo que fue ginecólogo de Jimena y Pablo se pone muy celoso. Pablo y Jimena discuten y se reconcilian sobre el sillón que aún no adquieren."
-    },
-    {
-      "show_name": "Perrito",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/perrito.webp",
-      "show_category": "Puppy",
-      "start_time": "07:35",
-      "end_time": "07:45",
-      "episode_description": "Los residentes del Hotel Transylvania encuentran su mundo al revés cuando el joven Dennis consigue una mascota del tamaño de un monstruo."
-    },
-    {
-      "show_name": "Son como niños",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/son-como-niños.webp",
-      "show_category": "Grown Ups",
-      "start_time": "07:45",
-      "end_time": "09:40",
-      "episode_description": "Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido."
-    },
-    {
-      "show_name": "¿Y dónde están las rubias?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/y-dónde-están-las-rubias.webp",
-      "show_category": "White Chicks",
-      "start_time": "09:40",
-      "end_time": "11:40",
-      "episode_description": "Dos ambiciosos agentes del FBI de color se hacen pasar por mujeres, novatas en la alta sociedad, en el exclusivo complejo Hamptons para investigar un círculo de secuestros."
-    },
-    {
-      "show_name": "El tesoro del Amazonas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/el-tesoro-del-amazonas.webp",
-      "show_category": "The Rundown",
-      "start_time": "11:40",
-      "end_time": "13:35",
-      "episode_description": "Un tenaz cazador de recompensas recibe una nueva misión: viajar a la jungla brasileña para hallar al hijo de un mafioso. Pero la búsqueda de un ídolo del oro y las acciones de un ambicioso hombre del lugar complicarán sus planes."
-    },
-    {
-      "show_name": "Golpe bajo: el juego final",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/golpe-bajo-el-juego-final.webp",
-      "show_category": "The Longest Yard",
-      "start_time": "13:35",
-      "end_time": "15:40",
-      "episode_description": "Paul Crewe, un jugador de fútbol americano, y Nate Scarboro, entrenador y antiguo campeón, se encuentran cumpliendo condena en la misma prisión. Juntos deciden formar un equipo que juegue contra los guardias de la cárcel."
-    },
-    {
-      "show_name": "Tren bala",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Bullet Train",
-      "start_time": "15:40",
-      "end_time": "18:05",
-      "episode_description": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final."
-    },
-    {
-      "show_name": "Gigantes de acero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/gigantes-de-acero.webp",
-      "show_category": "Real Steel",
-      "start_time": "18:05",
-      "end_time": "20:30",
-      "episode_description": "Experimenta la adrenalina y el frenesí de una actividad como la lucha de robots. Esta es la historia de un ex campeón de boxeo que, empujado por el fuerte deseo de un niño, regresa a las peleas de la mano de un misterioso robot."
-    },
-    {
-      "show_name": "El justiciero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/el-justiciero.webp",
-      "show_category": "The Equalizer",
-      "start_time": "20:30",
-      "end_time": "23:00",
-      "episode_description": "McCall está convencido de haber dejado atrás su misterioso pasado y ahora se dedica a construir una vida nueva y tranquila. Pero cuando conoce a una joven que está en manos de gánsteres rusos ultra violentos, se sentirá obligado a ayudarla."
-    },
-    {
-      "show_name": "Enloqueciendo contigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 2 Episodio 5 - Casada con el trabajo",
-      "start_time": "23:00",
-      "end_time": "23:30",
+      "start_time": "01:34",
+      "end_time": "02:05",
       "episode_description": "Jimena, al borde del colapso, toma la decisión de renunciar a su trabajo."
     },
     {
-      "show_name": "¿Quién son los Millers?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/quién-son-los-millers.webp",
-      "show_category": "We're the Millers",
-      "start_time": "23:30",
-      "end_time": "01:34",
-      "episode_description": "Luego de que le roben la mercancía de toda una semana, el pequeño traficante David es obligado por su jefe a ir a México a buscar un gran cargamento de marihuana. Para ello, idea un plan que le permita cruzar la frontera sin problemas."
+      "show_name": "Anatomía según Grey",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 15 - Bust Your Windows",
+      "start_time": "02:05",
+      "end_time": "03:00",
+      "episode_description": "La plataforma de un limpiador de ventanas se estrella contra la ventana de un hospital, poniendo a prueba los límites del personal del Grey Sloan. Blue y Simone se enfrentan por sus condiciones de vida."
+    },
+    {
+      "show_name": "Anatomía según Grey",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 16 - Papa Was a Rollin' Stone",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Amelia realiza una cirugía cerebral de alto riesgo en un paciente joven, mientras Winston y Jules no están de acuerdo sobre cómo tratar con la familia de un paciente con trauma. Además, Jo y Link luchan con los preparativos de la boda."
+    },
+    {
+      "show_name": "Anatomía según Grey",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 17 - Love You Like a Love Song",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "El día de la boda de Jo y Link finalmente llega, acompañado de algunos visitantes. Mientras, Teddy y Owen dan la bienvenida a una figura familiar que busca tratamiento. Además, Lucas no acuerda con Simone sobre cómo tratar a un paciente."
+    },
+    {
+      "show_name": "Anatomía según Grey",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 18 - How Do I Live",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Los internos están entusiasmados por pasar a su segundo año de residencia, pero se desarrolla una emergencia médica en el quirófano, poniendo en riesgo vidas dentro del hospital."
+    },
+    {
+      "show_name": "Chicas con clase",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Design House",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "El primer trabajo de redecoración de Suzanne en Sugarbaker's, termina cuando la casa donde trabaja se incendia."
+    },
+    {
+      "show_name": "Chicas con clase",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Mary Jo's First Date",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Suzanne convence a Mary Jo para que le permita concertarle una cita."
+    },
+    {
+      "show_name": "Mi esposa y mis hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mi-esposa-y-mis-hijos-s02e29-annyversary-part-2_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 29 - El aniversario - Parte 2",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Janet está decepcionada porque piensa que Michael se olvidó de su aniversario de bodas. Sin embargo, Jay no sabe que su marido planea una ceremonia para renovar los votos."
+    },
+    {
+      "show_name": "Mi esposa y mis hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mi-esposa-y-mis-hijos-s03e00-the-kyles-go-to-hawaii-parts-1-2_l_m.jpg",
+      "show_category": "Temporada 3 - The Kyles Go to Hawaii - Parts 1 & 2",
+      "start_time": "07:30",
+      "end_time": "08:20",
+      "episode_description": "Los Kyles se van de vacaciones familiares a Hawaii, pero en lugar de tomar un solo vuelo directo a la isla, Michael pensó que sería una buena idea hacer un recorrido rápido por el país. / Michael y Janet deciden tener una cena romántica."
+    },
+    {
+      "show_name": "La niñera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s05e05-the-ex-niles_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 5 - El nuevo mayordomo",
+      "start_time": "08:20",
+      "end_time": "08:50",
+      "episode_description": "Fran y C.C. le piden al Dr. Joyce Brothers que decida quién es mejor para Maxwell. Entretanto, Niles exige un aumento y Maxwell se niega, lo que lo lleva a renunciar."
+    },
+    {
+      "show_name": "La niñera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s05e07-mommy-and-mai_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 7 - Mamá y Mai",
+      "start_time": "08:50",
+      "end_time": "09:20",
+      "episode_description": "Fran y Val se sorprenden cuando la asiática que adoptaron hace algunos años viene a la ciudad."
+    },
+    {
+      "show_name": "La niñera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s05e08-fair-weather-fran_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 8 - Fran, la chica del tiempo",
+      "start_time": "09:20",
+      "end_time": "09:50",
+      "episode_description": "Con la boda de Yetta acercándose, Fran busca un nuevo trabajo y obtiene una audición para un trabajo en televisión."
+    },
+    {
+      "show_name": "Perrito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_perrito-2017_l_m.jpg",
+      "show_category": "Puppy",
+      "start_time": "09:50",
+      "end_time": "10:00",
+      "episode_description": "Los residentes del Hotel Transylvania encuentran su mundo al revés cuando el joven Dennis consigue una mascota del tamaño de un monstruo."
+    },
+    {
+      "show_name": "SWAT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_swat-2003_l_m.jpg",
+      "show_category": "Acción / 2003 /6.0",
+      "start_time": "10:00",
+      "end_time": "12:10",
+      "episode_description": "El nuevo equipo S.W.A.T. es lanzado a la acción cuando un lord de las drogas ofrece $100 millones de dólares a quien lo libere de la policía. Mientras ellos escoltan al interfecto, son perseguidos por una banda de mercenarios."
+    },
+    {
+      "show_name": "El escuadrón del crimen",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-escuadron-del-crimen-2010_l_m.jpg",
+      "show_category": "Takers",
+      "start_time": "12:10",
+      "end_time": "14:10",
+      "episode_description": "Una conocida banda de atracadores de bancos mantiene en vilo a la policía. Ellos funcionan como un mecanismo de relojería, entrando y saliendo sin dejar huella alguna, y manteniéndose discretamente inactivos entre atraco y atraco."
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vecinos-s08e10-bloopers_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 10 - Bloopers",
+      "start_time": "14:10",
+      "end_time": "14:40",
+      "episode_description": "Mira los bloopers y errores que cometieron los Vecinos mientras grababan esta temporada. Ríete con ellos en este episodio especial."
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vecinos-s09e01-las-palomas_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 1 - Las palomas",
+      "start_time": "14:40",
+      "end_time": "15:10",
+      "episode_description": "El vestíbulo está lleno de excremento de palomas. ¿Crees que Germán y Jorjais lograrán ahuyentar a la parvada? Mientras tanto, Arturo les pedirá café a los vecinos para que Magda no se ponga de mal humor por las mañanas."
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vecinos-s09e02-quedate-en-casa_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 2 - Quédate en casa",
+      "start_time": "15:10",
+      "end_time": "15:40",
+      "episode_description": "Debido a la pandemia, los Vecinos entran en cuarentena y no podrán salir de sus casas. Así que, por la sana distancia, organizarán reuniones por videollamada y Germán vigilará que nadie salga del edificio."
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vecinos-s09e03-el-huerto-de-vanesa_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 3 - El huerto de Vanesa",
+      "start_time": "15:40",
+      "end_time": "16:10",
+      "episode_description": "Vanessa se encargará del huerto urbano del edificio, pero... ¿quién será el ladrón de verduras? Además, Roco tiene hinchado un cachete debido a un dolor de muela y se niega a ir al dentista."
+    },
+    {
+      "show_name": "Son como niños",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_son-como-ninos-2010_l_m.jpg",
+      "show_category": "Grown Ups",
+      "start_time": "16:10",
+      "end_time": "18:05",
+      "episode_description": "Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido."
+    },
+    {
+      "show_name": "Golpe bajo: el juego final",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_golpe-bajo-el-juego-final-2005_l_m.jpg",
+      "show_category": "The Longest Yard",
+      "start_time": "18:05",
+      "end_time": "20:10",
+      "episode_description": "Paul Crewe, un jugador de fútbol americano, y Nate Scarboro, entrenador y antiguo campeón, se encuentran cumpliendo condena en la misma prisión. Juntos deciden formar un equipo que juegue contra los guardias de la cárcel."
+    },
+    {
+      "show_name": "Búsqueda implacable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_busqueda-implacable-2008_l_m.jpg",
+      "show_category": "Taken",
+      "start_time": "20:10",
+      "end_time": "21:54",
+      "episode_description": "Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata."
+    },
+    {
+      "show_name": "La chica salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Where the Crawdads Sing",
+      "start_time": "21:54",
+      "end_time": "00:19",
+      "episode_description": "Kya, una niña abandonada que se crio hasta la edad adulta en los peligrosos pantanos de Carolina del Norte, se vuelve la sospechosa principal en la muerte de un hombre con el que mantuvo una relación tiempo atrás."
     }
   ]
 }
