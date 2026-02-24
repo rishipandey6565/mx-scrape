@@ -1,6 +1,6 @@
 {
   "channel": "TV5MONDE",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
@@ -11,18 +11,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Documentaire",
+      "show_name": "Le premier venu",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:45",
-      "end_time": "01:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La grande galerie francophone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:42",
       "end_time": "02:35",
       "episode_description": ""
     },
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Littoral",
+      "show_name": "Pistes vertes",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:33",
@@ -59,18 +51,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infrarouge, le débat rts",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:55",
+      "end_time": "05:54",
       "episode_description": ""
     },
     {
-      "show_name": "Curieux bégin",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:54",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -91,31 +83,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une brique dans le ventre",
+      "show_name": "L'auberge espagnole",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:17",
+      "end_time": "08:18",
       "episode_description": ""
     },
     {
-      "show_name": "Escapades en suisse italienne",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:17",
-      "end_time": "08:44",
+      "start_time": "08:18",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:44",
+      "start_time": "08:45",
       "end_time": "09:11",
       "episode_description": ""
     },
     {
-      "show_name": "Chef Pays",
+      "show_name": "Curieux bégin",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:11",
@@ -151,14 +143,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:05",
+      "end_time": "12:03",
       "episode_description": ""
     },
     {
-      "show_name": "OPJ",
+      "show_name": "Victoria",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:05",
+      "start_time": "12:03",
+      "end_time": "13:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UN WEEK-END",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:37",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,18 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hep taxi !",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:01",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le Point",
+      "show_name": "Infrarouge, le débat rts",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:01",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Dimanche á la campagne",
+      "show_name": "Marianne",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
@@ -227,43 +227,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Objectif monde",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:33",
+      "end_time": "21:44",
       "episode_description": ""
     },
     {
-      "show_name": "Au bout de l'enquête, la fin",
+      "show_name": "Juliette dans son bain",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:33",
-      "end_time": "22:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Au bout de l'enquête, la fin",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:22",
-      "end_time": "23:12",
+      "start_time": "21:44",
+      "end_time": "23:17",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:12",
-      "end_time": "23:37",
+      "start_time": "23:17",
+      "end_time": "23:42",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:37",
-      "end_time": "00:45",
+      "start_time": "23:42",
+      "end_time": "00:49",
       "episode_description": ""
     }
   ]

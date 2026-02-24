@@ -1,52 +1,44 @@
 {
   "channel": "AMC (México)",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "El Conde de Montecristo",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Bloodshot",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bloodshot.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "01:20",
+      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
+    },
+    {
+      "show_name": "Siberia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:20",
+      "end_time": "03:15",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky Balboa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:55",
-      "episode_description": ""
+      "show_name": "Blade Runner 2049",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/blade_runner_2049.jpg",
+      "show_category": "Ciencia Ficción",
+      "start_time": "03:15",
+      "end_time": "06:05",
+      "episode_description": "Treinta años han pasado, un nuevo Blade Runner, el oficial de la LAPD, K (Ryan Gosling), descubre un secreto enterrado desde hace mucho tiempo que tiene el potencial para hundir lo que queda de la sociedad en el caos. El descubrimiento de K lo lleva en una búsqueda para encontrar a Rick Deckard (Harrison Ford), un ex Blade Runner de la LAPD que ha estado desaparecido por 30 años."
     },
     {
-      "show_name": "Plan de escape El rescate",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:55",
-      "end_time": "05:45",
+      "start_time": "06:05",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "06:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:10",
-      "end_time": "06:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:35",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -119,64 +111,64 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
+      "end_time": "11:25",
       "episode_description": ""
     },
     {
-      "show_name": "El bebé de Bridget Jones",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:45",
+      "start_time": "11:25",
+      "end_time": "11:50",
       "episode_description": ""
     },
     {
-      "show_name": "Tomb Raider",
+      "show_name": "Ben-hur",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
-      "end_time": "15:55",
+      "start_time": "11:50",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hombres de Negro MIB Int",
+      "show_name": "Invasión Del Mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:55",
-      "end_time": "18:00",
+      "start_time": "14:00",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
-      "show_name": "Justicia implacable",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:05",
-      "episode_description": ""
+      "show_name": "RoboCop",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/robocop.jpg",
+      "show_category": "Acción",
+      "start_time": "16:05",
+      "end_time": "18:15",
+      "episode_description": "En un futuro no muy lejano un policía de la ciudad de Detroit llamado Alex J. Murphy (Peter Weller) persigue a una banda de delincuentes pero es atrapado y acribillado a balazos al punto que es dado por muerto pero una compañía llamada OCP, que es la encargada de mostrar un producto para combatir el crimen lleva a cabo la tarea de utilizar a este hombre para convertirlo en un ciborg que ayude a combatir el crimen."
     },
     {
       "show_name": "Los indestructibles 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:05",
-      "end_time": "22:00",
+      "start_time": "18:15",
+      "end_time": "20:05",
       "episode_description": ""
     },
     {
-      "show_name": "Yo, Frankenstein",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/yo-frankenstein.webp",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:25",
-      "episode_description": "200 años atrás, el Doctor Frankenstein hizo una criatura que llevaría su mismo apellido, desde entonces esta criatura ha estado habitando entre nosotros y ahora Adam Frankenstein (Aaron Eckhart) se encuentra atrapado en una batalla ancestral sobre el destino de la humanidad, Adam descubre que él tiene la llave que podría destruir la humanidad."
+      "show_name": "Hombres de Negro 3",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro_iii.jpg",
+      "show_category": "Acción",
+      "start_time": "20:05",
+      "end_time": "22:00",
+      "episode_description": "Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad."
     },
     {
-      "show_name": "Bloodshot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/bloodshot.webp",
-      "show_category": "Acción",
-      "start_time": "23:25",
-      "end_time": "01:20",
-      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
+      "show_name": "Million dollar Baby",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "00:35",
+      "episode_description": ""
     }
   ]
 }

@@ -1,65 +1,73 @@
 {
   "channel": "TVUNAM",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
       "show_name": "Tiempo de Filmoteca UNAM Esc",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
       "show_name": "Tiempo de Filmoteca UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:05",
-      "end_time": "00:20",
+      "start_time": "00:00",
+      "end_time": "00:15",
       "episode_description": ""
     },
     {
-      "show_name": "Nuestro Golfo de México",
+      "show_name": "A la conquista del sabor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:20",
-      "end_time": "00:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TV UNAM",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:50",
-      "end_time": "03:50",
+      "start_time": "00:15",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:50",
-      "end_time": "06:50",
+      "start_time": "00:45",
+      "end_time": "03:45",
       "episode_description": ""
     },
     {
       "show_name": "TV UNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:50",
+      "start_time": "03:45",
+      "end_time": "06:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TV UNAM",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:45",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "La matiné",
+      "show_name": "Sold Out",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De los Dioses, el maíz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Científico",
+      "show_name": "Enlaces",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo real Rutas de esclavitu",
+      "show_name": "Los imprescindibles Los grand",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alrededor del mar",
+      "show_name": "La Ilíada",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jueves de ciencia",
+      "show_name": "Música en escena",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Incluidos. Trabajos sin preju",
+      "show_name": "De los Dioses, el maíz",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -115,15 +123,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Concierto sinfónico",
+      "show_name": "Tiempo de Filmoteca UNAM 90 a",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enlaces",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Especial 78 años",
+      "show_name": "Arqueología Mexicana",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -131,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La maquiladora",
+      "show_name": "Diálogos por la democracia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -147,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alrededor del mar",
+      "show_name": "La Ilíada",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo real Rutas de esclavitu",
+      "show_name": "Los imprescindibles Los grand",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -163,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A la conquista del sabor",
+      "show_name": "#EnTrending",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -171,10 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "RockLab. Donde hay vida más al",
+      "show_name": "Clic Cultural",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arqueología Mexicana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },

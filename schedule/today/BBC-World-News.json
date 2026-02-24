@@ -1,6 +1,6 @@
 {
   "channel": "BBC World News",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
       "show_name": "Business Today",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:55",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:55",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:55",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:55",
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:55",
@@ -251,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:55",
@@ -307,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:55",
@@ -347,7 +347,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "Inside Museums",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:55",
@@ -363,7 +363,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Newsnight",
+      "show_name": "Newsnight with Victoria Derbyshire",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -376,6 +376,46 @@
       "show_category": "",
       "start_time": "17:00",
       "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Newscast",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "President Trump's Address to Congress",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "BBC News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

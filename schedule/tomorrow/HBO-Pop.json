@@ -1,117 +1,149 @@
 {
   "channel": "HBO Pop",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "La leyenda del zorro",
+      "show_name": "El Grinch",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:10",
+      "end_time": "00:10",
       "episode_description": ""
     },
     {
-      "show_name": "Los Ángeles de Charlie 2",
+      "show_name": "Una mamá para mi bebé",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:10",
+      "start_time": "00:10",
+      "end_time": "01:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sarah Silverman Alguien a",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:55",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Color Purple",
+      "show_name": "La muerte le sienta bien",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "05:30",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "Hasta que la Muerte los Juntó",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/hasta-que-la-muerte-los-juntó.webp",
-      "show_category": "Comedia",
-      "start_time": "05:30",
-      "end_time": "07:15",
-      "episode_description": "Cuando su padre de los Altman pasa a mejor vida, cuatro hermanos adultos – con problemas en sus vidas de mayores – se ven obligados a regresar a la casa donde vivieron de pequeños y vivir bajo el mismo techo junto a su madre durante una semana."
-    },
-    {
-      "show_name": "Pieza por pieza",
+      "show_name": "After amor infinito",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:15",
-      "end_time": "08:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El escuadrón suicida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:50",
-      "end_time": "11:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Feliz Día de tu Muerte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/feliz-día-de-tu-muerte-2.webp",
-      "show_category": "Terror",
-      "start_time": "11:05",
-      "end_time": "12:50",
-      "episode_description": "Theresa \"Tree\" Gelbman (Jessica Rothe) descubre que morir una y otra vez fue sorprendentemente más fácil que los peligros que se aproximan."
-    },
-    {
-      "show_name": "Las ex novias de mi novio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:50",
-      "end_time": "14:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cincuenta Sombras Liberadas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/cincuenta-sombras-liberadas.webp",
-      "show_category": "Drama",
-      "start_time": "14:40",
-      "end_time": "16:30",
-      "episode_description": "Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey."
-    },
-    {
-      "show_name": "Admitido",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "18:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El escuadrón suicida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:10",
-      "end_time": "20:25",
+      "start_time": "04:45",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
       "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:25",
-      "end_time": "21:00",
+      "start_time": "06:25",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
-      "show_name": "Los Perdedores",
+      "show_name": "Kárate Kid 3 Desafío Final",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:40",
+      "start_time": "06:55",
+      "end_time": "08:50",
       "episode_description": ""
     },
     {
-      "show_name": "El Grinch",
+      "show_name": "Departamento de Homicidios",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:40",
-      "end_time": "00:10",
+      "start_time": "08:50",
+      "end_time": "10:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:50",
+      "end_time": "11:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noche de Juegos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/noche_de_juegos.jpg",
+      "show_category": "Crimen",
+      "start_time": "11:25",
+      "end_time": "13:10",
+      "episode_description": "Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este \"juego\" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego."
+    },
+    {
+      "show_name": "Una Esposa de Mentira",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg",
+      "show_category": "Comedia",
+      "start_time": "13:10",
+      "end_time": "15:10",
+      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
+    },
+    {
+      "show_name": "Amor Explosivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:10",
+      "end_time": "16:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Cómo Sobrevivir a mi Ex?",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_sobrevivir_a_mi_ex.jpg",
+      "show_category": "Drama",
+      "start_time": "16:35",
+      "end_time": "18:30",
+      "episode_description": "Peter (Jason Segel) es alguien excéntrico pero un día como cualquiera otro, su ex novia Sara (Kristen Bell) decide terminar con él. Dadas las circunstancias, un amigo le sugiere que tome unas vacaciones en Hawái, pero sin saberlo su ex está en el hotel donde se hospeda."
+    },
+    {
+      "show_name": "Cuidado con el guardia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor Explosivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:55",
+      "end_time": "22:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:25",
+      "end_time": "23:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Si yo tuviera 30",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:20",
+      "end_time": "01:05",
       "episode_description": ""
     }
   ]

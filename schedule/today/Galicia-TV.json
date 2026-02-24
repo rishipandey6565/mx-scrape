@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "48 Horas para o si",
+      "show_name": "Expediente oculto",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -31,6 +31,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:45",
+      "end_time": "03:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O agro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:55",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -167,14 +175,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
-      "end_time": "20:25",
+      "end_time": "20:15",
       "episode_description": ""
     },
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Latitude galega",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:25",
+      "start_time": "20:15",
+      "end_time": "21:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galegos no mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:05",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conexión Galicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "00:00",
       "episode_description": ""
     }

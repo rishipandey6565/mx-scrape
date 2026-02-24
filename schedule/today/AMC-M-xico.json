@@ -1,60 +1,52 @@
 {
   "channel": "AMC (México)",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
       "show_name": "El Conde de Montecristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:05",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rocky Balboa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:55",
       "episode_description": ""
     },
     {
       "show_name": "Plan de escape El rescate",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:05",
-      "end_time": "02:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Caos: El Inicio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/caos-el-inicio.webp",
-      "show_category": "Aventura",
-      "start_time": "02:55",
-      "end_time": "04:50",
-      "episode_description": "En un futuro no muy lejano, Todd Hewitt (Tom Holland) descubre a Viola Eade (Daisy Ridley), una chica misteriosa que aterriza en su planeta, donde todas las mujeres han desaparecido y los hombres están afectados por \"el Ruido\" – una fuerza que pone todos sus pensamientos en exhibición. En este peligroso paisaje, la vida de Viola está amenazada – y mientras Todd jura protegerla, tendrá que descubrir su propio poder interior y descubrir los oscuros secretos del planeta."
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/tales-of-the-walking-dead.webp",
-      "show_category": "Drama",
-      "start_time": "04:50",
-      "end_time": "05:40",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:40",
-      "end_time": "06:05",
+      "start_time": "03:55",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:05",
-      "end_time": "06:30",
+      "start_time": "05:45",
+      "end_time": "06:10",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:10",
+      "end_time": "06:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:35",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -131,68 +123,60 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "El bebé de Bridget Jones",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "11:55",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
-      "show_name": "El Diario de Bridget Jones",
+      "show_name": "Tomb Raider",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:55",
-      "end_time": "13:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "2067",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:50",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Invasión Del Mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
-      "end_time": "17:50",
+      "start_time": "13:45",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
       "show_name": "Hombres de Negro MIB Int",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:50",
-      "end_time": "19:50",
+      "start_time": "15:55",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "Justicia implacable",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:50",
+      "start_time": "18:00",
+      "end_time": "20:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los indestructibles 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:05",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Talamasca The Secret",
-      "show_logo": "",
+      "show_name": "Yo, Frankenstein",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/yo_frankenstein.jpg",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:55",
-      "episode_description": ""
+      "end_time": "23:25",
+      "episode_description": "200 años atrás, el Doctor Frankenstein hizo una criatura que llevaría su mismo apellido, desde entonces esta criatura ha estado habitando entre nosotros y ahora Adam Frankenstein (Aaron Eckhart) se encuentra atrapado en una batalla ancestral sobre el destino de la humanidad, Adam descubre que él tiene la llave que podría destruir la humanidad."
     },
     {
-      "show_name": "El Conde de Montecristo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:55",
-      "end_time": "02:00",
-      "episode_description": ""
+      "show_name": "Bloodshot",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bloodshot.jpg",
+      "show_category": "Acción",
+      "start_time": "23:25",
+      "end_time": "01:20",
+      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
     }
   ]
 }

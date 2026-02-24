@@ -1,125 +1,133 @@
 {
   "channel": "Pánico",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "Todos los Dioses Del Cielo",
+      "show_name": "La Cámara Del Demonio",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:47",
+      "end_time": "00:06",
       "episode_description": ""
     },
     {
-      "show_name": "Gehenna: Donde Vive la Muerte",
+      "show_name": "Hasta los Huesos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:47",
-      "end_time": "02:38",
+      "start_time": "00:06",
+      "end_time": "02:21",
       "episode_description": ""
     },
     {
-      "show_name": "The Field Guide To Evil",
+      "show_name": "Deathcember",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:38",
-      "end_time": "04:38",
+      "start_time": "02:21",
+      "end_time": "04:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Niña Buena, Niña Mala",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:50",
+      "end_time": "06:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Curados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:24",
+      "end_time": "08:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Señor Diablo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:06",
+      "end_time": "09:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Criaturas salvajes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:42",
+      "end_time": "11:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Abandonada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:18",
+      "end_time": "12:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Amusement Park",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:51",
+      "end_time": "13:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aprisionados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:50",
+      "end_time": "15:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Reeker: Noche Diabólica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:27",
+      "end_time": "17:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hostile",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:04",
+      "end_time": "18:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dark Touch",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:42",
+      "end_time": "20:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jack In the Box: El Origen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:19",
+      "end_time": "21:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jack In the Box: El Despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:53",
+      "end_time": "23:31",
       "episode_description": ""
     },
     {
       "show_name": "Jack en la Caja Maldita 3: El Ascenso",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:38",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lyle",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "07:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las 6 Ruedas Del Infierno",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:24",
-      "end_time": "08:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Miedo Profundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:53",
-      "end_time": "10:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hija",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:20",
-      "end_time": "12:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Double Blind",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:02",
-      "end_time": "13:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nightmare Symphony",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:36",
-      "end_time": "15:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La espera",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:01",
-      "end_time": "16:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Secreto de Sinchanee",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:49",
-      "end_time": "18:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "King On Screen",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:50",
-      "end_time": "20:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ouija Craft",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:42",
-      "end_time": "22:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Cámara Del Demonio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:09",
-      "end_time": "00:06",
+      "start_time": "23:31",
+      "end_time": "01:09",
       "episode_description": ""
     }
   ]
