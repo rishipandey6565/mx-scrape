@@ -1,222 +1,230 @@
 {
   "channel": "Discovery Channel",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "Extraídos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Quemar antes de leer",
-      "start_time": "00:16",
-      "end_time": "01:05",
-      "episode_description": "A medida que los supervivientes continúan adaptándose a su entorno, las emociones en la sede central estallan de formas inesperadas. Además, los miembros de las familias tienen la oportunidad de escribirle a su superviviente."
-    },
-    {
-      "show_name": "Proyecto C.A.T.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/proyecto-cat.webp",
-      "show_category": "Tigerland",
-      "start_time": "01:05",
-      "end_time": "02:42",
-      "episode_description": "Un siglo atrás, la población de tigres era de 100.000 en el planeta y hoy hay menos de 4000. Este documental sigue los esfuerzos de Rusia e India por sacar a estos animales de la extinción y salvar la especie."
-    },
-    {
-      "show_name": "The Hunt",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - En el bosque",
-      "start_time": "02:42",
-      "end_time": "03:35",
-      "episode_description": "Los tigres, las águilas, los chimpancés y otros depredadores se enfrentan al desafío de tener éxito en el mundo confuso y tridimensional del bosque, que cubre un tercio de la superficie y alberga más de la mitad de especies del mundo."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - El hambre",
-      "start_time": "03:35",
-      "end_time": "04:24",
-      "episode_description": "Tras la tormenta, no llega la calma.. llegan los mosquitos, y su invasión es tan desesperante que puede costarles el desafío."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 1 Episodio 5 - Valor en Borneo",
-      "start_time": "04:24",
-      "end_time": "05:12",
-      "episode_description": "Puma Cabra y Julie Wright tienen que sobrevivir en Sabah, Borneo, durante ventiún días. La selva es su enemigo, además de luchar contra la enfermedad, el hambre y los elementos ponen a prueba su determinación."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 1 Episodio 6 - Peligro en el Bayou",
-      "start_time": "05:12",
-      "end_time": "06:00",
-      "episode_description": "Billy Berger y Ky Furneaux están en apuros al tener que sobrevivir durante 21 días en un pantano de Luisiana. Pierden su refugio en una tormenta y tienen que sortear serpientes letales y evitar caimanes hambrientos."
-    },
-    {
-      "show_name": "Pequeños gigantes de la naturaleza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/pequeños-gigantes-de-la-naturaleza.webp",
-      "show_category": "Temporada 1 Episodio 12 - El ninja de la selva",
-      "start_time": "06:00",
-      "end_time": "06:25",
-      "episode_description": "En la selva de Madagascar, el equipo busca una criatura casi invisible, el camaleón pantera. Cuando evalúan a este reptil, si increíble visión de 360 grados, su fuerza y su lengua fatal desafían las leyes de la física."
-    },
-    {
       "show_name": "A prueba de todo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/a-prueba-de-todo.webp",
-      "show_category": "Temporada 4 Episodio 1 - Alabama",
-      "start_time": "06:25",
-      "end_time": "07:13",
-      "episode_description": "Bear Grylls está en Alabama y allí se enfrenta a un río turbulento y helado, encara a un cruento jabalí, desafía un incendio en el bosque y se queda sin luz en el interior de una enorme gruta."
-    },
-    {
-      "show_name": "Desafío x2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/desafío-x2.webp",
-      "show_category": "Temporada 8 Episodio 6 - El invierno en las montañas",
-      "start_time": "07:13",
-      "end_time": "08:03",
-      "episode_description": "El veterano de la fuerza aérea, Bo McGlone y el ex boina verde, Grady Powell, tratan de sobrevivir al invierno en las montañas nevadas Big Horn de Wyoming."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/operación-alaska.webp",
-      "show_category": "Temporada 7 Episodio 4 - Varados en Shelikof",
-      "start_time": "08:03",
-      "end_time": "08:48",
-      "episode_description": "Nick busca madera para construir y se da cuenta de lo peligroso que es vivir en Alaska. La barcaza de Jere y Ben comienza su viaje hacia el agua. Luego, el equipo de Brannon logra construir su cabaña."
-    },
-    {
-      "show_name": "Hombres del Ártico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/hombres-del-ártico.webp",
-      "show_category": "Temporada 6 Episodio 1 - El camino",
-      "start_time": "08:48",
-      "end_time": "09:38",
-      "episode_description": "Los pobladores se enfrentan a otra amenaza, llegan intrusos a sus tierras sagradas. Charlie y James persiguen un alce y hacen un descubrimiento perturbador."
-    },
-    {
-      "show_name": "Fiebre del oro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/fiebre-del-oro.webp",
-      "show_category": "Temporada 11 Episodio 7 - El sexto sentido de Rick",
-      "start_time": "09:38",
-      "end_time": "10:28",
-      "episode_description": "Rick arriesga la temporada por la corazonada de haber descubierto un terreno con potencial. Tony moviliza un arsenal para sacar provecho del oro perdido. El equipo de Fred enfrenta problemas con la maquinaria vieja."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 1 Episodio 2 - Terror en Tanzania",
-      "start_time": "10:28",
-      "end_time": "11:18",
-      "episode_description": "Una pareja deberá sobrevivir en el desierto africano de Serengeti durante veintiún días, sin comida, agua o ropa. EJ Snyder y Kellie Night ponen sus destrezas ante la prueba más dura: vencer al terreno agreste lleno de depredadores."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 1 Episodio 4 - Castigo en Panamá",
-      "start_time": "11:18",
-      "end_time": "12:08",
-      "episode_description": "Clint Jivoin y Laura Zerra están varados en una isla panameña durante veintiún días. Cubiertos de moscas de arena y amenazados por las serpientes y los cocodrilos, los dos tienen que mantenerse juntos para sobrevivir."
-    },
-    {
-      "show_name": "Desolado con Ed Stafford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/desolado-con-ed-stafford.webp",
-      "show_category": "Temporada 3 Episodio 15 - Río Orinoco",
-      "start_time": "12:08",
-      "end_time": "12:59",
-      "episode_description": "Rodeado por devastadores incendios forestales, Ed Stafford lucha por sobrevivir en la árida sabana y las densas selvas a lo largo del río Orinoco."
-    },
-    {
-      "show_name": "Desolado con Ed Stafford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/desolado-con-ed-stafford.webp",
-      "show_category": "Temporada 3 Episodio 13 - Montaña ChangBai",
-      "start_time": "12:59",
-      "end_time": "13:50",
-      "episode_description": "Atrapado en casi dos metros de polvo, Ed Stafford tiene que descubrir cómo sobrevivir el tiempo suficiente para salir de la cima de la montaña ChangBai de China. Luego debe encontrar agua y comida en este árido paisaje nevado."
-    },
-    {
-      "show_name": "Desolado con Ed Stafford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/desolado-con-ed-stafford.webp",
-      "show_category": "Temporada 3 Episodio 14 - Montañas de Erongo",
-      "start_time": "13:50",
-      "end_time": "14:41",
-      "episode_description": "Las montañas de Erongo abarcan cientos de kilómetros de desierto árido, rocoso y abrasador, pero los bosquimanos han logrado sobrevivir aquí durante milenios. Ed Stafford se pregunta si podrá sobrevivir allí aprovechando sus tradiciones."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: edición extrema",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo-edición-extrema.webp",
-      "show_category": "Temporada 6 Episodio 3 - Proteína",
-      "start_time": "14:41",
-      "end_time": "16:24",
-      "episode_description": "Matt, Rylie y Ryan luchan contra un caimán para obtener una fuente de proteína. Gary descubre el cadáver de un animal y se produce un enfrentamiento. Sarah consigue una comida que necesita desesperadamente."
-    },
-    {
-      "show_name": "Islas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/islas.webp",
-      "show_category": "Temporada 1 Episodio 2 - Borneo",
-      "start_time": "16:24",
-      "end_time": "17:22",
-      "episode_description": "Un viaje hacia los arrecifes de coral de Borneo, a través de impactantes selvas hasta su corazón montañoso, que revela por qué en esta isla hay una gran variedad de vida."
-    },
-    {
-      "show_name": "Caminos salvajes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/caminos-salvajes.webp",
-      "show_category": "",
-      "start_time": "17:22",
-      "end_time": "18:14",
-      "episode_description": "Rene, de Chile y Wayne, de Sudáfrica, llegan al Parque Nacional Torres del Paine en la Patagonia chilena en busca de un puma muy singular, una hembra joven que nació sin cola."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s06e06-en-la-tierra-de-los-maoris_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 6 - En la tierra de los maorís",
+      "start_time": "00:17",
+      "end_time": "01:08",
+      "episode_description": "En Nueva Zelanda se ahogan más de cien personas al año, y Bear debe atravesar un río turbulento sobre el tronco de un árbol para volver a la civilización. En su aventura, se queda sin agua, debe escalar un volcán y bajar por una catarata."
     },
     {
       "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/mexicánicos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s11e01-pablo-cruz-limo-los-cabos_l_m.jpg",
       "show_category": "Temporada 11 Episodio 1 - Pablo Cruz & Limo Los Cabos",
-      "start_time": "18:14",
-      "end_time": "19:06",
+      "start_time": "01:08",
+      "end_time": "01:58",
       "episode_description": "Martín y su equipo restauran una Bronco de los 90 para cumplir el sueño familiar del actor Pablo Cruz, mientras transforman una Suburban último modelo en una limusina de lujo para Los Cabos."
     },
     {
       "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/mexicánicos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s11e02-vacamion-carrozas-chiapas_l_m.jpg",
       "show_category": "Temporada 11 Episodio 2 - Vacamión & Carrozas Chiapas",
-      "start_time": "19:06",
-      "end_time": "19:58",
+      "start_time": "01:58",
+      "end_time": "02:46",
       "episode_description": "Martín y su equipo convierten un camión ISUZU ELF100 en un \"Vacamión\" totalmente funcional y de impacto visual. Además, transforman una Escalade 2006 y un Seat Arona 2021 en carrozas para clientes de Chiapas."
     },
     {
       "show_name": "Race to Survive: Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 5 - ¡Vamos, Grizzly, o vete a casa!",
-      "start_time": "19:58",
-      "end_time": "20:50",
+      "start_time": "02:46",
+      "end_time": "03:34",
       "episode_description": "Tras un peligroso encuentro con un oso y una caída por un acantilado, Alaska envía a otro equipo a casa."
     },
     {
       "show_name": "Race to Survive: Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 6 - Terror sobre la línea forestal",
-      "start_time": "20:50",
-      "end_time": "21:41",
+      "start_time": "03:34",
+      "end_time": "04:22",
       "episode_description": "Los osos obligan a un equipo a salirse del camino. Una decisión crucial podría impulsar a otro al primer puesto o al precipicio."
     },
     {
       "show_name": "Desolado con Ed Stafford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/desolado-con-ed-stafford.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e06-franja-de-caprivi-el-rio-kwando_l_m.jpg",
       "show_category": "Temporada 3 Episodio 6 - Franja de Caprivi / El río Kwando",
-      "start_time": "21:41",
-      "end_time": "22:34",
+      "start_time": "04:22",
+      "end_time": "05:10",
       "episode_description": "Stafford se esfuerza por sobrevivir durante 10 días en el corazón de África, Caprivi, un lugar con la mayor concentración de caza peligrosa del mundo."
     },
     {
       "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 4 - El hambre",
-      "start_time": "22:34",
-      "end_time": "23:27",
+      "start_time": "05:10",
+      "end_time": "06:00",
       "episode_description": "Tras la tormenta, no llega la calma.. llegan los mosquitos, y su invasión es tan desesperante que puede costarles el desafío."
     },
     {
-      "show_name": "Estómagos de hierro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/estómagos-de-hierro.webp",
-      "show_category": "Temporada 1 Episodio 6 - Malasia: isla tropical",
-      "start_time": "23:27",
-      "end_time": "00:17",
-      "episode_description": "El cazador neozelandés Josh James y el chef británico Matt Tebbutt emprenden una de sus aventuras más extremas, en una isla de Borneo. Josh se va de pesca, en tanto que Matt sale en busca de las mejores plantas silvestres."
+      "show_name": "Pequeños gigantes de la naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e11-espinas_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Espinas",
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": "Una búsqueda difícil en los bosques de Madagascar revela el tenrec rayado, un animal que tiene sentidos muy agudos. Mientras los muchachos estudian este terror subterráneo, descubren que los peligros del bosque siempre están presentes."
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s04e02-el-artico_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 2 - El Ártico",
+      "start_time": "06:25",
+      "end_time": "07:13",
+      "episode_description": "Bear se dirige al Círculo polar ártico donde caza renos salvajes y lucha contra temperaturas extremadamente frías, usa su paracaídas como cometa para cruzar un lago congelado y se sumerge hasta el cuello en un río helado."
+    },
+    {
+      "show_name": "Desafío x2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desafio-x2-s08e07-caos-colombiano_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 7 - Caos colombiano",
+      "start_time": "07:13",
+      "end_time": "08:03",
+      "episode_description": "Los veteranos del Ejército Grady Powell y Bo McGlone son abandonados en dos puntos separados de la selva colombiana para llevar a cabo una operación militar. Con ayuda de un mapa y un machete, deberán intentar sobrevivir."
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s07e05-que-deje-de-llover_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 5 - Que deje de llover",
+      "start_time": "08:03",
+      "end_time": "08:48",
+      "episode_description": "La lluvia y un camino embarrado ralentizan la construcción de la cabaña de Brannon. Igualmente, con el ánimo decaído, el equipo acarrea las ventanas por 3 kilómetros. Luego la barcaza de Jere y Ben zarpa y comienzan a trabajar en su cabaña."
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-del-artico-s06e02-un-tramo-peligroso_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 2 - Un tramo peligroso",
+      "start_time": "08:48",
+      "end_time": "09:38",
+      "episode_description": "Con la ayuda del nuevo novio de su hija, Charlie despeja el camino de un tramo peligroso del Yukón. Chris y Jessi idean un plan para cazar con armas caseras y trasladan de emergencia al hospital a la esposa de Pat, Lorene."
+    },
+    {
+      "show_name": "Fiebre del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fiebre-del-oro-s11e08-el-oro-perdido-de-paradise-hill_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 8 - El oro perdido de Paradise Hill",
+      "start_time": "09:38",
+      "end_time": "10:28",
+      "episode_description": "Tony pone en marcha una segunda planta para transportar el oro que dejaron otros mineros. Por otro lado, la tensión aumenta cuando Parker se va a Alaska y deja a cargo a Mitch."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s01e03-isla-del-infierno_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Isla del infierno",
+      "start_time": "10:28",
+      "end_time": "11:18",
+      "episode_description": "Jonathan y Alison están aislados en una de las islas Maldivas. La insolación y el hambre conspiran para evitar que completen 21 días de Supervivencia al desnudo."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s01e01-terror-en-tanzania_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - La maldición de la selva",
+      "start_time": "11:18",
+      "end_time": "12:08",
+      "episode_description": "Dos supervivientes tienen el desafío de sobrevivir durante veintiún días en la selva de Costa Rica, a pesar de que una serpiente letal muerde a un productor. Ellos se enfrentan a la lluvia, la enfermedad, el fuego... y a la serpiente."
+    },
+    {
+      "show_name": "Hot Wheels: a gran escala",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Mardi Gras Mania vs. The Reaper",
+      "start_time": "12:08",
+      "end_time": "12:59",
+      "episode_description": "Los superfans de Hot Wheels Michael Cooney y Nick Harrison se enfrentan para transformar un vehículo común y corriente en un extraordinario Hot Wheels inspirado en historias personales, intereses e hitos de la cultura pop."
+    },
+    {
+      "show_name": "Hot Wheels: a gran escala",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - Metamorphosis vs. Racer Girl",
+      "start_time": "12:59",
+      "end_time": "13:50",
+      "episode_description": "Los superfans Kris Parker y Lauren Partin se enfrentan para transformar un vehículo común y corriente en un extraordinario Hot Wheels espectacular, inspirado en historias personales, intereses y piedras de toque de la cultura pop."
+    },
+    {
+      "show_name": "Joyas sobre ruedas: por el mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Brasil: VW SP2",
+      "start_time": "13:50",
+      "end_time": "14:41",
+      "episode_description": "Los chicos van a São Paulo a comprar el VW SP2 brasileño. Es un sueño para Mike, pero el auto tiene una potencia desesperante. Con una carrera a la vuelta de la esquina,"
+    },
+    {
+      "show_name": "Supervivencia al desnudo: edición extrema",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-edicion-extrema-s07e04-las-leyendas-regresan_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 4 - Gary come todo",
+      "start_time": "14:41",
+      "end_time": "16:24",
+      "episode_description": "Con una enorme victoria contra un cocodrilo, Gary se come algunas partes, que son demasiado para el estómago del equipo. Las complicaciones del parásito de Matt se agravan. Steven y Jeff acechan a una presa muy necesaria."
+    },
+    {
+      "show_name": "Islas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_islas-s01e03-hawai_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Hawái",
+      "start_time": "16:24",
+      "end_time": "17:22",
+      "episode_description": "Un viaje a través de las variadas islas de Hawái, en el que se descubrirá cómo se hicieron y la increíble vida salvaje que hay allí."
+    },
+    {
+      "show_name": "Costa Rica salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_costa-rica-salvaje_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "17:22",
+      "end_time": "18:14",
+      "episode_description": "Conozca a los excepcionales y sigilosos ocelotes y pumas, y explore el vibrante mundo submarino que alberga la mayor cantidad de tiburones del planeta."
+    },
+    {
+      "show_name": "Mexicánicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s08e07-ford-1936-el-legado-de-martin-vaca_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 7 - Ford 1936, \"El legado de Martín Vaca\"",
+      "start_time": "18:14",
+      "end_time": "19:06",
+      "episode_description": "Martín pretende armar la camioneta desde cero, utiliza el chasis de una camioneta donada marca Nissan de los 90. En ese chasis se montará la cabina de la Ford 56, además prepararán toda la carrocería para su pintura."
+    },
+    {
+      "show_name": "Mexicánicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s08e08-robegrill-y-su-que-chille-movil_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 8 - Robegrill y su Que Chille Móvil",
+      "start_time": "19:06",
+      "end_time": "19:58",
+      "episode_description": "Robegrill trae entre manos un proyecto ambicioso, divertido y altruista. Quiere convertir una camioneta Land Rover en el \"QUE CHILLE MÓVIL\", un asador sobre ruedas, con la finalidad de llevar lo que él hace a comunidades necesitadas."
+    },
+    {
+      "show_name": "Mexicánicos: Estado de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Panel 1951, Stingray 77 y viaje a LA",
+      "start_time": "19:58",
+      "end_time": "20:50",
+      "episode_description": "Chelín y Pikin traen una Chevrolet Panel 1951 para convertirla en un camarín para sus shows. Además un cliente quiere que su Corvette Stingray 1977 deslumbre a sus amigos."
+    },
+    {
+      "show_name": "Mexicánicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexicanicos-s10e02-hermanas-mustang-vanavion_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 2 - Motorglam & Eleanor Robles",
+      "start_time": "20:50",
+      "end_time": "21:42",
+      "episode_description": "Martín Vaca enfrenta dos grandes retos: transformar una motorhome de los 80 en el lujoso Motorglam, un salón de belleza móvil para Marlett Morales y revivir un Mustang Shelby 1968 casi en ruinas para convertirlo en el icónico Eleanor."
+    },
+    {
+      "show_name": "Joyas sobre ruedas: por el mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - México: Baja Bug",
+      "start_time": "21:42",
+      "end_time": "22:34",
+      "episode_description": "Los chicos tienen la mira puesta en México, donde Elvis, fanático de los Beetle, quiere construir un Baja Bug. Pero con solo cinco días para completar la construcción y los costos acumulándose, Mike teme que Elvis se esté dejando llevar."
+    },
+    {
+      "show_name": "Ant Anstead: a todo motor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Dolomite Sprint: de pobre a rico",
+      "start_time": "22:34",
+      "end_time": "23:25",
+      "episode_description": "Ant descubre un raro Triumph Dolomite Sprint de 1980 que podría generar grandes ganancias y ayudar a iniciar las renovaciones en la granja. El problema: el coche no arranca y tiene óxido, así que es una apuesta arriesgada."
+    },
+    {
+      "show_name": "Hot Wheels: a gran escala",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Skater Boy vs. Jaipur Jewel",
+      "start_time": "23:25",
+      "end_time": "00:15",
+      "episode_description": "Los superfans Felix Arguelles y Arushi Garg se enfrentan transformando un vehículo común y corriente en un extraordinario Hot Wheels."
     }
   ]
 }
