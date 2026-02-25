@@ -1,118 +1,110 @@
 {
   "channel": "Cinema Platino",
-  "date": "25/02/2026",
+  "date": "26/02/2026",
   "schedule": [
     {
-      "show_name": "Creed II: Defendiendo el Legado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/creed-ii-defendiendo-el-legado.webp",
-      "show_category": "Drama",
-      "start_time": "00:00",
-      "end_time": "01:16",
-      "episode_description": "La vida se ha convertido en un acto de equilibrio para Adonis Creed (Michael B. Jordan). Entre las obligaciones personales y el entrenamiento para su próxima gran pelea, se enfrenta al desafío de su vida. Enfrentar a un oponente con vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Rocky Balboa (Sylvester Stallone) está a su lado a través de todo y, juntos, Rocky y Adonis enfrentarán su legado compartido, cuestionarán por qué vale la pena luchar y descubrirán que nada es más importante que la familia. Creed II se trata de volver a lo básico para redescubrir lo que te hizo un campeón en primer lugar, y recordar que, no importa a dónde vayas, no puedes escapar de tu historia."
-    },
-    {
-      "show_name": "Creed III",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/creed-iii.webp",
-      "show_category": "Drama",
-      "start_time": "01:16",
-      "end_time": "03:16",
-      "episode_description": "Después de dominar el mundo del boxeo, Adonis Creed (Michael B. Jordan) ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio del boxeo, Damian (Jonathan Majors), reaparece después de cumplir una larga condena en prisión, está ansioso por demostrar que merece su oportunidad en el ring. El Enfrentamiento entre antiguos amigos es más que una simple pelea. Para ajustar cuentas, Adonis debe arriesgar su futuro para luchar contra Damian – un luchador que no tiene nada que perder."
-    },
-    {
-      "show_name": "Peligro en la montaña",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:16",
-      "end_time": "04:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las Aventuras de un Cerdito",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:54",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atrapada En El Fondo Del Mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/atrapada-en-el-fondo-del-mar.webp",
-      "show_category": "Drama",
-      "start_time": "06:15",
-      "end_time": "07:41",
-      "episode_description": "Unos días después de Navidad, las medias hermanas Ida (Moa Gammel) y Tuva (Madeleine Martin) deciden hacer una inmersión en una remota costa, pero un deslave deja atrapada a Tuva bajo el agua. Ida regresa a la superficie para descubrir que el mismo desplazamiento de roca ha cubierto todo su equipo dejándolas completamente aisladas sin ninguna posibilidad de pedir ayuda. Mientras se desarrolla la frenética carrera por la supervivencia, Ida se someterá a los imposibles para ayudar a Tuva."
-    },
-    {
-      "show_name": "Respect: La Historia de Aretha Franklin",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/respect-la-historia-de-aretha-franklin.webp",
-      "show_category": "Biografía",
-      "start_time": "07:41",
-      "end_time": "10:12",
-      "episode_description": "Tras el ascenso de la carrera de Aretha Franklin (Jennifer Hudson) desde una niña cantado en el coro de la iglesia de su padre hasta su estrellato internacional, \"Respect\" es la notable historia real del viaje de la artista para encontrar su voz y convertirse en la Reina del Soul."
-    },
-    {
-      "show_name": "Amar No es Querer",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:12",
-      "end_time": "11:52",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maestras del Engaño",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/maestras-del-engaño.webp",
-      "show_category": "Comedia",
-      "start_time": "11:52",
-      "end_time": "13:33",
-      "episode_description": "Dos estafadoras, una de clase baja y la otra de clase baja, se unen para derribar a los hombres sucios y malvados que en algún momento las han despreciado."
-    },
-    {
-      "show_name": "Una Noche en Miami",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:33",
-      "end_time": "15:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Familia Monster 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:31",
-      "end_time": "17:17",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El túnel",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:17",
-      "end_time": "19:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gringo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:06",
-      "end_time": "20:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Redención",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/redención.webp",
-      "show_category": "Acción",
-      "start_time": "20:59",
-      "end_time": "23:07",
-      "episode_description": "Después de presenciar la caída de su unidad por culpa de fuego enemigo en Afganistán, Joey Jones (Jason Statham) ha estado viviendo en las calles de Londres, tratando de olvidar su pasado y evitar problemas. Mientras huye de una banda despiadada, entra en el apartamento de un hombre rico, y asume la identidad de un hombre de clase alta. Justo cuando Joey está en camino para encontrarse con su amiga y patrocinadora, la Hermana Cristina (Agata Buzek), su novia embarazada es encontrada muerta en el río. Ahora, Joey deberá usar sus contactos en la mafia china para encontrar al hombre responsable, sin detenerse hasta que se haga justicia."
-    },
-    {
       "show_name": "Duro de Cuidar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/duro-de-cuidar.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/duro_de_cuidar.jpg",
       "show_category": "Acción",
-      "start_time": "23:07",
+      "start_time": "00:00",
       "end_time": "01:12",
       "episode_description": "El mejor agente de protección del mundo Michael Bryce (Ryan Reynolds), está llamado a proteger la vida de su peor enemigo, uno de los sicarios más letales del mundo, Darius Kincaid (Samuel L. Jackson). El implacable guardaespaldas y el asesino manipulador han estado en los opuestos extremos de la bala por años y son lanzados juntos por 24 horas salvajes. Durante su estridente e hilarante aventura desde Inglaterra hasta Holanda, se topan con persecuciones de alta velocidad, extravagantes escapadas de botes y un despiadado dictador de Europa oriental, Vladislav Dukhovich (Gary Oldman), quien está en búsqueda de sangre. Sonia Kincaid (Salma Hayek) se une al caos como la esposa igualmente notoria de Darius."
+    },
+    {
+      "show_name": "El escándalo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:12",
+      "end_time": "03:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juego de Ladrones",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_robo_perfecto.jpg",
+      "show_category": "Acción",
+      "start_time": "03:05",
+      "end_time": "05:28",
+      "episode_description": "Una saga de crímenes de Los Ángeles en la línea de \"Calor\", sigue la vida de una unidad de élite del departamento del sheriff del condado de Los Ángeles y la banda de ladrones de bancos más exitosa del estado, mientras los forajidos planean un atraco aparentemente imposible al Banco de la Reserva Federal del centro de Los Ángeles."
+    },
+    {
+      "show_name": "Quanta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:28",
+      "end_time": "06:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Trece vidas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:57",
+      "end_time": "09:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agente Bajo Fuego",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/angel_has_fallen.jpg",
+      "show_category": "Acción",
+      "start_time": "09:27",
+      "end_time": "11:31",
+      "episode_description": "Cuando hay un intento de asesinato contra el presidente de los Estados Unidos, Allan Trumbull (Morgan Freeman), su hombre de confianza, el agente del Servicio Secreto Mike Banning (Gerard Butler), es acusado injustamente y puesto bajo custodia. Después de escapar de la captura, se convierte en un hombre que huye y debe evadir a su propia agencia y ser más astuto que el FBI para encontrar la verdadera amenaza hacia el presidente. Desesperado por descubrir la verdad, Bannin trabaja con aliados poco probables para ayudar a limpiar su nombre, evitar que su familia sufra daños y salvar al país del peligro inminente."
+    },
+    {
+      "show_name": "¡Hombre al Agua!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/overboard_2018.jpg",
+      "show_category": "Comedia",
+      "start_time": "11:31",
+      "end_time": "13:28",
+      "episode_description": "Leonardo (Eugenio Derbez), un playboy egoísta, mimado y de la familia más adinerada de México y Kate (Anna Faris), una madre soltera de clase trabajadora es contratada para limpiar el yate de lujo de Leonardo. Después de haber sido despedida injustamente y negarse a pagarle a ella, Leonardo hace una fiesta donde bebe demasiado y cae por la borda quedando inconsciente y despertando en la costa de Oregón con amnesia. Cuando Kate se entera de esto, ella se presenta en el hospital y decidida a recuperar su dinero, convence a Leonardo que él es su marido y hace que trabaje por primera vez en su vida. Al principio miserable e inepto, Leonardo se instala lentamente. Finalmente se gana el respeto de su nueva \"familia\" y sus compañeros de trabajo. Pero, con la familia de Leonardo multimillonaria en camino, y la posibilidad que su memoria pudiera regresar en cualquier momento, ¿Durará con su nueva familia o Leonardo finalmente recordara todo y la dejará para siempre?"
+    },
+    {
+      "show_name": "¿Cómo Matar a un Esposo Muerto?",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_matar_a_un_esposo_muerto.jpg",
+      "show_category": "Comedia",
+      "start_time": "13:28",
+      "end_time": "15:11",
+      "episode_description": "Una mujer, madre de familia, que debe enfrentar a las adversidades de la vida que conlleva a la separación de un hombre poderoso y prepotente que decide arruinarle la vida, aún, después de que ha muerto."
+    },
+    {
+      "show_name": "Lila y Eve",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:11",
+      "end_time": "16:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cariño, cuánto te odio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:49",
+      "end_time": "18:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Pasajero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:36",
+      "end_time": "20:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vivarium",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/vivarium.jpg",
+      "show_category": "Misterio",
+      "start_time": "20:25",
+      "end_time": "22:09",
+      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
+    },
+    {
+      "show_name": "Los misteriosos asesinatos de Limehouse",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:09",
+      "end_time": "00:02",
+      "episode_description": ""
     }
   ]
 }

@@ -1,109 +1,117 @@
 {
   "channel": "Golden Edge",
-  "date": "25/02/2026",
+  "date": "26/02/2026",
   "schedule": [
     {
-      "show_name": "La última oportunidad",
+      "show_name": "La caída del halcón negro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:17",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "Juego De Espias",
+      "show_name": "El gran pequeño",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:17",
-      "end_time": "03:34",
+      "start_time": "00:05",
+      "end_time": "01:59",
       "episode_description": ""
-    },
-    {
-      "show_name": "El que Busca Encuentra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Edge/tomorrow/el-que-busca-encuentra.webp",
-      "show_category": "Comedia",
-      "start_time": "03:34",
-      "end_time": "05:13",
-      "episode_description": "Marcos (Claudio Lafarga) y Esperanzas (Ana Brenda Contreras), dos niños perdidos en estadio Azteca durante un partido de futbol, mientras los policías buscan a sus padres, ellos tienen una pequeña plática de amor de niños y a tan temprana edad se enamoran. Después de 20 años – en los que no se han vuelto a ver – la vida los ha hecho pasar por caminos distintos, pero el recuerdo de ese amor infantil es tan intenso que deciden buscarse mutuamente, pero por un terrible error se separan una vez más, por lo que tendrán que luchar si realmente quieren estar nuevamente juntos."
-    },
-    {
-      "show_name": "Ya Veremos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Edge/tomorrow/ya-veremos.webp",
-      "show_category": "Drama",
-      "start_time": "05:13",
-      "end_time": "06:46",
-      "episode_description": "Santi (Emiliano Aramayo) es un niño que ha tenido que lidiar con la separación de sus padres, Rodrigo (Mauricio Ochmann) y Alejandra (Fernanda Castillo). Ellos están obligados a verse de vez en cuando, ya que, comparten el tiempo de su hijo. Un día reciben la noticia de que Santi debe someterse a una cirugía para no perder la vista, así que éste hace una lista de deseos para cumplirlos juntos con sus dos padres, antes de la operación. Rodrigo y Alejandra deberán aprender a convivir, embarcándose – sin sospecharlo – en un viaje que al final, hará que sea muy difícil separarse de nuevo."
     },
     {
       "show_name": "Abel",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:46",
-      "end_time": "08:15",
+      "start_time": "01:59",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juega conmigo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:56",
       "episode_description": ""
     },
     {
       "show_name": "Turbulencia 3: Heavy Metal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:15",
-      "end_time": "10:02",
+      "start_time": "04:56",
+      "end_time": "06:43",
       "episode_description": ""
     },
     {
-      "show_name": "Reyes de la calle",
+      "show_name": "El gran pequeño",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:02",
-      "end_time": "12:00",
+      "start_time": "06:43",
+      "end_time": "08:35",
       "episode_description": ""
     },
     {
-      "show_name": "Karate kid",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "14:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Contacto sangriento",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:21",
-      "end_time": "16:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Kickboxer La Venganza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:09",
-      "end_time": "17:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La carrera de la muerte 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:46",
-      "end_time": "19:37",
-      "episode_description": ""
+      "show_name": "Pánico en las Alturas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/panico_en_las_alturas.jpg",
+      "show_category": "Suspenso",
+      "start_time": "08:35",
+      "end_time": "10:08",
+      "episode_description": "Tres hombres y dos mujeres se dirigen al antiguo teleférico para celebrar una inolvidable celebración de Nochevieja en la cima de la montaña. Una divertida aventura se convierte en una pesadilla cuando el teleférico se detiene sobre el abismo.El frío, la altura y el miedo a una muerte lenta les hacen revelar su verdadera esencia y pelear entre ellos."
     },
     {
       "show_name": "La carrera de la muerte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:37",
-      "end_time": "21:30",
+      "start_time": "10:08",
+      "end_time": "12:01",
       "episode_description": ""
     },
     {
       "show_name": "La caída del halcón negro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "00:05",
+      "start_time": "12:01",
+      "end_time": "14:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Transformers: El lado oscuro de la Luna",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:36",
+      "end_time": "17:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Transformers: La Era de la Extinción",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_la_era_de_la_extincion.jpg",
+      "show_category": "Acción",
+      "start_time": "17:23",
+      "end_time": "20:24",
+      "episode_description": "Han transcurrido 4 años desde la invasión de Chicago y desde entonces el gobierno de los Estados Unidos ha estado estudiando la tecnología rescatada en ese acontecimiento para poder crear sus propios Transformers y así eliminar del planeta tanto a Decepticons como a los Autobots."
+    },
+    {
+      "show_name": "Temblores",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:24",
+      "end_time": "22:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El títere",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:09",
+      "end_time": "23:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lies We Tell",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:46",
+      "end_time": "01:37",
       "episode_description": ""
     }
   ]

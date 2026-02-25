@@ -1,28 +1,20 @@
 {
   "channel": "RAI International",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "TG Rai News",
+      "show_name": "Sanremo 76° Festival",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "TG1",
+      "show_name": "Sanremo 76° Festival",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "UnoMattina News",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:15",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Documentario Geo",
+      "show_name": "TG sport giorno",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:45",
@@ -179,10 +171,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Giostra del Gol",
+      "show_name": "Il paradiso delle signore",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:45",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ars-L'italia delle meraviglie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },

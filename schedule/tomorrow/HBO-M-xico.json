@@ -1,33 +1,41 @@
 {
   "channel": "HBO (México)",
-  "date": "25/02/2026",
+  "date": "26/02/2026",
   "schedule": [
     {
-      "show_name": "Mortal kombat",
+      "show_name": "A Knight of the Seven Kingdoms",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:44",
+      "end_time": "00:20",
       "episode_description": ""
     },
     {
-      "show_name": "Anora",
+      "show_name": "El Asesino del Juego de Citas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_asesino_del_juego_de_citas.jpg",
+      "show_category": "Crimen",
+      "start_time": "00:20",
+      "end_time": "01:57",
+      "episode_description": "El debut como directora de Anna Kendrick, El Asesino del Juego de Citas, está ambientada en Los Ángeles de 1970, cuando una aspirante a actriz se cruza con un asesino en serie en el set del popular programa, The Dating Game."
+    },
+    {
+      "show_name": "1992",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:44",
-      "end_time": "04:11",
+      "start_time": "01:57",
+      "end_time": "03:42",
       "episode_description": ""
     },
     {
-      "show_name": "Mama",
+      "show_name": "Hacker, amenaza en la red",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:11",
+      "start_time": "03:42",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Gigoló por accidente en Europa",
+      "show_name": "La Aparición",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -35,84 +43,76 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las aventuras de Dog Man",
+      "show_name": "Everest",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:28",
-      "end_time": "09:04",
+      "end_time": "09:35",
       "episode_description": ""
     },
     {
-      "show_name": "El Gran Viaje de tu Vida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/tomorrow/el-gran-viaje-de-tu-vida.webp",
-      "show_category": "Drama",
-      "start_time": "09:04",
-      "end_time": "11:00",
-      "episode_description": "Algunas puertas te llevan a tu pasado. Otras te llevan a tu futuro. Y algunas puertas lo cambian todo. Sarah (Margot Robbie) y David (Colin Farrell) son dos solteros desconocidos que se conocen en la boda de un amigo en común y pronto, por un giro inesperado del destino, se embarcan en un viaje audaz y hermoso – una aventura divertida, fantástica y emocionante donde reviven momentos importantes de su respectivos pasados, revelando cómo llegaron a donde están ahora… y posiblemente teniendo la oportunidad de cambiar sus futuros."
-    },
-    {
-      "show_name": "Se lo que hicieron el verano pasado",
+      "show_name": "El justiciero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:59",
+      "start_time": "09:35",
+      "end_time": "11:49",
       "episode_description": ""
     },
     {
-      "show_name": "Superman",
+      "show_name": "El mal con el que vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:59",
-      "end_time": "15:15",
+      "start_time": "11:49",
+      "end_time": "13:34",
       "episode_description": ""
+    },
+    {
+      "show_name": "M3GAN 2.0",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/m3gan_2_0.jpg",
+      "show_category": "Acción",
+      "start_time": "13:34",
+      "end_time": "15:42",
+      "episode_description": "Dos años después de que M3GAN, una maravilla de la inteligencia artificial, se rebelara y se embarcara en una masacre (con una coreografía implacable) y fuera posteriormente destruida, su creadora, Gemma (Allison Williams), se ha convertido en una reconocida autora y defensora de la supervisión gubernamental de la IA. Mientras tanto, Cady (Violet McGraw), la sobrina de Gemma, de 14 años, se ha convertido en una adolescente que se rebela contra las reglas sobreprotectoras de Gemma.Sin que ellos lo sepan, la tecnología subyacente de M3GAN ha sido robada y utilizada indebidamente por un poderoso contratista de defensa para crear un arma de grado militar conocida como Amelia (Ivanna Sakhno), la espía asesina de la infiltración definitiva. Pero a medida que Amelia adquiere mayor autoconciencia, pierde cada vez más interés en obedecer órdenes humanas. O en mantenerlas cerca. Con el futuro de la humanidad en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN (Amie Donald) y dotarla de algunas mejoras que la hagan más rápida, fuerte y letal. Al cruzar sus caminos, el icono original de la IA está a punto de encontrar su rival."
+    },
+    {
+      "show_name": "El Código Da Vinci",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:42",
+      "end_time": "18:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cómo Entrenar a tu Dragón",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon.jpg",
+      "show_category": "Aventura",
+      "start_time": "18:18",
+      "end_time": "20:30",
+      "episode_description": "En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos."
     },
     {
       "show_name": "A Knight of the Seven Kingdoms",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:15",
-      "end_time": "15:55",
+      "start_time": "20:30",
+      "end_time": "21:10",
       "episode_description": ""
     },
     {
-      "show_name": "Aquaman y el Reino Perdido",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/tomorrow/aquaman-y-el-reino-perdido.webp",
-      "show_category": "Acción",
-      "start_time": "15:55",
-      "end_time": "18:07",
-      "episode_description": "Al no poder derrotar a Aquaman (Jason Momoa) la primera vez, Black Manta (Yahya Abdul-Mateen II), todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para acabar con Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm (Patrick Wilson), el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman y al mundo de una destrucción irreversible."
-    },
-    {
-      "show_name": "Inmaculada",
+      "show_name": "Película",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:07",
-      "end_time": "19:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Superman",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:43",
+      "start_time": "21:10",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "De noche con el diablo",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "M3GAN 2.0",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/m3gan_2_0.jpg",
+      "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "23:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "A Knight of the Seven Kingdoms",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:40",
-      "end_time": "00:20",
-      "episode_description": ""
+      "end_time": "00:08",
+      "episode_description": "Dos años después de que M3GAN, una maravilla de la inteligencia artificial, se rebelara y se embarcara en una masacre (con una coreografía implacable) y fuera posteriormente destruida, su creadora, Gemma (Allison Williams), se ha convertido en una reconocida autora y defensora de la supervisión gubernamental de la IA. Mientras tanto, Cady (Violet McGraw), la sobrina de Gemma, de 14 años, se ha convertido en una adolescente que se rebela contra las reglas sobreprotectoras de Gemma.Sin que ellos lo sepan, la tecnología subyacente de M3GAN ha sido robada y utilizada indebidamente por un poderoso contratista de defensa para crear un arma de grado militar conocida como Amelia (Ivanna Sakhno), la espía asesina de la infiltración definitiva. Pero a medida que Amelia adquiere mayor autoconciencia, pierde cada vez más interés en obedecer órdenes humanas. O en mantenerlas cerca. Con el futuro de la humanidad en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN (Amie Donald) y dotarla de algunas mejoras que la hagan más rápida, fuerte y letal. Al cruzar sus caminos, el icono original de la IA está a punto de encontrar su rival."
     }
   ]
 }
