@@ -1,90 +1,98 @@
 {
   "channel": "Canal 44 - udgtv",
-  "date": "25/02/2026",
+  "date": "26/02/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Eco Latinoamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/eco-latinoamérica.webp",
-      "show_category": "Episodio 148",
+      "show_name": "Fuerza latina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 385",
       "start_time": "00:02",
       "end_time": "00:30",
+      "episode_description": "Las mujeres en Latinoamérica ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos."
+    },
+    {
+      "show_name": "Los juicios de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 4 - El estrangulador de Tacuba",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Serie documental, que hace un recorrido por diferentes épocas de la historia de México a través de algunos casos emblemáticos que se encuentran bajo resguardo de los archivos del Poder Judicial de la Federación."
+    },
+    {
+      "show_name": "Arte vivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 2 - Francesca Dalla Benetta y Yoni Gómez",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Artistas visuales de distintas disciplinas, dos por episodio, comparten cuáles son sus intereses, pasiones y fuentes de inspiración."
+    },
+    {
+      "show_name": "Enamórate de Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 8 - Magdalena Tlacotepec",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Magdalena Tlacotepec te invita a su Balneario de ojo de Agua y visita los diferentes artesanos de Juchitán de Zaragoza, conocer la historia del Templo de San Vicente Ferrer."
+    },
+    {
+      "show_name": "Cartas sobre la mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Guinea Ecuatorial: el futuro de su juventud",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "En Guinea Ecuatorial la juventud repite una pregunta que suena en cada conversación: \"¿Y ahora qué?\". Estudiar ya no garantiza trabajo, y el salto de los estudios al primer empleo se ha convertido en una carrera de obstáculos."
+    },
+    {
+      "show_name": "Eco Latinoamérica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_eco-latinoamerica-s00e148_l_m.jpg",
+      "show_category": "Episodio 148",
+      "start_time": "02:30",
+      "end_time": "03:00",
       "episode_description": "Los reportajes de Eco Latinoamérica presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región."
     },
     {
-      "show_name": "Incluídos: trabajar sin prejuicios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/incluídos-trabajar-sin-prejuicios.webp",
-      "show_category": "Episodio 2 - Buenas manos",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Conoceremos a Mirna, su trabajo diario y lo beneficioso que significa para su vida tener un oficio y poder desarrollarlo."
-    },
-    {
-      "show_name": "La lista de Erick",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/la-lista-de-erick.webp",
-      "show_category": "Episodio 220 - La imborrable huella de los mayas",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Erick viaja a la península de Yucatán para recorrer la Travesía Sagrada Maya, la legendaria ruta de peregrinación al santuario de la diosa Ixchel."
-    },
-    {
-      "show_name": "A puro chile",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/a-puro-chile.webp",
-      "show_category": "Episodio 7 - El chile en el mercado",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "¿Dónde se produce el chile que hace nuestras salsas? ¿Cuáles son las dificultades con las que se enfrentan para distribuirlo o venderlo? ¿Cómo se defienden de las importaciones baratas y masivas? Descubra las respuestas en este episodio."
-    },
-    {
-      "show_name": "Destino Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 7 - Mazunte",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "En este capítulo de la serie Destino Oaxaca Pueblos Mágicos conocerás la población de Mazunte, un destino de playa que nos muestra sus aguas cristalinas para confirmar que en sus bellas playas existe un territorio de enorme biodiversidad."
-    },
-    {
-      "show_name": "Al máximo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/al-máximo.webp",
-      "show_category": "Al máximo",
+      "show_name": "Minuto 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-minuto-44_l_m.jpg",
+      "show_category": "Minuto 44",
       "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
+      "episode_description": "Acércate a las actividades de los atletas poniendo bajo la lupa todas las disciplinas deportivas en este espacio, donde distintos personajes exponen sus puntos de vista sobre diferentes temas relacionados con la vida en este mundo."
     },
     {
-      "show_name": "Vidas y bebidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/vidas-y-bebidas.webp",
-      "show_category": "Temporada 3 Episodio 7 - Gifiti",
+      "show_name": "Para tomarlo en cuenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_para-tomarlo-en-cuenta-s02e128-terapias-alternativas-y-homeopatia-profesionales-de-la-salud-las-incorporan_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 128 - Terapias alternativas y homeopatía: profesionales de la salud las incorporan",
       "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Para la cultura afro descendiente hondureña el Gifiti es una bebida que lo cura todo y le alegra el día. Su principal propósito es medicinal y energizante."
+      "episode_description": "Una química farmacobiologa trata desde hace 30 años con homeopatía y una académica logró hace 10 años que la UdeG admitiera la transdisciplina médica a base de herbolaria y homeopatía, estas dos historias en Para tomarlo en cuenta."
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/desde-el-zoológico.webp",
-      "show_category": "Episodio 625 - Senderos interpretativos - Parte 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico-s00e626-senderos-interpretativos-parte-2_l_m.jpg",
+      "show_category": "Episodio 626 - Senderos Interpretativos - Parte 2",
       "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "Danae Vázquez te lleva a pasar todo un día en el zoológico de Guadalajara. Acompáñala en sus labores diarias en las que tiene que convivir con feroces animales, temidas criaturas y adorables especies del mundo animal."
+      "episode_description": "Nos adentramos al Bosque de la Primavera y en compañía del personal que conforma la OPD del bosque, nos cuentan qué trabajos se realizan para concientizar a la población que visita este espacio natural para que lo cuide."
     },
     {
-      "show_name": "Ruta 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/ruta-44.webp",
-      "show_category": "Episodio 499 - Enfermedades renales, grave problema de salud pública",
+      "show_name": "Con todo respeto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-todo-respeto-s00e279_l_m.jpg",
+      "show_category": "Episodio 279",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "En vísperas de celebrarse el Día Mundial del Riñón, analizamos en Ruta 44 la situación que enfrentan las enfermedades renales en el país."
+      "episode_description": "Este es el México de lo posible. Sí, en el que todo ocurre. En un país tan contrastante, las noticias tienen muchas aristas. Abrimos el diálogo con un toque mordaz e irónico."
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
@@ -92,31 +100,31 @@
     },
     {
       "show_name": "44 en el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "06:02",
       "end_time": "06:15",
       "episode_description": "Reportajes, ciencia, tecnología y más. Toda la actualidad internacional desde un punto de vista novedoso, crítico y veraz."
     },
     {
-      "show_name": "Iberoamérica en órbita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 132",
+      "show_name": "Corte NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_corte-ncc-s00e22_l_m.jpg",
+      "show_category": "Episodio 22",
       "start_time": "06:15",
       "end_time": "06:30",
-      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
+      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
     },
     {
-      "show_name": "NCC Salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/ncc-salud.webp",
-      "show_category": "Episodio 290",
+      "show_name": "Noticiero NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc-s00e840_l_m.jpg",
+      "show_category": "Episodio 840",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
     },
     {
       "show_name": "UDG Noticias - Emisión matutina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "07:00",
       "end_time": "09:00",
@@ -124,79 +132,79 @@
     },
     {
       "show_name": "DW noticias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/dw-noticias.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dw-noticias_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": "El noticiero de la DW prioriza el desarrollo de las historias de América Latina desde una perspectiva europea. Muestra los temas que afectan a las personas en todo el mundo con más profundidad y análisis de primera mano."
     },
     {
-      "show_name": "Dosis de ciencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 9 - Aves",
+      "show_name": "Fil de bolsillo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 29",
       "start_time": "09:30",
       "end_time": "09:33",
-      "episode_description": ""
+      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
     },
     {
-      "show_name": "Noticiero NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/noticiero-ncc.webp",
-      "show_category": "Episodio 841",
+      "show_name": "Iberoamérica en órbita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 132",
       "start_time": "09:33",
-      "end_time": "10:00",
-      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
+      "end_time": "09:45",
+      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
     },
     {
-      "show_name": "Los juicios de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 4 - El estrangulador de Tacuba",
+      "show_name": "Corte NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_corte-ncc-s00e22_l_m.jpg",
+      "show_category": "Episodio 22",
+      "start_time": "09:45",
+      "end_time": "10:00",
+      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
+    },
+    {
+      "show_name": "¿Cómo te afecta?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 77",
       "start_time": "10:00",
       "end_time": "10:30",
-      "episode_description": "Serie documental, que hace un recorrido por diferentes épocas de la historia de México a través de algunos casos emblemáticos que se encuentran bajo resguardo de los archivos del Poder Judicial de la Federación."
+      "episode_description": "nacional de educación financiera: Brasil, Chile, Colombia, México y Perú. Muchos jóvenes se encuentran indefensos en redes sociales ante quienes prometen hacerte rico en poco tiempo."
     },
     {
-      "show_name": "Arte vivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 2 - Francesca Dalla Benetta y Yoni Gómez",
+      "show_name": "Calles con historia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_calles-con-historia-s01e08-tacuba_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - Tacuba",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Artistas visuales de distintas disciplinas, dos por episodio, comparten cuáles son sus intereses, pasiones y fuentes de inspiración."
+      "episode_description": "Con una producción que combina animación, dramatizaciones, vestuario de época e imágenes de archivo, esta serie documental aporta información novedosa sobre inmuebles, calles y avenidas de la Ciudad de México."
     },
     {
-      "show_name": "A través de Latinoamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Vive al extremo",
+      "show_name": "Al máximo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_magazine-al-maximo_l_m.jpg",
+      "show_category": "Al máximo",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Talento deportivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/talento-deportivo.webp",
-      "show_category": "Episodio 624 - Alejandro González - Porrista",
-      "start_time": "11:30",
       "end_time": "12:00",
-      "episode_description": "Serie que retrata a los deportistas consagrados y también expone las historias de vida de los atletas en el camino a la cima. A través de testimonios, se presentan los procesos por los cuales pasaron para llegar a la cumbre."
+      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
     },
     {
-      "show_name": "Café Chéjov",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/café-chéjov.webp",
-      "show_category": "Temporada 6 Episodio 3 - Pilar Quintana",
+      "show_name": "Cartas sobre la mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Guinea Ecuatorial: el futuro de su juventud",
       "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "Café Chéjov conversa con la escritora colombiana Pilar Quintana acerca de algunos de sus relatos cortos favoritos y también acerca de cuentistas como Jorge Luis Borges, Elisa Mújica y Julio Ramón Ribeyro."
+      "episode_description": "En Guinea Ecuatorial la juventud repite una pregunta que suena en cada conversación: \"¿Y ahora qué?\". Estudiar ya no garantiza trabajo, y el salto de los estudios al primer empleo se ha convertido en una carrera de obstáculos."
     },
     {
-      "show_name": "Vidas y bebidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/vidas-y-bebidas.webp",
-      "show_category": "Temporada 3 Episodio 7 - Gifiti",
+      "show_name": "Sabroso y saludable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sabroso-y-saludable-s01e105-salpicon-de-machaca_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 105 - Salpicón de machaca",
       "start_time": "12:30",
       "end_time": "13:00",
-      "episode_description": "Para la cultura afro descendiente hondureña el Gifiti es una bebida que lo cura todo y le alegra el día. Su principal propósito es medicinal y energizante."
+      "episode_description": "En este episodio tenemos una ensalada de hierbas frescas con papaya, seguimos con el cubo de frutas con lo mejor del campo y como plato fuerte salpicón de machaca servido en tostadas, y para terminar torre de polvorones."
     },
     {
       "show_name": "UDG Noticias - Emisión vespertina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "15:00",
@@ -204,7 +212,7 @@
     },
     {
       "show_name": "En directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/en-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_en-directo_l_m.jpg",
       "show_category": "Entrevista",
       "start_time": "15:00",
       "end_time": "16:30",
@@ -212,99 +220,83 @@
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/desde-el-zoológico.webp",
-      "show_category": "Episodio 626 - Senderos Interpretativos - Parte 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico-s00e668-paseo-por-australia_l_m.jpg",
+      "show_category": "Episodio 668 - Paseo por Australia",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Nos adentramos al Bosque de la Primavera y en compañía del personal que conforma la OPD del bosque, nos cuentan qué trabajos se realizan para concientizar a la población que visita este espacio natural para que lo cuide."
+      "episode_description": "Uno de los países que sorprenden no sólo por su geografía y los paisajes naturales, es Australia, pues en él se encuentran especies únicas y cuyas particularidades dejan con la boca abierta a todos quienes las conocen y admiran."
     },
     {
-      "show_name": "Dosis de ciencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 9 - Aves",
+      "show_name": "Fil de bolsillo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 29",
       "start_time": "17:00",
       "end_time": "17:03",
+      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
+    },
+    {
+      "show_name": "Noticiero NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc-s00e841_l_m.jpg",
+      "show_category": "Episodio 841",
+      "start_time": "17:03",
+      "end_time": "17:30",
+      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
+    },
+    {
+      "show_name": "Arte vivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 2 - Francesca Dalla Benetta y Yoni Gómez",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Artistas visuales de distintas disciplinas, dos por episodio, comparten cuáles son sus intereses, pasiones y fuentes de inspiración."
+    },
+    {
+      "show_name": "RT reporta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Galicia: anclados en la droga",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "En los años 80 la costa de Galicia se convirtió en la principal puerta de entrada de droga a Europa, pero parte de ella se quedaba en esta región española."
+    },
+    {
+      "show_name": "A través de Latinoamérica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Vive al extremo",
+      "start_time": "18:30",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Iberoamérica en órbita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 132",
-      "start_time": "17:03",
-      "end_time": "17:15",
-      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
-    },
-    {
-      "show_name": "Corte NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/corte-ncc.webp",
-      "show_category": "Episodio 22",
-      "start_time": "17:15",
-      "end_time": "17:30",
-      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
-    },
-    {
-      "show_name": "Enamórate de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 8 - Magdalena Tlacotepec",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Magdalena Tlacotepec te invita a su Balneario de ojo de Agua y visita los diferentes artesanos de Juchitán de Zaragoza, conocer la historia del Templo de San Vicente Ferrer."
-    },
-    {
-      "show_name": "Fuerza latina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 385",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Las mujeres en Latinoamérica ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos."
-    },
-    {
-      "show_name": "Los juicios de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 4 - El estrangulador de Tacuba",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Serie documental, que hace un recorrido por diferentes épocas de la historia de México a través de algunos casos emblemáticos que se encuentran bajo resguardo de los archivos del Poder Judicial de la Federación."
-    },
-    {
-      "show_name": "Universidad de Valencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/universidad-de-valencia.webp",
-      "show_category": "Episodio 2 - Mediterránea viva: en primera linea",
+      "show_name": "La tribunera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-la-tribunera_l_m.jpg",
+      "show_category": "La tribunera",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "En esta serie de tres capítulos se abordan, desde un punto de vista científico, los problemas más graves que amenazan la costa: 'Gota a gota' se centra en el agua dulce como recurso imprescindible;"
+      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
     },
     {
       "show_name": "UDG Noticias - Emisión nocturna",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "22:00",
       "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad."
     },
     {
-      "show_name": "Para tomarlo en cuenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/para-tomarlo-en-cuenta.webp",
-      "show_category": "Temporada 2 Episodio 128 - Terapias alternativas y homeopatía: profesionales de la salud las incorporan",
+      "show_name": "Territorio reportaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 278 - El campo, una crisis inducida - Parte 3",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Una química farmacobiologa trata desde hace 30 años con homeopatía y una académica logró hace 10 años que la UdeG admitiera la transdisciplina médica a base de herbolaria y homeopatía, estas dos historias en Para tomarlo en cuenta."
+      "end_time": "23:00",
+      "episode_description": "El correlato de la crisis que vive el campo mexicano debido a la desestructuración de sus instituciones y la idea de que los precios garantía pueden incidir en un mercado, tiene que ver con la política."
     },
     {
-      "show_name": "Con todo respeto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/today/con-todo-respeto.webp",
-      "show_category": "Episodio 279",
-      "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Este es el México de lo posible. Sí, en el que todo ocurre. En un país tan contrastante, las noticias tienen muchas aristas. Abrimos el diálogo con un toque mordaz e irónico."
-    },
-    {
-      "show_name": "UDG Noticias deportivas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Noticiero",
-      "start_time": "23:30",
+      "show_name": "La choca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-choca-1974_l_m.jpg",
+      "show_category": "Acción / 1974 /6.8",
+      "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Manténgase informado sobre toda la actualida deportiva."
+      "episode_description": "Martín vive en una choza en las montañas junto a su esposa, la Choca, su hijo Martín y Flor, la hermana. Éste hace un cierto contrabando. Tres hombres llegan, lo acusan de traicionarlos, y le tienden una trampa."
     }
   ]
 }
