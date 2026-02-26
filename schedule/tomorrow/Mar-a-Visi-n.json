@@ -1,7 +1,15 @@
 {
   "channel": "María Visión",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
+    {
+      "show_name": "El santísimo sacramento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cadena de amor",
+      "show_name": "Podcast Quiero decir que sí",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Podcast",
+      "show_name": "Audiencia con el Rey de Reyes",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Basílica",
+      "show_name": "Sta misa, Santuario de Maria",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -147,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ejercicios espirituales",
+      "show_name": "Via crucis",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -155,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Ermita",
+      "show_name": "Santa misa, Templo San Felipe",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Apostolado de reparación",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -183,7 +191,7 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]
