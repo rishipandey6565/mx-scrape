@@ -1,133 +1,125 @@
 {
   "channel": "Golden Premier",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
-    {
-      "show_name": "El defensor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Seductress",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:01",
-      "end_time": "01:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Patriota",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:36",
-      "end_time": "03:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Juego De Espias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:08",
-      "end_time": "05:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un holograma para el rey",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:16",
-      "end_time": "06:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Loco Por Ella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/today/loco-por-ella.webp",
-      "show_category": "Comedia",
-      "start_time": "06:56",
-      "end_time": "08:36",
-      "episode_description": "Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba."
-    },
-    {
-      "show_name": "Un papá pirata",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:36",
-      "end_time": "10:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "¡Qué despadre!",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:16",
-      "end_time": "11:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "María, ¡Me Muero!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/today/maría-me-muero.webp",
-      "show_category": "Comedia",
-      "start_time": "11:55",
-      "end_time": "13:31",
-      "episode_description": "\"María, ¡Me Muero! Es una comedia sobre un hombre hipocondriaco, el único ser en el mundo capaz de tener hasta resfriados terminales, y de su mujer que tiene que aguantarlo hasta que decide hacer algo al respecto. El miedo a la muerte nunca fue tan divertido."
-    },
-    {
-      "show_name": "Papá o mamá",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:31",
-      "end_time": "15:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Loco Por Ella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/today/loco-por-ella.webp",
-      "show_category": "Comedia",
-      "start_time": "15:05",
-      "end_time": "16:45",
-      "episode_description": "Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba."
-    },
-    {
-      "show_name": "Paradas continuas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:45",
-      "end_time": "18:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Malaventura",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:38",
-      "end_time": "20:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No manches Frida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:04",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No Manches Frida 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Premier/today/no-manches-frida-2.webp",
-      "show_category": "Comedia",
-      "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "¡En esta secuela, la pandilla alborotadora y los maestros abandonan el patio de la escuela y van a la playa! Pero hay un problema en el paraíso… literalmente… Cuando Zequi (Omar Chaparro) está a punto de casarse con el amor su vida, Lucy (Martha Higareda), el día de la boda se transforma en un fiasco y Lucy cancela casarse. Mientras tanto, la escuela se encuentra en graves problemas y la pandilla se dirige al agua para competir en el torneo de sus vidas. Una vez que están todos a la orilla del mar, Lucy se encuentra con su novio de secundaria, Mario (Aarón Díaz), quien, desde la última vez que lo vio, se ha transformado en un ardiente galán. Es el entrenador del equipo contrario y Zequi se encuentra a sí mismo como un rival en más de una competición. Ahora tiene que ganar todos los desafíos para pelearse con sus niños ruidosos, recuperar a Lucy, y en caso de que eso no fuera suficiente ¡evitar que la escuela sea cerrada llevando al Instituto Frida Kahlo a la victoria!"
-    },
     {
       "show_name": "The Sex Therapist Vol. 3",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
+      "start_time": "00:00",
       "end_time": "01:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Me estas matando Susana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:10",
+      "end_time": "02:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cindy la Regia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:54",
+      "end_time": "04:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Recuperando a mi Ex",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/recuperando_a_mi_ex.jpg",
+      "show_category": "Comedia",
+      "start_time": "04:45",
+      "end_time": "06:26",
+      "episode_description": "Francisco (Andrés Almeida) es un actor inmaduro y egoísta atrapado por el personaje que interpretó hace años en la televisión. Actualmente se encuentra desempleado. Cuando su ex esposa Laura (Adriana Louvier) le cuenta que está comprometida y que piensa volver a casarse nuevamente e irse a vivir al extranjero con su hija Alicia (Mia Rubín), Francisco manipula a las personas que están siempre cerca de él para que lo ayuden a elaborar un plan para detener la boda y así poder recuperar a su familia, pero antes debe enfrentarse a su oscuro pasado y aprender que puede madurar sin ser un superhéroe."
+    },
+    {
+      "show_name": "Secuestro en Venice",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/secuestro_en_venice.jpg",
+      "show_category": "Acción",
+      "start_time": "06:26",
+      "end_time": "08:02",
+      "episode_description": "Steve Ford (Bruce Willis), es un detective de las playas de Venice: bueno con las damas, malo con los golpes, y salvaje por su perro, Buddy. Pero cuando su amada mascota es robada por matones locales, Steve hace una alianza dudosa con su líder retorcido Spyder (Jason Momoa). Uniendose con a su mejor amigo Dave (John Goodman), Steve saca las armas pesadas en busca de la cocaína robada de Spyder y el dinero para arreglar las cosas y volver a Buddy donde pertenece."
+    },
+    {
+      "show_name": "Drive",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:02",
+      "end_time": "09:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciudad de sombras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:44",
+      "end_time": "11:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dobles de acción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:35",
+      "end_time": "13:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Presa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:43",
+      "end_time": "15:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El estafador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:21",
+      "end_time": "16:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Curados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:59",
+      "end_time": "18:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Isla fantasma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:36",
+      "end_time": "20:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Aro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:22",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sadako",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_aro_capitulo_final.jpg",
+      "show_category": "Terror",
+      "start_time": "22:00",
+      "end_time": "23:42",
+      "episode_description": "Mayu Akigawa (Elaiza Ikeda) es consejera de psicología en un hospital. Ella comienza a aconsejar a una niña Jinko (Himeka Himejima) que está protegida por la policía. La niña no recuerda nada, incluido su propio nombre. Los casos misteriosos comienzan a ocurrir alrededor de Mayu. Mientras tanto, el hermano menor de Mayu, Kazuma (Hiroya Shimizu) es un Youtuber. Quiere obtener más espectadores y decide colarse en un sitio incendiado donde murieron 5 personas."
+    },
+    {
+      "show_name": "Imágenes del más allá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:42",
+      "end_time": "01:08",
       "episode_description": ""
     }
   ]

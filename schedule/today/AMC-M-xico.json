@@ -1,54 +1,46 @@
 {
   "channel": "AMC (México)",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
+    {
+      "show_name": "Justicia implacable",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:10",
+      "episode_description": ""
+    },
     {
       "show_name": "Million dollar Baby",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:35",
+      "start_time": "00:10",
+      "end_time": "02:40",
       "episode_description": ""
     },
     {
-      "show_name": "Blade Runner 2049",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/blade-runner-2049.webp",
-      "show_category": "Ciencia Ficción",
-      "start_time": "00:35",
-      "end_time": "03:25",
-      "episode_description": "Treinta años han pasado, un nuevo Blade Runner, el oficial de la LAPD, K (Ryan Gosling), descubre un secreto enterrado desde hace mucho tiempo que tiene el potencial para hundir lo que queda de la sociedad en el caos. El descubrimiento de K lo lleva en una búsqueda para encontrar a Rick Deckard (Harrison Ford), un ex Blade Runner de la LAPD que ha estado desaparecido por 30 años."
+      "show_name": "Secuestro en Venice",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/secuestro_en_venice.jpg",
+      "show_category": "Acción",
+      "start_time": "02:40",
+      "end_time": "04:25",
+      "episode_description": "Steve Ford (Bruce Willis), es un detective de las playas de Venice: bueno con las damas, malo con los golpes, y salvaje por su perro, Buddy. Pero cuando su amada mascota es robada por matones locales, Steve hace una alianza dudosa con su líder retorcido Spyder (Jason Momoa). Uniendose con a su mejor amigo Dave (John Goodman), Steve saca las armas pesadas en busca de la cocaína robada de Spyder y el dinero para arreglar las cosas y volver a Buddy donde pertenece."
     },
     {
-      "show_name": "Bloodshot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/bloodshot.webp",
-      "show_category": "Acción",
-      "start_time": "03:25",
-      "end_time": "05:20",
-      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
+      "show_name": "El Intruso",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg",
+      "show_category": "Drama",
+      "start_time": "04:25",
+      "end_time": "06:10",
+      "episode_description": "Cuando una joven pareja casada, Scott (Michael Ealy) y Annie Howard (Meagan Good), compran la casa de sus sueños en el Valle de Napa, creen que han encontrado el hogar perfecto para dar los próximos pasos como familia. Pero cuando el vendedor, Charlie Peck (Dennis Quaid), extrañamente vinculado continúa infiltrándose en sus vidas, comienzan a sospechar que tiene motivos ocultos más allá de una venta rápida."
     },
     {
       "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/tales-of-the-walking-dead.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
       "show_category": "Drama",
-      "start_time": "05:20",
-      "end_time": "06:10",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "06:10",
-      "end_time": "06:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:35",
       "end_time": "07:00",
-      "episode_description": ""
+      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
       "show_name": "Planet Action",
@@ -119,63 +111,63 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:35",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:35",
-      "end_time": "12:10",
+      "start_time": "11:30",
+      "end_time": "11:55",
       "episode_description": ""
     },
     {
-      "show_name": "Operación Valquiria",
+      "show_name": "Erin Brockovich Mujer Audaz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:10",
-      "end_time": "14:25",
+      "start_time": "11:55",
+      "end_time": "14:20",
       "episode_description": ""
     },
     {
-      "show_name": "RoboCop",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/robocop.webp",
-      "show_category": "Acción",
-      "start_time": "14:25",
-      "end_time": "16:35",
-      "episode_description": "En un futuro no muy lejano un policía de la ciudad de Detroit llamado Alex J. Murphy (Peter Weller) persigue a una banda de delincuentes pero es atrapado y acribillado a balazos al punto que es dado por muerto pero una compañía llamada OCP, que es la encargada de mostrar un producto para combatir el crimen lleva a cabo la tarea de utilizar a este hombre para convertirlo en un ciborg que ayude a combatir el crimen."
-    },
-    {
-      "show_name": "Yo, Frankenstein",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/yo-frankenstein.webp",
+      "show_name": "Agente Salt",
+      "show_logo": "",
       "show_category": "",
-      "start_time": "16:35",
-      "end_time": "18:10",
-      "episode_description": "200 años atrás, el Doctor Frankenstein hizo una criatura que llevaría su mismo apellido, desde entonces esta criatura ha estado habitando entre nosotros y ahora Adam Frankenstein (Aaron Eckhart) se encuentra atrapado en una batalla ancestral sobre el destino de la humanidad, Adam descubre que él tiene la llave que podría destruir la humanidad."
+      "start_time": "14:20",
+      "end_time": "16:15",
+      "episode_description": ""
     },
     {
-      "show_name": "Hombres de Negro 3",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/hombres-de-negro-3.webp",
+      "show_name": "Zombieland: Tiro de Gracia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/tierra_de_zombies_2.jpg",
       "show_category": "Acción",
-      "start_time": "18:10",
-      "end_time": "20:05",
-      "episode_description": "Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad."
+      "start_time": "16:15",
+      "end_time": "18:10",
+      "episode_description": "A través del caos cómico que se extiende desde la Casa Blanca hasta el campo, estos cuatro asesinos deben enfrentarse a los muchos nuevos tipos de zombies que han evolucionado. Así como algunos nuevos supervivientes humanos. Pero sobre todo tienen que enfrentar los crecientes dolores de su propia familia improvisada y sarcástica."
     },
     {
       "show_name": "Rocky Balboa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:05",
-      "end_time": "22:00",
+      "start_time": "18:10",
+      "end_time": "20:05",
       "episode_description": ""
     },
     {
-      "show_name": "Justicia implacable",
+      "show_name": "Caos: El Inicio",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/caos_el_inicio.jpg",
+      "show_category": "Aventura",
+      "start_time": "20:05",
+      "end_time": "22:00",
+      "episode_description": "En un futuro no muy lejano, Todd Hewitt (Tom Holland) descubre a Viola Eade (Daisy Ridley), una chica misteriosa que aterriza en su planeta, donde todas las mujeres han desaparecido y los hombres están afectados por \"el Ruido\" – una fuerza que pone todos sus pensamientos en exhibición. En este peligroso paisaje, la vida de Viola está amenazada – y mientras Todd jura protegerla, tendrá que descubrir su propio poder interior y descubrir los oscuros secretos del planeta."
+    },
+    {
+      "show_name": "El Pasajero",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:10",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

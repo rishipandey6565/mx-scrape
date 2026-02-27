@@ -1,117 +1,101 @@
 {
   "channel": "HBO Mundi",
-  "date": "27/02/2026",
+  "date": "28/02/2026",
   "schedule": [
-    {
-      "show_name": "Monolith",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Beacon",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:20",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El estado de juego violencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lady Bird",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/lady-bird.webp",
-      "show_category": "Comedia",
-      "start_time": "03:30",
-      "end_time": "05:05",
-      "episode_description": "Excavando tanto el humor como la discusión en el vínculo turbulento entre una madre y su hija adolescente. Christine \"Lady Bird\" MacPherson (Saoirse Ronan) pelea en contra, pero es exactamente como su amorosa, profundamente obstinada y fuerte madre Marion McPherson (Laurie Metcalf), una enfermera que trabaja incansablemente para mantener a flote a su familia después de que el padre Lady, Larry McPherson (Tracy Letts) pierde su trabajo."
-    },
-    {
-      "show_name": "Rey Richard Una familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:05",
-      "end_time": "07:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El juego de la fortuna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:35",
-      "end_time": "09:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/tomorrow/ella.webp",
-      "show_category": "Drama",
-      "start_time": "09:55",
-      "end_time": "12:05",
-      "episode_description": "Es el año 2025, Theodore Twombly (Joaquin Phoenix) es un hombre solitario e introvertido que trabaja para una compañía que contrata escritores profesionales que escriben cartas amorosas para personas que no son capaces de hacerlo por ellos mismos. Infeliz luego de haberse divorciado de su amor platónico de su infancia, Catherine (Rooney Mara), Theodore compra un sistema operativo parlante con lo último en inteligencia artificial diseñado para adaptarse a sus necesidades y aprender de su dueño. Ahora su nuevo sistema operativo llamado por ella misma como “Samantha” (Scarlett Johansson) él aprenderá muchas cosas gracias a la omnipresencia de su nuevo software parlante."
-    },
-    {
-      "show_name": "El Juez",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:05",
-      "end_time": "14:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los marginados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:35",
-      "end_time": "16:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gangster americano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:25",
-      "end_time": "19:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:05",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La sustancia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:25",
-      "episode_description": ""
-    },
     {
       "show_name": "The Damned",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:25",
+      "start_time": "00:00",
       "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Crimen del Padre Amaro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Francotirador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "05:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sweeney Todd El barbero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:20",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La muerte de un unicornio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
+      "end_time": "09:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vacaciones forzadas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:20",
+      "end_time": "11:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Código negro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:05",
+      "end_time": "12:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historia Americana X",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:45",
+      "end_time": "14:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Infiltrado del KKKlan",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg",
+      "show_category": "Biografía",
+      "start_time": "14:50",
+      "end_time": "17:10",
+      "episode_description": "La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular."
+    },
+    {
+      "show_name": "Una batalla tras otra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Monkey Man El despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sacrificio de leyenda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:05",
+      "end_time": "00:05",
       "episode_description": ""
     }
   ]
