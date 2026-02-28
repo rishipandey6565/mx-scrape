@@ -1,36 +1,20 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "Buscando",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Jigsaw: El Juego Continúa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jigsaw_el_juego_continua.jpg",
+      "show_category": "Crimen",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
+      "end_time": "00:30",
+      "episode_description": "Después de una serie de asesinatos que llevan todas las marcas del asesino \"Jigsaw\", las fuerzas del orden público se encuentran persiguiendo al fantasma de un hombre muerto hace más de una década y enredado en un nuevo juego que apenas ha comenzado. ¿Ha vuelto John Kramer de entre los muertos para recordarle al mundo que debe estar agradecido por el regalo de la vida? ¿O es está una trampa puesta por un asesino con diseños propios?"
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
+      "start_time": "00:30",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -59,63 +43,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baby Shark El Gran Show",
+      "show_name": "Rugrats Aventuras en Pañales",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:00",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
-      "show_name": "Las Pistas de Blue",
+      "show_name": "Canal 5",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Blaze and the Monster Machine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
+      "start_time": "06:55",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tomy Zombie",
+      "show_name": "T.U.F.F. Puppy",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "La CQ Nuevo Ingreso",
+      "show_name": "el chavo animado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "11:30",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Victorious",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/victorious.webp",
-      "show_category": "Comedia",
-      "start_time": "11:00",
-      "end_time": "12:15",
-      "episode_description": "Una serie para chicos de Nickelodeon donde muestra la vida de dos hermanas en una escuela de arte.El caos se aproxima a la vida de Tori Vega (Victoria Justice). La chica de 16 años está comenzando en un nuevo colegio pero no un colegio cualquiera. Está en Hollywood Arts, una escuela de actuación y canto donde estudiantes talentosos pero alocados aprenden cómo convertirse en verdaderos artistas… Hasta ahora, Tori no cree que tiene mucho talento de por sí, y además de esto ella vive bajo las sobras de su hermana mayor, Trina (Daniella Monet). Pero todo eso está por cambiar si Tori puede ver en ella misma una luz, incluso una pequeña chispa, Pero esta escuela a pesar de ser Hollywood Arts es todavía un colegio o una escuela, como quieras llamarle, y Tori es la chica nueva. Ella tendrá que buscar nuevos amigos para hacer sus tareas, y todo lo que hacen los chicos de su edad."
-    },
-    {
-      "show_name": "Casper",
+      "show_name": "El Regreso a la Isla de Nim",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:15",
+      "start_time": "12:30",
       "end_time": "14:15",
       "episode_description": ""
     },
     {
-      "show_name": "Beetlejuice, el súper fantasma",
+      "show_name": "Un ratoncito duro de cazar",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:15",
@@ -123,36 +91,28 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ghost La Sombra del Amor",
+      "show_name": "Karate kid",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:15",
-      "end_time": "18:55",
+      "end_time": "18:45",
       "episode_description": ""
     },
     {
-      "show_name": "Monterrey Vs. Cruz Azul",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/monterrey-vs-cruz-azul.webp",
-      "show_category": "Deporte",
-      "start_time": "18:55",
-      "end_time": "21:05",
-      "episode_description": "Desde el estadio Tecnológico ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Monterrey versus el Cruz Azul Fútbol Club."
+      "show_name": "Kárate Kid 3 Desafío Final",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:45",
+      "end_time": "21:00",
+      "episode_description": ""
     },
     {
-      "show_name": "América vs. Tigres",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/américa-vs-tigres.webp",
-      "show_category": "Deporte",
-      "start_time": "21:05",
-      "end_time": "23:10",
-      "episode_description": "Desde el estadio Azteca en la ciudad de México, se enfrentan los equipos Club de Fútbol América versus el Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León."
-    },
-    {
-      "show_name": "Jigsaw: El Juego Continúa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/jigsaw-el-juego-continúa.webp",
-      "show_category": "Crimen",
-      "start_time": "23:10",
-      "end_time": "00:30",
-      "episode_description": "Después de una serie de asesinatos que llevan todas las marcas del asesino \"Jigsaw\", las fuerzas del orden público se encuentran persiguiendo al fantasma de un hombre muerto hace más de una década y enredado en un nuevo juego que apenas ha comenzado. ¿Ha vuelto John Kramer de entre los muertos para recordarle al mundo que debe estar agradecido por el regalo de la vida? ¿O es está una trampa puesta por un asesino con diseños propios?"
+      "show_name": "El kárate kid",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }

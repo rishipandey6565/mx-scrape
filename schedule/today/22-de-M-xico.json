@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "27/02/2026",
+  "date": "28/02/2026",
   "schedule": [
     {
-      "show_name": "Corazón del tiempo",
+      "show_name": "7a. Muestra de Cine Lenguas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "Agua, Aire, Tierra, Fuego",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -43,10 +43,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Corazón del tiempo",
+      "show_name": "La piel de la ciudad",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_name": "África, continente enigmático",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -75,23 +83,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conferencia del Pueblo\nEn Vivo",
+      "show_name": "La piel de la ciudad",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:00",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "Suave patria",
+      "show_name": "Consulta directa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
+      "start_time": "08:30",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare\nEn Vivo",
+      "show_name": "La Hora Nacional",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La raíz doble",
+      "show_name": "Tamayo 40",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -107,71 +115,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mañanera 360",
+      "show_name": "Clic-Clac!",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Agua, Aire, Tierra, Fuego",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El macizo de Altái",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Crónica Animal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La raíz doble",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
       "episode_description": ""
     },
     {
       "show_name": "Clic-Clac!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "17:00",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "La piel de la ciudad",
+      "show_name": "Clic-Clac!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Escenarios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tamayo 40",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Leer, una hora inesperada",
+      "show_name": "Un Dia...con Osorno",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una de Amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_name": "Léemelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare\nEn Vivo",
+      "show_name": "La Dichosa Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Punto de Referencia",
+      "show_name": "La independencia inconclusa",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -195,19 +195,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Llegamos Todas!",
+      "show_name": "Las Pioneras Cineastas",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "7a. Muestra de Cine Lenguas",
+      "show_name": "Shorts México",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "00:00",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

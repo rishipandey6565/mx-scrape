@@ -1,49 +1,65 @@
 {
   "channel": "AMC (México)",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "El Pasajero",
+      "show_name": "Misión: Imposible - Repercusión",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mision_imposible_repercusion.jpg",
+      "show_category": "Acción",
+      "start_time": "00:00",
+      "end_time": "00:45",
+      "episode_description": "En una peligrosa tarea para recuperar el plutonio robado, Ethan Hunt (Tom Cruise) elige salvar a su equipo sobre completar la misión, permitiendo que las armas nucleares caigan en manos de una red mortal de operativos altamente calificados que intentan destruir la civilización. Ahora, con el mundo en riesgo Ethan y su equipo del IMF se ven obligados a convertirse en socios – sin estar convencidos – con el agente de la CIA, August Walker (Henry Cavill) mientras ellos corren contra el tiempo para detener la lluvia nuclear."
+    },
+    {
+      "show_name": "Talamasca The Secret",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
+      "start_time": "00:45",
+      "end_time": "01:40",
       "episode_description": ""
     },
     {
-      "show_name": "El Justiciero (The Equalizer)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/el-justiciero-the-equalizer.webp",
-      "show_category": "Acción",
-      "start_time": "00:00",
-      "end_time": "02:25",
-      "episode_description": "McCall (Denzel Washington), un hombre que ha dejado atrás su vida misteriosa en el pasado y ahora vive una nueva y tranquila vida. Pero todo esto está por cambiar cuando conoce a Teri (Chloë Grace Moretz), una chica controlada por unos mafiosos rusos, que hace que cambie de opinión sobre su vida tranquila. Armado con habilidades ocultas lo ayudaran a vengar a todo aquel que maltrate al inocente, McCall sale de su descanso para encontrar su deseo de justicia."
+      "show_name": "Talamasca The Secret",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:40",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Talamasca The Secret",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:25",
+      "episode_description": ""
     },
     {
       "show_name": "El Intruso",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/el-intruso.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg",
       "show_category": "Drama",
-      "start_time": "02:25",
-      "end_time": "04:10",
+      "start_time": "03:25",
+      "end_time": "05:10",
       "episode_description": "Cuando una joven pareja casada, Scott (Michael Ealy) y Annie Howard (Meagan Good), compran la casa de sus sueños en el Valle de Napa, creen que han encontrado el hogar perfecto para dar los próximos pasos como familia. Pero cuando el vendedor, Charlie Peck (Dennis Quaid), extrañamente vinculado continúa infiltrándose en sus vidas, comienzan a sospechar que tiene motivos ocultos más allá de una venta rápida."
     },
     {
-      "show_name": "Secuestro en Venice",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/secuestro-en-venice.webp",
-      "show_category": "Acción",
-      "start_time": "04:10",
-      "end_time": "05:55",
-      "episode_description": "Steve Ford (Bruce Willis), es un detective de las playas de Venice: bueno con las damas, malo con los golpes, y salvaje por su perro, Buddy. Pero cuando su amada mascota es robada por matones locales, Steve hace una alianza dudosa con su líder retorcido Spyder (Jason Momoa). Uniendose con a su mejor amigo Dave (John Goodman), Steve saca las armas pesadas en busca de la cocaína robada de Spyder y el dinero para arreglar las cosas y volver a Buddy donde pertenece."
+      "show_name": "Tales of the Walking Dead",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
+      "show_category": "Drama",
+      "start_time": "05:10",
+      "end_time": "06:00",
+      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -51,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -67,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -83,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -99,52 +115,76 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caos: El Inicio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/caos-el-inicio.webp",
-      "show_category": "Aventura",
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "10:00",
-      "end_time": "12:05",
-      "episode_description": "En un futuro no muy lejano, Todd Hewitt (Tom Holland) descubre a Viola Eade (Daisy Ridley), una chica misteriosa que aterriza en su planeta, donde todas las mujeres han desaparecido y los hombres están afectados por \"el Ruido\" – una fuerza que pone todos sus pensamientos en exhibición. En este peligroso paisaje, la vida de Viola está amenazada – y mientras Todd jura protegerla, tendrá que descubrir su propio poder interior y descubrir los oscuros secretos del planeta."
+      "end_time": "10:30",
+      "episode_description": ""
     },
     {
-      "show_name": "Zombieland: Tiro de Gracia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/zombieland-tiro-de-gracia.webp",
-      "show_category": "Acción",
-      "start_time": "12:05",
-      "end_time": "14:00",
-      "episode_description": "A través del caos cómico que se extiende desde la Casa Blanca hasta el campo, estos cuatro asesinos deben enfrentarse a los muchos nuevos tipos de zombies que han evolucionado. Así como algunos nuevos supervivientes humanos. Pero sobre todo tienen que enfrentar los crecientes dolores de su propia familia improvisada y sarcástica."
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Transformers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/transformers.webp",
-      "show_category": "Acción",
-      "start_time": "14:00",
-      "end_time": "16:35",
-      "episode_description": "Una guerra que data de mucho tiempo atrás entre dos razas del planeta Cybertron, Autobots y Decepticons para tomar control de un místico talismán que daría poder ilimitado a quien lo posea. Los Autobots envían el artefacto hacia nuestro planeta, Megatron logra detectar la localización del amuleto y se dirige hacia este. En su llegada al planeta llega al ártico lo que lo hace quedar en estado paralizado hasta que su cuerpo es encontrado por el Capitán Witwicky en una exploración en el polo norte que al descubrir los restos de Megatron este deja grabada su localización en los anteojos del Capitán que pasarán a ser propiedad de su nieto el cual será la clave para salvar al planeta de los planes de los Decepticons."
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:25",
+      "episode_description": ""
     },
     {
-      "show_name": "Transformers 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/transformers-2.webp",
-      "show_category": "Acción",
-      "start_time": "16:35",
-      "end_time": "19:10",
-      "episode_description": "Sam (Shia LaBeouf) y Mikaela (Megan Fox) trataran de mantener su relación a distancia cuando él ingresa a la universidad. Pero todo está por cambiar cuando su mente empieza a percibir símbolos criptográficos en su mente. Ahora los Decepticons lo buscan para sacar la información valiosa que estos símbolos poseen. Los Autobots deberán proteger a Sam e impedir que los Decepticons se apoderen de los símbolos de su mente."
+      "show_name": "Espejito, espejito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:25",
+      "end_time": "13:20",
+      "episode_description": ""
     },
     {
-      "show_name": "Transformers 5",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/transformers-5.webp",
-      "show_category": "Ciencia Ficción",
-      "start_time": "19:10",
+      "show_name": "Jungle",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:20",
+      "end_time": "15:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Realmente amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:25",
+      "end_time": "17:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Leyendas De Pasión",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "20:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gold",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:20",
       "end_time": "22:00",
-      "episode_description": "En la ausencia de Optimus Prime, una batalla por la supervivencia entre Transformers y humanos a comenzado en el planeta tierra. Bumblebee forma una alianza con Cade Yeager (Mark Wahlberg), para descubrir porque los Transformers siguen llegando al planeta. La clave para salvar nuestro futuro está enterrada en los secretos del pasado, la historia oculta de los Transformers en la tierra."
+      "episode_description": ""
     },
     {
-      "show_name": "Misión: Imposible - Repercusión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/misión-imposible-repercusión.webp",
-      "show_category": "Acción",
+      "show_name": "El protector",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:45",
-      "episode_description": "En una peligrosa tarea para recuperar el plutonio robado, Ethan Hunt (Tom Cruise) elige salvar a su equipo sobre completar la misión, permitiendo que las armas nucleares caigan en manos de una red mortal de operativos altamente calificados que intentan destruir la civilización. Ahora, con el mundo en riesgo Ethan y su equipo del IMF se ven obligados a convertirse en socios – sin estar convencidos – con el agente de la CIA, August Walker (Henry Cavill) mientras ellos corren contra el tiempo para detener la lluvia nuclear."
+      "end_time": "00:00",
+      "episode_description": ""
     }
   ]
 }
