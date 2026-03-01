@@ -1,26 +1,34 @@
 {
   "channel": "Azteca (XHOR)",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Box Azteca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/box-azteca.webp",
-      "show_category": "Sports",
+      "show_name": "Toy Story 2",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p24266_p_v12_ae.jpg",
+      "show_category": "Movies",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "La más completa información sobre el deporte del boxeo. Transmisión de las peleas más destacadas del momento y peleas previas. Además se presentan resúmenes de algunas peleas destacadas junto a un análisis detallado."
+      "episode_description": "Buzz Lightyear y sus amigos planean una misión de rescate cuando un inescrupuloso coleccionista de juguetes roba a Woody."
     },
     {
-      "show_name": "Leyendas de Box Azteca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/leyendas-de-box-azteca.webp",
-      "show_category": "Sports",
+      "show_name": "Farmacias Similares",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p10152698_st_v8_aa.jpg",
+      "show_category": "Paid Program",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Un vistazo a las trayectorias de los boxeadores que han forjado la historia del deporte del cuadrilátero y los guantes."
+      "end_time": "00:30",
+      "episode_description": ""
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
+      "show_category": "Paid Program",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p32154946_st_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p32154946_st_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p32154946_st_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,123 +76,211 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
-      "show_category": "Paid Program",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
-    },
-    {
       "show_name": "Barras de ajuste",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/barras-de-ajuste.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8055910_b_v8_aa.jpg",
       "show_category": "Specials",
-      "start_time": "05:00",
-      "end_time": "05:15",
+      "start_time": "04:30",
+      "end_time": "04:45",
       "episode_description": "Programación por anunciarse."
     },
     {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p472462_b_v8_aa.jpg",
       "show_category": "Regular",
-      "start_time": "05:15",
-      "end_time": "05:30",
+      "start_time": "04:45",
+      "end_time": "05:00",
       "episode_description": "Espacio del gobierno de México."
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
-      "start_time": "05:30",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "Molang",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/molang.webp",
+      "show_name": "Bernard",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8508136_b_v12_ag.jpg",
       "show_category": "Animated",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Molang es un conejo alegre y aventurero. Junto a Piu Piu, su amigo fiel, se embarcan en divertidas aventuras, desde ir a la luna hasta regar las plantas."
+      "end_time": "06:30",
+      "episode_description": "Bernard es un simpático oso deportista capaz de hacer que situaciones cotidianas se conviertan en los retos más surrealistas y divertidos."
     },
     {
-      "show_name": "Turbosaurios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/turbosaurios.webp",
+      "show_name": "Robocar Poli",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p21407048_b_v8_ac.jpg",
       "show_category": "Animated",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Los protagonistas son dinosaurios capaces de transformarse en máquinas de todo tipo. Gracias a sus superpoderes, ayudan a sus amigos Katie y Peter a resolver problemas grandes y pequeños."
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Nunca es un día aburrido en Broomstown con el equipo de rescate de Robocar Poli protegiendo los vehículos y ciudadanos de la hermosa ciudad de todo tipo de peligros."
     },
     {
-      "show_name": "Ositos cariñositos: Libera la magia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/ositos-cariñositos-libera-la-magia.webp",
+      "show_name": "44 gatos",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16208083_b_v11_au.jpg",
+      "show_category": "Comedy",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Lampo, Milady, Pilou y Polpetta son cuatro gatos que forman parte de una banda de música llamada Buffycats. Los cuatro amigos encuentran soluciones creativas para los problemas cotidianos y ayudan a otros gatos necesitados."
+    },
+    {
+      "show_name": "LEGO: City Adventures",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16947222_b_v8_bc.jpg",
+      "show_category": "Animated",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Los habitantes de la comunidad diversa y en expansión de LEGO City se embarcan en aventuras repletas de acción."
+    },
+    {
+      "show_name": "Masha y el oso",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p794701_b_v8_cf.jpg",
       "show_category": "Animated",
       "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Cuando una nueva aventura los lleva a un mundo extraño, los ositos tienen que apoyarse entre sí más que nunca. A través de la amistad, el coraje y un poco de magia, continuarán su misión."
+      "end_time": "08:30",
+      "episode_description": "Masha es una niña inquieta que explora el mundo. Un buen día, conoce a Oso, un animal de gran corazón que se convierte en su accidental compañero de aventuras."
     },
     {
-      "show_name": "Los Pitufos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/los-pitufos.webp",
+      "show_name": "Bluey",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p16030422_b_v12_at.jpg",
+      "show_category": "Animated",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Las aventuras de Bluey, una cachorra que vive con su madre, padre y hermana. Su energía y su espíritu adorable generan todo tipo de situaciones divertidas e impredecibles."
+    },
+    {
+      "show_name": "Princesita Sofía",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8990588_b_v11_bt.jpg",
       "show_category": "Animated",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Sofía es una chica normal cuya vida cambia repentinamente cuando su madre se casa con un rey, por lo que debe adaptarse a los protocolos de la vida real."
+    },
+    {
+      "show_name": "La casa de Mickey Mouse",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186176_b_v8_bo.jpg",
+      "show_category": "Animated",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Mickey, Minnie, Donald, Daisy, Goofy y Pluto transportan a los niños a un mundo mágico, donde aprenden a resolver problemas."
+    },
+    {
+      "show_name": "Pokémon",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8310449_b_v8_ao.jpg",
+      "show_category": "Animated",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "El joven Ash Ketchum da sus primeros pasos en el entrenamiento Pokémon al cumplir 10 años y emprende una aventura para ganar las ocho medallas de los gimnasios que necesita para competir en su primer torneo oficial."
+    },
+    {
+      "show_name": "Escandalositos",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p21056863_b_v12_ax.jpg",
+      "show_category": "Animated",
+      "start_time": "10:30",
       "end_time": "11:30",
-      "episode_description": "Las aventuras de unas pequeñas criaturas azules que viven en armonía en un bosque, que tendrán que luchar contra los malvados planes de Gargamel."
+      "episode_description": "Los adorables ositos Pardo, Panda y Polar buscan un sitio que puedan llamar hogar. Luego de pedir un deseo, los ositos obtienen una caja mágica que los transporta a cualquier lugar, y viajan a tierras fantásticas, donde hacen nuevos amigos."
     },
     {
-      "show_name": "Beethoven 6",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/beethoven-6.webp",
-      "show_category": "Movies",
+      "show_name": "El amanecer de los Croods",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p12413601_b_v12_bb.jpg",
+      "show_category": "Animated",
       "start_time": "11:30",
-      "end_time": "13:45",
-      "episode_description": "Cuando unos delincuentes secuestran al perro de una película, un hombre (Jonathan Silverman) reemplaza al animal con un adorable San Bernardo."
+      "end_time": "13:00",
+      "episode_description": "Los Croods encuentran nuevos amigos, nuevas criaturas y ven un mundo que nunca antes habían visto."
     },
     {
-      "show_name": "Arthur y los Minimoys",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/arthur-y-los-minimoys.webp",
-      "show_category": "Movies",
-      "start_time": "13:45",
+      "show_name": "Los padrinos mágicos",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186130_b_v8_bh.jpg",
+      "show_category": "Animated",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Las divertidas aventuras de un niño de diez años que tiene unos padrinos mágicos que le conceden todos sus deseos."
+    },
+    {
+      "show_name": "El show de Garfield",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p7889800_b_v12_bw.jpg",
+      "show_category": "Animated",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "Las travesuras de Garfield, un gato naranja y sardónico cuyas únicas aficiones son comer lasaña y dormir."
+    },
+    {
+      "show_name": "El increíble mundo de Gumball",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8648428_b_v8_aa.jpg",
+      "show_category": "Animated",
+      "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Un niño entra a un reino habitado por seres pequeños y busca un tesoro que podría salvar la casa de su abuela."
+      "episode_description": "Las aventuras de un gato joven llamado Gumball Watterson que tiene una predilección especial por meterse en problemas."
     },
     {
-      "show_name": "El Lórax: En busca de la trúfula perdida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/el-lórax-en-busca-de-la-trúfula-perdida.webp",
-      "show_category": "Movies",
+      "show_name": "El mundo de Craig",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14886858_b_v12_ac.jpg",
+      "show_category": "Animated",
       "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes."
+    },
+    {
+      "show_name": "Dragon Ball Z",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14343421_b_v8_ag.jpg",
+      "show_category": "Animated",
+      "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Ted vive en Thneed-Ville, una ciudad que, aparte de sus ciudadanos, es completamente artificial. Él decide encontrar a Audrey, la chica de sus sueños, quien desea ver un árbol de verdad."
+      "episode_description": "Las aventuras de Goku, el gran guerrero saiyajin que, junto a su hijo Gohan y sus amigos, protege a la Tierra de las amenazas, con la ayuda de las esferas del dragón."
     },
     {
-      "show_name": "Olé: El viaje de Ferdinand",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/olé-el-viaje-de-ferdinand.webp",
-      "show_category": "Movies",
+      "show_name": "La voz de tu amor",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p10072334_b_v8_ab.jpg",
+      "show_category": "Drama",
       "start_time": "18:00",
-      "end_time": "20:15",
-      "episode_description": "Un toro grande y amable llamado Ferdinand intenta huir de sus captores y volver con la niña que lo adoptó, ya que los malhechores lo entregarán a un famoso matador de toros. Una cabra disparatada y tres erizos ayudan a Ferdinand a escapar."
+      "end_time": "19:30",
+      "episode_description": "Soo-ha nunca olvida la chica que arriesgó su vida para declarar contra el asesino de su padre. Años después, el don sobrenatural que él posee le permite escuchar sus pensamientos y protegerla."
     },
     {
-      "show_name": "Toy Story",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/toy-story.webp",
-      "show_category": "Movies",
-      "start_time": "20:15",
-      "end_time": "22:00",
-      "episode_description": "Woody, el juguete favorito de Andy, se siente amenazado por la inesperada llegada de Buzz Lightyear, el guardián del espacio."
+      "show_name": "Yo soy Betty, la fea",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p533549_b_v8_ac.jpg",
+      "show_category": "Soaps",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "Beatriz Pinzón tiene un título en finanzas. Para su suerte, consigue empleo en una de las compañías más importantes en el mundo de la moda, Ecomoda. Betty nunca imaginó los constantes desprecios que enfrentaría por su aspecto físico."
     },
     {
-      "show_name": "Toy Story 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Azteca-XHOR/tomorrow/toy-story-2.webp",
-      "show_category": "Movies",
-      "start_time": "22:00",
-      "end_time": "00:00",
-      "episode_description": "Buzz Lightyear y sus amigos planean una misión de rescate cuando un inescrupuloso coleccionista de juguetes roba a Woody."
+      "show_name": "Un día para vivir",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20615912_b_v12_ac.jpg",
+      "show_category": "Soaps",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj."
+    },
+    {
+      "show_name": "Dra. Lucía: Un don extraordinario",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p25783283_b_v8_ac.jpg",
+      "show_category": "Drama",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Tras un accidente, la Dra. Lucía Castillo, especialista en urgencias médico-quirúrgicas, puede conectarse a nivel psíquico con sus pacientes y salvar las vidas, aunque la suya corra peligro."
+    },
+    {
+      "show_name": "NCIS: Hawai'i",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20016027_b_v12_as.jpg",
+      "show_category": "Drama",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Jane Tennant, la agente espacial que lidera el grupo de NCIS en Pearl Harbor, resuelve junto a su equipo de especialistas crímenes complejos que atañen a la seguridad nacional y a los militares destinados a Hawái."
+    },
+    {
+      "show_name": "From",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p20959089_b_v12_an.jpg",
+      "show_category": "Sci-Fi",
+      "start_time": "23:30",
+      "end_time": "00:30",
+      "episode_description": "Los residentes de un pequeño pueblo buscan una salida cuando fuerzas desconocidas les impiden marcharse."
     }
   ]
 }

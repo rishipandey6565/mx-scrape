@@ -1,44 +1,60 @@
 {
   "channel": "TCM (México)",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "¿Quién teme a Virginia Woolf?",
+      "show_name": "Honey Boy: Un niño encantador",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:35",
+      "end_time": "00:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El último turno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:13",
+      "end_time": "01:42",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:35",
-      "end_time": "01:10",
+      "start_time": "01:42",
+      "end_time": "02:16",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:10",
-      "end_time": "01:45",
+      "start_time": "02:16",
+      "end_time": "02:26",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:45",
-      "end_time": "02:20",
+      "start_time": "02:26",
+      "end_time": "02:36",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:20",
+      "start_time": "02:36",
+      "end_time": "02:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:45",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,111 +63,95 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:34",
-      "end_time": "03:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:44",
-      "end_time": "03:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El águila solitaria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:55",
-      "end_time": "06:17",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aprendices de cuervos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:17",
-      "end_time": "08:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fuga de Pretoria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:34",
-      "end_time": "10:24",
+      "end_time": "03:38",
       "episode_description": ""
     },
     {
       "show_name": "Feliz novedad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:24",
-      "end_time": "12:09",
+      "start_time": "03:38",
+      "end_time": "05:20",
       "episode_description": ""
     },
     {
       "show_name": "Sinfonía de Paris",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:09",
-      "end_time": "14:11",
+      "start_time": "05:20",
+      "end_time": "07:17",
       "episode_description": ""
     },
     {
       "show_name": "Esperando la Carroza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:11",
-      "end_time": "15:52",
+      "start_time": "07:17",
+      "end_time": "08:57",
       "episode_description": ""
     },
     {
       "show_name": "Nace una Estrella",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:52",
+      "start_time": "08:57",
+      "end_time": "11:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Espías en manada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:59",
+      "end_time": "13:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Scaramouche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:40",
+      "end_time": "15:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conspiración de silencio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:39",
+      "end_time": "17:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El código enigma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:04",
       "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Otros pecados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Otros pecados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:59",
-      "end_time": "20:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La galería de los corazones rotos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:49",
-      "end_time": "22:43",
       "episode_description": ""
     },
     {
       "show_name": "Honey Boy: Un niño encantador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:43",
-      "end_time": "00:13",
+      "start_time": "19:00",
+      "end_time": "20:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Cartero llama dos veces",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:33",
+      "end_time": "22:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El último turno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:31",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

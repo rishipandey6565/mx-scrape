@@ -1,33 +1,41 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Un Día Muy Especial",
+      "show_name": "Cats",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:07",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "Un Viaje de Diez Metros",
+      "show_name": "Jugada perfecta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:07",
-      "end_time": "04:16",
+      "start_time": "00:05",
+      "end_time": "02:05",
       "episode_description": ""
     },
     {
-      "show_name": "El discípulo",
+      "show_name": "Traición a tres esposas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:16",
+      "start_time": "02:05",
+      "end_time": "03:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El vuelo del Fénix",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:44",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "La gran aventura de Los Lunnis",
+      "show_name": "Casanova",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -35,59 +43,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "El discípulo",
+      "show_name": "Forever my girl",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:37",
-      "end_time": "11:55",
+      "end_time": "11:40",
       "episode_description": ""
     },
     {
-      "show_name": "La Liga Extraordinaria",
+      "show_name": "Un Amor Inquebrantable",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_amor_inquebrantable.jpg",
+      "show_category": "Biografía",
+      "start_time": "11:40",
+      "end_time": "14:00",
+      "episode_description": "Basada en la historia real e inspiradora del amor inquebrantable de una madre ante las probabilidades imposibles. Cuando el hijo adoptivo de Joyce Smith (Chrissy Metz), John (Marcel Ruiz) cae a través de un lago helado de Missouri, toda esperanza parece perdida. Pero mientras el cuerpo de John yace sin vida, Joyce se niega a rendirse. Su firme creencia inspira a los que la rodean a seguir orando para la recuperación de John, incluso ante la historia de cada caso y la predicción científica."
+    },
+    {
+      "show_name": "Elizabeth está desaparecida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:55",
-      "end_time": "14:01",
+      "start_time": "14:00",
+      "end_time": "15:50",
       "episode_description": ""
     },
     {
-      "show_name": "Amor en juego",
+      "show_name": "Deja vu",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:01",
-      "end_time": "16:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "4x4",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:01",
-      "end_time": "17:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Brooklyn",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:49",
-      "end_time": "20:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vigilando a Jean Seberg",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:02",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cats",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "00:05",
+      "start_time": "15:50",
+      "end_time": "18:14",
       "episode_description": ""
     }
   ]

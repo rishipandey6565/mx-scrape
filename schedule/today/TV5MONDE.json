@@ -1,20 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
+    {
+      "show_name": "Des racines & des ailes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:16",
+      "episode_description": ""
+    },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:35",
+      "start_time": "00:16",
+      "end_time": "01:12",
       "episode_description": ""
     },
     {
-      "show_name": "Or de vie",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:35",
+      "start_time": "01:12",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,38 +31,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:26",
+      "end_time": "03:22",
       "episode_description": ""
     },
     {
-      "show_name": "Telematin",
+      "show_name": "Ça va l'faire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:26",
-      "end_time": "04:33",
+      "start_time": "03:22",
+      "end_time": "04:32",
       "episode_description": ""
     },
     {
-      "show_name": "Mémoire de suisse romande",
+      "show_name": "Falò",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:33",
+      "start_time": "04:32",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Silence, ça pousse !",
+      "show_name": "A bon entendeur",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:51",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le grand jt des territoires",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:51",
+      "start_time": "05:30",
+      "end_time": "05:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Complément d'enquête",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:57",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -79,22 +95,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:40",
-      "end_time": "09:15",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Refuges de montagne",
+      "show_name": "Top 14 rugby le mag",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "10:00",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "La suisse des lacs",
+      "show_name": "Vivement dimanche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rassemblance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -115,31 +139,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Speciale questions pour",
+      "show_name": "Basik/Rts",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
-      "end_time": "12:38",
+      "end_time": "12:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le match dans le match",
+      "show_name": "Suisse en scène",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:38",
-      "end_time": "13:03",
+      "start_time": "12:33",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Magazine",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:03",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_name": "# Version française",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -147,26 +171,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "Football Ligue 1 McDonald's",
+      "show_name": "Le journal de la rts",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:05",
+      "end_time": "14:27",
       "episode_description": ""
     },
     {
-      "show_name": "Football Ligue 1 McDonald's",
+      "show_name": "Speciale questions pour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:05",
-      "end_time": "16:04",
+      "start_time": "14:27",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "La grande galerie francophone",
+      "show_name": "TV5Monde le Journal Afrique",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:04",
+      "start_time": "15:00",
+      "end_time": "15:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Les rencontres du papotin",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:27",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "20h30 Le Dimanche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rassemblance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -175,30 +223,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
+      "end_time": "17:29",
       "episode_description": ""
     },
     {
-      "show_name": "En avoir",
+      "show_name": "Notre Dame de Moncton",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:55",
+      "start_time": "17:29",
+      "end_time": "19:02",
       "episode_description": ""
     },
     {
-      "show_name": "Sur la touche",
+      "show_name": "Sylvie en liberté",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:55",
-      "end_time": "19:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Foreigners",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:15",
+      "start_time": "19:02",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -211,19 +251,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gala welcome back",
+      "show_name": "La menace",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:56",
-      "end_time": "22:21",
+      "end_time": "21:48",
       "episode_description": ""
     },
     {
-      "show_name": "Des racines & des ailes",
+      "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:21",
-      "end_time": "00:16",
+      "start_time": "21:48",
+      "end_time": "23:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Le 6h info",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:35",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

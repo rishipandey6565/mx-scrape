@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "Luar",
+      "show_name": "Heicho cantar queridina",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,42 +11,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "O Termómetro",
+      "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:15",
+      "end_time": "00:25",
       "episode_description": ""
     },
     {
-      "show_name": "Parlamento",
+      "show_name": "O Termómetro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:15",
-      "end_time": "02:30",
+      "start_time": "00:25",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vivír o mar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
+      "end_time": "02:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Polo camiño da fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:40",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La santa misa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Bos Dias Fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Labranza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "03:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zigzag Diario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:45",
+      "start_time": "03:30",
       "end_time": "04:15",
       "episode_description": ""
     },
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "48 Horas para o si",
+      "show_name": "A liga dos cantantes extraordinarios",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -87,14 +103,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:06",
-      "end_time": "08:20",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
       "show_name": "No foco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:20",
+      "start_time": "08:15",
       "end_time": "08:34",
       "episode_description": ""
     },
@@ -103,14 +119,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:34",
-      "end_time": "10:10",
+      "end_time": "08:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La santa misa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:35",
+      "end_time": "09:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Polo camiño da fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:05",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
       "show_name": "Galicia bonita",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:10",
+      "start_time": "09:45",
       "end_time": "11:15",
       "episode_description": ""
     },
@@ -155,34 +195,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Expediente oculto",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Somos animais",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
+      "start_time": "15:45",
+      "end_time": "16:37",
       "episode_description": ""
     },
     {
-      "show_name": "Latitude galega",
+      "show_name": "Non Lle chames amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galegos no mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:50",
+      "start_time": "16:37",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -203,19 +235,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Bailamos?",
+      "show_name": "Código 092: en primeira liña",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "21:25",
+      "end_time": "21:35",
       "episode_description": ""
     },
     {
-      "show_name": "Heicho cantar queridina",
+      "show_name": "48 Horas para o si",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:25",
-      "end_time": "00:00",
+      "start_time": "21:35",
+      "end_time": "22:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Traballo feito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:20",
+      "end_time": "01:32",
       "episode_description": ""
     }
   ]

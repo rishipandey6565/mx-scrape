@@ -1,20 +1,52 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Jigsaw: El Juego Continúa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/jigsaw-el-juego-continúa.webp",
-      "show_category": "Crimen",
+      "show_name": "El kárate kid",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Después de una serie de asesinatos que llevan todas las marcas del asesino \"Jigsaw\", las fuerzas del orden público se encuentran persiguiendo al fantasma de un hombre muerto hace más de una década y enredado en un nuevo juego que apenas ha comenzado. ¿Ha vuelto John Kramer de entre los muertos para recordarle al mundo que debe estar agradecido por el regalo de la vida? ¿O es está una trampa puesta por un asesino con diseños propios?"
+      "end_time": "00:00",
+      "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -27,90 +59,130 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rugrats Aventuras en Pañales",
+      "show_name": "PJ Masks: Héroes en Pijamas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
+      "show_category": "Animación",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks."
+    },
+    {
+      "show_name": "PAW Patrol",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
+      "show_category": "Animación",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "¡Prepárate para pasar un buen rato moviendo la cola en estas aventuras de rescate con PAW Patrol! Prepárate para salvar el día en Adventure Bay con Ryder y su equipo de cachorros heroicos: Marshall el perro bombero, Skye el cachorro volador temerario, Chase el perro policía, Rubble el cachorro de construcción, Rocky el cachorro de reciclaje y Zuma el perro de rescate acuático."
+    },
+    {
+      "show_name": "Max y la pandilla medieval",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:55",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal 5",
+      "show_name": "Viva el rey Julien",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:55",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "T.U.F.F. Puppy",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
+    },
+    {
+      "show_name": "Los Pitufos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
+      "start_time": "10:00",
       "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jurassic World Campamento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Jóvenes Titanes En Acción",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
+      "show_category": "Animación",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. \"¡No lo es!\" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…."
+    },
+    {
+      "show_name": "Scooby-Doo y ¿Quién Crees Tú?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bob Esponja La pelicula",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
       "show_name": "el chavo animado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "start_time": "17:30",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
-      "show_name": "El Regreso a la Isla de Nim",
+      "show_name": "Dos son familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:15",
+      "start_time": "18:15",
+      "end_time": "20:45",
       "episode_description": ""
     },
     {
-      "show_name": "Un ratoncito duro de cazar",
+      "show_name": "Belleza Verdadera",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:15",
-      "end_time": "16:15",
+      "start_time": "20:45",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Karate kid",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:15",
-      "end_time": "18:45",
-      "episode_description": ""
+      "show_name": "Chucky",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/chucky.jpg",
+      "show_category": "Terror",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Una idílica ciudad estadounidense se ve sumida en el caos después de que un muñeco antiguo de \"Good Guy\" apareciera en una venta de garaje suburbana. Pronto, todos deberán lidiar con una serie de horribles asesinatos que comenzarán a exponer las profundas hipocresías y los secretos ocultos de la ciudad."
     },
     {
-      "show_name": "Kárate Kid 3 Desafío Final",
+      "show_name": "Contacto deportivo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:45",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El kárate kid",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

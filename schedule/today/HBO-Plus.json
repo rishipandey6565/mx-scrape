@@ -1,25 +1,25 @@
 {
   "channel": "HBO Plus",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "Drácula: La historia Jamás Contada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/drácula-la-historia-jamás-contada.webp",
-      "show_category": "Acción",
-      "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": "Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula."
-    },
-    {
-      "show_name": "El señor de los anillos La guerra de los Rohirrim",
+      "show_name": "La mujer de las sombras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
+      "start_time": "00:00",
+      "end_time": "01:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Aprendiz de Vampiro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:05",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "La momia",
+      "show_name": "Terror en Silent Hill",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -27,75 +27,83 @@
       "episode_description": ""
     },
     {
-      "show_name": "La momia La tumba del emperador Dragón",
+      "show_name": "12 horas para sobrevivir El año de la elección",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:10",
-      "end_time": "07:10",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/mujer-maravilla-1984.webp",
+      "show_name": "Titanes del Pacífico",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/titanes_del_pacifico.jpg",
       "show_category": "Acción",
-      "start_time": "07:10",
-      "end_time": "09:45",
-      "episode_description": "Sinopsis no disponible."
+      "start_time": "07:00",
+      "end_time": "09:15",
+      "episode_description": "(Pacific Rim) La humanidad creía que los extraterrestres vendrían desde el cielo, pero todos estábamos equivocados, ellos entran a nuestro mundo a través de un portal en el fondo del pacífico y son unos monstruos gigantescos, para combatirlos nuestra única esperanza son un escuadrón de robots gigantes piloteados por humanos."
     },
     {
-      "show_name": "Exterminio: La Evolución",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/exterminio-la-evolución.webp",
-      "show_category": "Terror",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": "Exterminio: La Evolución, una nueva y aterradora historia de terror de autor ambientada en el mundo creado por Exterminio. Han pasado casi tres décadas desde que el virus de la rabia escapó de un laboratorio de armas biológicas, y ahora, aún en una cuarentena impuesta despiadadamente, algunos han encontrado la manera de sobrevivir entre los infectados. Uno de estos supervivientes vive en una pequeña isla conectada al continente por una única carretera fuertemente defendida. Cuando uno de ellos abandona la isla en una misión hacia el corazón oscuro del continente, descubre secretos, maravillas y horrores que han mutado no solo a los infectados, sino también a otros supervivientes."
-    },
-    {
-      "show_name": "Destino Final: Lazos de Sangre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/destino-final-lazos-de-sangre.webp",
-      "show_category": "Terror",
-      "start_time": "11:45",
-      "end_time": "13:40",
-      "episode_description": "Atormentada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie (Kaitlyn Santa Juana) regresa a casa para buscar a la única persona que podría romper el ciclo y salvar a su familia de la espantosa muerte que inevitablemente les espera a todos."
-    },
-    {
-      "show_name": "Furia de Titanes 2",
+      "show_name": "The Boy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:40",
-      "end_time": "15:24",
+      "start_time": "09:15",
+      "end_time": "11:10",
       "episode_description": ""
     },
     {
-      "show_name": "Duna",
+      "show_name": "Reminiscencia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:24",
-      "end_time": "18:05",
+      "start_time": "11:10",
+      "end_time": "13:10",
       "episode_description": ""
     },
     {
-      "show_name": "Duna: Parte Dos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/duna-parte-dos.webp",
-      "show_category": "Acción",
-      "start_time": "18:05",
-      "end_time": "20:55",
-      "episode_description": "Duna: Parte Dos explora el viaje mítico de Paul Atreides (Timothée Chalamet) mientras se une a Chani (Zendaya) y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever."
-    },
-    {
-      "show_name": "Furiosa: De la Saga Mad Max",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/furiosa-de-la-saga-mad-max.webp",
-      "show_category": "Acción",
-      "start_time": "20:55",
-      "end_time": "23:29",
-      "episode_description": "Mientras el mundo caía, la joven Furiosa (Anya Taylor-Joy) es arrebatada del Lugar Verde de Muchas Madres y cae en manos de una gran Horda de Motociclistas liderada por el Señor de la Guerra Dementus (Chris Hemsworth). Navegando por Wasteland, se encuentran con la Ciudadela presidida por el Immortan Joe (Lachy Hulme). Mientras los dos Tiranos luchan por el dominio, Furiosa debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino a casa."
-    },
-    {
-      "show_name": "La mujer de las sombras",
+      "show_name": "No hables con extraños",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:29",
-      "end_time": "01:05",
+      "start_time": "13:10",
+      "end_time": "15:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kraven El Cazador",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kraven_el_cazador.jpg",
+      "show_category": "Acción",
+      "start_time": "15:05",
+      "end_time": "17:19",
+      "episode_description": "Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man."
+    },
+    {
+      "show_name": "Se lo que hicieron el verano pasado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:19",
+      "end_time": "19:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Freddy contra Jason",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:15",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un verano infernal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "22:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El hombre araña 3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:34",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 24",
-  "date": "28/02/2026",
+  "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "SKY Sports 21",
+      "show_name": "Bundesliga weekly",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,59 +15,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bundesliga special show #07",
+      "show_name": "Leverkusen vs. 1. FsV Mainz 05",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "00:30",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Schalke 04 vs. 1. FC Magdebu",
+      "show_name": "M'gladbach vs. 1. FC Unión Berl",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "04:00",
+      "start_time": "02:30",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "FC Augsburg vs. 1. FC Köln",
+      "show_name": "Werder Bremen vs. FC Heidenheim",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "06:00",
+      "start_time": "04:30",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Holstein Kiel vs. Elversberg\nEn Vivo",
+      "show_name": "Hertha Berlín vs. F. C. Núremb",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "SKY Sports 21",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:15",
+      "start_time": "06:30",
       "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "Hoffenheim vs. St. Pauli\nEn Vivo",
+      "show_name": "Stuttgart vs. Wolfsburg\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -75,82 +59,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bundesliga weekly",
+      "show_name": "Frankfurt vs. Freiburg\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
-      "end_time": "11:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "SKY Sports 21",
+      "show_name": "Hamburger SV vs. RB Leipzig\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:15",
+      "start_time": "12:30",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Previo",
+      "show_name": "Stuttgart vs. Wolfsburg\nRepetición",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:30",
+      "start_time": "14:30",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Borussia Dortmund Vs. Bayern Múnich",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-24/today/borussia-dortmund-vs-bayern-múnich.webp",
-      "show_category": "Deporte",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Desde el estadio Signal Iduna Park en la ciudad de Dortmund, Alemania. Se enfrentan los equipos Borussia Dortmund versus F. C. Bayern Múnich."
-    },
-    {
-      "show_name": "Leverkusen vs. 1. FsV Mainz 05",
+      "show_name": "Frankfurt vs. Freiburg",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "15:30",
+      "start_time": "16:30",
+      "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "M'gladbach vs. 1. FC Unión Berl",
+      "show_name": "Hamburger SV vs. RB Leipzig",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Werder Bremen vs. FC Heidenheim",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Borussia Dortmund vs. Bayern Mú",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:30",
+      "start_time": "18:30",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
       "show_name": "Hoffenheim vs. St. Pauli",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "23:30",
+      "start_time": "20:30",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bundesliga weekly",
+      "show_name": "Leverkusen vs. 1. FsV Mainz 05",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }
