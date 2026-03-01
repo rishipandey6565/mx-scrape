@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,131 +12,115 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
-      "end_time": "01:30",
+      "end_time": "02:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Gran Premio de Tailandia, Circuito Internacional de Chang",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Moto GP - Sprint Race",
-      "start_time": "01:30",
-      "end_time": "02:45",
-      "episode_description": "Vive las emociones de la instancia de Sprint Race de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo."
-    },
-    {
-      "show_name": "Lo mejor de MotoGP",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/lo-mejor-de-motogp.webp",
-      "show_category": "Lo mejor de MotoGP",
-      "start_time": "02:45",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "Pittsburgh Penguins vs. New York Rangers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Madison Square Garden",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "end_time": "05:00",
+      "episode_description": "Vive los partidos de la 109º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá."
     },
     {
-      "show_name": "Bristol City vs. Watford",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 35, Ashton Gate Stadium",
-      "start_time": "04:00",
-      "end_time": "06:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "06:00",
-      "end_time": "06:20",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Leicester City vs. Norwich City",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 35, King Power Stadium",
-      "start_time": "06:20",
-      "end_time": "08:30",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Final, The Dubai Duty Free Tennis Centre, Dubai, S, United Arab Emirates",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Dubai Duty Free Tennis Championship",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Disfruta las emociones de este torneo de la categoría ATP 500 que se celebra en el Dubai Duty Free Tennis Stadium. Cuenta con la participación de 8 de los mejores 20 tenistas del mundo y cinco excampeones."
-    },
-    {
-      "show_name": "Acción de la NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/acción-de-la-nba.webp",
-      "show_category": "Acción de la NBA",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
-    },
-    {
-      "show_name": "Heracles Almelo vs. PSV",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 25, Erve Asito",
-      "start_time": "11:30",
-      "end_time": "14:00",
+      "show_name": "PEC Zwolle vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 25, Mac3Park Stadion",
+      "start_time": "05:00",
+      "end_time": "05:00",
       "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "Edward Vazquez vs. Grimardi Machuca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
-      "start_time": "14:00",
-      "end_time": "16:00",
-      "episode_description": "Los mejores combates de boxeo y MMA."
+      "show_name": "PEC Zwolle vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 25, Mac3Park Stadion",
+      "start_time": "05:00",
+      "end_time": "07:15",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "El show de la Copa Libertadores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/el-show-de-la-copa-libertadores.webp",
-      "show_category": "El show de la Copa Libertadores",
-      "start_time": "16:00",
-      "end_time": "16:55",
-      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
+      "show_name": "FC Twente vs. Feyenoord",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 25, De Grolsch Veste",
+      "start_time": "07:15",
+      "end_time": "09:30",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "Charros de Jalisco Softbol vs. Sultanes Femenil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Estadio Walmart Park",
-      "start_time": "16:55",
-      "end_time": "20:00",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
+      "show_name": "FC Utrecht vs. AZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 25, Stadion Galgenwaard",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "Eduardo Núñez vs. Emanuel Navarrete",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
-      "start_time": "20:00",
-      "end_time": "23:30",
-      "episode_description": "Los mejores combates de boxeo y MMA."
+      "show_name": "San Antonio Spurs vs. New York Knicks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Madison Square Garden",
+      "start_time": "12:00",
+      "end_time": "14:30",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Minnesota Timberwolves vs. Denver Nuggets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Ball Arena",
+      "start_time": "14:30",
+      "end_time": "17:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "23:30",
-      "end_time": "",
+      "start_time": "17:00",
+      "end_time": "18:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Lo mejor de la NFL 2025-2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-lo-mejor-de-la-nfl-2025-2026-1_l_m.jpg",
+      "show_category": "Especial de SportsCenter",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Un especial en el que podrás ver las mejores jugadas, resultados de los partidos, así como análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas."
+    },
+    {
+      "show_name": "Cremonese vs. Milan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 27, Stadio Giovanni Zini",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+    },
+    {
+      "show_name": "Eduardo Núñez vs. Emanuel Navarrete",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "21:00",
+      "end_time": "23:00",
+      "episode_description": "Los mejores combates de boxeo y MMA."
+    },
+    {
+      "show_name": "Atl. San Luis vs. Puebla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 8, Estadio Alfonso Lastras",
+      "start_time": "23:00",
+      "end_time": "",
+      "episode_description": "Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026."
     }
   ]
 }
