@@ -1,17 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Cinescape",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TV Revista del Consumidor",
+      "show_name": "Salud en Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,10 +11,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nuevo mundo, pintura callejera en América Latina",
+      "show_name": "Reinventándonos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mexiquense Noticias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero DW",
+      "show_name": "Noticiero Internacional Deutsche Welle",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:15",
@@ -59,79 +59,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Atrévete x ti",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Forma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fuerza latina",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fuerza TV",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noticiero DW",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
       "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reporte mexiquense",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Huellas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Concierto O.S.E.M.",
+      "show_name": "Salud en Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mirada Global",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Abierto al Publico",
+      "show_name": "Los secretos mejor guardados",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -139,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -147,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Zona Mexiquense®",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -155,15 +123,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tierra de Campeones",
+      "show_name": "Detrás de un click",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Islas de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Knock Out",
+      "show_name": "Mercados y marchantes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -171,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nuevo mundo, pintura callejera en América Latina",
+      "show_name": "Noticiero Internacional Deutsche Welle",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -179,39 +155,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Su casa EDOMEX",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juan Dosal: La leyenda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Hilo Negro",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cinescape",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Ritmo Deportivo",
+      "show_name": "Entre el ruido",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nuevo mundo, pintura callejera en América Latina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Balance Dominical",
+      "show_name": "Punto de referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -219,11 +203,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Noticiero Internacional Deutsche Welle",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:05",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

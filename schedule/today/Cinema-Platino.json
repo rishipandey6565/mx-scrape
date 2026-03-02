@@ -1,14 +1,118 @@
 {
   "channel": "Cinema Platino",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Birdman",
+      "show_name": "Bárbaro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:51",
+      "end_time": "01:30",
       "episode_description": ""
+    },
+    {
+      "show_name": "La gran Gilly Hopkins",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agente Bajo Fuego",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/angel_has_fallen.jpg",
+      "show_category": "Acción",
+      "start_time": "03:11",
+      "end_time": "05:15",
+      "episode_description": "Cuando hay un intento de asesinato contra el presidente de los Estados Unidos, Allan Trumbull (Morgan Freeman), su hombre de confianza, el agente del Servicio Secreto Mike Banning (Gerard Butler), es acusado injustamente y puesto bajo custodia. Después de escapar de la captura, se convierte en un hombre que huye y debe evadir a su propia agencia y ser más astuto que el FBI para encontrar la verdadera amenaza hacia el presidente. Desesperado por descubrir la verdad, Bannin trabaja con aliados poco probables para ayudar a limpiar su nombre, evitar que su familia sufra daños y salvar al país del peligro inminente."
+    },
+    {
+      "show_name": "Somnia: Antes de Despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:15",
+      "end_time": "06:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:54",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El libro del amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
+      "end_time": "09:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:11",
+      "end_time": "09:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Por qué los hombres son infieles?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:42",
+      "end_time": "11:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:14",
+      "end_time": "11:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Remando Como un Solo Hombre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:44",
+      "end_time": "13:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amsterdam",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:52",
+      "end_time": "16:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ni en tus sueños",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:10",
+      "end_time": "18:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Judy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:18",
+      "end_time": "20:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vikingos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/vikingos.jpg",
+      "show_category": "Acción",
+      "start_time": "20:20",
+      "end_time": "00:21",
+      "episode_description": "Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga."
     }
   ]
 }

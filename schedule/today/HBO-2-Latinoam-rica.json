@@ -1,102 +1,118 @@
 {
   "channel": "HBO 2 Latinoamérica",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Eso",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Aquaman",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "00:23",
+      "end_time": "00:19",
+      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
+    },
+    {
+      "show_name": "De noche con el diablo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:19",
+      "end_time": "02:02",
       "episode_description": ""
     },
     {
-      "show_name": "IT Capítulo Dos",
+      "show_name": "Protegiendo al enemigo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:23",
-      "end_time": "03:21",
+      "start_time": "02:02",
+      "end_time": "04:05",
       "episode_description": ""
     },
     {
-      "show_name": "El Código Da Vinci",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:21",
+      "show_name": "Resident Evil: Capítulo Final",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg",
+      "show_category": "Terror",
+      "start_time": "04:05",
       "end_time": "06:00",
-      "episode_description": ""
+      "episode_description": "Alice (Milla Jovovich) es la única sobreviviente de Ciudad Raccoon, lo que se suponía iba ser la última esperanza para combatir a los zombis. Ahora, ella deberá regresar donde la pesadilla comenzó – La colmena en la Ciudad Raccoon, donde la Corporación Umbrella está reunendo sus fuerzas para un último ataque contra los únicos sobrevivientes del apocalipsis, entre ellos Wesker (Shawn Roberts), el Dr. Isaacs (Iain Glen), Abigail (Ruby Rose), Claire Redfield (Ali Larter), Christian (William Levy), Cobalt (Rola), Doc (Eoin Macken), Michael (Fraser James) y Lee (Lee Joon Gi)."
     },
     {
-      "show_name": "Robin Hood",
+      "show_name": "¿Cómo saber si es amor?",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "08:22",
+      "end_time": "08:04",
       "episode_description": ""
     },
     {
-      "show_name": "Luna de Miel en Familia",
+      "show_name": "Fuerza antigángster",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:22",
-      "end_time": "10:26",
+      "start_time": "08:04",
+      "end_time": "10:04",
       "episode_description": ""
     },
     {
-      "show_name": "Aquaman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/aquaman.webp",
+      "show_name": "Magic Mike El último baile",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:04",
+      "end_time": "12:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pasajeros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:04",
+      "end_time": "14:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Asesino del Juego de Citas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_asesino_del_juego_de_citas.jpg",
+      "show_category": "Crimen",
+      "start_time": "14:08",
+      "end_time": "15:50",
+      "episode_description": "El debut como directora de Anna Kendrick, El Asesino del Juego de Citas, está ambientada en Los Ángeles de 1970, cuando una aspirante a actriz se cruza con un asesino en serie en el set del popular programa, The Dating Game."
+    },
+    {
+      "show_name": "Cincuenta Sombras de Grey",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg",
+      "show_category": "Drama",
+      "start_time": "15:50",
+      "end_time": "18:02",
+      "episode_description": "Cuando Anastasia Steele (Dakota Johnson) – una estudiante de literatura – logra entrevistar al exitoso y multimillonario Christian Grey (Jamie Dornan), ella encuentra a un hombre brillante, buenmozo e intimidante hombre. La inocente joven empieza a darse cuenta que desea a este hombre a pesar de ser reservada y cada vez se siente desesperada por estar cerca de él. Por otra parte Christian es incapaz de resistir la belleza de Anastasia y admite que el la desea también, pero con sus propios términos."
+    },
+    {
+      "show_name": "Cincuenta Sombras más Oscuras",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_mas_oscuras.jpg",
+      "show_category": "Drama",
+      "start_time": "18:02",
+      "end_time": "20:07",
+      "episode_description": "Anastasia Steele (Dakota Johnson) después de su rompimiento con Christian Grey (Jamie Dornan) ella decide retomar una carrera profesional en una editorial en Seattle. En una demostración de arte en Seattle encuentra a Christian y este todavía tiene domino en la mente de Anastasia y deciden retomar tórrida y sensual relación, Ana averiguará aún más del doloroso pasado de Christian, mientras tanto el peleará contra sus demonios internos. Anastasia deberá enfrentarse a la envida e ira de las mujeres que la precedieron, pero esta tendrá que tomar decisiones importantes para su vida."
+    },
+    {
+      "show_name": "Cincuenta Sombras Liberadas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_liberadas.jpg",
+      "show_category": "Drama",
+      "start_time": "20:07",
+      "end_time": "22:00",
+      "episode_description": "Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey."
+    },
+    {
+      "show_name": "DTF St. Louis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Black Adam",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/black_adam.jpg",
       "show_category": "Acción",
-      "start_time": "10:26",
-      "end_time": "12:57",
-      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
-    },
-    {
-      "show_name": "¿Que pasó Ayer? Parte 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:57",
-      "end_time": "14:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Duna: Parte Dos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/duna-parte-dos.webp",
-      "show_category": "Acción",
-      "start_time": "14:45",
-      "end_time": "17:38",
-      "episode_description": "Duna: Parte Dos explora el viaje mítico de Paul Atreides (Timothée Chalamet) mientras se une a Chani (Zendaya) y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever."
-    },
-    {
-      "show_name": "Caballero de los Siete Reinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:38",
-      "end_time": "18:23",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sisu Camino a la venganza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:23",
-      "end_time": "19:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Beetlejuice Beetlejuice",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/beetlejuice-beetlejuice.webp",
-      "show_category": "Comedia",
-      "start_time": "19:58",
-      "end_time": "21:49",
-      "episode_description": "¡Beetlejuice ha vuelto! Después de una tragedia familiar inesperada, tres generaciones de la familia Deetz regresan a su hogar en Winter River. La vida de Lydia (Winona Ryder), que sigue atormentada por Beetlejuice (Michael Keaton), da un vuelco cuando su rebelde hija adolescente, Astrid (Jenna Ortega), descubre la misteriosa maqueta de la ciudad en el ático y el portal al más allá se abre accidentalmente. Con problemas gestándose en ambos reinos, es sólo cuestión de tiempo hasta que alguien diga el nombre de Beetlejuice tres veces y el travieso demonio regrese para desatar su propio caos."
-    },
-    {
-      "show_name": "Aquaman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/aquaman.webp",
-      "show_category": "Acción",
-      "start_time": "21:49",
-      "end_time": "00:19",
-      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
+      "start_time": "23:00",
+      "end_time": "01:13",
+      "episode_description": "Casi 5000 años después de que los dioses antiguos le confirieran los poderes todopoderosos y lo encarcelaran con la misma rapidez – Black Adam (Dwayne Johnson) es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno."
     }
   ]
 }

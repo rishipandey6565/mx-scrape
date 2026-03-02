@@ -1,60 +1,52 @@
 {
   "channel": "14 de México",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "A.T.M. ¡A toda máquina!",
+      "show_name": "La Cucaracha",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "00:40",
       "episode_description": ""
     },
     {
-      "show_name": "Pedro Infante, El Mito",
+      "show_name": "Rusia 1917",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:05",
-      "end_time": "01:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La bandida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:05",
-      "end_time": "02:40",
+      "start_time": "00:40",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:40",
-      "end_time": "04:40",
+      "start_time": "03:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Leer, una hora inesperada",
+      "show_name": "COVID-19 Consulta Directa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:40",
-      "end_time": "05:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La calle, el aula y la pantall",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:40",
+      "start_time": "05:00",
       "end_time": "06:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Punto de referencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:10",
+      "end_time": "07:10",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:10",
+      "start_time": "07:10",
       "end_time": "07:30",
       "episode_description": ""
     },
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres haciendo historia",
+      "show_name": "TV Migrante Informa",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -83,58 +75,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiario France 24",
+      "show_name": "Ventana al Mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:45",
-      "end_time": "11:30",
+      "end_time": "11:15",
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Reportaje 14",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Misión salud",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "11:15",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
+      "start_time": "11:45",
+      "end_time": "12:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tv Médica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:40",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "MUCHO+Q2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "La bandida",
+      "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "16:05",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
-      "show_name": "Cartas para la libertad",
+      "show_name": "La Femenil, la lucha no acaba",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:05",
-      "end_time": "17:00",
+      "start_time": "15:55",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Abiertamente",
+      "show_name": "El sabor de los nudillos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -171,27 +171,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "TV Migrante Informa",
+      "show_name": "Debate Público",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infodemia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Cucaracha",
+      "show_name": "Identidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:40",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El sabor de los nudillos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

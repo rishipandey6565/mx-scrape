@@ -1,44 +1,36 @@
 {
   "channel": "Atreseries (Internacional)",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
       "show_name": "Pop up: aquí no hay quien viva",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bajo sospecha",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:15",
-      "end_time": "02:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Camilo Superstar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:49",
-      "end_time": "03:35",
+      "end_time": "01:06",
       "episode_description": ""
     },
     {
       "show_name": "UPA Next",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:35",
-      "end_time": "04:57",
+      "start_time": "01:06",
+      "end_time": "02:15",
       "episode_description": ""
     },
     {
       "show_name": "Tiempos de guerra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:57",
+      "start_time": "02:15",
+      "end_time": "03:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Allí abajo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:38",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -47,14 +39,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "06:23",
+      "end_time": "05:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Beguinas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:23",
+      "end_time": "06:26",
       "episode_description": ""
     },
     {
       "show_name": "El Secreto de Puente Viejo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:23",
+      "start_time": "06:26",
       "end_time": "07:30",
       "episode_description": ""
     },
@@ -63,62 +63,102 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "10:27",
+      "end_time": "11:52",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome de Ulises",
+      "show_name": "Suerte de vivir",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:27",
-      "end_time": "11:59",
+      "start_time": "11:52",
+      "end_time": "12:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UPA Next",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:47",
+      "end_time": "13:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Más de series",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:45",
+      "end_time": "14:20",
       "episode_description": ""
     },
     {
       "show_name": "¡Qué vida buena!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:59",
-      "end_time": "16:15",
+      "start_time": "14:20",
+      "end_time": "15:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esposa Joven",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:12",
+      "end_time": "16:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sueños de libertad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:09",
+      "end_time": "16:45",
       "episode_description": ""
     },
     {
       "show_name": "El Secreto de Puente Viejo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
-      "end_time": "17:19",
+      "start_time": "16:45",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
-      "show_name": "Velvet",
+      "show_name": "Suerte de vivir",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:19",
-      "end_time": "18:49",
+      "start_time": "18:15",
+      "end_time": "19:06",
       "episode_description": ""
     },
     {
-      "show_name": "Tiempos de guerra",
+      "show_name": "Esposa Joven",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:49",
-      "end_time": "20:10",
+      "start_time": "19:06",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Beguinas",
+      "show_name": "Camilo Superstar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:10",
-      "end_time": "21:10",
+      "start_time": "20:00",
+      "end_time": "20:49",
       "episode_description": ""
     },
     {
-      "show_name": "Allí abajo",
+      "show_name": "¡Qué vida buena!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:10",
+      "start_time": "20:49",
+      "end_time": "21:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sueños de libertad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:40",
       "end_time": "22:50",
       "episode_description": ""
     },
@@ -131,11 +171,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pop up: aquí no hay quien viva",
+      "show_name": "Beguinas",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:06",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

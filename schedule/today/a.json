@@ -1,9 +1,9 @@
 {
   "channel": "a+",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Cuatro a la Fuga",
+      "show_name": "Ciclón",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -99,58 +99,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "El Río de las Ánimas",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gata Salvaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Duelo en las Montañas",
+      "show_name": "Manos arriba",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Manuel Saldivar, el Texano",
+      "show_name": "El pícaro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "17:45",
       "episode_description": ""
     },
     {
-      "show_name": "Los Hijos de Satanás",
+      "show_name": "Por un vestido de novia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:30",
+      "start_time": "17:45",
+      "end_time": "19:45",
       "episode_description": ""
     },
     {
-      "show_name": "En Defensa Propia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a/today/en-defensa-propia.webp",
-      "show_category": "Acción",
-      "start_time": "18:30",
-      "end_time": "20:30",
-      "episode_description": "Para volver a acercarse con su hijo Danny (Ty Shelton), el agente de bolsa de Wall Street Will (Hayden Christensen) lleva a su familia a un viaje de cacería a la cabaña donde creció. Mientras salen a cazar con Danny, el viaje toma un giro mortal cuando tropiezan con varios ladrones y son testigos del asesinato de uno de los criminales. Después de enredarse en un atraco bancario que resultó en el secuestro de Danny, Will se ve obligado a ayudar a los secuestradores a evadir al jefe de la policía Marvin Howell (Bruce Willis) y recuperar el botín robado a cambio de la vida de su hijo."
-    },
-    {
-      "show_name": "Abriendo fuego",
+      "show_name": "El valiente vive",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "22:15",
+      "start_time": "19:45",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Ciclón",
+      "show_name": "Ahora Más Noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Más vale amada que quedada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }
