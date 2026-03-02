@@ -1,10 +1,18 @@
 {
   "channel": "Canal 5",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -12,7 +20,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -68,99 +76,139 @@
     },
     {
       "show_name": "Especial de RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
-      "show_category": "Periodístico",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Rugrats",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/rugrats.webp",
+      "show_name": "PJ Masks: héroes en pijamas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pj-masks-heroes-en-pijamas_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "06:00",
-      "end_time": "06:55",
-      "episode_description": "Ve la vida desde el punto de vista de los bebés, del suelo hacia arriba. Tommy, Carlitos, Angélica, Phil, Lil y el bebé Dil viven interminables aventuras en el mundo de los adultos."
+      "end_time": "06:30",
+      "episode_description": "Gatuno, Buhíta y Gekko, tres niños de seis años que llevan vidas normales durante el día, por la noche activan sus pulseras que se vinculan a sus pijamas y se convierten en superhéroes."
     },
     {
-      "show_name": "Elche vs. Espanyol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 26, Estadio Martínez Valero",
-      "start_time": "06:55",
+      "show_name": "Patrulla canina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_patrulla-canina_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura."
+    },
+    {
+      "show_name": "Max y la pandilla medieval",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Animación",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Max vive en una campiña inglesa del siglo XIV y siempre quiso ser un caballero. Con la ayuda de unos nuevos amigos, apodados los Midknights, Max demuestra de forma hilarante y desafiando a la muerte que puede ser el caballero ideal."
+    },
+    {
+      "show_name": "Viva el rey Julien",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_viva-el-rey-julien_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga."
+      "episode_description": "El rey Julien, junto a su asesor Maurice y su fiel sirviente Mort, además de los divertidos amigos de Madagascar, viven las aventuras más disparatadas de la selva, a la vez que intenta gobernar su reino con toda la fuerza de la diversión."
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/tuff-puppy.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "El Chapulín colorado animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chapulin-colorado-animado_l_m.jpg",
+      "show_category": "Animación",
       "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "El Chapulín Colorado ayuda a una mujer a encontrar el anillo de brillantes de su jefe. El Chapulín Colorado pelea contra un lagartosaurio para evitar que destruya la ciudad."
+    },
+    {
+      "show_name": "Fanboy y Chum Chum",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fanboy-y-chum-chum_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "10:00",
       "end_time": "11:30",
-      "episode_description": "La historia se centra principalmente en torno a una ciudad llamada \"Petrópolis\", donde todos los habitantes son animales antropomórficos. Significa que no hay seres humanos presentes o al menos ninguno que se mencione todavía."
+      "episode_description": "Fanboy y Chum Chum son dos fanáticos de la ciencia ficción y la fantasía; ellos tienen disfraces de superhéroes que visten siempre debajo de su ropa de cada día, esperando por si hay un poco de acción en su mundo."
+    },
+    {
+      "show_name": "Jurassic World: Campamento Cretácico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Animación",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "episode_description": "Unos adolescentes asisten a un campamento de aventuras en el lado opuesto de la isla Nublar y deben unirse para sobrevivir cuando los dinosaurios causan estragos en la isla."
+    },
+    {
+      "show_name": "Los Jóvenes Titanes en acción",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-jovenes-titanes-en-accion_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?"
+    },
+    {
+      "show_name": "Scooby-Doo y ¿quién crees tú?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_scooby-doo-y-quien-crees-tu_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": "Cuando tengan que enfrentarse a algunos de los misterios más complicados de sus vidas, Fred, Dafne, Vilma, Shaggy y Scooby-Doo unirán fuerzas con algunos de los nombres más destacados del mundo de las celebridades y de la cultura pop."
+    },
+    {
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
     },
     {
       "show_name": "El Chavo animado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/el-chavo-animado.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo-animado_l_m.jpg",
       "show_category": "D.Animados",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "start_time": "17:30",
+      "end_time": "18:15",
       "episode_description": "Chavo vive en una vecindad mexicana, junto a sus amigos Popis, Ñoño, Patty y Quico, y vivirá situaciones alocadas en cada episodio."
     },
     {
-      "show_name": "Regreso a la isla de Nim",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/regreso-a-la-isla-de-nim.webp",
-      "show_category": "Return to Nim's Island",
-      "start_time": "12:30",
-      "end_time": "14:15",
-      "episode_description": "Regresa a la Isla de Nim para ver cómo van las cosas con Nim y su padre. Un día reciben un mensaje de que algunas personas estarán comprando la isla para construir una atracción allí, pero Nim no lo tolerará y querrá salvar su hogar."
+      "show_name": "Mañana empieza todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_manana-empieza-todo-2016_l_m.jpg",
+      "show_category": "Demain Tout Commence",
+      "start_time": "18:15",
+      "end_time": "20:45",
+      "episode_description": "Samuel vive la vida sin preocupaciones, hasta que un día, una de sus antiguos amores le deja en los brazos a un bebé de pocos meses, su hija. Incapaz de cuidarla decide devolverla a su madre en Londres, pero no logra encontrarla."
     },
     {
-      "show_name": "Un ratoncito duro de cazar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/un-ratoncito-duro-de-cazar.webp",
-      "show_category": "Mouse Hunt",
-      "start_time": "14:15",
-      "end_time": "16:15",
-      "episode_description": "Dos hermanos heredan un caserón con un valor millonario. Entonces, harán lo posible por vender la finca. Para conseguirlo, lo primero que han de hacer es echar a la calle a su incómodo inquilino."
+      "show_name": "Belleza verdadera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Romántica",
+      "start_time": "20:45",
+      "end_time": "23:30",
+      "episode_description": "Después de ser acosada y discriminada por su apariencia fea, una chica de secundaria se transforma en una hermosa \"diosa\" y rápidamente salta a la fama después de dominar el arte del maquillaje a través de videos tutoriales en línea."
     },
     {
-      "show_name": "Karate Kid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/karate-kid.webp",
-      "show_category": "The Karate Kid",
-      "start_time": "16:15",
-      "end_time": "18:45",
-      "episode_description": "Daniel es un adolescente cuyos problemas de crecimiento se hacen más difíciles al llegar a una nueva ciudad donde debe empezar desde cero y hacer nuevos amigos."
-    },
-    {
-      "show_name": "Karate Kid III: El desafío final",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/karate-kid-iii-el-desafío-final.webp",
-      "show_category": "The Karate Kid III",
-      "start_time": "18:45",
-      "end_time": "21:00",
-      "episode_description": "En contra de los deseos de su mentor, Daniel defenderá su título en el campeonato de karate de All-Valley organizado por su enemigo Kreese, cuyo súbdito cayó derrotado años atrás en la final contra Daniel."
-    },
-    {
-      "show_name": "Karate Kid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/karate-kid.webp",
-      "show_category": "The Karate Kid",
-      "start_time": "21:00",
+      "show_name": "Contacto deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-contacto-deportivo_l_m.jpg",
+      "show_category": "Contacto deportivo",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "La historia de Dre, un joven que se muda a China con su madre. Cuando un matón empieza a molestarlo, el chico encontrará a Mr. Han, un hombre que se ofrece a enseñarle artes marciales para defenderse."
+      "episode_description": "Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional."
     }
   ]
 }
