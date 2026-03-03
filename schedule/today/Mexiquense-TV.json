@@ -1,9 +1,17 @@
 {
   "channel": "Mexiquense TV",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TV Revista del Consumidor",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reinventándonos",
+      "show_name": "Nuevo mundo, pintura callejera en América Latina",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "Noticiero Científico y Cultural Iberoamericano",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mirada Global",
+      "show_name": "Abierto al Publico",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los secretos mejor guardados",
+      "show_name": "Senderos y sabores",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Detrás de un click",
+      "show_name": "¡Escápate!",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Islas de México",
+      "show_name": "Colombiar",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -139,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mercados y marchantes",
+      "show_name": "Los secretos mejor guardados",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -163,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Juan Dosal: La leyenda",
+      "show_name": "La zona",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -179,18 +187,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Entre el ruido",
+      "show_name": "Versiones Públicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nuevo mundo, pintura callejera en América Latina",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "show_name": "Abierto al Publico",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

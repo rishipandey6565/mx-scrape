@@ -1,109 +1,85 @@
 {
   "channel": "HBO Plus",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
-    {
-      "show_name": "El hombre araña 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sombras tenebrosas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El origen",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Destino final",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "07:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La cumbre escarlata",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:15",
-      "end_time": "09:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hombre Araña",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/el-hombre-araña.webp",
-      "show_category": "Acción",
-      "start_time": "09:20",
-      "end_time": "11:25",
-      "episode_description": "Siendo un nerd y torpe por naturaleza, la vida de Peter Parker (Tobey Maguire) ha dado un giro inesperado cuando es mordido accidentalmente por una araña radiactiva. De la noche a la mañana Peter se transforma y es capaz de crear telarañas que son disparadas desde sus muñecas, la habilidad de adherirse a las paredes, fuerza increíble y un primordial sentido arácnido. Utilizando un traje hecho en casa, Peter está dispuesto a cambiar la vida que le rodea, sea como sea. Cuando un criminal asesina a su tío Ben, él descubre que “con un gran poder viene una gran responsabilidad”. Peter se convierte en un peleador contra el crimen conocido como El Hombre Araña."
-    },
-    {
-      "show_name": "Sangre poseída",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:25",
-      "end_time": "13:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pase libre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:10",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Evil Dead: El Despertar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Plus/today/evil-dead-el-despertar.webp",
-      "show_category": "Terror",
-      "start_time": "15:00",
-      "end_time": "16:40",
-      "episode_description": "Trasladando la acción de los bosques a la ciudad, \"Evil Dead: El Despertar\" cuenta la retorcida historia de dos hermanas distanciadas, cuyo reencuentro se ve truncado por la aparición de demonios poseedores de carne, lo que las empuja a una batalla primordial por la supervivencia mientras se enfrentan a la versión más pesadillesca imaginable de la familia."
-    },
-    {
-      "show_name": "Warcraft el primer encuentro de dos mundos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:40",
-      "end_time": "18:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Batman inicia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:50",
-      "end_time": "21:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Inmaculada",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:15",
-      "end_time": "22:49",
-      "episode_description": ""
-    },
     {
       "show_name": "Haz que regrese",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:49",
+      "start_time": "00:00",
       "end_time": "00:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El señor de los anillos La guerra de los Rohirrim",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:40",
+      "end_time": "03:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Guasón 2 Folie à deux",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:01",
+      "end_time": "05:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destino final 3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:21",
+      "end_time": "06:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Superman",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:56",
+      "end_time": "09:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mama",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:06",
+      "end_time": "10:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "R.I.P.D. Departamento de Policía Mortal",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/r_i_p_d_policia_del_mas_alla.jpg",
+      "show_category": "Acción",
+      "start_time": "10:51",
+      "end_time": "12:31",
+      "episode_description": "Jeff Bridges y Ryan Reynolds encabezan esta película de acción y aventura supernatural en el papel de dos policías que son enviados por el Departamento de Descanse en Paz – por sus siglas en ingles Rest In Peace Department (R.I.P.D) – para proteger y servir a los vivos de los destructivos espíritus que se esconden dentro de los habitantes de la tierra. Cuando ellos descubren un complot que puede acabar la vida como la conocemos, la nueva pareja deberán aprender a trabajar juntos para poder regresar el balance cósmico… o empezar a ver las almas enfurecidas que atraviesan el túnel de la vida después de la muerte."
+    },
+    {
+      "show_name": "Titanes del Pacífico",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/titanes_del_pacifico.jpg",
+      "show_category": "Acción",
+      "start_time": "12:31",
+      "end_time": "14:46",
+      "episode_description": "(Pacific Rim) La humanidad creía que los extraterrestres vendrían desde el cielo, pero todos estábamos equivocados, ellos entran a nuestro mundo a través de un portal en el fondo del pacífico y son unos monstruos gigantescos, para combatirlos nuestra única esperanza son un escuadrón de robots gigantes piloteados por humanos."
+    },
+    {
+      "show_name": "Así en la Tierra como en el Infierno",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/asi_en_la_tierra_como_en_el_infierno.jpg",
+      "show_category": "Horror",
+      "start_time": "14:46",
+      "end_time": "16:26",
+      "episode_description": "Miles de catacumbas se encuentran bajos las calles de Paris, Francia, la casa eterna de un sinfín de almas. Cuando un equipo de exploradores se adentra entre todos los huesos que yacen bajo las calles, descubren un secreto oscuro que se encuentra dentro de la ciudad de los muertos."
+    },
+    {
+      "show_name": "Batman El caballero de la noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:26",
+      "end_time": "19:01",
       "episode_description": ""
     }
   ]

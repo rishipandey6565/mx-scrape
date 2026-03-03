@@ -1,9 +1,9 @@
 {
   "channel": "Clic",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "FIA: Carolina Rocha",
+      "show_name": "Pase de abordar",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +11,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Amor X México",
+      "show_name": "Documentales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pase de abordar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Deportes",
+      "show_name": "La revolución de la libertad",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,10 +27,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La revolución de la libertad",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mesa y cuchara",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -67,15 +67,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misericordia",
+      "show_name": "Viajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "06:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "Hoyo 19",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hoyo 19",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cocinísima",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -83,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Ficción",
+      "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gastronomía",
+      "show_name": "Azteca fit",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -131,23 +147,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mamás y Papás",
+      "show_name": "La entrevista de 24: Estilo",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tecno life",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Coaching",
+      "show_name": "Creaciones mágicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -195,18 +203,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conecta con Clic",
+      "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Viajes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Moda",
+      "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -227,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gastronomía",
+      "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -243,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coaching",
+      "show_name": "Tecno life",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -251,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Moda",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -259,18 +259,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gastronomía",
+      "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mesa y cuchara",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -291,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aire",
+      "show_name": "Viajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -299,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mantra",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -307,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Moda",
+      "show_name": "Conecta con Clic",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -315,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pase de abordar",
+      "show_name": "Mundo metro",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

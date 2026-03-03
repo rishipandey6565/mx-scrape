@@ -1,36 +1,36 @@
 {
   "channel": "Space (México)",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
-      "show_name": "Venganza Letal (Faster)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/tomorrow/venganza-letal-faster.webp",
-      "show_category": "Acción",
+      "show_name": "El ataque",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:22",
-      "episode_description": "(Venganza Letal, Faster) Un hombre trabaja para para robar un banco pero es traicionado por otra banda de delincuentes y muere su hermano y él conocido cómo Driver (Dwayne Johnson) es llevado a prisión donde cumplirá una condena de 10 años. Al salir ahora solo tiene algo en mente, vengar la muerte de su hermano. Ahora en libertad tiene una lista mortal que está llevando a cabo y a punto de terminarla… pero dos hombres, un policía veterano (Billy Bob Thornton) a solo unos días de su retiro, y un asesino egocéntrico (Oliver Jackson-Cohen) ahora van tras él. Ahora él cazador está siendo cazado. Ahora se encuentra en una carrera de hacer su lista o morir sin haber completado su venganza."
+      "end_time": "00:21",
+      "episode_description": ""
     },
     {
       "show_name": "Protegiendo al enemigo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:22",
-      "end_time": "03:20",
+      "start_time": "00:21",
+      "end_time": "02:20",
       "episode_description": ""
     },
     {
-      "show_name": "Vista por Última Vez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/tomorrow/vista-por-última-vez.webp",
-      "show_category": "Acción",
-      "start_time": "03:20",
-      "end_time": "04:55",
-      "episode_description": "Cuando la esposa separada de Will (Gerard Butler), Lisa (Jaimie Alexander), desaparece durante una parada en una estación de servicio de gasolina, Will debe embarcarse en una frenética tarea para rescatarla mientras elude a la policía que sospecha que él cometió un delito."
-    },
-    {
-      "show_name": "Hollywood one on one",
+      "show_name": "Días de Ira",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:55",
+      "start_time": "02:20",
+      "end_time": "04:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Legado de mentiras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:07",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -39,79 +39,87 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:56",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Iceman 2",
+      "show_name": "Cloudy Mountains",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:56",
-      "end_time": "08:23",
+      "start_time": "07:00",
+      "end_time": "08:59",
       "episode_description": ""
     },
     {
-      "show_name": "The Beacon",
+      "show_name": "SPL 3",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:23",
-      "end_time": "10:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Enemigo al acecho",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:03",
-      "end_time": "12:19",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infierno rojo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:19",
-      "end_time": "14:08",
+      "start_time": "08:59",
+      "end_time": "10:31",
       "episode_description": ""
     },
     {
       "show_name": "El guerrero rojo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:08",
-      "end_time": "15:44",
+      "start_time": "10:31",
+      "end_time": "12:06",
       "episode_description": ""
     },
     {
       "show_name": "Raw Deal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:44",
-      "end_time": "17:38",
+      "start_time": "12:06",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "El Vengador Del Futuro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:38",
-      "end_time": "19:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Federales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:37",
-      "end_time": "22:00",
+      "start_time": "14:00",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
       "show_name": "El ataque",
       "show_logo": "",
       "show_category": "",
+      "start_time": "16:00",
+      "end_time": "18:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Impacto profundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:21",
+      "end_time": "20:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En el Tornado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/en_el_tornado.jpg",
+      "show_category": "Acción",
+      "start_time": "20:27",
+      "end_time": "22:00",
+      "episode_description": "En el día de la graduación de los estudiantes de una escuela del pueblo de Silverston presencian como su escuela y el resto de la ciudad queda devastada tras la llegada de unos tornados nunca antes vistos."
+    },
+    {
+      "show_name": "Lo Imposible",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:21",
+      "end_time": "23:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sicario Tierra de Nadie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:55",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]
