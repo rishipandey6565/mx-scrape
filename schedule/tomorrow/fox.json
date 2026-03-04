@@ -1,134 +1,166 @@
 {
   "channel": "Star Channel",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "La noche mágica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Drama / 2021",
-      "start_time": "01:33",
-      "end_time": "03:14",
-      "episode_description": "Es víspera de Navidad y en una casa donde vive un matrimonio con su pequeña hija, un ladrón espera su momento para entrar a robar. Lo que no sabe es que la niña lo confundirá con Papá Noel y le pedirá cumplir su lista de deseos navideños."
+      "show_name": "Traición a tres esposas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_traicion-a-tres-esposas-2019_l_m.jpg",
+      "show_category": "Rule of 3",
+      "start_time": "01:30",
+      "end_time": "03:11",
+      "episode_description": "Alison pensó que era muy afortunada al casarse con Dominick, quien era todo lo que había soñado. Sin embargo, cuando Dominick muere en un accidente, algunos secretos salen a la luz y Alison descubre que quizás su esposo no era tan perfecto."
     },
     {
-      "show_name": "Mente siniestra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/mente-siniestra.webp",
-      "show_category": "Hide and Seek",
-      "start_time": "03:14",
-      "end_time": "05:00",
-      "episode_description": "Mientras que el Dr. Callaway recientemente enviudado trata de rehacer su vida luego de que su esposa se suicidara, su hija, Emily de 9 años encuentra consuelo en un amigo imaginario, Charlie, quien disfruta jugando con la muerte."
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 1 - My Jerks",
-      "start_time": "05:00",
-      "end_time": "05:23",
-      "episode_description": "El nuevo jefe de medicina resulta ser tan cruel como el Dr. Kelso. J.D. renuncia a su clase luego de que los internos lo desepcionen. Eliot esta demasiado ensimismado para aceptar que Keith aún esta lastimada por el rompimiento."
+      "show_name": "¿Qué te juegas?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 2019 /5.4",
+      "start_time": "03:11",
+      "end_time": "04:57",
+      "episode_description": "Roberto y Daniela son hermanos, ambos gente de negocios adinerada pero con estilos muy distintos. Ante el poco sentido de humor de su hermana, Roberto contrata a una mujer para que la seduzca. Sin embargo, el plan se sale de control."
     },
     {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 2 - My Last Words",
-      "start_time": "05:23",
-      "end_time": "05:23",
-      "episode_description": "J.D. y Turk dejan de lado su \"noche de filete\" para estar con un paciente moribundo que no tiene familia."
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 3 - My Saving Grace",
+      "start_time": "04:57",
+      "end_time": "05:19",
+      "episode_description": "El Dr. Cox, muy a su pesar, pide la ayuda de Kelso para eliminar al Dr. Maddox. Por otro lado, Carla intenta poner en su lugar a un pasante que causa problemas."
     },
     {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 2 - My Last Words",
-      "start_time": "05:23",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 4 - My Happy Place",
+      "start_time": "05:19",
+      "end_time": "05:44",
+      "episode_description": "J.D. y Elliot piensan en volver juntos. Mientras tanto, Dr. Cox desconfia de los cirujanos, lo cual molesta mucho a Turk."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
+      "start_time": "05:44",
+      "end_time": "05:44",
+      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 6 - My Cookie Pants",
+      "start_time": "05:44",
+      "end_time": "06:06",
+      "episode_description": "El Dr. Cox es ascendido a jefe de medicina, pero no esta seguro de querer el puesto. Mientras J.D. pelea con su interno por su insensibilidad hacia los pacientes, Elliot pide consejos a Turk en su relación amorosa con J.D."
+    },
+    {
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 7 - My New Role",
+      "start_time": "06:06",
       "end_time": "07:00",
-      "episode_description": "J.D. y Turk dejan de lado su \"noche de filete\" para estar con un paciente moribundo que no tiene familia."
+      "episode_description": "El doctor Cox tiene problemas para adaptarse a su nuevo trabajo como Jefe de Medicina, y Carla se mete en problemas con las otras enfermeras debido a su relación con los médicos."
     },
     {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 10 - My Comedy Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 8 - My Lawyer's in Love",
       "start_time": "07:00",
       "end_time": "07:26",
-      "episode_description": "J.D. y Turk dirigen el show de comedia de los internos, pero se mortifican al descubrir que el chiste mas grande es sobre ellos. Elliot intenta que Denise pase mas tiempo con los internos."
+      "episode_description": "Dr. Cox tiene problemas para delegar su autoridad en su nuevo puesto. Ted se enamora de una contante en el hospital."
     },
     {
       "show_name": "Scrubs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 8 Episodio 12 - Their Story II",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 9 - My Absence",
       "start_time": "07:26",
-      "end_time": "09:12",
-      "episode_description": "Turk está celoso de J.D. por su nuevo puesto de poder en Sacred Heart. Mientras tanto, algunos de los internos comparten sus historias y experiencias."
+      "end_time": "07:54",
+      "episode_description": "Eliot extraña a J.D. mientras esta lejos. Turk anuncia que junto a Carla tendran un segundo bebe, pero a nadie parece importarle. El Dr. Cox investiga su la actitud de Carla respecto a su trabajo y sus pacientes a cambiado."
     },
     {
-      "show_name": "Ghosting: el espíritu de la Navidad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/ghosting-el-espíritu-de-la-navidad.webp",
-      "show_category": "Ghosting: The Spirit of Christmas",
-      "start_time": "09:12",
-      "end_time": "11:00",
-      "episode_description": "Jess tiene la mejor primera cita de su vida, pero de repente muere en un accidente automovilístico de regreso a casa."
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 13 - My Full Moon",
+      "start_time": "07:54",
+      "end_time": "08:21",
+      "episode_description": "Eliot y Turk deben lidiar con cuatro pasantes engreidos y varios pacientes complicados en una noche de luna llena."
     },
     {
-      "show_name": "Los 33",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/los-33.webp",
-      "show_category": "The 33",
-      "start_time": "11:00",
-      "end_time": "13:31",
-      "episode_description": "Narra los sucesos reales que ocurrieron en Chile en agosto del 2010, cuando el derrumbe de la mina San José dejó atrapados a 33 mineros a unos 720 metros de profundidad durante 70 días."
+      "show_name": "Scrubs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 16 - My Cuz",
+      "start_time": "08:21",
+      "end_time": "10:12",
+      "episode_description": "J.D. Y Eliot estan molestos al saber que Kim y Sean salen juntos, el hijo de J.D. se parece mas a Sean que a el. Mientras, Dr. Cox tiene sus dudas en cuanto a la promoción de Turk a Jefe de Cirugía."
     },
     {
-      "show_name": "Soledad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/soledad.webp",
-      "show_category": "Drama / 2018",
-      "start_time": "13:31",
-      "end_time": "15:33",
-      "episode_description": "María Soledad Rosas fue una joven argentina de 23 años cuyo suicidio la convirtió en un ícono del movimiento anarquista italiano."
+      "show_name": "Pelotas en juego",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pelotas-en-juego-2004_l_m.jpg",
+      "show_category": "Dodgeball: A True Underdog Story",
+      "start_time": "10:12",
+      "end_time": "12:03",
+      "episode_description": "White es el dueño de un gimnasio que se ve amenazado por una cadena de empresas deportivas. Él viajará junto con unos amigos a Las Vegas para inscribirse en un peculiar torneo y así obtener el dinero para salvar su negocio."
     },
     {
-      "show_name": "Plan de vuelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/plan-de-vuelo.webp",
-      "show_category": "Flightplan",
-      "start_time": "15:33",
-      "end_time": "17:28",
-      "episode_description": "A12.000 metros del suelo, a bordo de un tenebroso E-474, Kyle Pratt se enfrenta a la peor pesadilla de cualquier madre: su hija Julia, de seis años, desaparece sin dejar ni huella en medio del vuelo."
+      "show_name": "Blanca Nieves y los tres chiflados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_blanca-nieves-y-los-tres-chiflados-1961_l_m.jpg",
+      "show_category": "Snow White and the Three Stooges",
+      "start_time": "12:03",
+      "end_time": "14:13",
+      "episode_description": "Para asegurarse de que nunca ocupe su trono, la madrastra de Blanca Nieves ordena que la lleven al bosque y la maten, pero la niña huye y, para su fortuna, encuentra la cabaña de los tres chiflados dando origen a una loca aventura."
     },
     {
-      "show_name": "Pearl Harbor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/pearl-harbor.webp",
-      "show_category": "Drama / 2001 /6.0",
-      "start_time": "17:28",
-      "end_time": "20:56",
-      "episode_description": "Durante la Segunda Guerra Mundial, Rafe se enamora de la enfermera Evelyn, aunque pronto deben separarse ya que Rafe es convocado para luchar contra los alemanes. Por su parte, Evelyn es enviada a Pearl Harbor donde todo cambiará."
+      "show_name": "Victor Frankenstein",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_victor-frankenstein-2015_l_m.jpg",
+      "show_category": "Drama / 2015 /6.0",
+      "start_time": "14:13",
+      "end_time": "16:19",
+      "episode_description": "El científico Victor Frankenstein y su brillante protegido, Igor Strausman, comparten la noble misión de ayudar a la humanidad a partir de una detonante investigación sobre la inmortalidad. Sin embargo, las cosas no saldrán como esperaban."
+    },
+    {
+      "show_name": "Correr o morir",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_correr-o-morir-2014_l_m.jpg",
+      "show_category": "The Maze Runner",
+      "start_time": "16:19",
+      "end_time": "18:28",
+      "episode_description": "Es el año 2024. Cuando Thomas despierta, se encuentra en un ascensor sin recordar quién es. De pronto, el elevador se detiene, éste se abre y una multitud de chicos lo recibe. Ha llegado al \"Claro\"."
+    },
+    {
+      "show_name": "Maze Runner: Prueba de fuego",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_maze-runner-prueba-de-fuego-2015_l_m.jpg",
+      "show_category": "Maze Runner: The Scorch Trials",
+      "start_time": "18:28",
+      "end_time": "20:55",
+      "episode_description": "Thomas y los demás clarianos tendrán que buscar pistas sobre la misteriosa y poderosa organización \"CRUEL\". Esta aventura los llevará a \"La Quemadura\", un apocalíptico lugar lleno de inimaginables obstáculos."
     },
     {
       "show_name": "Los Simpson",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/los-simpson.webp",
-      "show_category": "Temporada 6 Episodio 3 - Recuerdos de amor",
-      "start_time": "20:56",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s06e05-sideshow-bob-roberts_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 5 - El regreso de Bob Patiño",
+      "start_time": "20:55",
       "end_time": "21:26",
-      "episode_description": "Marge siente que su matrimonio no tiene el romance que solía tener y la familia empieza a recordar sus historias referidas al amor."
+      "episode_description": "Después de ser liberado de nuevo de la prisión, Bob Patiño intenta conseguir el único trabajo para un expresidiario: alcalde de Springfield. Sin embargo, Bart y Lisa descubren su fraude electoral."
     },
     {
       "show_name": "Los Simpson",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/los-simpson.webp",
-      "show_category": "Temporada 6 Episodio 4 - La tierra de Tomy y Daly",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-simpson-s06e06-treehouse-of-horror-v_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 6 - La casita del horror V",
       "start_time": "21:26",
       "end_time": "22:00",
-      "episode_description": "En busca de hacer actividades en conjunto, la familia Simpson se va de vacaciones al parque de diversiones temático de Tomy y Daly."
+      "episode_description": "Homero pierde lentamente su cordura en una casa sin cerveza ni televisión. Luego, viaja en el tiempo mientras intenta reparar una tostadora mágica, y por último el canibalismo se apodera de la escuela primaria de Springfield."
     },
     {
-      "show_name": "¡A ganar!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/a-ganar.webp",
-      "show_category": "The Miracle Season",
+      "show_name": "Grimcutty: Asesino implacable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Grimcutty",
       "start_time": "22:00",
-      "end_time": "23:46",
-      "episode_description": "Luego de la trágica muerte de Caroline \"Line\" Found, una jugadora estrella de vóleibol, un equipo de desanimadas adolescentes deberá juntar todas sus fuerzas para poder ganar el campeonato estatal junto a su exigente entrenadora."
+      "end_time": "23:55",
+      "episode_description": "Una adolescente y su hermano pequeño deben detener a un aterrador meme de Internet que cobra vida en Grimcutty, la bestia, una criatura alta y encorvada que hace que las personas se lastimen a sí mismas y a los demás."
     },
     {
-      "show_name": "Un tipo rudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/fox/tomorrow/un-tipo-rudo.webp",
-      "show_category": "Bad Ass",
-      "start_time": "23:46",
+      "show_name": "La noche mágica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 2021",
+      "start_time": "23:55",
       "end_time": "",
-      "episode_description": "Inspirado en un personaje real, que cobró popularidad por un video en la web, se basa en un excombatiente de Vietnam que, tras el asesinato de su mejor amigo, busca hacer justicia por mano propia ante la desidia policíaca."
+      "episode_description": "Es víspera de Navidad y en una casa donde vive un matrimonio con su pequeña hija, un ladrón espera su momento para entrar a robar. Lo que no sabe es que la niña lo confundirá con Papá Noel y le pedirá cumplir su lista de deseos navideños."
     }
   ]
 }

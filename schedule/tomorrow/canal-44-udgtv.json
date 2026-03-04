@@ -1,90 +1,90 @@
 {
   "channel": "Canal 44 - udgtv",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Eco Latinoamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/eco-latinoamérica.webp",
-      "show_category": "Magazine",
+      "show_name": "Fuerza latina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fuerza-latina_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "00:02",
       "end_time": "00:30",
+      "episode_description": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan."
+    },
+    {
+      "show_name": "Los juicios de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "El establecimiento y desarrollo de las primeras fundidoras de hierro en Durango, así como la historia de la industria minera en la región dio lugar a diversas pugnas por la explotación de los recursos minerales."
+    },
+    {
+      "show_name": "Arte vivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Un espacio en el que artistas visuales de distintas diciplinas, comparten cuáles son sus intereses, pasiones y fuentes de inspiración. El público podrá descubrir a las personas detrás de la obra y profundizar sobre los procesos creativos."
+    },
+    {
+      "show_name": "Enamórate de Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "En este programa se podrá disfrutar de un recorrido a través de las distintas regiones y ciudades del estado de Oaxaca, exponiendo los elementos más característicos de cada una de estas locaciones."
+    },
+    {
+      "show_name": "Cartas sobre la mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cartas-sobre-la-mesa_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana."
+    },
+    {
+      "show_name": "Eco Latinoamérica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_eco-latinoamerica_l_m.jpg",
+      "show_category": "Magazine",
+      "start_time": "02:30",
+      "end_time": "03:00",
       "episode_description": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región."
     },
     {
-      "show_name": "Incluídos: trabajar sin prejuicios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/incluídos-trabajar-sin-prejuicios.webp",
-      "show_category": "Documental",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Segmento especial realizado con el objetivo de concientizar a la sociedad sobre los problemas de inclusión laboral que enfrentan las personas con discapacidades físicas, intelectuales, mentales y sensoriales en la actualidad."
-    },
-    {
-      "show_name": "La lista de Erick",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/la-lista-de-erick.webp",
-      "show_category": "Magazine",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras."
-    },
-    {
-      "show_name": "A puro chile",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/a-puro-chile.webp",
-      "show_category": "Documental",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Serie documental que presenta historias sobre el chile en México, en la que productores, campesinos y comerciantes nos hablan de su relación con este fruto colorido que genera un picor sabroso y en algunas ocasiones hasta quema."
-    },
-    {
-      "show_name": "Destino Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Descubra Oaxaca, el quinto estado más extenso de México."
-    },
-    {
-      "show_name": "Al máximo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/al-máximo.webp",
-      "show_category": "Al máximo",
+      "show_name": "Minuto 44",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-minuto-44_l_m.jpg",
+      "show_category": "Minuto 44",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
-    },
-    {
-      "show_name": "Vidas y bebidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/vidas-y-bebidas.webp",
-      "show_category": "Cultural",
-      "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Busca retratar aguardientes y espirituosas, su creación, elaboración y producción a través de quienes intervienen en cada parte del proceso y se convierten en parte misma de ellas."
+      "episode_description": "Acércate a las actividades de los atletas poniendo bajo la lupa todas las disciplinas deportivas en este espacio, donde distintos personajes exponen sus puntos de vista sobre diferentes temas relacionados con la vida en este mundo."
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/desde-el-zoológico.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico_l_m.jpg",
       "show_category": "Documental",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Danae Vázquez te lleva a pasar todo un día en el zoológico de Guadalajara. Acompáñala en sus labores diarias en las que tiene que convivir con feroces animales, temidas criaturas y adorables especies del mundo animal."
     },
     {
-      "show_name": "Ruta 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/ruta-44.webp",
-      "show_category": "Entrevista",
+      "show_name": "Con todo respeto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-todo-respeto_l_m.jpg",
+      "show_category": "Político",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "Espacio de investigación y análisis que toma el pulso a los temas más importantes de Jalisco y México, donde se abre una tribuna para hablar con lenguaje crítico, enriquecido con aportes de especialistas sobre los tópicos que se abordan."
+      "episode_description": "Este es el México de lo posible. Sí, en el que todo ocurre. En un país tan contrastante, las noticias tienen muchas aristas. Abrimos el diálogo con un toque mordaz e irónico."
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
@@ -92,31 +92,31 @@
     },
     {
       "show_name": "44 en el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "06:02",
       "end_time": "06:15",
       "episode_description": "Reportajes, ciencia, tecnología y más. Toda la actualidad internacional desde un punto de vista novedoso, crítico y veraz."
     },
     {
-      "show_name": "Iberoamérica en órbita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
+      "show_name": "Corte NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_corte-ncc_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "06:15",
       "end_time": "06:30",
-      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
+      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
     },
     {
-      "show_name": "NCC Salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/ncc-salud.webp",
-      "show_category": "Salud",
+      "show_name": "Noticiero NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
     },
     {
       "show_name": "Señal informativa - Emisión matutina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/señal-informativa-emisión-matutina.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_senal-informativa-emision-matutina_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "07:00",
       "end_time": "09:00",
@@ -124,71 +124,63 @@
     },
     {
       "show_name": "DW noticias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/dw-noticias.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dw-noticias_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "09:00",
-      "end_time": "09:30",
+      "end_time": "09:33",
       "episode_description": "El noticiero de la DW prioriza el desarrollo de las historias de América Latina desde una perspectiva europea. Muestra los temas que afectan a las personas en todo el mundo con más profundidad y análisis de primera mano."
     },
     {
-      "show_name": "Dosis de ciencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Variedades",
-      "start_time": "09:30",
-      "end_time": "09:33",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Colombiar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_name": "Iberoamérica en órbita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "09:33",
+      "end_time": "09:45",
+      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
+    },
+    {
+      "show_name": "Corte NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_corte-ncc_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "09:45",
       "end_time": "10:00",
-      "episode_description": "Siete jóvenes recorren Colombia para mostrar sus ecosistemas, deliciosos sabores, su realismo mágico y mucho más; una serie web que visita algunos territorios de paz, que abren sus puertas para explorar las maravillas de nuestro país"
+      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
     },
     {
-      "show_name": "Los juicios de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "¿Cómo te afecta?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "El establecimiento y desarrollo de las primeras fundidoras de hierro en Durango, así como la historia de la industria minera en la región dio lugar a diversas pugnas por la explotación de los recursos minerales."
-    },
-    {
-      "show_name": "Arte vivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
-      "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Un espacio en el que artistas visuales de distintas diciplinas, comparten cuáles son sus intereses, pasiones y fuentes de inspiración. El público podrá descubrir a las personas detrás de la obra y profundizar sobre los procesos creativos."
+      "episode_description": "Ernesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de jóvenes."
     },
     {
-      "show_name": "Vive al extremo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Vive al extremo",
+      "show_name": "Al máximo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_magazine-al-maximo_l_m.jpg",
+      "show_category": "Al máximo",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
+      "end_time": "12:00",
+      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
     },
     {
-      "show_name": "Talento deportivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/talento-deportivo.webp",
-      "show_category": "Documental",
-      "start_time": "11:30",
+      "show_name": "Cartas sobre la mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cartas-sobre-la-mesa_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "Serie que retrata a los deportistas consagrados y también expone las historias de vida de los atletas en el camino a la cima. A través de testimonios, se presentan los procesos por los cuales pasaron para llegar a la cumbre."
+      "episode_description": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana."
     },
     {
-      "show_name": "Vidas y bebidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/vidas-y-bebidas.webp",
-      "show_category": "Cultural",
+      "show_name": "Sabroso y saludable",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sabroso-y-saludable_l_m.jpg",
+      "show_category": "Cocina",
       "start_time": "12:30",
       "end_time": "13:00",
-      "episode_description": "Busca retratar aguardientes y espirituosas, su creación, elaboración y producción a través de quienes intervienen en cada parte del proceso y se convierten en parte misma de ellas."
+      "episode_description": "Tenemos como principal argumento la frase de Hipócrates; \"Deja que los alimentos sean tu medicina y que la medicina sea tu alimento.\" Los menús que se preparan, son originales y están formulados para prevenir enfermedades."
     },
     {
       "show_name": "Señal informativa - Emisión vespertina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/señal-informativa-emisión-vespertina.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_senal-informativa-emision-vespertina_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "13:00",
       "end_time": "15:00",
@@ -196,7 +188,7 @@
     },
     {
       "show_name": "En directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/en-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_en-directo_l_m.jpg",
       "show_category": "Entrevista",
       "start_time": "15:00",
       "end_time": "16:30",
@@ -204,91 +196,75 @@
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/desde-el-zoológico.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico_l_m.jpg",
       "show_category": "Documental",
       "start_time": "16:30",
-      "end_time": "17:00",
+      "end_time": "17:03",
       "episode_description": "Danae Vázquez te lleva a pasar todo un día en el zoológico de Guadalajara. Acompáñala en sus labores diarias en las que tiene que convivir con feroces animales, temidas criaturas y adorables especies del mundo animal."
     },
     {
-      "show_name": "Dosis de ciencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Variedades",
-      "start_time": "17:00",
-      "end_time": "17:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Iberoamérica en órbita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
-      "start_time": "17:03",
-      "end_time": "17:15",
-      "episode_description": "Un espacio de spacio de divulgación científica conducido por la periodista Ana Cristina Olvera. El público podrá informarse al completo sobre los avances, desarrollos e investigaciones que se realizan en el ámbito aeroespacial."
-    },
-    {
-      "show_name": "Corte NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/corte-ncc.webp",
+      "show_name": "Noticiero NCC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "17:15",
+      "start_time": "17:03",
       "end_time": "17:30",
-      "episode_description": "Noticias de actualidad del mundo de la ciencia y tecnología presentadas de manera ágil y sencilla."
+      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
     },
     {
-      "show_name": "Enamórate de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
+      "show_name": "Arte vivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "En este programa se podrá disfrutar de un recorrido a través de las distintas regiones y ciudades del estado de Oaxaca, exponiendo los elementos más característicos de cada una de estas locaciones."
+      "episode_description": "Un espacio en el que artistas visuales de distintas diciplinas, comparten cuáles son sus intereses, pasiones y fuentes de inspiración. El público podrá descubrir a las personas detrás de la obra y profundizar sobre los procesos creativos."
     },
     {
-      "show_name": "Fuerza latina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/fuerza-latina.webp",
-      "show_category": "Documental",
+      "show_name": "RT reporta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rt-reporta-1_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "18:00",
       "end_time": "18:30",
-      "episode_description": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan."
+      "episode_description": "Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia."
     },
     {
-      "show_name": "Los juicios de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Político",
+      "show_name": "Talento deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_talento-deportivo_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "El establecimiento y desarrollo de las primeras fundidoras de hierro en Durango, así como la historia de la industria minera en la región dio lugar a diversas pugnas por la explotación de los recursos minerales."
+      "episode_description": "Serie que retrata a los deportistas consagrados y también expone las historias de vida de los atletas en el camino a la cima. A través de testimonios, se presentan los procesos por los cuales pasaron para llegar a la cumbre."
     },
     {
-      "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/a-confirmar.webp",
-      "show_category": "Variedades",
+      "show_name": "La tribunera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-la-tribunera_l_m.jpg",
+      "show_category": "La tribunera",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": ""
+      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
     },
     {
       "show_name": "Señal informativa - Emisión nocturna",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/señal-informativa-emisión-nocturna.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_senal-informativa-emision-nocturna_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
-      "end_time": "22:30",
+      "end_time": "22:00",
       "episode_description": "Espacio que, apoyándose en las voces de los investigadores universitarios y de los protagonistas actuales, incorpora periodismo social y de investigación para informar puntualmente los temas más relevantes de México."
     },
     {
-      "show_name": "Con todo respeto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/con-todo-respeto.webp",
-      "show_category": "Político",
-      "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Este es el México de lo posible. Sí, en el que todo ocurre. En un país tan contrastante, las noticias tienen muchas aristas. Abrimos el diálogo con un toque mordaz e irónico."
+      "show_name": "Territorio reportaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_territorio-reportaje_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "La realidad no está seccionada; esto significa que todos los fenómenos naturales y sociales ocurren no solo de forma concomitante, sino que lo usual es que unos sean causa o efecto de los otros."
     },
     {
-      "show_name": "Señal deportiva",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Señal deportiva",
-      "start_time": "23:30",
+      "show_name": "A confirmar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Amplio abanico de oportunidades para estar informado sobre el quehacer deportivo y su variedad de disciplinas."
+      "episode_description": ""
     }
   ]
 }
