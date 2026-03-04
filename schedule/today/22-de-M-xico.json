@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
-      "show_name": "DocTV Latinoamérica",
+      "show_name": "Shorts México",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -23,27 +23,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "01:00",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "Latinoamericanas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Memoria viva de ciertos dias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:30",
       "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DocTV Latinoamérica",
+      "show_name": "Shorts México",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tratos y retratos",
+      "show_name": "Pantalla de cristal",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -115,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Piedras que hablan",
+      "show_name": "El Cancionero y sus Amigos",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -131,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Llegamos Todas!",
+      "show_name": "Sanamente",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -155,15 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Piedras que hablan",
+      "show_name": "Aqua",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crónica Animal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Latinoamericanas",
+      "show_name": "Arquetipas",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -195,27 +195,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "La oveja eléctrica",
+      "show_name": "Taller de las Audiencias",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un Dia...con Osorno",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Shorts México",
+      "show_name": "Contra el silencio todas las",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

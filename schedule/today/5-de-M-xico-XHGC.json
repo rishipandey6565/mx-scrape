@@ -1,6 +1,6 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
       "show_name": "Contacto deportivo\nEn Vivo",
@@ -15,6 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estatus",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,14 +39,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -52,7 +68,7 @@
     },
     {
       "show_name": "PJ Masks: Héroes en Pijamas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/pj-masks-héroes-en-pijamas.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
       "show_category": "Animación",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -60,7 +76,7 @@
     },
     {
       "show_name": "PAW Patrol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/paw-patrol.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
       "show_category": "Animación",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -84,7 +100,7 @@
     },
     {
       "show_name": "Sonic Boom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/sonic-boom.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
       "show_category": "Animación",
       "start_time": "09:00",
       "end_time": "10:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Los Jóvenes Titanes En Acción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/los-jóvenes-titanes-en-acción.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
       "show_category": "Animación",
       "start_time": "13:00",
       "end_time": "14:30",
@@ -124,41 +140,49 @@
     },
     {
       "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/bob-esponja.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png",
       "show_category": "Animación",
       "start_time": "16:00",
-      "end_time": "17:00",
+      "end_time": "17:30",
       "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
     },
     {
-      "show_name": "¡Scooby!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/scooby.webp",
-      "show_category": "Animación",
-      "start_time": "17:00",
-      "end_time": "18:50",
-      "episode_description": "¡Scooby! Revela cómo se conocieron los amigos de toda la vida, Scooby (Frank Welker) y Shaggy (Will Forte), y cómo se unieron a los jóvenes detectives Fred (Zac Efron), Velma (Gina Rodriguez) y Daphne (Amanda Seyfried) para formar el famoso Mistery Inc. Ahora, con cientos de casos resueltos y aventuras compartidas, Scooby y la pandilla enfrentan su misterio más grande y desafiante: un complot para dar rienda suelta al perro fantasma Cerbero sobre el mundo. Mientras corren para detener este \"apocalipsis de perros\" global, la pandilla descubre que Scooby tiene un legado secreto y un destino épico más grande de lo que nadie imaginó."
-    },
-    {
-      "show_name": "Santos Laguna vs. Cruz Azul",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/santos-laguna-vs-cruz-azul.webp",
-      "show_category": "Fútbol",
-      "start_time": "18:50",
-      "end_time": "21:00",
-      "episode_description": "Desde el estadio Corona, ubicado en la ciudad de Torreón, Coahuila, México. Se enfrentan los equipos Club Santos Laguna versus Cruz Azul Fútbol Club."
-    },
-    {
-      "show_name": "U.N.A.M vs. Toluca\nEn Vivo",
+      "show_name": "el chavo animado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:00",
+      "start_time": "17:30",
+      "end_time": "18:30",
       "episode_description": ""
+    },
+    {
+      "show_name": "La decisión más difícil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "20:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Belleza Verdadera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chicago PD",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg",
+      "show_category": "Acción",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
     },
     {
       "show_name": "Contacto deportivo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }
