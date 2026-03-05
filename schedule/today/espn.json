@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,23 +28,23 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Birmingham City vs. Middlesbrough",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 35, St. Andrew's Stadium",
+      "show_name": "Santa Lucía vs. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Daren Sammy Cricket Ground",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+      "episode_description": "Vive la emoción de los partidos clasificatorios del Campeonato Femenino de la Concacaf de 2026. El torneo sirve como clasificatorio para la Copa Mundial Femenina de Fútbol de 2027 y para el Torneo Olímpico de fútbol femenino 2028."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,97 +52,121 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Auckland",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/auckland.webp",
-      "show_category": "Sail GP",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Utilizará carreras en estadios costeros de formato corto para maximizar el impacto y la emoción. Cada gran premio incluirá dos días de competición con un total de cinco carreras de flota."
-    },
-    {
-      "show_name": "Lo mejor de MotoGP",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/lo-mejor-de-motogp.webp",
-      "show_category": "Lo mejor de MotoGP",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3."
-    },
-    {
-      "show_name": "Acción de la NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/acción-de-la-nba.webp",
-      "show_category": "Acción de la NBA",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
-    },
-    {
-      "show_name": "Final, Yucatán Country Club, Mérida, México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "WTA Tour 500 - Mérida Open Akron",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Disfruta las emociones de este torneo que es disputa sobre canchas duras al aire libre en el Yucatán Country Club, en Mérida, México. Participan las tenistas más destacadas del circuito."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "13:00",
-      "end_time": "14:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Team USA vs. San Francisco Giants",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/team-usa-vs-san-francisco-giants.webp",
-      "show_category": "Scottsdale Stadium, Scottsdale, AZ, USA",
-      "start_time": "14:00",
-      "end_time": "17:00",
-      "episode_description": "El entrenamiento de primavera es una serie de prácticas y juegos de exhibición que preceden al inicio de la temporada regular."
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Goles de la Serie A",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/goles-de-la-serie-a.webp",
-      "show_category": "Goles de la Serie A",
+      "show_name": "España vs. Islandia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Eliminatorias - Copa Mundial de la FIFA Femenina 2027",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Lo más emocionante de los partidos clasificatorios para la Copa Mundial Femenina de la FIFA 2027. Los amantes del deporte podrán disfrutar de un proceso que determina los 31 equipos que acompañarán a Brasil, país anfitrión."
+    },
+    {
+      "show_name": "PGA Tour Highlights - Cognizant Classic in The Palm Beach",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "PGA Tour Highlights - Cognizant Classic in The Palm Beach",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Disfruta de este torneo masculino de golf que se disputa en Palm Beach Gardens, Florida, Estados Unidos. El evento reúne a destacadas figuras en un encuentro único y muy esperado por todos."
+    },
+    {
+      "show_name": "Goles de la Eredivisie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-goles-de-la-eredivisie_l_m.jpg",
+      "show_category": "Goles de la Eredivisie",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Los goles del fútbol holandés."
+    },
+    {
+      "show_name": "Equipo fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Equipo fútbol",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "ESPN Enfocados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Enfocados",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Vive el análisis más detallado del fútbol y otros deportes, con expertos que desglosan tácticas, rendimiento y actualidad de jugadores y equipos. No te pierdas las entrevistas exclusivas y debates a fondo sobre lo mejor del deporte."
+    },
+    {
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Barcelona (Ecu) vs. Botafogo (Bra)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Ronda de clasificación - Ida, Estadio I. Romero Carbo",
+      "show_name": "O'Higgins (Chi) vs. Deportes Tolima (Col)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Ronda de clasificación - Ida, Estadio El Teniente",
       "start_time": "18:00",
       "end_time": "20:30",
       "episode_description": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "EFL Highlights",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-efl-highlights_l_m.jpg",
+      "show_category": "EFL Highlights",
       "start_time": "20:30",
-      "end_time": "23:30",
+      "end_time": "21:00",
+      "episode_description": "Revive los mejores momentos de los partidos de la segunda división de Inglaterra, la English Football League Championship, con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "23:30",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }

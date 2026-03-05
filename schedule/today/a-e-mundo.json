@@ -1,486 +1,374 @@
 {
   "channel": "A&E",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 3 - El rápido y el valiente",
-      "start_time": "00:15",
-      "end_time": "00:40",
-      "episode_description": "En el Bronx, un conductor recibe al karma instantáneamente. Después, una mujer se enfrenta a un estacionamiento lleno por guardar un espacio. Luego, un Maserati robado, conduce al ladrón a un trágico final."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 4 - Héroe de la carretera",
-      "start_time": "00:40",
-      "end_time": "01:00",
-      "episode_description": "En Nueva York, un conductor pelea con un ciclista eléctrico. Luego, un motociclista ayuda a un coche que se encuentra averiado. Después, una conductora embiste a una patrulla."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 5 - Luz roja estruendosa",
-      "start_time": "01:00",
-      "end_time": "01:25",
-      "episode_description": "En Dana Point, California, dos conductores se pelean, frente a un semáforo en rojo. En Detroit, el conductor de una grúa, se ve rodeado por una multitud furiosa, luego de chocar contra siete coches."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 6 - En fuga",
-      "start_time": "01:25",
-      "end_time": "01:45",
-      "episode_description": "En el Reino Unido, dos hombres se enfrentan a un conductor. Un hombre de Florida es perseguido por la policía, conduciendolos a una persecución de alta velocidad, tras robar dos patrulleros diferentes."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 7 - Esposas de Houdini",
-      "start_time": "01:45",
-      "end_time": "02:10",
-      "episode_description": "En Ohio, un hombre rompe violentamente el coche de una mujer. Luego, en Houston, un choque menor se vuelve realmente violento. Además, un sospechoso prende fuego su asiento, causando un accidente."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 8 - Curso intensivo",
-      "start_time": "02:10",
-      "end_time": "02:30",
-      "episode_description": "En California, pasajeros se ven envueltos en altercados de ira al volante y un motociclista ayuda a un automovilista. Un control de tráfico se vuelve aterrador. En Austin, los frenos de un camión fallan en una colina."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 9 - Fiasco en la autopista",
-      "start_time": "02:30",
-      "end_time": "02:50",
-      "episode_description": "Un conductor da un volantazo para esquivar a un hombre que había salido despedido de su coche. En Houston, un motociclista no sujeta bien un pequeño paquete y provoca consecuencias imprevistas."
-    },
-    {
-      "show_name": "Ira en el camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 10 - Tormenta de nieve acumulada",
-      "start_time": "02:50",
-      "end_time": "03:10",
-      "episode_description": "En Hawái, dos motociclistas pelean, aunque uno lleva una navaja. Además, una tormenta de nieve causa el choque de cien vehículos, una mujer es encontrada dormida al volante. Luego, unas cámaras muestran a un adolescente cayendo de un coche."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7 - Trasero en el Deli",
-      "start_time": "03:10",
-      "end_time": "03:35",
-      "episode_description": "En Michigan, una mujer se cansa de esperar indefinidamente y enseña el trasero en una tienda. Luego, en Río de Janeiro, una pareja inicia una pelea en un resort de lujo."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - Hurto en tiendas",
-      "start_time": "03:35",
-      "end_time": "03:55",
-      "episode_description": "En Oregón, un ladrón enfrenta a un guardia de seguridad. Luego, en Illinois, se arma una pelea por salir de un estacionamiento luego de un recital. Además, en California, un médico de emergencias pasa vergüenza frente a una cámara."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 9 - Carrera de cerveza",
-      "start_time": "03:55",
-      "end_time": "04:15",
-      "episode_description": "Una mujer en Idaho, intenta robar una motosierra metiéndosela en los pantalones. Luego, unos clientes se disgustan con una mujer sin modales en un buffet. Además, en California, un adolescente intenta conseguir alcohol y lucha por escapar."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Corte de pelo 911",
-      "start_time": "04:15",
-      "end_time": "04:35",
-      "episode_description": "En Nueva Jersey, un cliente lucha contra un incendio en un supermercado. Luego, una madre llama al 911 por el corte de pelo de su hijo. Además, una madre adolescente deja a su bebé recién nacido, con un cliente de un restaurante."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 11 - Pánico en el restaurante de comida rápida",
-      "start_time": "04:35",
-      "end_time": "05:00",
-      "episode_description": "Un cliente pierde el control ante la falta de higiene del empleado, de una casa de comida rápida. Luego, el dueño de una joyería en China, lucha contra un ladrón con un cuchillo gigante."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 12 - Pelea de béisbol",
-      "start_time": "05:00",
-      "end_time": "05:20",
-      "episode_description": "En un partido en Arkansas, un hombre es acusado de colarse en la fila y genera el caos. Luego, en Filadelfia, un fanático desata una pelea en un juego de baseball. Además, un CEO de Arizona, hace comentarios racistas a su conductor."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 13 - Servicio de labios",
-      "start_time": "05:20",
-      "end_time": "05:40",
-      "episode_description": "En Ohio, un cliente se pelea con los empleados de un local de comida rápida. Luego, en Alabama, un escocés tiene problemas para ordenar en un drive-thru. Más tarde, en Tennessee, unos ladrones intentan robar una tienda de armas."
-    },
-    {
-      "show_name": "Clientes en furia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 14 - Pesadilla en el salón de uñas",
-      "start_time": "05:40",
-      "end_time": "06:00",
-      "episode_description": "Una pareja es expulsada de un vuelo, al negarse a seguir instrucciones. Luego, una niña se queda atrapada en una máquina de chicles. Además, un cliente aterroriza con un hacha a otros clientes, adentro de un restaurante."
-    },
-    {
-      "show_name": "Acumuladores compulsivos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/acumuladores-compulsivos.webp",
-      "show_category": "Temporada 13 Episodio 144 - Kate - Parte A",
-      "start_time": "06:00",
-      "end_time": "06:45",
-      "episode_description": "La casa de Kate ahora está en completo caos, y la ciudad le está imponiendo multas diarias según las leyes de aplicación del código."
-    },
-    {
-      "show_name": "Acumuladores compulsivos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/acumuladores-compulsivos.webp",
-      "show_category": "Temporada 13 Episodio 145 - Kate - Parte B",
-      "start_time": "06:45",
-      "end_time": "07:30",
-      "episode_description": "Con la ayuda del equipo de los Hoarders, Kate quiere limpiar su vida y salvar su hogar."
-    },
-    {
-      "show_name": "¡Alto! Frontera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/alto-frontera.webp",
-      "show_category": "Temporada 3 Episodio 19",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "A pocos kilómetros del centro de La Habana y de algunas de las playas más turísticas del Mar Caribe, comienza otra jornada repleta de vuelos en el Aeropuerto José Martí, la principal frontera aérea de la isla."
-    },
-    {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 8 Episodio 13 - Siempre hay sorpresas",
-      "start_time": "08:00",
-      "end_time": "08:20",
-      "episode_description": "Lancaster, CA, es el escenario de otro duro día de subastas. Brandi sorprende a Jarrod con mucho dinero en efectivo y espera hacerse con la mejor unidad del día, mientras Mary trae ayuda extra para los enormes depósitos."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 8 Episodio 14 - Obedece, René",
-      "start_time": "08:20",
-      "end_time": "08:45",
-      "episode_description": "Los compradores llegan a otra subasta en Huntington Beach, CA, y Darrell trata de enseñarle a Brandon una de las lecciones más difíciles en el juego de los depósitos. Pese a sus pésimos antecedentes en la zona, Ivy tiene muchas esperanzas."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 8 Episodio 7 - Desafío en Palm Springs",
-      "start_time": "08:45",
-      "end_time": "09:05",
-      "episode_description": "Los compradores se dirigen a Palm Springs, donde no solo los precios arden bajo el sol del desierto. Ivy apuesta todo a un depósito y Rene trata de mantener la calma pese a las altas temperaturas. Mary mantiene el control en la competencia."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 8 Episodio 8 - El viejo truco",
-      "start_time": "09:05",
-      "end_time": "09:30",
-      "episode_description": "Los compradores esperan obtener productos de alto nivel en una subasta en Santa Ana. Jarrod y Ivy no dejan de comprar, aunque los demás no saben qué hacer. Mary encuentra ayuda de un metafísico y Rene espera a último momento para atacar."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 282 - Payaso triste",
-      "start_time": "09:30",
-      "end_time": "09:55",
-      "episode_description": "En Victorville, California, Ivy y Pops compiten e intentan demostrar la mejor rentabilidad. El arma secreta de Brandi le trae problemas, pero afortunadamente Kenny está allí para alegrarle el día."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 283 - Viejo joven",
-      "start_time": "09:55",
-      "end_time": "10:15",
-      "episode_description": "Un grupo de peculiares oportunistas participa de subastas de unidades de almacenamiento no reclamadas con la esperanza de encontrar oro. Los postores solo pueden observar el interior unos breves instantes antes de ofertar."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 284 - Los motociclistas",
-      "start_time": "10:15",
-      "end_time": "10:40",
-      "episode_description": "Barry llega a Riverside con un postor aliado y enmascarado. ¿Qué estrategia desarrollarán para quedarse con los contenedores subastados? Mientras tanto, Brandi y Danielle reciben bolas misteriosas que las transportan a Sudamérica."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 16 - Oferta científica",
-      "start_time": "10:40",
-      "end_time": "11:00",
-      "episode_description": "Ivy y su hijo intentan quedarse con un casillero que parece contener un equipo deportivo misterioso, por lo que René no permite que se aprovechen de él y consigue una gran victoria."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 18 - Un austríaco suelto en Perris",
-      "start_time": "11:00",
-      "end_time": "11:25",
-      "episode_description": "Brandi se mantiene con actitud positiva en la subasta de Perris. Mientras tanto, Darrell consigue una unidad llena de bolsos vintage y Gunter"
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 19 - Nada mal para un día de subastas",
-      "start_time": "11:25",
-      "end_time": "11:45",
-      "episode_description": "San Bernardino, California, saca al guerrero interno de Ivy, que se enfrenta a un comprador difícil. Kenny tiene el ojo puesto en un casillero que lo deja necesitando un masaje."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 20 - Tesoros de Asia",
-      "start_time": "11:45",
-      "end_time": "12:10",
-      "episode_description": "En Santa Ana, Brandi deja que Danielle tome las riendas del asunto y sus subastas se terminan convirtiendo en toda una experiencia."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 21 - Vestida para ganar",
-      "start_time": "12:10",
-      "end_time": "12:30",
-      "episode_description": "En la subasta de Riverside, Brandi decide presentarse vestida de forma llamativa para atraer todas las miradas y distraer a la competencia. ¿Funcionará? Más tarde, René podría apostar por más de lo que es capaz de manejar."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 22 - Con estilo propio",
-      "start_time": "12:30",
-      "end_time": "12:55",
-      "episode_description": "En Lancaster, un pequeño animal toma por sorpresa a Lisa, pero aun así logra quedarse con el premio. Más tarde, Ivy e Isaiah trabajan duro para vaciar un contenedor y quedan con ganas de beber algo."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 23 - El Diablo compra ropa usada",
-      "start_time": "12:55",
-      "end_time": "13:15",
-      "episode_description": "En la subasta de Canyon Country, Kenny intenta sobornar a la competencia, por lo que pierde ventaja y ya no resulta tan inalcanzable para sus rivales."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 13 Episodio 24 - El dinero manda",
-      "start_time": "13:15",
-      "end_time": "13:40",
-      "episode_description": "En la subasta de Montebello, René se enfrenta cara a cara con Darrell y compra una unidad de almacenamiento para ver si finalmente puede derrocar al Rey. Mientras tanto, Lisa y su perro se abren paso a escondidas hasta un casillero."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s13e25-kenny-tiene-hambre_l_m.jpg",
       "show_category": "Temporada 13 Episodio 25 - Kenny tiene hambre",
-      "start_time": "13:40",
-      "end_time": "14:00",
+      "start_time": "00:20",
+      "end_time": "00:40",
       "episode_description": "Brandi se despierta en el lado equivocado de la cama, pero se siente mucho mejor después de obtener un casillero en Placentia. Mientras tanto, René intenta recuperar rápidamente su dinero y Kenny lucha contra el contenido de su unidad."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s13e27-ven-a-golpear-nuestro-deposito_l_m.jpg",
       "show_category": "Temporada 13 Episodio 27 - Ven a golpear nuestro depósito",
-      "start_time": "14:00",
-      "end_time": "14:25",
+      "start_time": "00:40",
+      "end_time": "01:05",
       "episode_description": "Brandi comienza con un mal día pero hace lo mejor que puede para reponerse en Fullerton. Mientras tanto, Ivy pone la mira en un casillero y se queda con un segundo, eliminando a la competencia."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s13e28-nada-es-imposible_l_m.jpg",
       "show_category": "Temporada 13 Episodio 28 - Nada es imposible",
-      "start_time": "14:25",
-      "end_time": "14:45",
+      "start_time": "01:05",
+      "end_time": "01:25",
       "episode_description": "En Moreno Valley, la temperatura supera los 37 grados y se hace sentir. Mientras Kenny combate el calor con paletas, René lidia con su hija Tatiana, que necesita varias lecciones de matemática."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e05-el-rey-del-pollo-naranja_l_m.jpg",
       "show_category": "Temporada 14 Episodio 5 - El rey del pollo naranja",
-      "start_time": "14:45",
-      "end_time": "15:10",
+      "start_time": "01:25",
+      "end_time": "01:50",
       "episode_description": "René se presenta en la subasta de Orange y se proclama a sí mismo \"El Rey\" aunque Dusty no está para nada de acuerdo en concederle el título."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e15-un-hallazgo-de-locos_l_m.jpg",
       "show_category": "Temporada 14 Episodio 15 - Un hallazgo de locos",
-      "start_time": "15:10",
-      "end_time": "15:30",
+      "start_time": "01:50",
+      "end_time": "02:10",
       "episode_description": "En las instalaciones de Victorville, Dusty se ve abrumado durante un duelo, pero la fuente de todos los vinilos podría salvarle el día."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e01-a-caballo-subastado-no-se-le-miran-los-dientes_l_m.jpg",
       "show_category": "Temporada 14 Episodio 1 - A caballo subastado no se le miran los dientes",
-      "start_time": "15:30",
-      "end_time": "15:55",
+      "start_time": "02:10",
+      "end_time": "02:35",
       "episode_description": "Todo indica que será un día más en la subasta de Riverside. Hasta que Barry y Kenny aparecen a bordo de un vehículo de combustible alternativo."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e04-como-se-gano-west-covina_l_m.jpg",
       "show_category": "Temporada 14 Episodio 4 - Cómo se ganó West Covina",
-      "start_time": "15:55",
-      "end_time": "16:15",
+      "start_time": "02:35",
+      "end_time": "02:55",
       "episode_description": "En West Covina, Lisa está tan ocupada mirando el fondo de un depósito que comete el peor error posible en una subasta. René se topa con una ganga que nadie imaginó, mientras que Ivy se abre camino hacia una gran ganancia."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e02-mucho-para-ver-poco-para-vender_l_m.jpg",
       "show_category": "Temporada 14 Episodio 2 - Mucho para ver, poco para vender",
-      "start_time": "16:15",
-      "end_time": "16:40",
+      "start_time": "02:55",
+      "end_time": "03:20",
       "episode_description": "Laura toma las riendas por sí sola en Fullerton, termina superando las ventas de Dan. Mientras tanto, Brandi es acosada por su casillero, pero todo termina en excelentes términos."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e06-locker-para-armar_l_m.jpg",
       "show_category": "Temporada 14 Episodio 6 - Locker para armar",
-      "start_time": "16:40",
-      "end_time": "17:00",
+      "start_time": "03:20",
+      "end_time": "03:40",
       "episode_description": "Los depósitos de Stanton están completamente llenos y Darrell tendrá que lidiar con un competidor inesperado. Ivy llega con un gran vehículo esperando llevarse todo."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e07-reino-brillante_l_m.jpg",
       "show_category": "Temporada 14 Episodio 7 - Reino brillante",
-      "start_time": "17:00",
-      "end_time": "17:25",
+      "start_time": "03:40",
+      "end_time": "04:00",
       "episode_description": "Es un día gris y húmedo en Montebello, pero eso no detendrá al rey Darrell de defender su trono a capa y espada contra los planes de René y Casey para derrotarlo."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e08-el-rey-de-montebelo_l_m.jpg",
       "show_category": "Temporada 14 Episodio 8 - El rey de Montebelo",
-      "start_time": "17:25",
-      "end_time": "17:45",
+      "start_time": "04:00",
+      "end_time": "04:20",
       "episode_description": "Barry se presenta a la subasta listo para aprender y trae consigo un regalo para cierto estafador. Mientras tanto, Brandi y Bozek logran quedarse con una pequeña unidad que les levanta el ánimo."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e09-aqui-viene-calvin_l_m.jpg",
       "show_category": "Temporada 14 Episodio 9 - Aquí viene Calvin",
-      "start_time": "17:45",
-      "end_time": "18:10",
+      "start_time": "04:20",
+      "end_time": "04:40",
       "episode_description": "Con su atuendo de vaquera y su calcetín, Lisa espera que la tercera vez en Riverside sea la vencida. Mientras tanto, René hinca sus dientes en una unidad modesta. Brandi participa en una búsqueda del tesoro."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e10-contenedores-sellados_l_m.jpg",
       "show_category": "Temporada 14 Episodio 10 - Contenedores sellados",
-      "start_time": "18:10",
-      "end_time": "18:30",
+      "start_time": "04:40",
+      "end_time": "05:00",
       "episode_description": "Rene y Casey apuestan todo por unas bolsas selladas en San Bernardino. Mientras tanto, Kenny se topa con algunas piezas de automóviles de aspecto inusual. Lisa se protege del desastre con un casillero extravagantemente caro."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e11-maquina-de-suenos_l_m.jpg",
       "show_category": "Temporada 14 Episodio 11 - Máquina de sueños",
-      "start_time": "18:30",
-      "end_time": "18:55",
+      "start_time": "05:00",
+      "end_time": "05:20",
       "episode_description": "En Lancaster, Ivy se pone en pie de guerra para intimidar a sus oponentes. Mientras tanto y a regañadientes, Brandi deja que Bozek elija casillero que van a comprar."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e12-corbatas-para-todos_l_m.jpg",
       "show_category": "Temporada 14 Episodio 12 - Corbatas para todos",
-      "start_time": "18:55",
-      "end_time": "19:15",
+      "start_time": "05:20",
+      "end_time": "05:40",
       "episode_description": "Barry intenta una táctica poco conocida para quedarse con un casillero, pero el tiro le sale por la culata. Mientras tanto, Brandi monta un gran espectáculo durante sus compras en el sótano de gangas."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s14e13-redistribucion-en-stanton_l_m.jpg",
       "show_category": "Temporada 14 Episodio 13 - Dos por el precio de uno",
-      "start_time": "19:15",
-      "end_time": "19:40",
+      "start_time": "05:40",
+      "end_time": "06:00",
       "episode_description": "En Riverside, los apostadores ponen todo sobre la mesa, pero Rene prefiere no arriesgar. Mientras tanto, Darrell prueba su suerte con un casillero más pequeño y obtiene una buena ganancia."
     },
     {
+      "show_name": "Acumuladores compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_acumuladores-compulsivos-s13e146-peggie-parte-a_l_m.jpg",
+      "show_category": "Temporada 13 Episodio 146 - Peggy - Parte A",
+      "start_time": "06:00",
+      "end_time": "06:45",
+      "episode_description": "Las compras en tiendas de segunda mano le permitieron a Peggy socializar después de volver a quedarse sola cuando su cliente falleció, pero también desencadenó su trastorno de acumulación."
+    },
+    {
+      "show_name": "Acumuladores compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_acumuladores-compulsivos-s13e147-peggie-parte-b_l_m.jpg",
+      "show_category": "Temporada 13 Episodio 147 - Peggy - Parte B",
+      "start_time": "06:45",
+      "end_time": "07:30",
+      "episode_description": "Las compras en tiendas de segunda mano le permitieron a Peggy socializar después de volver a quedarse sola cuando su cliente falleció, pero también desencadenó su trastorno de acumulación."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e20_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 20",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Comienza un nuevo día en el Aeropuerto Internacional José Martí, por donde pasarán alrededor de 30 mil pasajeros por sus cinco terminales."
+    },
+    {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e07-desafio-en-palm-springs_l_m.jpg",
       "show_category": "Temporada 8 Episodio 7 - Desafío en Palm Springs",
-      "start_time": "19:40",
-      "end_time": "20:00",
+      "start_time": "08:00",
+      "end_time": "08:20",
       "episode_description": "Los compradores se dirigen a Palm Springs, donde no solo los precios arden bajo el sol del desierto. Ivy apuesta todo a un depósito y Rene trata de mantener la calma pese a las altas temperaturas. Mary mantiene el control en la competencia."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e08-el-viejo-truco_l_m.jpg",
       "show_category": "Temporada 8 Episodio 8 - El viejo truco",
-      "start_time": "20:00",
-      "end_time": "20:25",
+      "start_time": "08:20",
+      "end_time": "08:45",
       "episode_description": "Los compradores esperan obtener productos de alto nivel en una subasta en Santa Ana. Jarrod y Ivy no dejan de comprar, aunque los demás no saben qué hacer. Mary encuentra ayuda de un metafísico y Rene espera a último momento para atacar."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e15-el-ultimo-ejemplar_l_m.jpg",
       "show_category": "Temporada 8 Episodio 15 - El último ejemplar",
-      "start_time": "20:25",
-      "end_time": "20:50",
+      "start_time": "08:45",
+      "end_time": "09:05",
       "episode_description": "Los compradores llegan a Norwalk y esperan encontrar tesoros escondidos, pero Darrell apunta a un premio mayor. Mary viene bien preparada para mostrar su poder."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e18-compras-y-munecos_l_m.jpg",
       "show_category": "Temporada 8 Episodio 18 - Compras y muñecos",
-      "start_time": "20:50",
-      "end_time": "21:15",
+      "start_time": "09:05",
+      "end_time": "09:30",
       "episode_description": "En Torrance se desarrolla una competencia por unos pocos depósitos de calidad. Brandi se ve obligada a enfrentar sus miedos cuando Jarrod obtiene un depósito que le dará pesadillas. Ivy no ha tenido suerte, por lo que intenta otra táctica."
     },
     {
+      "show_name": "Crímenes no resueltos: el viejo oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Asesinato en Salt Lake City",
+      "start_time": "09:30",
+      "end_time": "10:15",
+      "episode_description": "Cuando Sherry Black es asesinada en su librería en Salt Lake City, los investigadores sospechan que fue un robo. El caso se estanca hasta que su hija colabora con un astuto investigador para llevar a su asesino ante la justicia."
+    },
+    {
+      "show_name": "Crímenes no resueltos: el viejo oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - La muerte de Lavender Doe",
+      "start_time": "10:15",
+      "end_time": "11:00",
+      "episode_description": "Cuando se encuentra el cuerpo quemado de una mujer en un campo petrolífero en 2006, la comunidad rural de Kilgore, Texas, y un decidido agente hacen todo lo posible por resolver el caso, pero se necesitan 13 años para identificarla."
+    },
+    {
+      "show_name": "Crímenes no resueltos: el viejo oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Misterio en Cuero",
+      "start_time": "11:00",
+      "end_time": "11:50",
+      "episode_description": "Pam Shelly, de 31 años, aparece muerta de un disparo en la cabeza en su baño. Al principio se cree que fue un suicidio, pero un detective no está convencido."
+    },
+    {
+      "show_name": "Crímenes no resueltos: el viejo oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Amantes, mentiras y asesinato en el cañon",
+      "start_time": "11:50",
+      "end_time": "12:35",
+      "episode_description": "En 1987, Carol Murphy, de 28 años, fue encontrada muerta en una zona boscosa de Boulder, Colorado. Se necesitaron 20 años y una nueva tecnología para resolver su asesinato."
+    },
+    {
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 140 - El arroyo revelador",
+      "start_time": "12:35",
+      "end_time": "13:25",
+      "episode_description": "Los habitantes de Hope Mills están nerviosos cuando una estudiante de primer año de preparatoria desaparece camino a reunirse con una amiga. Cuando aparece muerta tres semanas después, la comunidad se moviliza para descubrir al asesino."
+    },
+    {
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 132 - Asesinato en el país Amish",
+      "start_time": "13:25",
+      "end_time": "14:10",
+      "episode_description": "Una joven madre de cinco niños es hallada muerta en su casa."
+    },
+    {
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 133 - Monstruos en la calle principal",
+      "start_time": "14:10",
+      "end_time": "15:00",
+      "episode_description": "Cuando una niña de 11 años desaparece mientras volvía a su casa de una fiesta de Halloween, la Policía busca pistas e intenta desenmascarar la maldad que vive entre ellos."
+    },
+    {
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 8 - Planes de California",
+      "start_time": "15:00",
+      "end_time": "15:45",
+      "episode_description": "Cuando una de las residentes más recientes de Redlands, California, desaparece, la comunidad, consternada, se une para ayudar a encontrarla."
+    },
+    {
+      "show_name": "Acusado: ¿yo lo hice?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - ¿Asesino a sangre fría o tirador aterrorizado?",
+      "start_time": "15:45",
+      "end_time": "16:35",
+      "episode_description": "Un choque de autos termina con la muerte de un adolescente. El otro conductor, de 25 años, es acusado de asesinato en segundo grado por dispararle tras la colisión."
+    },
+    {
+      "show_name": "Acusado: ¿yo lo hice?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - ¿Asesino de un solo golpe o hermano protector?",
+      "start_time": "16:35",
+      "end_time": "17:20",
+      "episode_description": "Mientras jugaban al básquet, se desata una pelea que termina en tragedia cuando un par de adolescentes disparan pistolas de pintura a dos hermanos y uno de ellos muere. La fiscalía dice que fue intencional."
+    },
+    {
+      "show_name": "Acusado: ¿yo lo hice?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - ¿Tirador de escaleras o padre defensivo?",
+      "start_time": "17:20",
+      "end_time": "18:10",
+      "episode_description": "Un hombre le dispara en la pierna al novio de su ex pareja y alega que fue para defenderla a ella y a su hijo en común. Pero la fiscalía afirma que el video del hecho muestra que se trató de un ataque."
+    },
+    {
+      "show_name": "Acusado: ¿yo lo hice?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Killer Knifeman or Innocent Defender?",
+      "start_time": "18:10",
+      "end_time": "18:55",
+      "episode_description": "Una pacífica mañana de domingo termina en tragedia cuando un accidente automovilístico termina en un altercado mortal. Un hombre de 25 años es acusado de asesinato en segundo grado después de dispararle a un conductor adolescente y matarlo."
+    },
+    {
+      "show_name": "Acusado: ¿yo lo hice?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - Murderous Cop or Innocent Gunman?",
+      "start_time": "18:55",
+      "end_time": "19:45",
+      "episode_description": "Un policía que estaba fuera de servicio, le dispara a un hombre durante una fiesta. Él dice que fue en defensa propia tras una fuerte discusión. Pero un testigo cambia su declaración y lo acusan de asesinato."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e15-el-ultimo-ejemplar_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 15 - El último ejemplar",
+      "start_time": "19:45",
+      "end_time": "20:05",
+      "episode_description": "Los compradores llegan a Norwalk y esperan encontrar tesoros escondidos, pero Darrell apunta a un premio mayor. Mary viene bien preparada para mostrar su poder."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e18-compras-y-munecos_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 18 - Compras y muñecos",
+      "start_time": "20:05",
+      "end_time": "20:30",
+      "episode_description": "En Torrance se desarrolla una competencia por unos pocos depósitos de calidad. Brandi se ve obligada a enfrentar sus miedos cuando Jarrod obtiene un depósito que le dará pesadillas. Ivy no ha tenido suerte, por lo que intenta otra táctica."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s08e16-el-alcalde-de-margarita-ville_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 16 - El alcalde de Margarita-Ville",
+      "start_time": "20:30",
+      "end_time": "20:50",
+      "episode_description": "Beaumont, CA, es el escenario de varias subastas con objetos que van de lo cotidiano a lo más extravagante. Rene apuesta a lo grande mientras Mary apunta a lo barato. Jarrod y Brandi dejan que Alex y Bozek manejen las subastas."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e01-un-toque-mexicano_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 1 - Un toque mexicano",
+      "start_time": "20:50",
+      "end_time": "21:15",
+      "episode_description": "Los compradores se dirigen a San Diego, donde esperan encontrar grandes tesoros. Rene y Casey redoblan los esfuerzos para defender su terreno. Mary espera encontrar una unidad con productos de primer nivel y Ivy consigue ayuda."
+    },
+    {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 61",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 63",
       "start_time": "21:15",
       "end_time": "21:40",
-      "episode_description": "Se realizan pruebas de campo con drogas en Washington y, además, a un anciano se le caen los pantalones en Nevada."
+      "episode_description": "Un horrible accidente de carretera en Arizona, un gato rescatado de un coche en Luisiana y una madrastra que deja a su hijastro afuera en Nevada."
     },
     {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 62",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 64",
       "start_time": "21:40",
       "end_time": "22:00",
-      "episode_description": "Los oficiales llegan a una cena y borrachera en Carolina del Sur, luego un intruso desnudo es detenido en Missouri y un hombre es arrestado por marihuana en Texas."
+      "episode_description": "Un acumulador de perros en Illinois y más personas son arrestadas por marihuana en Carolina del Sur y en Arizona."
     },
     {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 90",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 101",
       "start_time": "22:00",
       "end_time": "22:25",
-      "episode_description": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. La serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen."
+      "episode_description": "Un hombre abusa de su esposa en Indiana, otro usa una espátula en Carolina del Sur."
     },
     {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 89",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 90",
       "start_time": "22:25",
       "end_time": "22:45",
-      "episode_description": "Un hombre recibe un disparo en Luisiana. Violencia doméstica en Indiana."
+      "episode_description": "Una mirada sin filtros a los departamentos de policía en acción."
     },
     {
-      "show_name": "Los asesinatos de una viuda negra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Sharon Nelson",
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 11 - Santo terror",
       "start_time": "22:45",
       "end_time": "23:35",
-      "episode_description": "Un despachador de bomberos, es hallado muerto tras un incendio en su casa. La policía descubre que no es la primera vez que su esposa se queda viuda. La investigación lleva a los detectives hasta una confesión inesperada."
+      "episode_description": "En 2002, Diane Snellen fue encontrada brutalmente asesinada. Durante casi un año, la policía luchó por resolver el misterio; pero un golpe de suerte llevó a los detectives a sospechosos inesperados."
     },
     {
-      "show_name": "Los asesinatos de una viuda negra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Lynette Bell",
+      "show_name": "City Confidential",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 8 - Planes de California",
       "start_time": "23:35",
       "end_time": "00:20",
-      "episode_description": "Una anciana de la zona rural de Luisiana, cae bajo sospecha porque un hombre es encontrado muerto en su apartamento. Luego, las autoridades descubren una extensa historia de tragedias, todas alrededor de la amigable señora de la iglesia."
+      "episode_description": "Cuando una de las residentes más recientes de Redlands, California, desaparece, la comunidad, consternada, se une para ayudar a encontrarla."
     }
   ]
 }
