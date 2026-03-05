@@ -1,9 +1,9 @@
 {
   "channel": "RAI International",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Porta a Porta",
+      "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Udienza Papale",
+      "show_name": "GEN Z",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -155,18 +155,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR Leonardo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:15",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Il meglio di Geo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
+      "start_time": "15:15",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -183,23 +175,55 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un posto al sole",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Don Matteo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "23:00",
+      "end_time": "20:45",
       "episode_description": ""
     },
     {
-      "show_name": "Canal RAI",
+      "show_name": "Il confronto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "03:00",
+      "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Porta a Porta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "22:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TG Rai News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:45",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

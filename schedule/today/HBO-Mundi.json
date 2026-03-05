@@ -1,117 +1,101 @@
 {
   "channel": "HBO Mundi",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
-    {
-      "show_name": "Día de entrenamiento",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La posada",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:25",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Frankenstein",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Beguiled",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
-      "end_time": "05:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fitting in",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:50",
-      "end_time": "07:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lady Bird",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/lady-bird.webp",
-      "show_category": "Comedia",
-      "start_time": "07:40",
-      "end_time": "09:20",
-      "episode_description": "Excavando tanto el humor como la discusión en el vínculo turbulento entre una madre y su hija adolescente. Christine \"Lady Bird\" MacPherson (Saoirse Ronan) pelea en contra, pero es exactamente como su amorosa, profundamente obstinada y fuerte madre Marion McPherson (Laurie Metcalf), una enfermera que trabaja incansablemente para mantener a flote a su familia después de que el padre Lady, Larry McPherson (Tracy Letts) pierde su trabajo."
-    },
-    {
-      "show_name": "Demolition",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:20",
-      "end_time": "11:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Doce monos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:05",
-      "end_time": "13:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vi el brillo del televisor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:20",
-      "end_time": "15:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La sustancia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:05",
-      "end_time": "17:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Río Místico",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:35",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La lista de Schindler",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "23:20",
-      "episode_description": ""
-    },
     {
       "show_name": "Francotirador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
+      "start_time": "00:00",
       "end_time": "01:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Hombre invisible",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:40",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Intrusos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Duna",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:45",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Triángulo de la Tristeza",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_triangulo_de_la_tristeza.jpg",
+      "show_category": "Comedia",
+      "start_time": "07:25",
+      "end_time": "10:00",
+      "episode_description": "En esta divertidísima película de Ruben Östlund, ganador de la Palma de Oro, la jerarquía social se pone patas arriba, revelando la escandalosa relación entre poder y belleza. Carl (Harris Dickinson) y Yaya (Charlbi Dean), una pareja de modelos famosos, son invitados a un crucero de lujo para súper ricos, capitaneado por un desquiciado capitán de barco (Woody Harrelson). Lo que al principio parecía instagrameable acaba de forma catastrófica, dejando a los supervivientes varados en una isla desierta y luchando por la supervivencia."
+    },
+    {
+      "show_name": "Kneecap",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Elizabeth",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:50",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Código negro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Anora",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:40",
+      "end_time": "18:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ex Machina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:05",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Llegada (2016)",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_llegada_2016.jpg",
+      "show_category": "Ciencia Ficción",
+      "start_time": "20:00",
+      "end_time": "22:05",
+      "episode_description": "Una nave extraña aterriza en el planeta, el Coronel Weber (Forest Whitaker), llega a la universidad donde trabaja la experta en lingüística Louise Banks (Amy Adams) para que le ayude a descifrar un mensaje que ha dejado esta nave. Louise junto con un equipo de élite comandados por Ian Donnelly (Jeremy Renner) deberán descifrar lo que ellos quieren y porque están allí, y evitar que se desate una guerra mundial. Tendrán que poner en peligro sus vidas y seguramente, las de toda la humanidad."
+    },
+    {
+      "show_name": "Duna",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:05",
+      "end_time": "00:45",
       "episode_description": ""
     }
   ]

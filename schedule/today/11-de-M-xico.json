@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Sin muros",
+      "show_name": "La Negra Angustias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lola Casanova",
+      "show_name": "La Negra Angustias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:02",
-      "end_time": "01:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Mañanera 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bichos en el corazón de la Tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": ""
     },
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lola Casanova",
+      "show_name": "La Negra Angustias",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conmemoraciones",
+      "show_name": "Confieso que he vivido",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -151,14 +159,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Radio, Televisión, y Cinematografía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:25",
       "end_time": "15:30",
       "episode_description": ""
     },
@@ -183,6 +183,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:07",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daniel Tigre y su Vecindad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -195,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Juani y Gatón",
+      "show_name": "Zander",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -203,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dr. W",
+      "show_name": "Shaun, el cordero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:07",
@@ -211,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Vientos! Noticias que vuelan",
+      "show_name": "Mi hermano el monstruo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
@@ -219,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jaguares del Once",
+      "show_name": "Academia de superhéroes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -227,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Polinópolis",
+      "show_name": "Prueba total",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:45",
@@ -243,18 +251,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crónicas y relatos de México",
+      "show_name": "La independencia inconclusa",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:03",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "M/Aquí",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -279,22 +279,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
+      "end_time": "19:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Radio, Televisión, y Cinematografía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:55",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Confieso que he vivido",
+      "show_name": "Tap: Taller De Actores Profesionales",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sacro Y Profano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -315,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "México Social",
+      "show_name": "Estación Once",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -323,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Negra Angustias",
+      "show_name": "Janitzio",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

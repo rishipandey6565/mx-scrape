@@ -1,13 +1,237 @@
 {
   "channel": "Discovery Channel (México)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "En medio del desastre",
+      "show_name": "Supervivencia al desnudo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:19",
+      "end_time": "01:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mexicánicos celebridades",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:06",
+      "end_time": "01:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo mejor de Mexicánicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:57",
+      "end_time": "02:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:46",
+      "end_time": "03:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al Desnudo Espa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:35",
+      "end_time": "04:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al desnudo Apoc",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:24",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pequeños gigantes de la natur",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:24",
+      "end_time": "07:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Discovery Desafío X 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:14",
+      "end_time": "08:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:04",
+      "end_time": "08:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:50",
+      "end_time": "09:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tras la pista del oro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:41",
+      "end_time": "10:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:33",
+      "end_time": "11:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:24",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Control De Fronteras España T",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "12:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Control De Fronteras España T",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:40",
+      "end_time": "13:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Operación Frontera Brasi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:06",
+      "end_time": "13:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Operación Frontera Brasi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:33",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Contrabando en la fronter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supervivencia al desnudo el",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:48",
+      "end_time": "16:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planeta Tierra II",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:31",
+      "end_time": "17:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planeta Tierra II",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:22",
+      "end_time": "18:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mexicánicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:14",
+      "end_time": "19:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mexicánicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:06",
+      "end_time": "19:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Norteamérica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:58",
+      "end_time": "20:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Legado Salvaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:50",
+      "end_time": "21:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cacería",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:42",
+      "end_time": "22:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ed Stafford familia salvaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:39",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fiebre del oro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:20",
       "episode_description": ""
     }
   ]

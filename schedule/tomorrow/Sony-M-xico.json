@@ -1,14 +1,182 @@
 {
   "channel": "Sony (México)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Una Esposa de Mentira",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sony-M-xico/tomorrow/una-esposa-de-mentira.webp",
-      "show_category": "Comedia",
+      "show_name": "La Mujer Rey",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_mujer_rey.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "00:15",
-      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
+      "end_time": "02:05",
+      "episode_description": "La Mujer Rey es la notable historia de Agojie, la unidad de guerras compuesta exclusivamente por mujeres que protegieron el reino africano de Dahomey en el siglo XIX con habilidades y una ferocidad como nunca ante se había visto en el mundo. Inspirada en hechos reales, La Mujer Rey sigue el viaje emocionalmente épico de la General Nanisca (Viola Davis) mientras entrena a la próxima generación de reclutas y las prepara para la batalla contra un enemigo decidido a destruir su forma de vida. Hay cosas por las que vale la pena luchar…."
+    },
+    {
+      "show_name": "Betty's call",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:05",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Betty's call",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The night shift",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Designing Women",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Designing Women",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "My wife and kids",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "My wife and kids",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "My wife and kids",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "07:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Nanny",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:24",
+      "end_time": "07:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Nanny",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:54",
+      "end_time": "08:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Nanny",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:24",
+      "end_time": "09:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sonic: La Película",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sonic_la_pelicula.jpg",
+      "show_category": "Animación",
+      "start_time": "09:04",
+      "end_time": "10:54",
+      "episode_description": "Sigue a las aventuras de Sonic (Ben Schwartz) mientras navega por las complejidades de la vida en la Tierra con su recién descubierto, el mejor amigo, Tom Wachowski (James Marsden). Sonic y Tom se unen para tratar de detener al villano Dr. Robotnik (Jim Carrey) de capturar a Sonic y usar sus inmensos poderes para dominar el mundo."
+    },
+    {
+      "show_name": "El hombre araña 3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:54",
+      "end_time": "13:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:29",
+      "end_time": "13:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:59",
+      "end_time": "14:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:29",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Guerra Mundial Z",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_mundial_z.jpg",
+      "show_category": "Acción",
+      "start_time": "15:00",
+      "end_time": "17:04",
+      "episode_description": "(World War Z) Gerry Lane (Brad Pitt) es un trabajador de las naciones unidas que busca por todo el mundo información que pueda serle útil para detener la masiva expansión de zombis antes que la humanidad desaparezca."
+    },
+    {
+      "show_name": "Dioses de Egipto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:04",
+      "end_time": "19:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El castigador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:29",
+      "end_time": "21:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Otros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:44",
+      "end_time": "23:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Drácula de Bram Stoker",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:44",
+      "end_time": "02:10",
+      "episode_description": ""
     }
   ]
 }

@@ -1,12 +1,108 @@
 {
   "channel": "NFL Network",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "NFL Football",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Next is Now Best of 2026",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Good morning football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Good morning football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Good morning football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
       "end_time": "02:00",
       "episode_description": ""
     }

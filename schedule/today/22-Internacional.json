@@ -1,14 +1,350 @@
 {
   "channel": "22 Internacional",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Hermano migrante",
+      "show_name": "Patrimonios mexicanos de la Humanidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
       "end_time": "00:00",
+      "episode_description": "Un conductor y un experto con conocimiento e información presentan sitios declarados patrimonios de la humanidad en México."
+    },
+    {
+      "show_name": "Pantalla de cristal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Directores, actores, técnicos, productores, fotógrafos, editores y guionistas analizan y comentan los secretos, las complicaciones y los placeres del proceso creativo."
+    },
+    {
+      "show_name": "Explorando Japón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Serie que muestra cómo las distintas culturas del Japón moderno y del extranjero se mezclan y se influyen mutuamente."
+    },
+    {
+      "show_name": "France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Canal francés de 24 horas que presenta noticias internacionales."
+    },
+    {
+      "show_name": "Noticiero científico y cultural iberoamericano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica."
+    },
+    {
+      "show_name": "Enlace migrante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Un enlace de emociones entre los migrantes y los guanajuatenses. Se presentan entrevistas y el desarrollo de los municipios del estado de Guanajuato, México."
+    },
+    {
+      "show_name": "El sabor de mi tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Acompañado del diario de su abuela, un nieto revive los primeros viajes de ésta y su historia, y da fé de cómo los espíritus de cocineras y cocineros que marcaron su camino se manifestaron en su casa antes de que muriera."
+    },
+    {
+      "show_name": "Puebla en mis recuerdos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Emisión sobre la memoria de la ciudad mexicana de Puebla, enfocado en el paso del tiempo tanto de sus calles, edificios y personajes que la han habitado."
+    },
+    {
+      "show_name": "Historias de mujeres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Un programa dedicado a todas esas mujeres que han superado obstáculos, rechazo social, sueños frustrados, soledad y obsesiones."
+    },
+    {
+      "show_name": "La mujer revelada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Un programa que presenta diferentes testimonios de mujeres que fueron víctimas de la injusticia y de la violencia. Ellas narran su experiencia, el apoyo que recibieron y los obstáculos a los que se enfrentaron."
+    },
+    {
+      "show_name": "México Biodiverso",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Espacio que presentará la diversidad natural que posee México."
+    },
+    {
+      "show_name": "Así se hace: Productos hechos en México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Una mirada a los procesos de producción de las principales actividades económicas en cuatro estados de México: Jalisco, Nayarit, Colima y Michoacán."
+    },
+    {
+      "show_name": "France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Canal francés de 24 horas que presenta noticias internacionales."
+    },
+    {
+      "show_name": "Explorando Japón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Serie que muestra cómo las distintas culturas del Japón moderno y del extranjero se mezclan y se influyen mutuamente."
+    },
+    {
+      "show_name": "Conferencia matutina del presidente de México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:30",
+      "episode_description": "Transmisión de la conferencia de la presidenta Claudia Sheinbaum Pardo, en vivo desde el Palacio Nacional."
+    },
+    {
+      "show_name": "Debate 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Espacio de debate cultural, plural y crítico, con diversos enfoques. Con la conducción de periodistas destacados en ámbitos diversos como la política, sociedad y cultura."
+    },
+    {
+      "show_name": "Noticias 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Un espacio informativo que muestra un enorme abanico de contenidos, que van desde las artes clásicas a las populares, del deporte a la política e incluso a la economía, de la literatura y el cine a la tecnología y de México al resto del mundo."
+    },
+    {
+      "show_name": "La UNAM responde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "El análisis de los desafíos sociales, culturales, económicos y científicos, desde la Universidad Nacional."
+    },
+    {
+      "show_name": "Leer, una hora inesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "episode_description": "Espacio que busca acercar a las personas con la lectura a través de charlas y diversas actividades."
+    },
+    {
+      "show_name": "France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Canal francés de 24 horas que presenta noticias internacionales."
+    },
+    {
+      "show_name": "France 24",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Canal francés de 24 horas que presenta noticias internacionales."
+    },
+    {
+      "show_name": "Conextados a la red",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Informativo en donde se comparte lo más relevante de la semana en los diferentes estados del territorio mexicano."
+    },
+    {
+      "show_name": "Enlace migrante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Un enlace de emociones entre los migrantes y los guanajuatenses. Se presentan entrevistas y el desarrollo de los municipios del estado de Guanajuato, México."
+    },
+    {
+      "show_name": "Tratos y retratos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Programa de entrevistas conducido por Silvia Lemus en el que se reúnen artistas, políticos, pensadores y otras figuras contemporáneas de talla universal."
+    },
+    {
+      "show_name": "La oveja eléctrica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "La revista de ciencia y pensamiento, que tiene como tema central entrevistas exclusivas realizadas a los científicos y pensadores mexicanos e internacionales más destacados."
+    },
+    {
+      "show_name": "Pasaporte",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Algunas de las regiones del mundo más atractivas para los turistas. Los mitos y las leyendas que giran en torno al lugar visitado, así como las costumbres, tradiciones, idiomas y formas de vida de los habitantes de cada sitio."
+    },
+    {
+      "show_name": "Hermano migrante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
       "episode_description": "Los investigadores y especialistas desentrañan las causas del fenómeno migratorio que se ha incrementado en el último tiempo y cómo ha afectado la vida de millones de mexicanos."
+    },
+    {
+      "show_name": "Explorando Japón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Serie que muestra cómo las distintas culturas del Japón moderno y del extranjero se mezclan y se influyen mutuamente."
+    },
+    {
+      "show_name": "Arquitecturas mexicanas del siglo XXI",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "Un acercamiento a la arquitectura mexicana contemporánea desde una perspectiva que privilegia obras de carácter público."
+    },
+    {
+      "show_name": "Yo invito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Un espacio gastronómico, donde se muestra el amor por la cocina, sazonado de anécdotas y muy buen humor."
+    },
+    {
+      "show_name": "Pasión en movimiento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Bajo la conducción y amplia experiencia de la bailarina, coreógrafa y directora Tania Pérez Salas, esta serie pretende dar a conocer los espacios donde se desarrollan los proyectos de danza contemporánea en México."
+    },
+    {
+      "show_name": "Mi gente",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Se muestran las historias de los habitantes de Nayarit, personas que con su trabajo han enriquecido la cultura del estado."
+    },
+    {
+      "show_name": "México sagrado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Explorando las distintas tradiciones tanto católicas como prehispánicas que se practican en México, reflejando la diversidad cultural."
+    },
+    {
+      "show_name": "Juego de cuerpos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Las diversas manifestaciones dancísticas de México en el mundo, a través de un mosaico integrado por la diversidad y la riqueza de las distintas danzas, como son las escénicas, populares, colectivas, cotidianas, callejeras y de salón."
+    },
+    {
+      "show_name": "Leer, una hora inesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Espacio que busca acercar a las personas con la lectura a través de charlas y diversas actividades."
+    },
+    {
+      "show_name": "Noticias 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": "Un espacio informativo que muestra un enorme abanico de contenidos, que van desde las artes clásicas a las populares, del deporte a la política e incluso a la economía, de la literatura y el cine a la tecnología y de México al resto del mundo."
+    },
+    {
+      "show_name": "Debate 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Espacio de debate cultural, plural y crítico, con diversos enfoques. Con la conducción de periodistas destacados en ámbitos diversos como la política, sociedad y cultura."
+    },
+    {
+      "show_name": "Me canso ganso",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Un programa con entrevistas, humor y música en vivo, todo en un set que evoca las viejas cabinas de radio de los años cuarenta y cincuenta."
+    },
+    {
+      "show_name": "Marquesina 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Un espacio dedicado al mundo de la cinematografía en el que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+    },
+    {
+      "show_name": "Muestra 2022 del Centro de Capacitación Cinematográfica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:15",
+      "episode_description": "Se reúnen producciones realizadas por estudiantes como parte de su formación, desde su tercer año de estudios hasta su tesis de titulación."
+    },
+    {
+      "show_name": "Muestra 2022 del Centro de Capacitación Cinematográfica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:15",
+      "end_time": "23:30",
+      "episode_description": "Se reúnen producciones realizadas por estudiantes como parte de su formación, desde su tercer año de estudios hasta su tesis de titulación."
+    },
+    {
+      "show_name": "Muestra 2022 del Centro de Capacitación Cinematográfica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": "Se reúnen producciones realizadas por estudiantes como parte de su formación, desde su tercer año de estudios hasta su tesis de titulación."
+    },
+    {
+      "show_name": "Muestra 2022 del Centro de Capacitación Cinematográfica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
+      "end_time": "00:30",
+      "episode_description": "Se reúnen producciones realizadas por estudiantes como parte de su formación, desde su tercer año de estudios hasta su tesis de titulación."
     }
   ]
 }

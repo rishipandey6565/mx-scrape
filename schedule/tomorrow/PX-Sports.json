@@ -1,9 +1,9 @@
 {
   "channel": "PX Sports",
-  "date": "03/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Belgian Rallycross",
+      "show_name": "Conexión Surfing",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "FMS - Behind The Real",
+      "show_name": "Sudor y gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sport Stars Uncovered",
+      "show_name": "Fórmula Drift",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "All Blacks Collection",
+      "show_name": "Heroines",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "PXTV",
+      "show_name": "Drag Racing - 400 Thunder Series",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Belcar",
+      "show_name": "PXTV",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fight Lives",
+      "show_name": "The Sports Rundown",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especial - FMS World Series",
+      "show_name": "400 Thunder",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,15 +75,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conexión Surfing",
+      "show_name": "PX News",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fight Lives",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "PX News",
+      "show_name": "Conexión Surfing",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Abriendo pista",
+      "show_name": "Heroines",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -107,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Belcar",
+      "show_name": "PX News",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la bestia",
+      "show_name": "Sudor y gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -123,15 +131,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "FMS - Behind The Real",
+      "show_name": "La hora de la bestia",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sudor y gloria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fight Lives",
+      "show_name": "Fórmula Drift",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -139,23 +155,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Surfing República",
+      "show_name": "PXTV",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Especial - FMS World Series",
+      "show_name": "The Sports Rundown",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "PX News",
+      "show_name": "Drag Racing - 400 Thunder Series",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -175,27 +191,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fight Lives",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La hora de la bestia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Locals",
+      "show_name": "La hora de la bestia",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -211,18 +211,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Champs Las Vegas 2025",
+      "show_name": "Mundo PX",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fight Lives",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     }

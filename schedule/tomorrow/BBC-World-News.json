@@ -1,6 +1,6 @@
 {
   "channel": "BBC World News",
-  "date": "03/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "Business Today",
@@ -23,14 +23,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "00:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:55",
       "end_time": "01:00",
       "episode_description": ""
     },
@@ -47,14 +39,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "01:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:55",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -87,14 +71,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "03:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:55",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -135,14 +111,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:45",
-      "end_time": "05:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:55",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -175,14 +143,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "07:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:55",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -235,26 +195,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Business Today",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "10:45",
-      "episode_description": ""
-    },
-    {
       "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "10:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:55",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -303,14 +247,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
-      "end_time": "13:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:55",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -343,14 +279,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "15:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "World's Ultimate Adventures",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:55",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -363,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Newsnight",
+      "show_name": "Talking Business",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -375,6 +303,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The President's Path",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     }

@@ -1,77 +1,101 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "02/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Cats",
+      "show_name": "Irene, Yo Y Mi Otro Yo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Jugada perfecta",
+      "show_name": "Recreo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:05",
-      "end_time": "02:05",
+      "start_time": "02:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Traición a tres esposas",
+      "show_name": "La gran aventura de Los Lunnis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:05",
-      "end_time": "03:44",
+      "start_time": "03:30",
+      "end_time": "04:56",
       "episode_description": ""
     },
     {
-      "show_name": "El vuelo del Fénix",
+      "show_name": "¿Qué te juegas?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:44",
+      "start_time": "04:56",
       "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Australia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Australia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "11:51",
       "episode_description": ""
     },
     {
       "show_name": "Casanova",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Forever my girl",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:37",
-      "end_time": "11:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un Amor Inquebrantable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/tomorrow/un-amor-inquebrantable.webp",
-      "show_category": "Biografía",
-      "start_time": "11:40",
+      "start_time": "11:51",
       "end_time": "14:00",
-      "episode_description": "Basada en la historia real e inspiradora del amor inquebrantable de una madre ante las probabilidades imposibles. Cuando el hijo adoptivo de Joyce Smith (Chrissy Metz), John (Marcel Ruiz) cae a través de un lago helado de Missouri, toda esperanza parece perdida. Pero mientras el cuerpo de John yace sin vida, Joyce se niega a rendirse. Su firme creencia inspira a los que la rodean a seguir orando para la recuperación de John, incluso ante la historia de cada caso y la predicción científica."
+      "episode_description": ""
     },
     {
-      "show_name": "Elizabeth está desaparecida",
+      "show_name": "Días perrunos",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:50",
+      "end_time": "16:16",
       "episode_description": ""
     },
     {
-      "show_name": "Deja vu",
+      "show_name": "Sid & Judy recuerdo de una l",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:50",
-      "end_time": "18:14",
+      "start_time": "16:16",
+      "end_time": "18:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sweetheart",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:16",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Falsa Influencer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Olas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "00:47",
       "episode_description": ""
     }
   ]

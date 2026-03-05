@@ -1,13 +1,117 @@
 {
   "channel": "TCM (México)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "East of Eden",
+      "show_name": "Proyecto Gutenberg",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:32",
+      "end_time": "01:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:03",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ben-hur",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "07:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Europe Raiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:45",
+      "end_time": "09:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Harvey Girls",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:29",
+      "end_time": "11:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Maltese Falcon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:19",
+      "end_time": "13:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "StarDog y TurboCat",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:06",
+      "end_time": "14:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ivanhoe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:43",
+      "end_time": "16:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Asesinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:38",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Del otro lado del jardín",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "21:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Otros pecados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:08",
+      "end_time": "22:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Otros pecados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:03",
+      "end_time": "22:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "They Died With Their Boots On",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:51",
+      "end_time": "01:19",
       "episode_description": ""
     }
   ]
