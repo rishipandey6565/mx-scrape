@@ -1,9 +1,9 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Contacto deportivo\nEn Vivo",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,63 +11,79 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "México Nuevo Siglo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "03:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:30",
+      "start_time": "02:30",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Especial de R.T.C",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "06:00",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "PJ Masks: Héroes en Pijamas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/pj-masks-héroes-en-pijamas.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
       "show_category": "Animación",
-      "start_time": "06:00",
-      "end_time": "06:30",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks."
     },
     {
       "show_name": "PAW Patrol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/paw-patrol.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
       "show_category": "Animación",
-      "start_time": "06:30",
-      "end_time": "07:00",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": "¡Prepárate para pasar un buen rato moviendo la cola en estas aventuras de rescate con PAW Patrol! Prepárate para salvar el día en Adventure Bay con Ryder y su equipo de cachorros heroicos: Marshall el perro bombero, Skye el cachorro volador temerario, Chase el perro policía, Rubble el cachorro de construcción, Rocky el cachorro de reciclaje y Zuma el perro de rescate acuático."
     },
     {
       "show_name": "Max y la pandilla medieval",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Viva el rey Julien",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -75,99 +91,91 @@
       "episode_description": ""
     },
     {
-      "show_name": "Viva el rey Julien",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
       "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sonic Boom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/sonic-boom.webp",
-      "show_category": "Animación",
-      "start_time": "09:00",
-      "end_time": "10:00",
       "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
     },
     {
       "show_name": "Los Pitufos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:30",
+      "start_time": "09:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Jurassic World Campamento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:00",
+      "start_time": "10:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Los Jóvenes Titanes En Acción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/los-jóvenes-titanes-en-acción.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
       "show_category": "Animación",
-      "start_time": "13:00",
-      "end_time": "14:30",
+      "start_time": "12:00",
+      "end_time": "13:30",
       "episode_description": "¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. \"¡No lo es!\" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…."
     },
     {
       "show_name": "Scooby-Doo y ¿Quién Crees Tú?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:00",
+      "start_time": "13:30",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/bob-esponja.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png",
       "show_category": "Animación",
-      "start_time": "16:00",
-      "end_time": "17:30",
+      "start_time": "15:00",
+      "end_time": "16:30",
       "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
     },
     {
       "show_name": "el chavo animado",
       "show_logo": "",
       "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mar Abierto",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "17:30",
-      "end_time": "18:00",
+      "end_time": "19:15",
       "episode_description": ""
     },
     {
-      "show_name": "Solo los valientes",
+      "show_name": "Detrás de la puerta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:45",
+      "start_time": "19:15",
+      "end_time": "21:15",
       "episode_description": ""
     },
     {
-      "show_name": "Belleza Verdadera",
+      "show_name": "Apariciones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:45",
-      "end_time": "22:30",
+      "start_time": "21:15",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Chicago PD",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/chicago-pd.webp",
-      "show_category": "Acción",
-      "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
-    },
-    {
-      "show_name": "Contacto deportivo\nEn Vivo",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
-      "end_time": "00:00",
+      "start_time": "23:00",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

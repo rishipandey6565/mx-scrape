@@ -1,12 +1,28 @@
 {
   "channel": "María Visión",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El santísimo sacramento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El santísimo sacramento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -43,34 +59,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santo rosario 'De las rosas'",
+      "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cadena de amor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cadena de amor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bienhechores M+V",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -91,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caravana por la paz",
+      "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -115,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cadena de amor",
+      "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Podcast",
+      "show_name": "Audiencia con el Rey de Reyes",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -131,23 +123,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santo rosario 'De las rosas'",
+      "show_name": "Via crucis",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
-      "end_time": "18:30",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Caravana por la paz",
+      "show_name": "Apostolado de reparación",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
+      "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Parroquia",
+      "show_name": "Santa misa, Convento",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -155,35 +147,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Apostolado de reparación",
+      "show_name": "Sta misa 'Vigilia de Espigas'",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Yo Soy el Camino",
+      "show_name": "Vigilia de Espigas, Seminario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "21:30",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
       "show_name": "Sta misa, Diócesis de Cancún",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "22:30",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "El santísimo sacramento",
+      "show_name": "Vigilia de Espigas, Seminario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "23:30",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

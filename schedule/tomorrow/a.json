@@ -1,9 +1,9 @@
 {
   "channel": "a+",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "La isla de los hombres solos",
+      "show_name": "Sognare",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -43,103 +43,87 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sognare",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Sognare",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sognare",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "start_time": "07:30",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "Naturista Naturalmente",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
+      "start_time": "08:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Escuadrón 201",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:00",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Gata Salvaje",
+      "show_name": "Dr. Quinn",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "14:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mi último tango",
+      "show_name": "Rateros último modelo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "16:00",
+      "start_time": "14:30",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Al ponerse el sol",
+      "show_name": "Al rojo vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "17:45",
+      "start_time": "16:30",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
-      "show_name": "Talpa",
+      "show_name": "Tampico",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:45",
+      "start_time": "18:15",
       "end_time": "19:45",
       "episode_description": ""
     },
     {
-      "show_name": "El rey del masaje",
+      "show_name": "El Apenitas",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:45",
@@ -147,18 +131,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ahora Más Noticias\nEn Vivo",
+      "show_name": "Son tus Perjúmenes Mujer",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
-      "end_time": "22:30",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Taquera Picante",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

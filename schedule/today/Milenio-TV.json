@@ -1,9 +1,9 @@
 {
   "channel": "Milenio TV",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "El asalto a la razón",
+      "show_name": "Bote Pronto con Carlos Puig",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bote Pronto con Carlos Puig",
+      "show_name": "Milenio Tech",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:45",
@@ -31,11 +31,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La afición",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "01:45",
       "episode_description": ""
     },
     {
-      "show_name": "M2 con Susana Moscatel",
+      "show_name": "El asalto a la razón",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:45",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La afición",
+      "show_name": "Milenio Tech",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El asalto a la razón",
+      "show_name": "Bote Pronto con Carlos Puig",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:45",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "M2 con Susana Moscatel",
+      "show_name": "Multiverso",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bote Pronto con Carlos Puig",
+      "show_name": "El asalto a la razón",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:45",
@@ -95,43 +103,27 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mujeres con M de Milenio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "04:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El asalto a la razón",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:45",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Milenio noticias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "07:00",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias con Zeleny Ibarra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:00",
+      "start_time": "06:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias Samuel Cuervo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Milenio noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -139,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio noticias",
+      "show_name": "Noticias Josué Becerra",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -147,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticias Josué Becerra",
+      "show_name": "Milenio Noticias del Mediodía",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -155,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias del Mediodía",
+      "show_name": "Milenio Noticias Tania Díaz",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Tania Díaz",
+      "show_name": "Milenio Noticias Joel Valdez",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -171,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Joel Valdez",
+      "show_name": "Milenio noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
+      "end_time": "14:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Afición los Entrenamientos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:45",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -183,14 +183,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Afición los Entrenamientos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -203,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio noticias",
+      "show_name": "Milenio Noticias Rodrigo Rico",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -211,15 +203,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Rodrigo Rico",
+      "show_name": "Milenio Noticias Jaime Núñez",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La otra tribuna",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:45",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Jaime Núñez",
+      "show_name": "Milenio Noticias Pedro Gamboa",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -227,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Multiverso",
+      "show_name": "La afición",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:45",
@@ -235,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Pedro Gamboa",
+      "show_name": "Milenio Noticias Elisa Alanís",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -243,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Tech",
+      "show_name": "El asalto a la razón",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
@@ -251,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio Noticias Elisa Alanís",
+      "show_name": "Milenio noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -259,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El asalto a la razón",
+      "show_name": "En 15 con Carlos Puig",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:45",
@@ -267,39 +267,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Milenio noticias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bote Pronto con Carlos Puig",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:45",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Noticias con Paola Barquet",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "23:30",
+      "start_time": "22:00",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
       "show_name": "La afición",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
-      "end_time": "23:45",
+      "start_time": "22:30",
+      "end_time": "22:45",
       "episode_description": ""
     },
     {
       "show_name": "El asalto a la razón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:45",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En 15 con Carlos Puig",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:45",

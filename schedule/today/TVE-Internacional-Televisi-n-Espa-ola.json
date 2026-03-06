@@ -1,129 +1,121 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
-    {
-      "show_name": "Víctimas del misterio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Telediario matinal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "00:50",
-      "episode_description": ""
-    },
     {
       "show_name": "La hora de la 1",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "03:35",
+      "start_time": "00:00",
+      "end_time": "02:35",
       "episode_description": ""
     },
     {
       "show_name": "Mañaneros 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:35",
-      "end_time": "07:20",
+      "start_time": "02:35",
+      "end_time": "06:20",
       "episode_description": ""
     },
     {
       "show_name": "Mañaneros 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:20",
-      "end_time": "07:55",
+      "start_time": "06:20",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
       "show_name": "Telediario 1",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:55",
-      "end_time": "08:40",
+      "start_time": "06:55",
+      "end_time": "07:40",
       "episode_description": ""
     },
     {
       "show_name": "El tiempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:40",
-      "end_time": "08:55",
+      "start_time": "07:40",
+      "end_time": "07:55",
       "episode_description": ""
     },
     {
       "show_name": "Directo al Grano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:55",
-      "end_time": "10:35",
+      "start_time": "07:55",
+      "end_time": "09:35",
       "episode_description": ""
     },
     {
       "show_name": "LAS RUTAS DE",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:35",
-      "end_time": "11:40",
+      "start_time": "09:35",
+      "end_time": "10:40",
       "episode_description": ""
     },
     {
       "show_name": "Saber y ganar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:40",
-      "end_time": "12:35",
+      "start_time": "10:40",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
       "show_name": "Malas Lenguas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:35",
-      "end_time": "13:30",
+      "start_time": "11:35",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Aqui la tierra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:55",
+      "start_time": "12:30",
+      "end_time": "12:55",
       "episode_description": ""
     },
     {
       "show_name": "Telediario 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:55",
-      "end_time": "14:45",
+      "start_time": "12:55",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
       "show_name": "Cifras y letras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:45",
-      "end_time": "15:15",
+      "start_time": "13:45",
+      "end_time": "14:15",
       "episode_description": ""
     },
     {
       "show_name": "Valle Salvaje",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:15",
-      "end_time": "16:00",
+      "start_time": "14:15",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "La promesa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Cazador",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -131,58 +123,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Cazador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Turismo rural en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "18:30",
+      "start_time": "17:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
       "show_name": "Aqui la tierra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
+      "start_time": "17:30",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "TD Internacional 24 horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "18:00",
+      "end_time": "18:35",
       "episode_description": ""
     },
     {
-      "show_name": "La revuelta",
+      "show_name": "Al cielo con ella",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:45",
+      "start_time": "18:35",
+      "end_time": "19:35",
       "episode_description": ""
     },
     {
-      "show_name": "Al margen de todo",
+      "show_name": "Cachitos de hierro y cromo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:45",
-      "end_time": "23:00",
+      "start_time": "19:35",
+      "end_time": "20:35",
       "episode_description": ""
     },
     {
-      "show_name": "Víctimas del misterio",
+      "show_name": "Cachitos de hierro y cromo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "20:35",
+      "end_time": "21:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cachitos de hierro y cromo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:40",
+      "end_time": "22:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Españoles en el mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:40",
       "end_time": "00:30",
       "episode_description": ""
     }

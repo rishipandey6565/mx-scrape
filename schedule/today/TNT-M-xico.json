@@ -1,157 +1,125 @@
 {
   "channel": "TNT (México)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Aquellos Que Desean Mi Muerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/aquellos-que-desean-mi-muerte.webp",
-      "show_category": "Acción",
+      "show_name": "Agente Salt",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
-      "episode_description": "Hannah (Angelina Jolie), una bombera paracaidista que aún se tambalea por la pérdida de tres vidas que no pudo salvar de un incendio cuando se encuentra con un niño de 12 años traumatizado sin ningún otro lugar a donde acudir."
-    },
-    {
-      "show_name": "Se busca",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "03:19",
+      "end_time": "00:55",
       "episode_description": ""
     },
     {
-      "show_name": "28 weeks later",
+      "show_name": "Exterminio 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:19",
+      "start_time": "00:55",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Criaturas del faro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
+      "end_time": "04:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:12",
+      "end_time": "04:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:50",
       "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:37",
-      "end_time": "05:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:47",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:19",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Crepúsculo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:19",
-      "end_time": "08:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Crepúsculo la saga Luna nueva",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:38",
-      "end_time": "10:50",
       "episode_description": ""
     },
     {
       "show_name": "El último gran héroe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:50",
-      "end_time": "13:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Mentalist",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/the-mentalist.webp",
-      "show_category": "Crimen",
-      "start_time": "13:05",
-      "end_time": "13:50",
-      "episode_description": "Patrick Jane (Simon Baker), un consultor independiente del Departamento de Investigaciones de California, con un notable historial de resolución de crímenes graves utilizando solo sus habilidades de observación. Conocido por su flagrante falta de protocolo y su casi celebridad pasada como médium psíquico – cuyas habilidades paranormales ahora admite que fingió – el papel de Jane en descifrar una serie los casos difíciles de alto perfil son muy valorados por sus compañeros agentes. Sin embargo, la sensata agente Teresa Lisbon (Robin Tunney) se resiste abiertamente a tener a Jane en su unidad y alterna entre reconocer de mala gana la utilidad de Jane y criticarlo por sus actos de teatro, narcisismo y peligrosa falta de límites. El equipo de Lisbon incluye a los agentes Kimball Cho (Tim Kang), Wayne Rigsby (Owain Yeoman) y la novata Grace Van Pelt (Amanda Righetti), quienes creen que Jane es un cañón suelto, pero que admiran su encanto y habilidad para solucionar los casos."
-    },
-    {
-      "show_name": "Fútbol Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:50",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tottenham Hotspur vs. Crystal Palace",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Mentalist",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/the-mentalist.webp",
-      "show_category": "Crimen",
-      "start_time": "16:05",
-      "end_time": "16:51",
-      "episode_description": "Patrick Jane (Simon Baker), un consultor independiente del Departamento de Investigaciones de California, con un notable historial de resolución de crímenes graves utilizando solo sus habilidades de observación. Conocido por su flagrante falta de protocolo y su casi celebridad pasada como médium psíquico – cuyas habilidades paranormales ahora admite que fingió – el papel de Jane en descifrar una serie los casos difíciles de alto perfil son muy valorados por sus compañeros agentes. Sin embargo, la sensata agente Teresa Lisbon (Robin Tunney) se resiste abiertamente a tener a Jane en su unidad y alterna entre reconocer de mala gana la utilidad de Jane y criticarlo por sus actos de teatro, narcisismo y peligrosa falta de límites. El equipo de Lisbon incluye a los agentes Kimball Cho (Tim Kang), Wayne Rigsby (Owain Yeoman) y la novata Grace Van Pelt (Amanda Righetti), quienes creen que Jane es un cañón suelto, pero que admiran su encanto y habilidad para solucionar los casos."
-    },
-    {
-      "show_name": "#LadyRancho",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:51",
-      "end_time": "18:30",
+      "start_time": "05:00",
+      "end_time": "07:04",
       "episode_description": ""
     },
     {
       "show_name": "La leyenda de Tarzán",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:26",
+      "start_time": "07:04",
+      "end_time": "08:56",
       "episode_description": ""
     },
     {
       "show_name": "Ocean's 8: Las Estafadoras",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/oceans-8-las-estafadoras.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/ocean_s_8_las_estafadoras.jpg",
       "show_category": "Acción",
-      "start_time": "20:26",
-      "end_time": "22:23",
+      "start_time": "08:56",
+      "end_time": "10:49",
       "episode_description": "La marea ha cambiado y es un nuevo \"océano\" cuando un grupo de 8 planean y ejecutan un robo en Nueva York."
     },
     {
-      "show_name": "Se busca",
+      "show_name": "Miss Simpatia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:23",
-      "end_time": "00:20",
+      "start_time": "10:49",
+      "end_time": "12:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Selena",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:44",
+      "end_time": "15:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una suegra de cuidado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:01",
+      "end_time": "16:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nanny McPhee La nana mágica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:47",
+      "end_time": "18:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujer Maravilla",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla.jpg",
+      "show_category": "Acción",
+      "start_time": "18:32",
+      "end_time": "21:00",
+      "episode_description": "Antes de que fuera la Mujer Maravilla, era Diana (Gal Gadot), princesa de las Amazonas, entrenada para ser una guerrera invencible. Cuando un piloto americano se estrella en sus costas, ella salta al agua para rescatar al piloto llamado Steve Trevor (Chris Pine). Cuando las Amazonas se dan cuenta que están siendo invadidas, el aviador y ellas entran en combate contra ellos. Steve es interrogado por la reina Hippolyta (Connie Nielsen), y él le responde que está allí para evitar la guerra de guerras. Diana toma la decisión de salir al mundo para evitar que este sea destruido. Diana descubrirá sus plenos poderes … y su verdadero destino."
+    },
+    {
+      "show_name": "Focus maestros de la estafa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "22:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aves de presa (y la fantabulosa emancipación de Harley Quinn)",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:54",
+      "end_time": "00:46",
       "episode_description": ""
     }
   ]

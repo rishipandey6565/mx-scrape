@@ -1,6 +1,6 @@
 {
   "channel": "NFL Network",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "NFL Football",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Insiders",
+      "show_name": "Next is Now Best of 2026",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -83,18 +83,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Next is Now Best of 2026",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "NFL Football",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": ""
     },

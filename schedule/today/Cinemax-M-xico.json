@@ -1,28 +1,36 @@
 {
   "channel": "Cinemax (México)",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Atracción peligrosa",
+      "show_name": "Destino final 4",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:32",
+      "end_time": "00:46",
       "episode_description": ""
     },
     {
-      "show_name": "La caida de la Casa Blanca",
+      "show_name": "La Maldición de Chucky",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_maldicion_de_chucky.jpg",
+      "show_category": "Terror",
+      "start_time": "00:46",
+      "end_time": "02:25",
+      "episode_description": "Cuando un misterioso paquete llega a la casa de Nica (Fiona Dourif), no le da mucha importancia al asunto. Sin embargo, tras la misteriosa muerte de su madre, Nica comienza a sospechar que el muñeco pelirrojo y que habla con el que su sobrina visitante ha estado jugando puede ser la clave del derramamiento de sangre y caos que acontecen."
+    },
+    {
+      "show_name": "12 Horas para Sobrevivir",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:32",
-      "end_time": "02:47",
+      "start_time": "02:25",
+      "end_time": "04:11",
       "episode_description": ""
     },
     {
-      "show_name": "Hacker amenaza en la red",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:47",
+      "start_time": "04:11",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -31,95 +39,79 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "06:16",
+      "end_time": "05:40",
       "episode_description": ""
     },
     {
-      "show_name": "Así en la tierra y el infierno",
+      "show_name": "Quiero matar a mi jefe 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:16",
-      "end_time": "07:54",
+      "start_time": "05:40",
+      "end_time": "07:35",
       "episode_description": ""
     },
     {
-      "show_name": "Ouija",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/ouija.webp",
-      "show_category": "Terror",
-      "start_time": "07:54",
-      "end_time": "09:26",
-      "episode_description": "Un grupo de amigos deben enfrentar sus temores más aterradores cuando despierten los poderes oscuros de un tablero espiritual antiguo."
-    },
-    {
-      "show_name": "Feliz Día de tu Muerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/feliz-día-de-tu-muerte.webp",
-      "show_category": "Terror",
-      "start_time": "09:26",
-      "end_time": "11:07",
-      "episode_description": "Tree Gelbman (Jessica Rothe), es una estudiante universitaria que es brutalmente asesinada el día de su cumpleaños, revivirá cada vez que el asesino enmascarado y recordará todo lo que vivió ese día, hasta que descubra la identidad de su asesino."
-    },
-    {
-      "show_name": "Feliz Día de tu Muerte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/feliz-día-de-tu-muerte-2.webp",
-      "show_category": "Terror",
-      "start_time": "11:07",
-      "end_time": "12:54",
-      "episode_description": "Theresa \"Tree\" Gelbman (Jessica Rothe) descubre que morir una y otra vez fue sorprendentemente más fácil que los peligros que se aproximan."
-    },
-    {
-      "show_name": "Sé lo que hicieron el verano",
+      "show_name": "Policias de repuesto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:54",
-      "end_time": "14:42",
+      "start_time": "07:35",
+      "end_time": "09:42",
       "episode_description": ""
     },
     {
-      "show_name": "Todavia se lo que hicieron",
+      "show_name": "Rocknrolla",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:42",
-      "end_time": "16:32",
+      "start_time": "09:42",
+      "end_time": "11:48",
       "episode_description": ""
     },
     {
-      "show_name": "Los Huéspedes",
+      "show_name": "30 días para ir a la cárcel",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:32",
-      "end_time": "18:14",
+      "start_time": "11:48",
+      "end_time": "13:40",
       "episode_description": ""
     },
     {
-      "show_name": "Feliz Día de tu Muerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/feliz-día-de-tu-muerte.webp",
-      "show_category": "Terror",
-      "start_time": "18:14",
+      "show_name": "Un espía y medio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:40",
+      "end_time": "15:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baby: El Aprendiz del Crimen",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/baby_driver.jpg",
+      "show_category": "Acción",
+      "start_time": "15:37",
+      "end_time": "17:46",
+      "episode_description": "Baby (Ansel Elgort), un talentoso joven piloto escapista que depende del ritmo de su música favorita para ser el mejor en la jugada. Cuando conoce a la chica de sus sueños Deborah (Lily James), Baby ve una oportunidad para dejar su vida criminal y hacer una escapada limpia. Pero después de ser obligado a trabajar para el jefe del crimen, Doc (Kevin Spacey), deberá enfrentarse a la música cuando un descuido amenaza su vida, su amor y su libertad."
+    },
+    {
+      "show_name": "Policias de repuesto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:46",
       "end_time": "20:00",
-      "episode_description": "Tree Gelbman (Jessica Rothe), es una estudiante universitaria que es brutalmente asesinada el día de su cumpleaños, revivirá cada vez que el asesino enmascarado y recordará todo lo que vivió ese día, hasta que descubra la identidad de su asesino."
-    },
-    {
-      "show_name": "Feliz Día de tu Muerte 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/feliz-día-de-tu-muerte-2.webp",
-      "show_category": "Terror",
-      "start_time": "20:00",
-      "end_time": "21:46",
-      "episode_description": "Theresa \"Tree\" Gelbman (Jessica Rothe) descubre que morir una y otra vez fue sorprendentemente más fácil que los peligros que se aproximan."
-    },
-    {
-      "show_name": "Destino final 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:46",
-      "end_time": "23:24",
       "episode_description": ""
     },
     {
-      "show_name": "Destino final 4",
+      "show_name": "Rocknrolla",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:24",
-      "end_time": "00:47",
+      "start_time": "20:00",
+      "end_time": "22:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amigos de armas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:08",
+      "end_time": "00:08",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "Bloomberg",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Gabinete de seguridad",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +11,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Bloomberg The Opening Trade",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Con Ortega a las 10:00",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
+      "show_name": "The Pulse with Francine Lacqua",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Pulse with Francine Lacqua",
+      "show_name": "Bloomberg Brief",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -43,39 +35,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Brief",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Bloomberg Surveillance",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "08:00",
+      "start_time": "04:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Bloomberg Open Interest",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:00",
-      "end_time": "10:00",
+      "start_time": "07:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
       "show_name": "Bloomberg Tech",
       "show_logo": "",
       "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg Real Yield",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Bloomberg markets",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bloomberg Balance of Power",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg Balance of Power",
+      "show_name": "Bloomberg BusinessWeek",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg BusinessWeek",
+      "show_name": "Bloomberg: The Close",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bloomberg: The Close",
+      "show_name": "Al sonar la campana",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al sonar la campana",
+      "show_name": "Ganadores y perdedores",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ganadores y perdedores",
+      "show_name": "El financiero a las 17 con Omar Cepeda",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El financiero a las 17 con Omar Cepeda",
+      "show_name": "El Financiero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Financiero",
+      "show_name": "El Financiero Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Financiero Noticias",
+      "show_name": "El financiero a las 20 con Sofía Villalobos",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El financiero a las 20 con Sofía Villalobos",
+      "show_name": "Aldea global",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -155,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Con Ortega a las 10:00",
+      "show_name": "Aldea global",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Al cierre",
+      "show_name": "Con Ortega a las 10:00",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
