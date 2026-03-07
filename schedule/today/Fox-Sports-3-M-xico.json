@@ -1,6 +1,6 @@
 {
   "channel": "Fox Sports 3 (México)",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
       "show_name": "Major Arena Soccer League",
@@ -19,66 +19,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fox fight club",
+      "show_name": "Red Bull Cliff Diving World",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AEW DYNAMITE",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "07:00",
+      "start_time": "07:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
       "show_name": "Budo Sento Championship",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "09:00",
+      "start_time": "09:30",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox fight club",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Red Bull Cliff Diving World",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fox fight club",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Red Bull",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
+      "start_time": "12:00",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Budo Sento Championship",
+      "show_name": "Power Slap",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fox fight club",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "15:30",
       "episode_description": ""
     },
@@ -91,27 +83,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Red Bull Drift Masters",
+      "show_name": "Budo Sento Championship",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "AEW DYNAMITE",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Major Arena Soccer League",
       "show_logo": "",
       "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fox fight club",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Red Bull Drift Masters",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:30",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]

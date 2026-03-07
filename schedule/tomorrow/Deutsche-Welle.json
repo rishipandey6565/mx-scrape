@@ -1,9 +1,9 @@
 {
   "channel": "Deutsche Welle",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Rev",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sports Life",
+      "show_name": "Shift living in the digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:15",
@@ -19,34 +19,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tomorrow today the science",
+      "show_name": "Arts Unveiled",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "01:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Messengers",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:15",
       "end_time": "02:15",
       "episode_description": ""
     },
     {
-      "show_name": "Reporter On Location",
+      "show_name": "Blood, Sweat, and Sugar, p-1",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:15",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "In good shape",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:15",
       "episode_description": ""
     },
@@ -59,23 +43,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nila's Dream in the Garden",
+      "show_name": "The 77 Percent",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "05:15",
+      "end_time": "04:02",
       "episode_description": ""
     },
     {
-      "show_name": "Shift living in the digital",
+      "show_name": "Eco India",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:15",
-      "end_time": "05:30",
+      "start_time": "04:02",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rev",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:02",
       "episode_description": ""
     },
     {
       "show_name": "Euromaxx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:02",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Italy's New Farmers",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -83,39 +83,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "India",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:15",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arts Unveiled",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:15",
       "episode_description": ""
     },
     {
-      "show_name": "Reporter On Location",
+      "show_name": "Messengers",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:15",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The 77 Percent",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "DW News",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
       "end_time": "08:15",
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Shift living in the digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:15",
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Euromaxx",
+      "show_name": "Best of DW Podcasts",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -139,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sports Life",
+      "show_name": "Best of DW-online Content",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:15",
@@ -147,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW News",
+      "show_name": "Arts Unveiled",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Shift living in the digital",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -171,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The 77 Percent",
+      "show_name": "Afrimaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -187,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reporter On Location",
+      "show_name": "Sports Life",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:15",
@@ -195,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW News",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -211,10 +203,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dock Workers and Drug Cartels",
+      "show_name": "Shift living in the digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:15",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rev",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -227,79 +227,95 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW News Focus",
+      "show_name": "India",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:15",
-      "end_time": "13:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Afrimaxx",
+      "show_name": "DW News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Global Us",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:02",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nila's Dream in the Garden",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:15",
+      "start_time": "14:00",
+      "end_time": "14:15",
       "episode_description": ""
     },
     {
       "show_name": "Sports Life",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
-      "end_time": "16:30",
+      "start_time": "14:15",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Tomorrow today the science",
+      "show_name": "DW News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Italy's New Farmers",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:02",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "In good shape",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:15",
+      "start_time": "14:30",
+      "end_time": "15:15",
       "episode_description": ""
     },
     {
       "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:15",
-      "end_time": "18:30",
+      "start_time": "15:15",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tomorrow today the science",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Afrimaxx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:02",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Best of DW Podcasts",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shift living in the digital",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rev",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:02",
       "episode_description": ""
     },
     {
       "show_name": "Euromaxx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:02",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Global Us",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -307,23 +323,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dock Workers and Drug Cartels",
+      "show_name": "Italy's New Farmers",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
-      "end_time": "20:15",
+      "end_time": "19:45",
       "episode_description": ""
     },
     {
       "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
+      "start_time": "19:45",
+      "end_time": "20:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Eco India",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:02",
       "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Italy's New Farmers",
+      "show_name": "In good shape",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -331,7 +355,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW News",
+      "show_name": "Best of DW Podcasts",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:02",
@@ -339,23 +363,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nila's Dream in the Garden",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
-      "end_time": "23:15",
+      "end_time": "22:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Global Us",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:15",
+      "end_time": "22:45",
       "episode_description": ""
     },
     {
       "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:15",
+      "start_time": "22:45",
+      "end_time": "23:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Italy's New Farmers",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:02",
       "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "Euromaxx",
+      "show_name": "Tomorrow today the science",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

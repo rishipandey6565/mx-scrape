@@ -1,9 +1,9 @@
 {
   "channel": "Deutsche Welle",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "Best of DW Podcasts",
+      "show_name": "Rev",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,90 +11,98 @@
       "episode_description": ""
     },
     {
-      "show_name": "Blood, Sweat, and Sugar, p-1",
+      "show_name": "Sports Life",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:15",
-      "end_time": "01:02",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "To the Point",
+      "show_name": "Tomorrow today the science",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:02",
-      "end_time": "01:30",
+      "start_time": "00:30",
+      "end_time": "01:15",
       "episode_description": ""
     },
     {
-      "show_name": "DW News",
+      "show_name": "Messengers",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:15",
       "end_time": "02:15",
       "episode_description": ""
     },
     {
-      "show_name": "Dock Workers and Drug Cartels",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:15",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "India",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "04:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Best of DW Podcasts",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:02",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "To the Point",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Blood, Sweat, and Sugar, p-1",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:15",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Best of DW-online Content",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "06:30",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "In good shape",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "02:30",
+      "end_time": "03:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shift living in the digital",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:15",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nila's Dream in the Garden",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "05:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shift living in the digital",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Euromaxx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "India",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
       "end_time": "07:15",
       "episode_description": ""
     },
     {
-      "show_name": "Dock Workers and Drug Cartels",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:15",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The 77 Percent",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
@@ -103,11 +111,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Best of DW-online Content",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:15",
       "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "To the Point",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -119,11 +135,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sports Life",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
       "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Eco India",
+      "show_name": "DW News",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -139,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Shift living in the digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -147,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Afrimaxx",
+      "show_name": "The 77 Percent",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -159,30 +183,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Reporter On Location",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
       "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW Podcasts",
+      "show_name": "DW News",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "DW News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "12:15",
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Dock Workers and Drug Cartels",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:15",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Eco Africa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
@@ -191,43 +223,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "DW News Focus",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:15",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "The Day",
+      "show_name": "Afrimaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
-      "end_time": "14:15",
+      "end_time": "14:02",
       "episode_description": ""
     },
     {
-      "show_name": "Dock Workers and Drug Cartels",
+      "show_name": "Global Us",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:15",
-      "end_time": "15:02",
+      "start_time": "14:02",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "The Day",
+      "show_name": "Nila's Dream in the Garden",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:02",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Eco India",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
+      "start_time": "14:30",
       "end_time": "16:15",
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Sports Life",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:15",
@@ -235,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW News",
+      "show_name": "Tomorrow today the science",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -243,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Day",
+      "show_name": "Italy's New Farmers",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:02",
@@ -251,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rev",
+      "show_name": "In good shape",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -259,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:15",
@@ -267,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tomorrow today the science",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -275,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Blood, Sweat, and Sugar, p-1",
+      "show_name": "Dock Workers and Drug Cartels",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
@@ -283,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
@@ -291,47 +323,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "To the Point",
+      "show_name": "Italy's New Farmers",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
-      "end_time": "21:15",
+      "end_time": "21:02",
       "episode_description": ""
     },
     {
-      "show_name": "Shift living in the digital",
+      "show_name": "DW News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:15",
+      "start_time": "21:02",
       "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Euromaxx",
+      "show_name": "Nila's Dream in the Garden",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
-      "end_time": "22:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Arts Unveiled",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:02",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The 77 Percent",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:15",
       "episode_description": ""
     },
     {
-      "show_name": "Best of DW-online Content",
+      "show_name": "Reporter On Location",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:15",
@@ -339,7 +355,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rev",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

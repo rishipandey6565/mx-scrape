@@ -1,36 +1,28 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Cronicas",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "03:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
       "show_name": "Especial de R.T.C",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "04:30",
       "end_time": "07:30",
       "episode_description": ""
     },
@@ -39,79 +31,55 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "11:30",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "start_time": "10:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reventon musical",
+      "show_name": "Mi caballo el cantador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hazaña del deporte Vive",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lucha libre CMLL",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
+      "start_time": "14:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "El caso de una adolescente",
+      "show_name": "El tonto que hacía milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "17:45",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Andante",
+      "show_name": "Brasil Vs. México",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_mexico.png",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "21:30",
+      "episode_description": "Enfrentamiento deportivo a nivel internacional donde se miden las selecciones de Brasil y México."
+    },
+    {
+      "show_name": "La muerte de Pancho Villa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:45",
-      "end_time": "20:00",
+      "start_time": "21:30",
+      "end_time": "23:15",
       "episode_description": ""
     },
     {
-      "show_name": "Lo mejor de Teresa",
+      "show_name": "Contrabando y muerte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noche de Carnaval",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:15",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
-      "end_time": "04:00",
+      "start_time": "23:15",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

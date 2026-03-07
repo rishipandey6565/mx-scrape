@@ -1,17 +1,17 @@
 {
   "channel": "Sky Sports 16",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "Real Madrid vs. Getafe",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/today/real-madrid-vs-getafe.webp",
-      "show_category": "Deporte",
+      "show_name": "Barcelona vs. Atlético de Madrida",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus Getafe Club de Fútbol de Madrid."
+      "episode_description": ""
     },
     {
-      "show_name": "Girona FC vs. Celta de Vigo",
+      "show_name": "Real Betis vs. Sevilla",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Valencia vs. CA Osasuna",
+      "show_name": "Rayo Vallecano vs. Athletic Clu",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -31,59 +31,83 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "05:45",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "Levante vs. Deportivo Alavés",
+      "show_name": "RC Celta de Vigo vs. Real Madri",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Betis vs. Sevilla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rayo Vallecano vs. Athletic Clu",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:45",
-      "end_time": "11:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Oviedo vs. Atlético de Madridad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:45",
-      "end_time": "13:45",
+      "start_time": "04:45",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CA Osasuna vs. RCD Mallorca\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Levante vs. Girona FC\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "11:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atlético de Madrid vs. Real Soc",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Previo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Celta de Vigo vs. Real Madrid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/today/celta-de-vigo-vs-real-madrid.webp",
+      "show_name": "Athletic Club vs. Barcelona",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/athletic_club_vs_barcelona.png",
       "show_category": "Deporte",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "Desde el estadio de Balaídos, ubicado en la ciudad de Vigo, España, se enfrentan los equipos Real Club Celta de Vigo versus Real Madrid Club de Fútbol."
+      "episode_description": "Desde el estadio San Mamés ubicado en la ciudad de Bilbao en el País Vasco en España, se enfrentan los equipos Athletic Club de Bilbao versus el Fútbol Club Barcelona."
     },
     {
-      "show_name": "Real Sociedad vs. Athletic Club",
+      "show_name": "RC Celta de Vigo vs. Real Madri",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -91,15 +115,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Barcelona vs. Villarreal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/today/barcelona-vs-villarreal.webp",
-      "show_category": "Deporte",
+      "show_name": "Atlético de Madrid vs. Real Sociedad",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "18:00",
       "end_time": "20:00",
-      "episode_description": "Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrentan los equipos Fútbol Club Barcelona versus el Villarreal Club de Fútbol."
+      "episode_description": ""
     },
     {
-      "show_name": "RC Celta de Vigo vs. Real Madri",
+      "show_name": "Athletic Club de Bilbao vs. FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -107,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Barcelona vs. Atlético de Madrida",
+      "show_name": "Levante vs. Girona FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",

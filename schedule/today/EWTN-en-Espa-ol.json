@@ -1,49 +1,57 @@
 {
   "channel": "EWTN en Español",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "El Papa Juan XXIII, El Santo",
+      "show_name": "Nuestra señora del valle",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Gertrudis la grande, vida de Santa Gertrudis de Helfta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "Razón y fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "01:50",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a la preciosísima sangre de Jesús",
+      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:50",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Déjenme Ir por Este Camino",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las iglesias ocultas de Roma: un peregrinaje de Cuaresma",
+      "show_name": "Letanía a la bendita Virgen María",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:50",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Vía Crucis de los niños",
+      "show_name": "Mi Ratito con Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Papa Juan XXIII, El Santo",
+      "show_name": "Mis Angelitos",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas",
+      "show_name": "Los primeros sabados para ninos",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -131,26 +139,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cocina franciscana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "Déjenme Ir por Este Camino",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Letanía a la preciosísima sangre de Jesús",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:50",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -179,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al Sagrado Corazón de Jesús",
+      "show_name": "Letanía a la bendita Virgen María",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -195,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -203,23 +211,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Nuestra señora del valle",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Papa Juan XXIII, El Santo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas",
+      "show_name": "Gertrudis la grande, vida de Santa Gertrudis de Helfta",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -227,15 +227,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -243,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -251,23 +259,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informe provida",
+      "show_name": "Déjenme Ir por Este Camino",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De Dos en Dos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Papa Juan XXIII, El Santo",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -275,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas",
+      "show_name": "Yo decido: Fundamentos de la ética",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -283,15 +283,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -299,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Razón y fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -307,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Reforma",
+      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -323,11 +331,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nuestra señora del valle",
+      "show_name": "Tertulias de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

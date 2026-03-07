@@ -1,9 +1,9 @@
 {
   "channel": "NTN24 (Nuestra Tele Noticias 24 Horas)",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "La Tarde",
+      "show_name": "La tarde, fin de semana",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,19 +15,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planeta Gente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Planeta Gente",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informativo NTN",
+      "show_name": "La Noche",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -43,31 +35,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Flash Fashion",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Flash Fashion",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
       "show_name": "Contador de Historias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nuestra Tele Deportes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Informativo NTN",
+      "show_name": "Nuestra Tele Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Club Prensa",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -83,31 +75,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Climax",
+      "show_name": "Club Prensa",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Poder Latino",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "CST",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
+      "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Informativo NTN",
+      "show_name": "La Noche",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -115,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planeta Gente",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -123,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Visión Global",
+      "show_name": "Planeta Gente",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -131,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Contador de Historias",
+      "show_name": "Climax",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -139,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Flash Fashion",
+      "show_name": "CST",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -147,23 +131,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "La tarde, fin de semana",
+      "show_name": "Contador de Historias",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "16:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Planeta Gente",
+      "show_name": "Flash Fashion",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La tarde, fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Informativo NTN",
+      "show_name": "Planeta Gente",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -171,31 +163,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Efecto Naím",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Efecto Naím",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "Líderes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Informativo NTN",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Nuestra Tele Deportes",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -203,35 +195,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Efecto Naím",
+      "show_name": "Nuestra Tele Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Efecto Naím",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
       "show_name": "Líderes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:00",
+      "start_time": "22:30",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
       "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La tarde, fin de semana",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:30",
+      "end_time": "00:01",
       "episode_description": ""
     }
   ]

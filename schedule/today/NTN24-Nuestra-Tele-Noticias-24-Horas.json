@@ -1,6 +1,6 @@
 {
   "channel": "NTN24 (Nuestra Tele Noticias 24 Horas)",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
       "show_name": "La Tarde",
@@ -59,26 +59,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Mañana",
+      "show_name": "Nuestra Tele Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "07:00",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Zoom a la Noticia",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:30",
+      "start_time": "06:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Club Prensa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Climax",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
       "end_time": "08:30",
       "episode_description": ""
     },
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Club Prensa",
+      "show_name": "Visión Global",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -139,23 +147,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Tarde",
+      "show_name": "La tarde, fin de semana",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Tarde",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Planeta Gente",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -171,10 +171,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Zoom a la Noticia",
+      "show_name": "Efecto Naím",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Líderes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -195,10 +203,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Efecto Naím",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Líderes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
@@ -211,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Tarde",
+      "show_name": "La tarde, fin de semana",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

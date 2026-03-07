@@ -1,6 +1,6 @@
 {
   "channel": "Excelsior TV",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Televentas",
@@ -15,19 +15,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "07:00",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mundo sustentable",
+      "show_name": "Televentas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "06:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vanguardia Deportiva Castel",
+      "show_name": "Imagen Informativa\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -35,23 +35,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Imagen Informativa\nEn Vivo",
+      "show_name": "Televentas",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Concierge en Imagen\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vive, Invierte y haz Negocios",
+      "show_name": "Concierge en Imagen\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -59,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Autos en Imagen\nEn Vivo",
+      "show_name": "Vive, Invierte y haz Negocios",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -67,43 +59,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Inversiones Inmobiliarias\nEn Vivo",
+      "show_name": "Imagen Informativa\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "15:00",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inversiones Inmobiliarias\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
       "show_name": "Televentas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "18:00",
+      "start_time": "16:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Imagen Informativa\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televentas",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "19:00",
-      "end_time": "23:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Televentas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "03:00",
+      "start_time": "20:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

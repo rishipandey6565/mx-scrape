@@ -1,9 +1,9 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Golf PGA Tour Champions",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,18 +11,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Será Anunciado",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Golf fix",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,14 +47,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Playing lessons from the pros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA Tour Highlights",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": ""
     },
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Smylie Show",
+      "show_name": "Vanity Index Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
