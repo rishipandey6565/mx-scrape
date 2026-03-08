@@ -1,20 +1,28 @@
 {
   "channel": "NTN24 (Nuestra Tele Noticias 24 Horas)",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "La tarde, fin de semana",
+      "show_name": "Informativo NTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Tarde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:01",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
       "show_name": "CST",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Efecto Naím",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -59,23 +67,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nuestra Tele Deportes",
+      "show_name": "La Mañana",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Informativo NTN",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Club Prensa",
+      "show_name": "Poder Latino",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -83,18 +83,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Poder Latino",
+      "show_name": "Club Prensa",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "La Noche",
+      "show_name": "Efecto Naím",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CST",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Climax",
+      "show_name": "Club Prensa",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -147,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La tarde, fin de semana",
+      "show_name": "La Tarde",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -171,18 +179,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Efecto Naím",
+      "show_name": "Zoom a la Noticia",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Líderes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
@@ -203,27 +203,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Efecto Naím",
+      "show_name": "Poder Latino",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Líderes",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Informativo NTN",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:01",
       "episode_description": ""
     }
   ]

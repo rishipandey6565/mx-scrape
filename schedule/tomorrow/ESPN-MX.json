@@ -1,26 +1,34 @@
 {
   "channel": "ESPN MX",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Live: Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-fútbol-picante.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
-    },
-    {
-      "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-sportscenter.webp",
-      "show_category": "Sports",
-      "start_time": "00:00",
-      "end_time": "02:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
+      "show_name": "Live: Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
+      "show_category": "Sports",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
+      "show_category": "Sports",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
+    },
+    {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
       "show_category": "Sports",
       "start_time": "03:00",
       "end_time": "04:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "04:00",
       "end_time": "05:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -52,71 +60,87 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "06:00",
-      "end_time": "06:20",
+      "end_time": "07:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
-    },
-    {
-      "show_name": "Live: Fútbol Serie A",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-fútbol-serie-a.webp",
-      "show_category": "Sports",
-      "start_time": "06:20",
-      "end_time": "08:30",
-      "episode_description": "Fecha 28 de la Serie A. Lecce enfrenta a Cremonese. Desde el Stadio Via del Mare. Duelo directo por un ligar fuera de la zona de descenso."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
       "show_category": "Sports",
-      "start_time": "08:30",
-      "end_time": "08:50",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
     },
     {
-      "show_name": "Live: Fútbol Serie A",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-fútbol-serie-a.webp",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
       "show_category": "Sports",
-      "start_time": "08:50",
-      "end_time": "11:00",
-      "episode_description": "Acción de la fecha 28 de la Serie A 2025-26. Fiorentina busca alejarse del descenso y Parma alargar su racha de cuatro partidos sin perder."
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
-      "start_time": "11:00",
-      "end_time": "12:00",
+      "start_time": "09:00",
+      "end_time": "10:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "Live: Baloncesto NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-baloncesto-nba.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "episode_description": "Semana 20 de la temporada regular 2025-26 de la NBA. Boston Celtics busca la tercera victoria consecutiva de la serie. Tras 60 partidos, Cleveland Cavaliers mantuvo una marca de 20-12 como local."
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "Live: Baloncesto NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-baloncesto-nba.webp",
+      "show_name": "Live: Clásico Mundial de Béisbol 2026",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31992158_b_v12_af.jpg",
       "show_category": "Sports",
-      "start_time": "14:30",
+      "start_time": "11:00",
+      "end_time": "14:00",
+      "episode_description": "Desde loanDepot Park en Miami."
+    },
+    {
+      "show_name": "Live: Fútbol picante",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p390567_b_v8_aa.jpg",
+      "show_category": "Sports",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior."
+    },
+    {
+      "show_name": "Live: Equipo F",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28364079_b_v11_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "El epicentro del análisis deportivo con entrevistas exclusivas a las figuras clave de la Liga MX con profundidad y perspectiva únicas."
+    },
+    {
+      "show_name": "Live: Enfocados",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28362008_b_v11_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "Semana 20 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, New York Knicks venció 112-100 a Los Angeles Lakers. En ese duelo, Luka Doncic lideró la ofensiva de los Lakers con 30 puntos."
+      "episode_description": "Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia."
     },
     {
-      "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-sportscenter.webp",
+      "show_name": "Live: Generación F",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28364103_b_v11_ae.jpg",
       "show_category": "Sports",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
+      "episode_description": "Se mezcla el debate e irreverencia con rigor periodístico, creando una atmósfera única."
     },
     {
       "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -124,23 +148,23 @@
     },
     {
       "show_name": "Live: Clásico Mundial de Béisbol 2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-clásico-mundial-de-béisbol-2026.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31992158_b_v12_af.jpg",
       "show_category": "Sports",
       "start_time": "19:00",
       "end_time": "22:00",
-      "episode_description": "Cobertura del juego 6 correspondiente al Grupo B del Clásico Mundial de Béisbol 2026. Desde el Daikin Park, en Houston, Texas."
+      "episode_description": "Cobertura del partido del Grupo B del Clásico Mundial de Béisbol 2026. México se enfrenta a Estados Unidos. Desde el Daikin Park, en Houston, Texas."
     },
     {
       "show_name": "Live: SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/live-sportscenter.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/ESPN-MX/tomorrow/sportscenter.webp",
+      "show_name": "Live: SportsCenter",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg",
       "show_category": "Sports",
       "start_time": "23:00",
       "end_time": "00:00",

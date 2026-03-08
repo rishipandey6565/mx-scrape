@@ -1,12 +1,52 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
+    {
+      "show_name": "Guerra Mundial Z",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_mundial_z.jpg",
+      "show_category": "Acción",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": "(World War Z) Gerry Lane (Brad Pitt) es un trabajador de las naciones unidas que busca por todo el mundo información que pueda serle útil para detener la masiva expansión de zombis antes que la humanidad desaparezca."
+    },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -19,92 +59,124 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "05:00",
       "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PJ Masks: Héroes en Pijamas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
+      "show_category": "Animación",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks."
+    },
+    {
+      "show_name": "PAW Patrol",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
+      "show_category": "Animación",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "¡Prepárate para pasar un buen rato moviendo la cola en estas aventuras de rescate con PAW Patrol! Prepárate para salvar el día en Adventure Bay con Ryder y su equipo de cachorros heroicos: Marshall el perro bombero, Skye el cachorro volador temerario, Chase el perro policía, Rubble el cachorro de construcción, Rocky el cachorro de reciclaje y Zuma el perro de rescate acuático."
+    },
+    {
+      "show_name": "Max y la pandilla medieval",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "Viva el rey Julien",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Villarreal vs. Elche\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:55",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
       "start_time": "09:00",
-      "end_time": "10:15",
-      "episode_description": ""
+      "end_time": "10:00",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
     },
     {
-      "show_name": "Scooby Doo y el monstruo",
+      "show_name": "Los Pitufos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:15",
-      "end_time": "11:45",
+      "start_time": "10:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "El pico de Dante",
+      "show_name": "Jurassic World Campamento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
-      "end_time": "14:00",
+      "start_time": "11:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tornado",
+      "show_name": "Los Jóvenes Titanes En Acción",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
+      "show_category": "Animación",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. \"¡No lo es!\" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…."
+    },
+    {
+      "show_name": "Scooby-Doo y ¿Quién Crees Tú?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "16:15",
+      "start_time": "14:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "2012",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/2012.webp",
-      "show_category": "",
-      "start_time": "16:15",
-      "end_time": "19:15",
-      "episode_description": "Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima."
-    },
-    {
-      "show_name": "La guerra de los mundos",
+      "show_name": "Bob Esponja La pelicula",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:15",
-      "end_time": "21:45",
+      "start_time": "16:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Guerra Mundial Z",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/guerra-mundial-z.webp",
+      "show_name": "el chavo animado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Precio del Mañana",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_precio_del_manana.jpg",
       "show_category": "Acción",
-      "start_time": "21:45",
-      "end_time": "00:00",
-      "episode_description": "(World War Z) Gerry Lane (Brad Pitt) es un trabajador de las naciones unidas que busca por todo el mundo información que pueda serle útil para detener la masiva expansión de zombis antes que la humanidad desaparezca."
+      "start_time": "18:30",
+      "end_time": "20:45",
+      "episode_description": "En un futuro donde el tiempo es literalmente dinero y la vejez se detiene a los 25, la única forma de mantenerse con vida es ganar, robar o heredar más tiempo. Pero cuando un pobre de clase obrera, Will Salas (Justin Timberlake) es acusado injustamente de asesinato, el junto con la ayuda de una bella chica (Amanda Seyfried) deberán encontrar la manera de acabar con el corrupto sistema antes que sus relojes se detengan."
+    },
+    {
+      "show_name": "Belleza Verdadera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chicago PD",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg",
+      "show_category": "Acción",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
     }
   ]
 }

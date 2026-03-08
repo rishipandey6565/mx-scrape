@@ -1,9 +1,9 @@
 {
   "channel": "Telehit Música Plus",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Rock Me Plus",
+      "show_name": "La calle suena plus",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,10 +11,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Playlist Telehit Plus",
+      "show_name": "Rock Me Plus",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Playlist Telehit Plus",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
       "end_time": "04:00",
       "episode_description": ""
     },

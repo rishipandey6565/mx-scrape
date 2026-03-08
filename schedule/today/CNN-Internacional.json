@@ -1,6 +1,6 @@
 {
   "channel": "CNN Internacional",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "World Sport",
@@ -31,16 +31,16 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:45",
-      "end_time": "02:00",
-      "episode_description": ""
+      "end_time": "01:59",
+      "episode_description": "-- Changed stoptime! --."
     },
     {
       "show_name": "CNN Newsroom",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "03:00",
       "end_time": "03:00",
-      "episode_description": ""
+      "episode_description": "-- Changed starttime! --."
     },
     {
       "show_name": "The Amanpour Hour",
@@ -207,6 +207,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Erin Burnett OutFront",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": ""
     },

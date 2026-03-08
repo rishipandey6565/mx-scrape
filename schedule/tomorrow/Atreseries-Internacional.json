@@ -1,44 +1,44 @@
 {
   "channel": "Atreseries (Internacional)",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
+    {
+      "show_name": "Velvet",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
     {
       "show_name": "Pop up: aquí no hay quien viva",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:18",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bajo sospecha",
+      "show_name": "Cuerpo de élite",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:18",
-      "end_time": "03:48",
+      "start_time": "02:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Camilo Superstar",
+      "show_name": "Refugiados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:48",
-      "end_time": "04:33",
+      "start_time": "03:30",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "UPA Next",
+      "show_name": "Velvet",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:33",
-      "end_time": "05:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tiempos de guerra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:56",
+      "start_time": "04:45",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -63,22 +63,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
-      "end_time": "12:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "A tortas con la vida",
+      "show_name": "Travesía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:45",
+      "start_time": "11:30",
+      "end_time": "12:45",
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres Ambiciosas",
+      "show_name": "El tiempo entre costuras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
+      "start_time": "12:45",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dulce ambición",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "15:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amar es para siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:15",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sueños de libertad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:30",
       "episode_description": ""
     },
@@ -91,35 +115,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cuerpo de élite",
+      "show_name": "Travesía",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:45",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ciudad prohibida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El tiempo entre costuras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Velvet",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "00:00",
+      "end_time": "19:45",
       "episode_description": ""
     }
   ]

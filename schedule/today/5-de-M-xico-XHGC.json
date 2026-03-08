@@ -1,49 +1,17 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Especial de R.T.C",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Especial de R.T.C",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -51,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baby Shark El Gran Show",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -59,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santiago de los mares",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -67,100 +35,76 @@
       "episode_description": ""
     },
     {
-      "show_name": "Las Pistas de Blue",
+      "show_name": "Viva el rey Julien",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:00",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
-      "show_name": "Blaze and the Monster Machine",
+      "show_name": "Villarreal vs. Elche\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tomy Zombie",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
+      "start_time": "06:55",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "La CQ Nuevo Ingreso",
+      "show_name": "T.U.F.F. Puppy",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:00",
+      "end_time": "10:15",
       "episode_description": ""
     },
     {
-      "show_name": "12 Regalos de Navidad",
+      "show_name": "Scooby Doo y el monstruo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "10:15",
       "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "La Historia sin Fin",
+      "show_name": "El pico de Dante",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:45",
-      "end_time": "13:45",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Zathura una aventura fuera",
+      "show_name": "Tornado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
-      "end_time": "15:50",
+      "start_time": "14:00",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
-      "show_name": "Cruz Azul vs. Atl. San Luis",
+      "show_name": "2012",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/2012.jpg",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "19:15",
+      "episode_description": "Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima."
+    },
+    {
+      "show_name": "La guerra de los mundos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:50",
-      "end_time": "18:00",
+      "start_time": "19:15",
+      "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Atlas vs. Guadalajara\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dia de los Patriotas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:05",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "BOX Televisa\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
-      "end_time": "04:30",
-      "episode_description": ""
+      "show_name": "Guerra Mundial Z",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_mundial_z.jpg",
+      "show_category": "Acción",
+      "start_time": "21:45",
+      "end_time": "00:00",
+      "episode_description": "(World War Z) Gerry Lane (Brad Pitt) es un trabajador de las naciones unidas que busca por todo el mundo información que pueda serle útil para detener la masiva expansión de zombis antes que la humanidad desaparezca."
     }
   ]
 }

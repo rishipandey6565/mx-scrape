@@ -1,33 +1,25 @@
 {
   "channel": "Antena 3",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Aquí no hay quién viva",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Aquí no hay quién viva",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "05:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí no hay quién viva",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
+      "start_time": "03:00",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cocina abierta",
+      "show_name": "Aquí no hay quién viva",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -35,31 +27,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticias 1 fin semana",
+      "show_name": "Cocina abierta",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Crea lectura",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "El hormiguero",
+      "show_name": "Noticias 1 fin semana",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Centímetros cúbicos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lo de Évole",
+      "show_name": "El hormiguero",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -67,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Equipo de investigación",
+      "show_name": "Frontón",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -75,47 +67,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "El club de la comedia",
+      "show_name": "Equipo de investigación",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:15",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El club de la comedia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "13:15",
       "episode_description": ""
     },
     {
       "show_name": "Hoteles con encanto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:15",
-      "end_time": "13:00",
+      "start_time": "13:15",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:45",
+      "start_time": "14:00",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
-      "show_name": "El desafío",
+      "show_name": "Entre tierras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
-      "end_time": "17:30",
+      "start_time": "14:45",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
-      "show_name": "Sueños de libertad",
+      "show_name": "El capitán en Japón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
+      "start_time": "16:15",
       "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "Pasapalabra",
+      "show_name": "Sueños de libertad",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -123,27 +123,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "El hormiguero",
+      "show_name": "Pasapalabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "20:15",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Generación top",
+      "show_name": "El hormiguero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "23:00",
+      "start_time": "20:30",
+      "end_time": "21:15",
       "episode_description": ""
     },
     {
-      "show_name": "Aquí no hay quién viva",
+      "show_name": "Chica de Río",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "03:00",
+      "start_time": "21:15",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

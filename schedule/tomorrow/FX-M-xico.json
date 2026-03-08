@@ -1,36 +1,44 @@
 {
   "channel": "FX (México)",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Brigada A Los Magníficos",
+      "show_name": "El vuelo del Fénix",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:16",
+      "end_time": "00:08",
       "episode_description": ""
     },
     {
-      "show_name": "El Protegido",
+      "show_name": "Boda Sangrienta",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/boda_sangrienta.jpg",
+      "show_category": "Terror",
+      "start_time": "00:08",
+      "end_time": "02:03",
+      "episode_description": "Sigue a una joven novia, Grace (Samara Weaving), mientras se une a la familia rica y excéntrica de su nuevo esposo, Alex Le Domas (Mark O'Brien), en una larga tradición que se convierte en un juego letal con todos luchando por su supervivencia."
+    },
+    {
+      "show_name": "Stuber: Locos al Volante",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/stuber_locos_al_volante.jpg",
+      "show_category": "Acción",
+      "start_time": "02:03",
+      "end_time": "03:34",
+      "episode_description": "Cuando un conductor de Uber llamado Stu (Kumail Nanjiani) recoge a un pasajero llamado Vic (Dave Bautista) que resulta ser un policía que está tras el rastro de un asesino brutal, Stu se ve envuelto en una terrible experiencia en la que trata desesperadamente de aferrarse a su ingenio."
+    },
+    {
+      "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:16",
-      "end_time": "04:05",
+      "start_time": "03:34",
+      "end_time": "04:23",
       "episode_description": ""
     },
     {
       "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:05",
-      "end_time": "04:52",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The amazing race",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:52",
+      "start_time": "04:23",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -39,71 +47,63 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:56",
+      "end_time": "07:54",
       "episode_description": ""
     },
     {
       "show_name": "The amazing race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:56",
-      "end_time": "08:54",
+      "start_time": "07:54",
+      "end_time": "10:55",
       "episode_description": ""
     },
     {
-      "show_name": "Perdiendo el este",
+      "show_name": "El Protegido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:54",
-      "end_time": "10:47",
+      "start_time": "10:55",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Buenos días, Vietnam",
+      "show_name": "Wall Street 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:47",
-      "end_time": "13:07",
+      "start_time": "13:00",
+      "end_time": "15:31",
       "episode_description": ""
     },
     {
-      "show_name": "Cowboys & Aliens",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/FX-M-xico/tomorrow/cowboys-aliens.webp",
-      "show_category": "Acción",
-      "start_time": "13:07",
-      "end_time": "15:28",
-      "episode_description": "Es el año de 1873 en Arizona, Estados Unidos. Un desconocido llamado Jake Lonergan (Daniel Craig), un hombre que no recuerda su pasado, termina por cosas del destino en un pueblo desértico llamado Absolution. Un grillete que lleva en su mano es la única pista sobre esta misteriosa historia. Al llegar al pueblo se da cuenta que los forasteros no son bienvenidos en el pueblo y además nadie puede hacer nada en las calles de Absolution sin las ordenes de El Coronel mano de hierro (Harrison Ford). Este es un pueblo que sus habitantes viven siempre atemorizados.A pesar de lo hostil del pueblo, las cosas estarán por empeorar con la llegada de unos invasores del cielo que tienen gran velocidad y con un ruido infernal, con luces cegadoras que no hay quien escape a ellas.Su única esperanza es Jake, que poco a poco va recordando quién es y dónde ha estado, y poco a poco se da cuenta que cuenta con un secreto que puede hacer que el pueblo se enfrente a los alienígenas. Para esto cuenta con la ayuda de la viajera Ella Swenson (Olivia Wilde) y un grupo de antiguos rivales se unen contra un mismo enemigo con el fin de poder sobrevivir."
-    },
-    {
-      "show_name": "Algo azul",
+      "show_name": "Tras líneas enemigas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:28",
-      "end_time": "17:20",
+      "start_time": "15:31",
+      "end_time": "17:32",
       "episode_description": ""
     },
     {
-      "show_name": "El discípulo",
+      "show_name": "S.O.S. Familia en apuros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:20",
-      "end_time": "19:36",
+      "start_time": "17:32",
+      "end_time": "19:33",
       "episode_description": ""
     },
     {
-      "show_name": "Brigada A Los Magníficos",
+      "show_name": "Maze Runner Prueba de Fuego",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:36",
+      "start_time": "19:33",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "El vuelo del Fénix",
+      "show_name": "Un equipo milagroso",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:08",
+      "end_time": "23:44",
       "episode_description": ""
     }
   ]

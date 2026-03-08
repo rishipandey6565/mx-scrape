@@ -1,28 +1,36 @@
 {
   "channel": "TNT (México)",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "¿Cómo Sobrevivir a mi Ex?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/cómo-sobrevivir-a-mi-ex.webp",
-      "show_category": "Drama",
+      "show_name": "Blue Beetle",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/blue_beetle.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "02:07",
-      "episode_description": "Peter (Jason Segel) es alguien excéntrico pero un día como cualquiera otro, su ex novia Sara (Kristen Bell) decide terminar con él. Dadas las circunstancias, un amigo le sugiere que tome unas vacaciones en Hawái, pero sin saberlo su ex está en el hotel donde se hospeda."
+      "end_time": "00:15",
+      "episode_description": "Jaime Reyes (Xolo Maridueña), recién graduado de la universidad, regresa a casa lleno de aspiraciones para su futuro, sólo para descubrir que su hogar no es está como lo había dejado. En su búsqueda por encontrar su propósito en el mundo, el destino interviene cuando Jaime se encuentra inesperadamente en posesión de una antigua reliquia de biotecnología alienígena: el Escarabajo. Cuando el escarabajo elige de repente a Jaime como huésped simbiótico, le otorga una increíble armadura capaz de poderes extraordinarios e impredecibles, cambiando para siempre su destino al convertirse en el superhéroe BLUE BEETLE."
     },
     {
       "show_name": "Asesino Ninja",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:07",
-      "end_time": "03:44",
+      "start_time": "00:15",
+      "end_time": "01:54",
       "episode_description": ""
     },
     {
       "show_name": "Watchmen",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:44",
+      "start_time": "01:54",
+      "end_time": "04:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inframundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:38",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -31,96 +39,88 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los indestructibles 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:37",
-      "end_time": "08:19",
+      "end_time": "06:43",
       "episode_description": ""
     },
     {
       "show_name": "El Vengador Del Futuro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:19",
-      "end_time": "10:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "2007 FA Cup Pre-Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:20",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol FA Cup",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Post partido",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "12:35",
+      "start_time": "06:43",
+      "end_time": "08:44",
       "episode_description": ""
     },
     {
       "show_name": "Hancock",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/hancock.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hancock.jpg",
       "show_category": "Acción",
-      "start_time": "12:35",
-      "end_time": "14:09",
+      "start_time": "08:44",
+      "end_time": "10:18",
       "episode_description": "El todopoderoso superhéroe John Hancock (Will Smith) se ha convertido en una payasada debido a su alcoholismo y su mal carácter siendo así el hombre más odiado de Los Ángeles. A pesar de haber salvado cientos de vidas, también ha destruido centenares de edificios y construcciones, costándole a la ciudad millones de dólares cada vez que él aparece a la escena. Pero todo esto está por cambiar cuando Hancock salva la vida de Ray Embrey (Jason Bateman) - un hombre que promete ayudar a Hanckock a cambiar su imagen quien al llevarlo a su casa conoce a su esposa Mary (Charlize Theron), una mujeres que esconde un misterioso secreto que está relacionado con el pasado de Hancock."
+    },
+    {
+      "show_name": "El ciclista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:18",
+      "end_time": "11:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Karate kid",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:58",
+      "end_time": "14:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Mentalist",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg",
+      "show_category": "Crimen",
+      "start_time": "14:14",
+      "end_time": "14:59",
+      "episode_description": "Patrick Jane (Simon Baker), un consultor independiente del Departamento de Investigaciones de California, con un notable historial de resolución de crímenes graves utilizando solo sus habilidades de observación. Conocido por su flagrante falta de protocolo y su casi celebridad pasada como médium psíquico – cuyas habilidades paranormales ahora admite que fingió – el papel de Jane en descifrar una serie los casos difíciles de alto perfil son muy valorados por sus compañeros agentes. Sin embargo, la sensata agente Teresa Lisbon (Robin Tunney) se resiste abiertamente a tener a Jane en su unidad y alterna entre reconocer de mala gana la utilidad de Jane y criticarlo por sus actos de teatro, narcisismo y peligrosa falta de límites. El equipo de Lisbon incluye a los agentes Kimball Cho (Tim Kang), Wayne Rigsby (Owain Yeoman) y la novata Grace Van Pelt (Amanda Righetti), quienes creen que Jane es un cañón suelto, pero que admiran su encanto y habilidad para solucionar los casos."
+    },
+    {
+      "show_name": "The Mentalist",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg",
+      "show_category": "Crimen",
+      "start_time": "14:59",
+      "end_time": "15:45",
+      "episode_description": "Patrick Jane (Simon Baker), un consultor independiente del Departamento de Investigaciones de California, con un notable historial de resolución de crímenes graves utilizando solo sus habilidades de observación. Conocido por su flagrante falta de protocolo y su casi celebridad pasada como médium psíquico – cuyas habilidades paranormales ahora admite que fingió – el papel de Jane en descifrar una serie los casos difíciles de alto perfil son muy valorados por sus compañeros agentes. Sin embargo, la sensata agente Teresa Lisbon (Robin Tunney) se resiste abiertamente a tener a Jane en su unidad y alterna entre reconocer de mala gana la utilidad de Jane y criticarlo por sus actos de teatro, narcisismo y peligrosa falta de límites. El equipo de Lisbon incluye a los agentes Kimball Cho (Tim Kang), Wayne Rigsby (Owain Yeoman) y la novata Grace Van Pelt (Amanda Righetti), quienes creen que Jane es un cañón suelto, pero que admiran su encanto y habilidad para solucionar los casos."
     },
     {
       "show_name": "Bad Boys Dos policías rebeldes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:09",
-      "end_time": "16:18",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Soy Leyenda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/soy-leyenda.webp",
-      "show_category": "Drama",
-      "start_time": "16:18",
-      "end_time": "17:58",
-      "episode_description": "Robert Neville (Will Smith) es un científico que ha sido incapaz de detener la expansión de un terrible virus que ha sido creado por el hombre y sin antídoto. Inmune, Neville es ahora el último hombre sobreviviente en lo que queda de la ciudad de Nueva York y quizás en el mundo. Por tres años, Neville ha enviado mensajes de radio tratando de encontrar algún otro sobreviviente que pueda encontrar en las afueras de la ciudad. Pero él no está solo. Victimas que han mutado debido a la plaga se encuentran en las sombras observando cada movimiento de Neville, esperando que cometa un error. Tal vez la última esperanza de la humanidad es encontrar el antídoto para curar el virus utilizando su propia sangre inmune. Pero él sabe que está rodeado por miles de estos mutantes y que el tiempo se le está acabando."
-    },
-    {
-      "show_name": "Focus maestros de la estafa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:58",
-      "end_time": "19:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Escuadrón suicida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:50",
-      "end_time": "22:00",
+      "start_time": "15:45",
+      "end_time": "17:55",
       "episode_description": ""
     },
     {
       "show_name": "Blue Beetle",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/tomorrow/blue-beetle.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/blue_beetle.jpg",
+      "show_category": "Acción",
+      "start_time": "17:55",
+      "end_time": "20:13",
+      "episode_description": "Jaime Reyes (Xolo Maridueña), recién graduado de la universidad, regresa a casa lleno de aspiraciones para su futuro, sólo para descubrir que su hogar no es está como lo había dejado. En su búsqueda por encontrar su propósito en el mundo, el destino interviene cuando Jaime se encuentra inesperadamente en posesión de una antigua reliquia de biotecnología alienígena: el Escarabajo. Cuando el escarabajo elige de repente a Jaime como huésped simbiótico, le otorga una increíble armadura capaz de poderes extraordinarios e impredecibles, cambiando para siempre su destino al convertirse en el superhéroe BLUE BEETLE."
+    },
+    {
+      "show_name": "Una Pareja Explosiva",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:13",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Todo en Todas Partes al Mismo Tiempo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/todo_en_todas_partes_al_mismo_tiempo.jpg",
       "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:15",
-      "episode_description": "Jaime Reyes (Xolo Maridueña), recién graduado de la universidad, regresa a casa lleno de aspiraciones para su futuro, sólo para descubrir que su hogar no es está como lo había dejado. En su búsqueda por encontrar su propósito en el mundo, el destino interviene cuando Jaime se encuentra inesperadamente en posesión de una antigua reliquia de biotecnología alienígena: el Escarabajo. Cuando el escarabajo elige de repente a Jaime como huésped simbiótico, le otorga una increíble armadura capaz de poderes extraordinarios e impredecibles, cambiando para siempre su destino al convertirse en el superhéroe BLUE BEETLE."
+      "end_time": "00:31",
+      "episode_description": "Cuando una ruptura interdimensional amenaza con desentrañar la realidad, el destino del mundo está repentinamente en manos de un héroe muy improbable: Evelyn (Michelle Yeoh), una madre inmigrante abrumada. A medida que se surgen peligros extraños y desconcertantes de los muchos universos posibles, ella debe aprender a canalizar sus nuevos poderes y luchar para salvar su hogar, su familia y a ella misma, en esta aventura divertida y de gran corazón a través del multiverso."
     }
   ]
 }

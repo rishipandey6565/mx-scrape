@@ -1,146 +1,130 @@
 {
   "channel": "Televisa (XHAB)",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Local Programming",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/local-programming.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p480440_b_v12_bz.jpg",
       "show_category": "Regular",
       "start_time": "00:00",
       "end_time": "05:00",
       "episode_description": "Fin de emisión."
     },
     {
-      "show_name": "El Fantasma de la Opereta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/el-fantasma-de-la-opereta.webp",
+      "show_name": "El que tenga un amor",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p50054_p_v8_aa.jpg",
       "show_category": "Movies",
       "start_time": "05:00",
-      "end_time": "06:30",
-      "episode_description": "El sueño de un cómico y bailarín mágicamente se convierte en realidad."
-    },
-    {
-      "show_name": "Cápsula deportiva",
-      "show_logo": "",
-      "show_category": "Sports",
-      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Lo mejor de los deportes en pocos minutos."
+      "episode_description": "Víctor debe dejar la vida de fiesta para casarse en un matrimonio arreglado. Lucero, su novia, le pide a un amigo de Víctor que lo rescate."
     },
     {
-      "show_name": "Las abandonadas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/las-abandonadas.webp",
+      "show_name": "El Charro de las calaveras",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p79620_p_v8_ac.jpg",
       "show_category": "Movies",
       "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Una joven mujer, abandonada por su novio, debe luchar diariamente para criar a su hijo en el difícil México de los años veinte."
-    },
-    {
-      "show_name": "En la cocina con Gerónimo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/en-la-cocina-con-gerónimo.webp",
-      "show_category": "Food",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Programa especializado en cocina, donde el chef presenta recetas enfocadas en la nutrición familiar, de una manera sencilla, práctica y económica, con los ingredientes disponibles en casa."
-    },
-    {
-      "show_name": "Reportajes de Alvarado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/reportajes-de-alvarado.webp",
-      "show_category": "News",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Un programa para conocer la historia, costumbres, tradiciones, leyendas, comidas, bailes, música y todo eso que despierta el orgullo de los pueblos."
+      "end_time": "08:30",
+      "episode_description": "\"El Charro\" sale al rescate en estas tres historias: el lobo humano, el vampiro humano y el jinete sin cabeza."
     },
     {
       "show_name": "Espectáculos en corto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/espectáculos-en-corto.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8495014_b_v8_aa.jpg",
       "show_category": "Performing Arts",
-      "start_time": "11:00",
-      "end_time": "11:30",
+      "start_time": "08:30",
+      "end_time": "09:00",
       "episode_description": "Con Juan Carlos Vásquez."
     },
     {
       "show_name": "La parrilla del fuego",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/la-parrilla-del-fuego.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15516770_b_v8_ac.jpg",
       "show_category": "Food",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "start_time": "09:00",
+      "end_time": "10:00",
       "episode_description": "Show de cocina donde famosos se reúnen para compartir sus pasiones más allá del escenario: la música y la buena comida. En cada episodio, un artista diferente se une a nuestro experto parrillero para preparar una deliciosa carne asada."
     },
     {
-      "show_name": "Reventón Musical",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/reventón-musical.webp",
-      "show_category": "Music",
+      "show_name": "Zona de anotación",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14560744_b_v8_ab.jpg",
+      "show_category": "Sports",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Se amplía el terreno de juego con lo más relevante del deporte."
+    },
+    {
+      "show_name": "Reportajes de Alvarado",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p475603_b_v11_aa.jpg",
+      "show_category": "News",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "Un programa para conocer la historia, costumbres, tradiciones, leyendas, comidas, bailes, música y todo eso que despierta el orgullo de los pueblos."
+    },
+    {
+      "show_name": "En la cocina con Gerónimo",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p13808487_b_v8_ab.jpg",
+      "show_category": "Food",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Programa especializado en cocina, donde el chef presenta recetas enfocadas en la nutrición familiar, de una manera sencilla, práctica y económica, con los ingredientes disponibles en casa."
+    },
+    {
+      "show_name": "Manu a mano",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31490294_st_v8_aa.jpg",
+      "show_category": "Reality TV",
       "start_time": "12:30",
-      "end_time": "13:30",
-      "episode_description": "Una presentación de los mejores grupos del momento de salsa, merengue y cumbia."
-    },
-    {
-      "show_name": "Hazaña: El deporte vive",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/hazaña-el-deporte-vive.webp",
-      "show_category": "Sports",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "episode_description": "La historia del deporte mexicano a través de escenas y testimonios de las figuras más destacadas."
-    },
-    {
-      "show_name": "Lucha Libre CMLL",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/lucha-libre-cmll.webp",
-      "show_category": "Sports",
-      "start_time": "14:30",
-      "end_time": "16:00",
-      "episode_description": "La lucha libre es fuerza, constancia y capacidad de aglutinar a todos sus seguidores en una misma intensidad. Más que un deporte, una tradición. Más que una tradición, una pasión."
-    },
-    {
-      "show_name": "El caso de una adolescente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/el-caso-de-una-adolescente.webp",
-      "show_category": "Movies",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": "El caso de una joven moderna y como sus padres no le prestan atención."
-    },
-    {
-      "show_name": "Los cousins",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/los-cousins.webp",
-      "show_category": "Comedy",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Después de mucho tiempo, Mike Martínez se reencuentra con su primo Luis quien llega a los Estados Unidos para vivir el sueño americano, sin embargo el primo Mike tiene muchas reglas que lo dejará perplejo."
-    },
-    {
-      "show_name": "Noche de leyendas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/noche-de-leyendas.webp",
-      "show_category": "Regular",
-      "start_time": "18:30",
-      "end_time": "19:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Pasión futbolera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/pasión-futbolera.webp",
-      "show_category": "Sports",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": "Un resumen y análisis a fondo de los partidos de fútbol, principalmente de los equipos locales, Tigres y Rayados. Además, una sección de humor."
-    },
-    {
-      "show_name": "Me ha gustado un hombre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/me-ha-gustado-un-hombre.webp",
-      "show_category": "Movies",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Una chica se enamora de un cantante, y se hace pasar por un botones de hotel para estar más cerca del hombre que ama."
-    },
-    {
-      "show_name": "Derecho de admisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/derecho-de-admisión.webp",
+      "show_name": "Íconos del espectáculo",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p30177991_b_v8_ab.jpg",
       "show_category": "Performing Arts",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Programa dedicado a la vida y carrera de figuras legendarias del entretenimiento, contado a través de la voz de quienes han sido testigos directos de su trayectoria."
+    },
+    {
+      "show_name": "Mi caballo el Cantador",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p49225_p_v8_ac.jpg",
+      "show_category": "Movies",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": "Un cura se disfraza de ranchero para atrapar a los bandidos que amenazan con lastimar a su familia y sus propiedades."
+    },
+    {
+      "show_name": "El tonto que hacía milagros",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p48953_p_v8_aa.jpg",
+      "show_category": "Movies",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "Un joven que no puede controlar sus poderes sobrenaturales, convierte en realidad todos los deseos que le piden."
+    },
+    {
+      "show_name": "Live: Clásico Mundial de Béisbol 2026",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31992158_b_v12_af.jpg",
+      "show_category": "Sports",
+      "start_time": "18:00",
+      "end_time": "21:30",
+      "episode_description": "Cobertura del juego 6 correspondiente al Grupo B del Clásico Mundial de Béisbol 2026. Desde el Daikin Park, en Houston, Texas."
+    },
+    {
+      "show_name": "El campeón ciclista",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p65584_p_v8_aa.jpg",
+      "show_category": "Movies",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Un vendedor de periódicos sueña con ser un famoso ciclista. Es consciente de que le costará mucho esfuerzo y sacrificio."
+    },
+    {
+      "show_name": "Los cousins",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15445336_b_v8_aa.jpg",
+      "show_category": "Comedy",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "El popular 'Pepillo' es seguido por una cámara las 24 horas de día, quien de manera amena y divertida nos cuenta los secretos e intimidades de sus amigos."
+      "episode_description": "Después de mucho tiempo, Mike Martínez se reencuentra con su primo Luis quien llega a los Estados Unidos para vivir el sueño americano, sin embargo el primo Mike tiene muchas reglas que lo dejará perplejo."
     },
     {
       "show_name": "Especiales RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/especiales-rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14297478_b_v8_aa.jpg",
       "show_category": "Specials",
       "start_time": "23:00",
       "end_time": "23:15",
@@ -148,7 +132,7 @@
     },
     {
       "show_name": "Local Programming",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XHAB/today/local-programming.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p480440_b_v12_bz.jpg",
       "show_category": "Regular",
       "start_time": "23:15",
       "end_time": "05:00",

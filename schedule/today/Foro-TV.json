@@ -1,9 +1,9 @@
 {
   "channel": "Foro TV",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Las noticias\nEn Vivo",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,38 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Especial de R.T.C",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las noticias\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
+      "start_time": "03:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -55,11 +39,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Sábados de Foro\nEn Vivo",
+      "show_name": "Las noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -67,50 +59,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Agenda Pública",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las noticias\nEn Vivo",
+      "show_name": "Clío TV",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
+      "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Las noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Las noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
+      "start_time": "15:30",
       "end_time": "17:30",
       "episode_description": ""
     },
@@ -127,23 +111,31 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clío TV",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "end_time": "18:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las noticias\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las noticias\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]
