@@ -1,294 +1,254 @@
 {
   "channel": "Warner Channel",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 18 - La alternativa a los pantalones",
-      "start_time": "00:12",
-      "end_time": "00:36",
-      "episode_description": "El temor a hablar frente a grandes multitudes está a punto de paralizar a Sheldon, impidiéndole presentarse en la ceremonia de premiación para recibir su reconocimiento científico. Sus amigos harán su mejor esfuerzo para prepararlo."
+      "show_name": "The Pitt",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - 11:00 A.M. #1.5",
+      "start_time": "00:22",
+      "end_time": "01:11",
+      "episode_description": "Santos y Collins se enfrentan a dilemas morales. El enfoque cuidadoso de Samira se gana los elogios de los pacientes y los reproches de Robby."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 19 - La recurrencia Wheaton",
-      "start_time": "00:36",
-      "end_time": "00:59",
-      "episode_description": "Sheldon se debatirá en la cancha de bolos. El enemigo no es más que su némesis: Wil Wheaton. Mientras tanto, Leonard y Penny tendrán su propia batalla."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 20 - El catalizador de espagueti",
-      "start_time": "00:59",
-      "end_time": "01:21",
-      "episode_description": "Luego de una pelea entre Penny y Leonard, Sheldon hará hasta lo imposible para conseguir que los dos se reconcilien."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 21 - La estimulación de la doctora Plimpton",
-      "start_time": "01:21",
-      "end_time": "01:45",
-      "episode_description": "Leonard y Sheldon se pelean por la atención de una científica que acaba de llegar de visita."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 22 - La implementación de la escalera continua",
-      "start_time": "01:45",
-      "end_time": "02:07",
-      "episode_description": "Leonard le revelará a Penny cómo comenzó su amistad con Sheldon, y en el proceso finalmente descubriremos qué pasó con el elevador del edificio."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
-      "show_category": "Temporada 3 Episodio 23 - La excitación lunar",
-      "start_time": "02:07",
-      "end_time": "02:29",
-      "episode_description": "Raj y Howard buscan en línea a la pareja perfecta para Sheldon y logran encontrar a la mujer ideal."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 12 - Castrando borregos en montana",
-      "start_time": "02:29",
-      "end_time": "02:52",
-      "episode_description": "Cuando Berta descubre que Alan ha estado saliendo en secreto con su hija, Naomi, él espera problemas. Pero la reacción de Berta es sorprendente y mucho peor de la que Alan podría haber imaginado."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 13 - Tranquilo, Meteoro",
-      "start_time": "02:52",
-      "end_time": "03:16",
-      "episode_description": "Jake le dice a Charlie y Alan que frecuentemente oye a Judith y a su novio, Herb, teniendo relaciones. Por otra parte, Rose ayuda a Charlie a manejar poco a poco un perturbador recuerdo reprimido, evocado por la revelación de Jake."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 14 - Es salchichon, no salami",
-      "start_time": "03:16",
-      "end_time": "03:39",
-      "episode_description": "Después de conocer a Danielle, la nueva vecina sexy, Charlie descubre que comparte algunos intereses con Alan y trata de emparejarlos."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 15 - Mi maldita acosadora",
-      "start_time": "03:39",
-      "end_time": "04:03",
-      "episode_description": "Cuando Rose anuncia que se mudará a Londres permanentemente, Charly se percata de que debe enfrentar sus verdaderos sentimientos hacia ella. Mientras tanto, Alan prueba un buscador de citas en línea con resultados inesperados."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 16 - Los jóvenes también tienen flemas",
-      "start_time": "04:03",
-      "end_time": "04:26",
-      "episode_description": "Charlie intenta convencer a Alan de que ninguno es demasiado viejo para no disfrutar de una juvenil y salvaje fiesta."
-    },
-    {
-      "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 17 - Me revolqué con un comunista",
-      "start_time": "04:26",
-      "end_time": "04:48",
-      "episode_description": "Evelyn se indigna durante el funeral de uno de sus amigos, pues le parece imperdonable que nadie lleve luto. Alan y Charlie tratan de convencerla de que su actitud podría conducir a que nadie vista de luto en su funeral cuando ella muera."
-    },
-    {
-      "show_name": "Encontrados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Desaparecido sin documentos",
-      "start_time": "04:48",
-      "end_time": "05:34",
-      "episode_description": "El equipo investiga los últimos pasos de Satcha Moncado, de 21 años, previos a su desaparición, sabiendo que su situación de indocumentada la hace más vulnerable. La búsqueda pone en peligro la vida de alguien del equipo."
-    },
-    {
-      "show_name": "Search Party",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/search-party.webp",
-      "show_category": "Temporada 1 Episodio 9 - Contraseña a las sombras",
-      "start_time": "05:34",
-      "end_time": "06:00",
-      "episode_description": "El grupo siembra el caos en la cena previa a la boda de la hermana de Chantal y no tiene más alternativa que sobornar a una fuente poco fiable para averiguar el posible paradero de Chantal."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 199",
-      "start_time": "06:00",
-      "end_time": "06:02",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/tnt-buzz.webp",
-      "show_category": "Temporada 14 Episodio 200",
-      "start_time": "06:02",
-      "end_time": "06:04",
-      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
-    },
-    {
-      "show_name": "Superman & Lois",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 6 - Cuando se enciende la luz",
-      "start_time": "06:04",
-      "end_time": "06:51",
-      "episode_description": "Luthor planea trasladar LuthorCorp a Smallville, pero no cuenta con la aprobación de Lana. Además, Sarah afronta una difícil decisión y Clark enfrente a Luthor en persona."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e01-the-robotic-manipulation_l_m.jpg",
       "show_category": "Temporada 4 Episodio 1 - Manipulación robótica",
-      "start_time": "06:51",
-      "end_time": "07:14",
+      "start_time": "01:11",
+      "end_time": "01:35",
       "episode_description": "Howard encontrará un nuevo uso para su brazo mecánico. Mientras tanto, Penny se ve forzada a asistir a la primera cita de Sheldon y su posible enamorada."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e02-the-cruciferous-vegetable-amplification_l_m.jpg",
       "show_category": "Temporada 4 Episodio 2 - La amplificación de verduras",
-      "start_time": "07:14",
-      "end_time": "07:34",
+      "start_time": "01:35",
+      "end_time": "01:58",
       "episode_description": "Cuando Sheldon comprende que descargar su memoria a un robot tardará toda su vida, intentará buscar nuevos métodos para alargar su existencia."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e03-the-zazzy-substitution_l_m.jpg",
       "show_category": "Temporada 4 Episodio 3 - Una sustitución brillante",
-      "start_time": "07:34",
-      "end_time": "07:57",
+      "start_time": "01:58",
+      "end_time": "02:19",
       "episode_description": "Cuando Sheldon comienza a buscar una alternativa para prescindir de la compañía humana, el resto del grupo comienza a preocuparse."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e04-the-hot-troll-deviation_l_m.jpg",
       "show_category": "Temporada 4 Episodio 4 - La desviación de la troll que estaba como un camión",
-      "start_time": "07:57",
-      "end_time": "08:19",
+      "start_time": "02:19",
+      "end_time": "02:40",
       "episode_description": "Wolowitz intenta volver con Bernadette. Mientras, Sheldon y Raj se enfrentarán en una guerra en la universidad."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e05-the-desperation-emanation_l_m.jpg",
       "show_category": "Temporada 4 Episodio 5 - La emanación de la desesperación",
-      "start_time": "08:19",
-      "end_time": "08:41",
+      "start_time": "02:40",
+      "end_time": "03:02",
       "episode_description": "Sheldon tiene miedo de estar en una relación cuando Amy le pide que conozca a su madre, y Leonard le pide a Howard y Bernadette que le presenten a alguien, ya que él es la única persona en el grupo sin pareja."
     },
     {
       "show_name": "The Big Bang Theory",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/the-big-bang-theory.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e06-the-irish-pub-formulation_l_m.jpg",
       "show_category": "Temporada 4 Episodio 6 - La fórmula de pub irlandés",
-      "start_time": "08:41",
-      "end_time": "09:03",
+      "start_time": "03:02",
+      "end_time": "03:24",
       "episode_description": "Cuando la hermana de Raj pasa a visitarlos, él le prohíbe al resto de los chicos que la cortejen, sin sospechar siquiera que Leonard ya había cruzado esa línea."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e18-vida-feliz-en-posterilandia_l_m.jpg",
       "show_category": "Temporada 4 Episodio 18 - Vida feliz en Posterilandia",
-      "start_time": "09:03",
-      "end_time": "09:27",
+      "start_time": "03:24",
+      "end_time": "03:47",
       "episode_description": "Alan reflexiona sobre el escaso tiempo que pasa con su hijo al ver las paredes del cuarto de Jake forradas con afiches de chicas en poses provocadoras."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e19-suave-como-un-ken_l_m.jpg",
       "show_category": "Temporada 4 Episodio 19 - Suave como un Ken",
-      "start_time": "09:27",
-      "end_time": "09:51",
+      "start_time": "03:47",
+      "end_time": "04:07",
       "episode_description": "Finalmente se acerca el día en que Judith y Herb contraerán matrimonio, eso quiere decir que Alan no deberá seguir firmando cheques por manutención. Mientras tanto Charlie consigue una nueva mejor amiga."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e20-la-tia-myra-no-orina-mucho_l_m.jpg",
       "show_category": "Temporada 4 Episodio 20 - La tía Myra no orina mucho",
-      "start_time": "09:51",
-      "end_time": "10:13",
+      "start_time": "04:07",
+      "end_time": "04:30",
       "episode_description": "Alan deberá preparar a Jake para el matrimonio de Judith y Herb. Mientras, Charlie continúa saliendo con Myra, la hermana de Herb, a pesar de las objeciones y reproches de Alan y Judith."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e21-tucked-taped-and-gorgeous_l_m.jpg",
       "show_category": "Temporada 4 Episodio 21 - Tucked, Taped and Gorgeous",
-      "start_time": "10:13",
-      "end_time": "10:37",
+      "start_time": "04:30",
+      "end_time": "04:53",
       "episode_description": "Charlie y Alan reexaminan su identidad sexual luego de que Alan se hace amigo de Greg, un padre soltero gay. Todo se complica cuando Jake comienza a sospechar que su padre es homosexual."
     },
     {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e22-adoptando-chicas_l_m.jpg",
       "show_category": "Temporada 4 Episodio 22 - Adoptando chicas",
-      "start_time": "10:37",
-      "end_time": "11:01",
+      "start_time": "04:53",
+      "end_time": "05:14",
       "episode_description": "Charlie, en vez de ayudar a Jake con su tarea, tal como se lo había prometido a Alan, decide llevarlo a una pista de carreras para que se relacione con verdaderos ganadores."
     },
     {
+      "show_name": "Encontrados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Desaparecido y adicto",
+      "start_time": "05:14",
+      "end_time": "06:00",
+      "episode_description": "Cuando Gabi acepta el caso de un hombre desaparecido a pedido de su madre, esto genera un conflicto entre el equipo. Su tenaz búsqueda por la verdad lleva a una impactante revelación."
+    },
+    {
+      "show_name": "Superman & Lois",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 7 - Un hombre normal",
+      "start_time": "06:00",
+      "end_time": "06:49",
+      "episode_description": "Tras algunas interacciones preocupantes en el pueblo, Clark está decidido a mantener en secreto que es Superman, pero Jonathan y Jordan complican la tarea."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e181_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 181",
+      "start_time": "06:49",
+      "end_time": "06:52",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tnt-buzz-s14e182_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 182",
+      "start_time": "06:52",
+      "end_time": "06:53",
+      "episode_description": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e10-alien-parasite-hypothesis_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 10 - La hipótesis del parásito alienígena",
+      "start_time": "06:53",
+      "end_time": "07:16",
+      "episode_description": "Amy parece estar interesada en Zach, uno de los tontos exnovios de Penny. Entretanto, Raj y Howard discuten acerca de quién de ellos sería un mejor superhéroe."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e11-the-justice-league-recombination_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 11 - La Liga de la Justicia: recombinación",
+      "start_time": "07:16",
+      "end_time": "07:38",
+      "episode_description": "Los chicos se dirigen a la librería de historietas a pasar la fiesta de Año Nuevo y convencen a Penny y a Zach para que se unan a su \"Liga de la Justicia\"."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s04e12-the-bus-pants-utilization_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 12 - La utilización de los pantalones de autobús",
+      "start_time": "07:38",
+      "end_time": "08:01",
+      "episode_description": "La amistad entre Leonard y Sheldon tomará un giro inesperado cuando Sheldon intente atribuirse la invención de una aplicación para celulares que resuelve diferentes ecuaciones que Leonard creó."
+    },
+    {
       "show_name": "Dos hombres y medio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-hombres-y-medio.webp",
-      "show_category": "Temporada 4 Episodio 23 - El oso hormiguero tiene cara de loco",
-      "start_time": "11:01",
-      "end_time": "11:25",
-      "episode_description": "Un atractivo joven que está haciendo algunos trabajos en casa de los chicos le coquetea a Chloe, la nueva amante de Charlie. Al ver que todo el afecto se dirige ahora al joven, Charlie empieza a sentir celos y la toma más en cuenta."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s04e24-prostitutas-y-helado_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 24 - Prostitutas y helado",
+      "start_time": "08:01",
+      "end_time": "08:24",
+      "episode_description": "Charlie y Alan viajan a Las Vegas con su \"futuro nuevo padre\", Teddy, quien les pide la bendición para casarse con su madre."
     },
     {
-      "show_name": "Cobra Kai",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 3 - Hielo y fuego",
-      "start_time": "11:25",
-      "end_time": "11:51",
-      "episode_description": "Daniel hace todo lo posible en un esfuerzo por reclutar nuevos estudiantes para Miyagi-Do Karate. Johnny reflexiona sobre algunas de las principales relaciones de su vida y responde a los esfuerzos promocionales de Daniels con los suyos."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s05e01-aves-grandes-aranas-y-mama_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 1 - Aves grandes, arañas y mamá",
+      "start_time": "08:24",
+      "end_time": "08:47",
+      "episode_description": "Jake está aprehensivo sobre su ingreso a la secundaria; Charlie y Alan empeoran las cosas al contarle sobre las terribles experiencias que tuvieron cuando les tocó dar ese paso."
     },
     {
-      "show_name": "El protector",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/el-protector.webp",
-      "show_category": "The Marksman",
-      "start_time": "11:51",
-      "end_time": "13:42",
-      "episode_description": "Jim Hanson, un veterano de guerra, está pasando por un momento difícil, ya que su amada esposa acaba de fallecer y el banco está a punto de quitarle su casa. Hasta que aparecen a su vida una madre y su hijo, dos inmigrantes ilegales."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s05e02-mama-eres-mi-mejor-amiga_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 2 - Mamá, eres mi mejor amiga",
+      "start_time": "08:47",
+      "end_time": "09:10",
+      "episode_description": "Luego de una noche con su madre, Charlie reacciona bastante mal. La cita de Alan, Sharon, reacciona igual de mal que Charlie, luego de tener relaciones sexuales con Alan."
     },
     {
-      "show_name": "Los indestructibles 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/los-indestructibles-2.webp",
-      "show_category": "The Expendables 2",
-      "start_time": "13:42",
-      "end_time": "15:22",
-      "episode_description": "El equipo se vuelve a reunir cuando el señor Church les encarga un trabajo aparentemente sencillo y muy lucrativo. Sin embargo, el plan cambia cuando un peligroso terrorista llamado Villain les tiende una emboscada."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s05e03-orejas-grandes-mujeres-inteligentes_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 3 - Orejas grandes, mujeres inteligentes",
+      "start_time": "09:10",
+      "end_time": "09:34",
+      "episode_description": "Charlie está cansado de tener relaciones casuales, por lo que Alan le propone salir a cenar con él, su nueva novia y Linda, una jueza y su cita a ciegas. Al principio no acepta, pero después de la cita quedará obsesionado con la mujer."
     },
     {
-      "show_name": "Dos policías rebeldes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/dos-policías-rebeldes.webp",
-      "show_category": "Bad Boys",
-      "start_time": "15:22",
-      "end_time": "17:30",
-      "episode_description": "Aunque los inseparables detectives Mike Lowery y Marcus Burnett ya no son compañeros, se ven obligados a reunirse cuando un gángster violento viene en busca de venganza."
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s05e04-mi-pasado-me-persigue_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 4 - Mi pasado me persigue",
+      "start_time": "09:34",
+      "end_time": "09:56",
+      "episode_description": "Charlie se está poniendo serio con Linda. Pero últimamente parece estar viendo a su ex acosadora, Rose. ¿Ha regresado de Inglaterra o es su imaginación?"
+    },
+    {
+      "show_name": "Dos hombres y medio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dos-hombres-y-medio-s05e05-ponerle-aletas-a-un-gato_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 5 - Ponerle aletas a un gato",
+      "start_time": "09:56",
+      "end_time": "10:20",
+      "episode_description": "Charlie debe encontrar una manera creativa de entretener al hijo, de 4 años de edad, de su novia. Mientras tanto, Alan se convierte en un conejillo de indias de tamaño natural."
     },
     {
       "show_name": "Los federales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/los-federales.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-federales-1998_l_m.jpg",
       "show_category": "US Marshals",
-      "start_time": "17:30",
-      "end_time": "19:53",
+      "start_time": "10:20",
+      "end_time": "12:34",
       "episode_description": "Un avión que transportaba presos sufre un accidente y uno de estos presos logra escapar. El agente federal Sam Gerard y su equipo son encargados de su captura."
     },
     {
+      "show_name": "Asesinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_asesinos-1995_l_m.jpg",
+      "show_category": "Assassins",
+      "start_time": "12:34",
+      "end_time": "14:53",
+      "episode_description": "Un asesino a sueldo quiere retirarse del negocio, pero descubre que es blanco de un joven asesino."
+    },
+    {
       "show_name": "El demoledor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/el-demoledor.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-demoledor-1993_l_m.jpg",
       "show_category": "Demolition Man",
-      "start_time": "19:53",
-      "end_time": "22:00",
+      "start_time": "14:53",
+      "end_time": "16:57",
       "episode_description": "En 1996, John Spartan, uno de los más eficaces y drásticos policías de Los Ángeles, conocido como Demoliton Man, trata de capturar a Simon Phoenix, un psicópata asesino que está sembrando el terror."
     },
     {
-      "show_name": "Un sueño posible",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/warner/today/un-sueño-posible.webp",
-      "show_category": "The Blind Side",
+      "show_name": "Terminator 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_terminator-2-1991_l_m.jpg",
+      "show_category": "Terminator 2: Judgement Day",
+      "start_time": "16:57",
+      "end_time": "19:24",
+      "episode_description": "Han pasado diez años desde que un Terminator falló en su intento de asesinar a Sarah Connor y su hijo John. Ahora, Skynet ha enviado del futuro otro Terminator, una versión más avanzada, que tiene como objetivo acabar con John Connor."
+    },
+    {
+      "show_name": "El hombre de acero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-de-acero-2013_l_m.jpg",
+      "show_category": "Man of Steel",
+      "start_time": "19:24",
+      "end_time": "22:00",
+      "episode_description": "Transportado a la Tierra hace años desde Krypton, Clark ha crecido en una granja de Kansas. Criado con los valores de sus padres adoptivos, descubre que tiene grandes poderes que le exigirán grandes responsabilidades."
+    },
+    {
+      "show_name": "Bumblebee",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bumblebee-2018_l_m.jpg",
+      "show_category": "Acción / 2018 /6.8",
       "start_time": "22:00",
-      "end_time": "00:22",
-      "episode_description": "Michael Oher es un joven afroamericano sin hogar, que encuentra ayuda y cobijo de una familia dispuesta a prestarle el apoyo necesario para que pueda desarrollar todo su potencial, tanto en el deporte como en la vida."
+      "end_time": "00:05",
+      "episode_description": "Durante 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad de playa de California. Charlie, una joven que está a punto de cumplir 18 años, descubre a Bumblebee, quebrado y con miedo a la batalla."
     }
   ]
 }
