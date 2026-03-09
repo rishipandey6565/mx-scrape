@@ -1,126 +1,110 @@
 {
   "channel": "ESPN",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "FC Groningen vs. Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 26, Hitachi Capital Mobility Stadium",
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "05:00",
+      "end_time": "06:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Inglaterra vs. Islandia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Eliminatorias - Copa Mundial de la FIFA Femenina 2027",
-      "start_time": "04:00",
-      "end_time": "06:00",
-      "episode_description": "Lo más emocionante de los partidos clasificatorios para la Copa Mundial Femenina de la FIFA 2027. Los amantes del deporte podrán disfrutar de un proceso que determina los 31 equipos que acompañarán a Brasil, país anfitrión."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Stage 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Tirreno - Adriatico",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "end_time": "09:00",
+      "episode_description": "Vive lo más emocionante de la carrera ciclista Tirreno-Adriático en su edición 2026. La competición cruza cinco regiones italianas con un recorrido variado que ofrecerá oportunidades para todo tipo de corredores."
+    },
+    {
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+    },
+    {
+      "show_name": "PSV vs. AZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 26, Philips Stadion",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "Tercera ronda, Indian Wells Tennis Garden, Indian Wells, CA, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP World Tour Masters 1000 - BNP Paribas Open",
+      "start_time": "12:00",
+      "end_time": "17:30",
+      "episode_description": "Vive toda la emoción de los partidos del Abierto de Paribas BNP ATP World Tour Masters 1000. Disfruta de los enfrentamientos entre los deportistas de élite que se presentan en la competición para llevarse el título."
+    },
+    {
+      "show_name": "Denver Nuggets vs. Oklahoma City Thunder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Paycom Center",
+      "start_time": "17:30",
+      "end_time": "20:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "New York Knicks vs. Los Angeles Clippers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Intuit Dome",
+      "start_time": "20:00",
+      "end_time": "22:30",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Escocia vs. Francia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 4, Murrayfield",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Vive los partidos de la 132º edición del Torneo de las Seis Naciones, la competición entre selecciones nacionales de rugby más importante del hemisferio norte."
-    },
-    {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
-    },
-    {
-      "show_name": "El show de la Copa Libertadores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/el-show-de-la-copa-libertadores.webp",
-      "show_category": "El show de la Copa Libertadores",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
-    },
-    {
-      "show_name": "Ronda final, Arnold Palmer's Bay Hill Club & Lodge, Orlando, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "PGA Tour Golf - Arnold Palmer Invitational",
-      "start_time": "11:30",
-      "end_time": "17:00",
-      "episode_description": "Vive toda la emoción de los partidos de golf que son parte del Arnold Palmer Invitational en su edición del 2026, parte del PGA Tour. Disfruta de los enfrentamientos entre los golfistas de élite que se presentan en la competición."
-    },
-    {
-      "show_name": "Daytona 200, Daytona International Speedway - Daytona Beach, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "AMA Superbike Series",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Disfruta de toda la adrenalina del campeonato de carreras de motos más importante de los Estados Unidos."
-    },
-    {
-      "show_name": "Panamá vs. Canadá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Grupo A, Hiram Bithorn Stadium",
-      "start_time": "18:00",
-      "end_time": "21:00",
-      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
-    },
-    {
-      "show_name": "Auckland",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/auckland.webp",
-      "show_category": "Sail GP",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Utilizará carreras en estadios costeros de formato corto para maximizar el impacto y la emoción. Cada gran premio incluirá dos días de competición con un total de cinco carreras de flota."
-    },
-    {
-      "show_name": "Peluche Caligari vs. Guerrilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Kings League Americas",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica."
-    },
-    {
-      "show_name": "Irapuato vs. Alebrijes de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 9, Estadio Sergio León Chavez",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }
   ]
 }
