@@ -1,52 +1,52 @@
 {
   "channel": "Film & Arts",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Un amor equivocado",
+      "show_name": "Vera",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "De tal padre,tal hijo",
+      "show_name": "Philharmonia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:20",
+      "start_time": "01:30",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Glen Close Una fuerza",
+      "show_name": "Dance on",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:20",
-      "end_time": "03:15",
+      "start_time": "02:30",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Patience",
+      "show_name": "Electronic Vibrations",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:15",
-      "end_time": "04:00",
+      "start_time": "03:30",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "Isabella Rossellini mi vida s",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
+      "start_time": "04:30",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Thierry Malandain Las Estacio",
+      "show_name": "Film&Arts Desde El West End T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
+      "start_time": "05:30",
       "end_time": "06:15",
       "episode_description": ""
     },
@@ -67,18 +67,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "De tal padre,tal hijo",
+      "show_name": "Dance on",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:50",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "Vivaldi y Mozart en el Louvre",
+      "show_name": "Electronic Vibrations",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:50",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Isabella Rossellini mi vida s",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Revelaciones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Glen Close Una fuerza",
+      "show_name": "Philharmonia",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -99,26 +115,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Patience",
+      "show_name": "Vera",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "14:00",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "Vera",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "14:45",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Un amor equivocado",
+      "show_name": "The Art Mysteries",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -131,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Dance on",
+      "show_name": "Steven Spielberg, el prodigio",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -139,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Electronic Vibrations",
+      "show_name": "Volviéndose Marylin",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -147,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Isabella Rossellini mi vida s",
+      "show_name": "Jonas Kaufmann la música del",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Philharmonia",
+      "show_name": "El síndrome Helsinki",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -163,11 +179,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vera",
+      "show_name": "El síndrome Helsinki",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:45",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Wallander",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:45",
       "episode_description": ""
     }
   ]

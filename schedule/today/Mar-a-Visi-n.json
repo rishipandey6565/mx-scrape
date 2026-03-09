@@ -1,6 +1,6 @@
 {
   "channel": "María Visión",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
       "show_name": "El santísimo sacramento",
@@ -15,35 +15,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "04:00",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Coronilla de la Divina",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
-      "end_time": "07:30",
+      "start_time": "03:30",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
+      "start_time": "06:30",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Sta misa desde Guerrero, Méx",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Soldados de la virgen María",
+      "show_name": "Cadena de amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -59,63 +67,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Podcast Presencia real",
+      "show_name": "Cadena de amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El santo rosario, Capilla M+V",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Podcast",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Bienhechores M+V",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "10:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
       "show_name": "Santa Misa capilla m+v",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "12:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lectio Divina, Sevilla",
+      "show_name": "Caravana por la paz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santa misa, Ermita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
       "show_name": "La Divina Misericordia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cadena de amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -123,23 +131,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santa Misa",
+      "show_name": "Crecer en Cristo",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
-      "end_time": "18:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Adorazione desde Nazaret",
+      "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santa misa, Virgen del Pilar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santa misa, Ermita",
+      "show_name": "Ejercicios espirituales",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -147,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santo rosario 'De las rosas'",
+      "show_name": "Sta misa, Diócesis de Cancún",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -155,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sta misa, Basílica de Zapopan",
+      "show_name": "Yo Soy el Camino",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -163,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ejercicios espirituales",
+      "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -171,11 +187,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sta misa, Diócesis de Cancún",
+      "show_name": "El santísimo sacramento",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:00",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]

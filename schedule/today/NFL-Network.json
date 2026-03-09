@@ -1,9 +1,9 @@
 {
   "channel": "NFL Network",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "The Great Brady Heist",
+      "show_name": "Bullies of Baltimore",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,31 +11,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Belichick & Saban",
+      "show_name": "Matthew Stafford Locked In",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Elway to Marino",
+      "show_name": "Deion's Double Play",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Brady 6",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Four Falls of Buffalo",
+      "show_name": "The Great Brady Heist",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL 360",
+      "show_name": "The Insiders",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -43,71 +59,95 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL 360",
+      "show_name": "Good morning football",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:30",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL 360",
+      "show_name": "2026 NFL Free Agency Frenzy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:30",
+      "start_time": "08:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL 360",
+      "show_name": "2026 NFL Free Agency Frenzy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "A Lifetime of Sundays",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
+      "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Free Agent Showcase",
+      "show_name": "2026 NFL Free Agency Frenzy",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "12:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Free Agent Showcase",
+      "show_name": "2026 NFL Free Agency Frenzy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "2026 NFL Free Agency Frenzy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "2026 NFL Free Agency Frenzy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "2026 NFL Free Agency Frenzy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Free Agent Showcase",
+      "show_name": "2026 NFL Free Agency Frenzy",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "19:00",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Insiders",
+      "show_name": "The Insiders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Insiders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "NFL Insiders",
+      "show_name": "The Insiders",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -115,19 +155,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Insiders",
+      "show_name": "The Insiders",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bullies of Baltimore",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

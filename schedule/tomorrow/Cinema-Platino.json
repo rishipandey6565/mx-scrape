@@ -1,6 +1,6 @@
 {
   "channel": "Cinema Platino",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
       "show_name": "El protector",
@@ -19,11 +19,123 @@
       "episode_description": ""
     },
     {
-      "show_name": "El protector",
+      "show_name": "Hasta los Huesos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:05",
-      "end_time": "00:54",
+      "start_time": "02:34",
+      "end_time": "04:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Niños en el tiempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:48",
+      "end_time": "06:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gringo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:28",
+      "end_time": "08:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:18",
+      "end_time": "08:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vuelo 478",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:48",
+      "end_time": "10:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:22",
+      "end_time": "10:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conjuro Siniestro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:53",
+      "end_time": "12:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:19",
+      "end_time": "12:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Operación final",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:49",
+      "end_time": "14:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buscando a Alguien Muy Especial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:57",
+      "end_time": "16:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El escándalo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:36",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La increíble historia de David Copperfield",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "20:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Terror a 47 Metros: El Segundo Ataque",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terror_a_47_metros_el_segundo_ataque.jpg",
+      "show_category": "Aventura",
+      "start_time": "20:36",
+      "end_time": "22:13",
+      "episode_description": "Cuatro chicas adolescentes se zambullen en una ciudad submarina en ruinas, rápidamente se dan cuenta que el laberinto claustrofóbico de cuevas sumergidas es el territorio de los tiburones más mortíferos."
+    },
+    {
+      "show_name": "Peligro en la montaña",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:13",
+      "end_time": "23:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El captor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:51",
+      "end_time": "01:27",
       "episode_description": ""
     }
   ]

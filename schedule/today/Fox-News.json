@@ -1,6 +1,6 @@
 {
   "channel": "Fox News",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
       "show_name": "One Nation with L. Jones",
@@ -15,16 +15,16 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:59",
-      "episode_description": "-- Changed stoptime! --."
+      "end_time": "01:00",
+      "episode_description": ""
     },
     {
       "show_name": "Life, Liberty & Levin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "-- Changed starttime! --."
+      "episode_description": ""
     },
     {
       "show_name": "Sunday Night in America",
@@ -168,6 +168,14 @@
       "show_category": "",
       "start_time": "22:00",
       "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jesse Watters Primetime",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

@@ -1,6 +1,6 @@
 {
   "channel": "Excelsior TV",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
       "show_name": "Televentas",
@@ -120,6 +120,14 @@
       "show_category": "",
       "start_time": "22:00",
       "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televentas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

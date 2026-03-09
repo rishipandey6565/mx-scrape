@@ -1,9 +1,9 @@
 {
   "channel": "Enlace (TBN)",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Ministerio de Raquel y Jacobo",
+      "show_name": "Sexo divino",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,23 +11,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Primera Fila",
+      "show_name": "Vida nueva para el mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Especial infantil",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las raíces hebreas",
+      "show_name": "Respuestas con Bayless Conley",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,23 +27,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "En concierto",
+      "show_name": "Proclamación",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "03:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Maná",
+      "show_name": "Canticos de amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Especial infantil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "A una voz",
+      "show_name": "Tesoros",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí entre nos",
+      "show_name": "Vida nueva para el mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Toda la biblia juntos",
+      "show_name": "Disfrutando la Vida Diaria",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jerusalem Dateline",
+      "show_name": "Vida Real",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Casa de dios",
+      "show_name": "Toda la biblia juntos",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La voz de Victoria",
+      "show_name": "En buena ora",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Enlace ora",
+      "show_name": "Casa de dios",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ancient Nutrition Intl",
+      "show_name": "Joel",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -115,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Otoniel Font",
+      "show_name": "Enlace ora",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo es posible",
+      "show_name": "Camino a la victoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -131,31 +131,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí entre nos",
+      "show_name": "Otoniel Font",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una voz de Sanidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Esperanza Hoy",
+      "show_name": "Aquí entre nos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mas vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Proclamación",
+      "show_name": "Esperanza Hoy",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El puede hacerlo de nuevo",
+      "show_name": "Reporte vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Disfrutando la Vida Diaria",
+      "show_name": "Disruptivas",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reflexión espiritual",
+      "show_name": "El puede hacerlo de nuevo",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mesa redonda",
+      "show_name": "En casa con",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -195,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En los pasos del maestro",
+      "show_name": "El lugar de su presencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -203,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Impacto mundial",
+      "show_name": "Ancient Nutrition Intl",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -211,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Viviendo Sin Límites",
+      "show_name": "En contacto charles stanley",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ministración con Joe Ferreyra",
+      "show_name": "Más que Vencedores",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -227,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Código de vida",
+      "show_name": "Guardianes del muro",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -235,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vive +",
+      "show_name": "Ministración con Joe Ferreyra",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -243,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El lugar de su presencia",
+      "show_name": "Dios de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -251,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Otoniel Font",
+      "show_name": "La voz de Victoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -259,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Esperanza Hoy",
+      "show_name": "Programa Especial",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -267,31 +267,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí entre nos",
+      "show_name": "Otoniel Font",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esperanza Hoy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "El puede hacerlo de nuevo",
+      "show_name": "Aquí entre nos",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Casa de Dios cielos abiertos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "El show de la fe",
+      "show_name": "El puede hacerlo de nuevo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -299,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Casa de dios",
+      "show_name": "Palabra pura",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -307,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo es posible",
+      "show_name": "El show de la fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -315,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Creactivos",
+      "show_name": "Casa de dios",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -323,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La voz de Victoria",
+      "show_name": "Tesoros",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -331,11 +331,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sexo divino",
+      "show_name": "Vive +",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
       "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Joel",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vida de fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

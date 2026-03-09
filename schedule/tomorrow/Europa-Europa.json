@@ -1,29 +1,125 @@
 {
   "channel": "Europa Europa",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
-    {
-      "show_name": "La selva esmeralda",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:10",
-      "episode_description": ""
-    },
     {
       "show_name": "La novia vestía de negro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:10",
-      "end_time": "02:05",
+      "start_time": "00:00",
+      "end_time": "01:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un chico de oro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:05",
+      "end_time": "02:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Anhelo que me veas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:45",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Investigaciones de Lolita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los bastardos de Pizzofalcone",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:55",
+      "end_time": "06:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kostas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:50",
+      "end_time": "07:50",
       "episode_description": ""
     },
     {
       "show_name": "La selva esmeralda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:10",
-      "end_time": "00:10",
+      "start_time": "07:50",
+      "end_time": "09:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En tiempos oscuros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:50",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Califano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "13:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El matemático",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:22",
+      "end_time": "15:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los bastardos de Pizzofalcone",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:15",
+      "end_time": "17:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Investigaciones de Lolita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Montalbano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "21:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El hombre de La Mancha",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:05",
+      "end_time": "23:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En tiempos oscuros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:25",
+      "end_time": "01:05",
       "episode_description": ""
     }
   ]

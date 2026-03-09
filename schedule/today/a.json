@@ -1,33 +1,33 @@
 {
   "channel": "a+",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Sognare",
+      "show_name": "La marcha de Zacatecas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -43,99 +43,123 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Sognare",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "08:30",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
       "show_name": "Sognare",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
       "show_name": "Naturista Naturalmente",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Infomerciales",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "10:00",
-      "end_time": "14:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "El mejor regalo",
+      "show_name": "El Río de las Ánimas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:30",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Dos inocentes mujeriegos",
+      "show_name": "Gata Salvaje",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Manos arriba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vuelve el Texano",
+      "show_name": "El pícaro",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "18:30",
+      "end_time": "18:45",
       "episode_description": ""
     },
     {
-      "show_name": "El temerario",
+      "show_name": "Simbad el mareado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:30",
+      "start_time": "18:45",
+      "end_time": "20:45",
       "episode_description": ""
     },
     {
-      "show_name": "El buscabullas",
+      "show_name": "La cárcel de Cananea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "22:15",
+      "start_time": "20:45",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "La marcha de Zacatecas",
+      "show_name": "Ahora Más Noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
-      "end_time": "00:00",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El corrido de la muerta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

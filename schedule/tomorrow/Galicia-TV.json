@@ -1,37 +1,557 @@
 {
   "channel": "Galicia TV",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
-    {
-      "show_name": "Estado do mar mañá",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
     {
       "show_name": "Desertores do asfalto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:58",
-      "end_time": "23:32",
+      "start_time": "00:00",
+      "end_time": "00:32",
       "episode_description": ""
     },
     {
       "show_name": "Historias mínimas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:32",
-      "end_time": "23:56",
+      "start_time": "00:32",
+      "end_time": "00:56",
       "episode_description": ""
     },
     {
       "show_name": "Estado do mar mañá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:56",
-      "end_time": "00:00",
+      "start_time": "00:56",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia por Diante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bibopalula",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:07",
+      "end_time": "01:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bibopalula",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:13",
+      "end_time": "01:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Timmy y sus amigos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:20",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El hombre más chiquito del mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "01:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chien Pourri",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:32",
+      "end_time": "01:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "As Aventuras De Ladybug E Cat Noir",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:44",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bos Días",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "02:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
+      "start_time": "02:06",
+      "end_time": "02:18",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
+    },
+    {
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
+      "start_time": "02:18",
+      "end_time": "02:30",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
+    },
+    {
+      "show_name": "Galicia por Diante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grandes lugares",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Comisión de festas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "04:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:50",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:05",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O Termómetro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sen código postal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sen código postal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "07:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia Noticias Mañá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:54",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal mediodía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "08:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estache Bo!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:36",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia Noticias Mañá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes Mediodía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:15",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "09:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal mediodía lingua de signos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:36",
+      "end_time": "09:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:39",
+      "end_time": "09:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:45",
+      "end_time": "10:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:15",
+      "end_time": "10:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes Mediodía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:21",
+      "end_time": "10:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quen anda aí?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:25",
+      "end_time": "10:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:33",
+      "end_time": "10:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:42",
+      "end_time": "11:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Eu Sei + Ca Ti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:18",
+      "end_time": "11:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Que casas!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:54",
+      "end_time": "12:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Que casas!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:46",
+      "end_time": "12:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hora galega",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:58",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hora galega",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "13:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Que casas!",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:36",
+      "end_time": "14:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:34",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "15:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:35",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Land rober",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estado do mar serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bonanza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:32",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expediente oculto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "18:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:15",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Martín el gaucho",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:05",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telexornal serán",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "19:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pensando en Tí",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:41",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O tempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:02",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:10",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Land rober",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:15",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "20:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:50",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Expediente oculto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:05",
+      "end_time": "23:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:25",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Libro de Familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]
