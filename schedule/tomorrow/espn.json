@@ -1,18 +1,18 @@
 {
   "channel": "ESPN",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,31 +20,31 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "FC Groningen vs. Ajax",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 26, Hitachi Capital Mobility Stadium",
+      "show_name": "NAC Breda vs. Feyenoord",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 26, Rat Verlegh Stadion",
       "start_time": "03:00",
       "end_time": "05:00",
       "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
     },
     {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Stage 1",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Stage 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Tirreno - Adriatico",
       "start_time": "06:00",
       "end_time": "09:00",
@@ -52,55 +52,39 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "PSV vs. AZ",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 26, Philips Stadion",
+      "show_name": "Milan vs. Inter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 28, Estadio San Siro",
       "start_time": "10:00",
       "end_time": "12:00",
-      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     },
     {
-      "show_name": "Tercera ronda, Indian Wells Tennis Garden, Indian Wells, CA, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Octavos de final, Indian Wells Tennis Garden, Indian Wells, CA, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "ATP World Tour Masters 1000 - BNP Paribas Open",
       "start_time": "12:00",
-      "end_time": "17:30",
+      "end_time": "19:00",
       "episode_description": "Vive toda la emoción de los partidos del Abierto de Paribas BNP ATP World Tour Masters 1000. Disfruta de los enfrentamientos entre los deportistas de élite que se presentan en la competición para llevarse el título."
     },
     {
-      "show_name": "Denver Nuggets vs. Oklahoma City Thunder",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Paycom Center",
-      "start_time": "17:30",
-      "end_time": "20:00",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
-    },
-    {
-      "show_name": "New York Knicks vs. Los Angeles Clippers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Intuit Dome",
-      "start_time": "20:00",
-      "end_time": "22:30",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
-    },
-    {
-      "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Generación fútbol",
-      "start_time": "22:30",
+      "show_name": "Octavos de final, Indian Wells Tennis Garden, Indian Wells, CA, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP World Tour Masters 1000 - BNP Paribas Open",
+      "start_time": "19:00",
       "end_time": "23:00",
-      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
+      "episode_description": "Vive toda la emoción de los partidos del Abierto de Paribas BNP ATP World Tour Masters 1000. Disfruta de los enfrentamientos entre los deportistas de élite que se presentan en la competición para llevarse el título."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "",
