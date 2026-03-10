@@ -1,37 +1,237 @@
 {
   "channel": "National Geographic (México)",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Alerta aeropuerto: Colombia",
+      "show_name": "To Catch a Smuggler",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Desvestida: La moda pasó de moda",
+      "show_name": "Gordon Ramsay Sabores extremos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:42",
-      "end_time": "23:12",
+      "start_time": "00:00",
+      "end_time": "00:59",
       "episode_description": ""
     },
     {
-      "show_name": "Desvestida: La moda pasó de moda",
+      "show_name": "Salvajemente famosos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:12",
-      "end_time": "23:45",
+      "start_time": "00:59",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Alerta aeropuerto: Colombia",
+      "show_name": "Air Crash Investigation",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
-      "end_time": "00:45",
+      "start_time": "02:00",
+      "end_time": "02:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Megaindustria de alimentos: Estados Unidos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:47",
+      "end_time": "03:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Megaindustria de alimentos: Estados Unidos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:08",
+      "end_time": "03:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Solo contra el mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:33",
+      "end_time": "04:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alerta Aeropuerto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:17",
+      "end_time": "05:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alerta Aeropuerto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:04",
+      "end_time": "05:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Secreto en los océanos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:52",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciudades perdidas con Albert Lin",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "07:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Salvajemente famosos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:57",
+      "end_time": "08:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Megaindustria de alimentos: Estados Unidos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:56",
+      "end_time": "09:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Megaindustria de alimentos: Estados Unidos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:29",
+      "end_time": "10:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Air Crash Investigation",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:01",
+      "end_time": "11:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alerta aeropuerto 3 Perú",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:01",
+      "end_time": "12:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gordon Ramsay: Uncharted Showdown",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:01",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Salvajemente famosos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Primal Survivor: Extreme African Safari",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:59",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Air Crash Investigation",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Secreto en los océanos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:59",
+      "end_time": "16:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciudades encontradas con Albert Lin",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:59",
+      "end_time": "17:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tesoros perdidos de Roma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:59",
+      "end_time": "18:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alerta Aeropuerto Madrid",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:59",
+      "end_time": "19:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Airport Security: Peru",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:59",
+      "end_time": "20:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lost Treasures of Egypt",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:59",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Coliseo: Ascenso y caída",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Identidades desconocidas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gordon Ramsay Sabores extremos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:54",
+      "end_time": "00:55",
       "episode_description": ""
     }
   ]

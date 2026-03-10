@@ -1,20 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "Elles",
+      "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:06",
+      "end_time": "00:39",
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "Boomerang",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:06",
+      "start_time": "00:39",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un si grand soleil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,19 +39,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:32",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le magazine de la riviera",
+      "show_name": "Pistes vertes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
+      "start_time": "04:33",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "FOOT!",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chef Pays",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:54",
@@ -75,42 +83,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ding Dong Montre-moi ta maiso",
+      "show_name": "Harchies, le son des oiseaux d",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:11",
+      "end_time": "08:21",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:11",
-      "end_time": "08:38",
+      "start_time": "08:21",
+      "end_time": "08:49",
       "episode_description": ""
     },
     {
-      "show_name": "A bon entendeur",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:38",
-      "end_time": "09:05",
+      "start_time": "08:49",
+      "end_time": "09:15",
       "episode_description": ""
     },
     {
-      "show_name": "L'épicerie",
+      "show_name": "Curieux bégin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:05",
-      "end_time": "09:39",
+      "start_time": "09:15",
+      "end_time": "09:41",
       "episode_description": ""
     },
     {
       "show_name": "Tout le monde veut prendre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:39",
+      "start_time": "09:41",
       "end_time": "10:37",
       "episode_description": ""
     },
@@ -135,14 +143,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:01",
+      "end_time": "12:03",
       "episode_description": ""
     },
     {
-      "show_name": "Une Femme á Kosyam",
+      "show_name": "La menace",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:01",
+      "start_time": "12:03",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -155,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Slam",
+      "show_name": "Destination francophonie",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:27",
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -179,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -195,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Thalassa, aventures extremés",
+      "show_name": "Laëtitia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
@@ -211,35 +219,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Notre Dame de Moncton",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:34",
+      "end_time": "21:44",
       "episode_description": ""
     },
     {
-      "show_name": "Lou et sophie",
+      "show_name": "Une Confession",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:34",
-      "end_time": "23:00",
+      "start_time": "21:44",
+      "end_time": "23:10",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "23:25",
+      "start_time": "23:10",
+      "end_time": "23:35",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:25",
-      "end_time": "00:32",
+      "start_time": "23:35",
+      "end_time": "00:41",
       "episode_description": ""
     }
   ]

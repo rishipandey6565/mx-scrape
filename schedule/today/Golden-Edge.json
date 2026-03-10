@@ -1,109 +1,101 @@
 {
   "channel": "Golden Edge",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Extraordinario",
+      "show_name": "Huesera",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:50",
       "episode_description": ""
     },
     {
-      "show_name": "Poon Raider: A DP XXX Parody",
+      "show_name": "Barrabás",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:44",
+      "start_time": "00:50",
+      "end_time": "02:57",
       "episode_description": ""
     },
     {
-      "show_name": "Wasabi",
+      "show_name": "Fatale",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:44",
-      "end_time": "04:26",
+      "start_time": "02:57",
+      "end_time": "04:50",
       "episode_description": ""
     },
     {
-      "show_name": "La cacería",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:26",
-      "end_time": "06:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Enemigo invisible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:07",
-      "end_time": "07:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El salvaje río",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:55",
-      "end_time": "09:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Milagros del cielo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:59",
-      "end_time": "11:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Extraordinario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:59",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un sueño posible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "16:22",
-      "episode_description": ""
+      "show_name": "Casino",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/casino.jpg",
+      "show_category": "Drama",
+      "start_time": "04:50",
+      "end_time": "08:03",
+      "episode_description": "Como la ambición ciega, la pasión candente y la codicia de los 24 quilates derribaron un imperio. Las Vegas 1973 es el escenario de esta historia basada en hechos sobre la operación multimillonaria del casino del casino de la muchedumbre – donde las fortunas y las vidas fueron creadas y perdidas en un tirar de dados."
     },
     {
       "show_name": "La cabaña",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:22",
-      "end_time": "18:45",
+      "start_time": "08:03",
+      "end_time": "10:26",
       "episode_description": ""
     },
     {
       "show_name": "Baywatch: Guardianes de la Bahía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Edge/today/baywatch-guardianes-de-la-bahía.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/guardianes_de_la_bahia.jpg",
       "show_category": "Comedia",
-      "start_time": "18:45",
-      "end_time": "20:51",
+      "start_time": "10:26",
+      "end_time": "12:32",
       "episode_description": "Matt Brody (Zac Efron) es el nuevo recluta que llega a la playa integrándose a las líneas guardianes de la bahía, en los primeros días de la llegada de Matt, Mitch Buchannon (Dwayne Johnson), descubren una serie de crimines, Mitch junto con su equipo deciden ponerse manos a la obra para detener a estos criminales, y poder defender lo que han jurado proteger."
-    },
-    {
-      "show_name": "Chucky, el muñeco diabólico 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:51",
-      "end_time": "22:30",
-      "episode_description": ""
     },
     {
       "show_name": "El hijo de Chucky",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "00:05",
+      "start_time": "12:32",
+      "end_time": "14:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chucky, el muñeco diabólico 3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:07",
+      "end_time": "15:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "8 Mile: Calle de las Ilusiones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:46",
+      "end_time": "17:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historia Americana X",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:47",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El pico de Dante",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El club de la pelea",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:56",
+      "end_time": "00:32",
       "episode_description": ""
     }
   ]

@@ -1,141 +1,157 @@
 {
   "channel": "Pánico",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
-    {
-      "show_name": "Relic: Herencia Maldita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:22",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Cura Siniestra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/P-nico/tomorrow/la-cura-siniestra.webp",
-      "show_category": "Terror",
-      "start_time": "01:22",
-      "end_time": "03:51",
-      "episode_description": "Un ambicioso joven es enviado para recuperar el gerente de su empresa de un misterioso centro de bienestar localizado en los Alpes Suizos. Pronto sospecha que los tratamientos milagrosos del balneario no son lo que parecen. Cuando comienza a desmarañar sus secretos oscuros, su cordura es puesta a prueba, siendo diagnosticado con la misma curiosa enfermedad que mantiene a todos los huéspedes en el lugar esperando la anhelada cura."
-    },
-    {
-      "show_name": "Camp Dread",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:51",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "No Salgas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "07:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:07",
-      "end_time": "07:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bag Of Lies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:38",
-      "end_time": "09:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:16",
-      "end_time": "09:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Winter Island",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:47",
-      "end_time": "11:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:28",
-      "end_time": "11:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vermines: La Plaga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:59",
-      "end_time": "13:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Gatehouse",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:50",
-      "end_time": "15:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Sonata",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:32",
-      "end_time": "17:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "#Screamers",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:04",
-      "end_time": "18:33",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Painted In Blood",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:33",
-      "end_time": "20:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Double Blind",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:04",
-      "end_time": "21:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Aro: Resurrección",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:38",
-      "end_time": "23:14",
-      "episode_description": ""
-    },
     {
       "show_name": "Solum",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:14",
+      "start_time": "00:00",
       "end_time": "00:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De la Oscuridad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:56",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sweet Home",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
+      "end_time": "04:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hasta los Huesos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:01",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lyle",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
+      "end_time": "07:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Maldición Del Mary Celeste",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:24",
+      "end_time": "08:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:42",
+      "end_time": "09:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Abandon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:12",
+      "end_time": "10:53",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:53",
+      "end_time": "11:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aprisionados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:24",
+      "end_time": "12:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:57",
+      "end_time": "13:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Gran Despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:28",
+      "end_time": "14:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ich-Chi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:36",
+      "end_time": "16:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Escuela",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:07",
+      "end_time": "17:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Leyenda de Halloween Jack",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:40",
+      "end_time": "19:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Leyenda Del Muñeco Robert",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:05",
+      "end_time": "20:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Somnia: Antes de Despertar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:27",
+      "end_time": "22:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jessabelle",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:10",
+      "end_time": "23:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Robert Renacido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:48",
+      "end_time": "01:09",
       "episode_description": ""
     }
   ]

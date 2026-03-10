@@ -1,29 +1,125 @@
 {
   "channel": "Cinemax (México)",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Ex Máquina",
+      "show_name": "Hellboy",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:23",
+      "end_time": "01:34",
       "episode_description": ""
     },
     {
-      "show_name": "Mujer Maravilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinemax-M-xico/today/mujer-maravilla.webp",
-      "show_category": "Acción",
-      "start_time": "21:00",
-      "end_time": "23:29",
-      "episode_description": "Antes de que fuera la Mujer Maravilla, era Diana (Gal Gadot), princesa de las Amazonas, entrenada para ser una guerrera invencible. Cuando un piloto americano se estrella en sus costas, ella salta al agua para rescatar al piloto llamado Steve Trevor (Chris Pine). Cuando las Amazonas se dan cuenta que están siendo invadidas, el aviador y ellas entran en combate contra ellos. Steve es interrogado por la reina Hippolyta (Connie Nielsen), y él le responde que está allí para evitar la guerra de guerras. Diana toma la decisión de salir al mundo para evitar que este sea destruido. Diana descubrirá sus plenos poderes … y su verdadero destino."
-    },
-    {
-      "show_name": "Ex Máquina",
+      "show_name": "Todos mienten",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:29",
-      "end_time": "01:23",
+      "start_time": "01:34",
+      "end_time": "02:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "American Pie El reencuentro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:45",
+      "end_time": "04:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Antz Hormiguitaz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:35",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La vida secreta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El espanta tiburones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:45",
+      "end_time": "09:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Minions",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/minions.jpg",
+      "show_category": "Animación",
+      "start_time": "09:19",
+      "end_time": "10:50",
+      "episode_description": "La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación."
+    },
+    {
+      "show_name": "El Hombre de Acero",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_de_acero.jpg",
+      "show_category": "Acción",
+      "start_time": "10:50",
+      "end_time": "13:20",
+      "episode_description": "(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada."
+    },
+    {
+      "show_name": "Kung Fu Panda",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda.jpg",
+      "show_category": "Animación",
+      "start_time": "13:20",
+      "end_time": "14:53",
+      "episode_description": "Un oso Panda llamado Po (Jack Black) - quien se considera a sí mismo el fan número uno del Kung Fu – un día podrá cumplir su sueño de ser parte de los legendarios Cinco Guerreros: Tigresa, Mono, Mantis, Víbora y Grulla."
+    },
+    {
+      "show_name": "Reyes de las olas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:53",
+      "end_time": "16:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Pingüinos de Madagascar",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_pinguinos_de_madagascar.jpg",
+      "show_category": "Animación",
+      "start_time": "16:23",
+      "end_time": "17:55",
+      "episode_description": "Los equipos de súper espías no nacen, se encuban. Descubre los secretos de los más grandes y divertidos pájaros encubiertos del espionaje mundial. En esta nueva aventura de nuestros conocidos agentes: Skipper, Kowalski, Rico y Cabo deberán salvar al mundo del villano Dr. Octavius Brine, quien planea destruir la tierra tal y como la conocemos."
+    },
+    {
+      "show_name": "La vida secreta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "19:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Minions",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/minions.jpg",
+      "show_category": "Animación",
+      "start_time": "19:27",
+      "end_time": "21:00",
+      "episode_description": "La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación."
+    },
+    {
+      "show_name": "El Hombre de Acero",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_de_acero.jpg",
+      "show_category": "Acción",
+      "start_time": "21:00",
+      "end_time": "23:32",
+      "episode_description": "(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada."
+    },
+    {
+      "show_name": "Van Helsing El cazador de",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:32",
+      "end_time": "01:48",
       "episode_description": ""
     }
   ]

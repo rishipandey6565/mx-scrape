@@ -1,36 +1,44 @@
 {
   "channel": "AMC (México)",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "El pacto",
+      "show_name": "Una sombra en la nube",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Riddick",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:50",
-      "end_time": "04:00",
+      "end_time": "01:20",
       "episode_description": ""
     },
     {
       "show_name": "Machete",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:55",
+      "start_time": "01:20",
+      "end_time": "03:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Riddick",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:15",
+      "end_time": "05:25",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
+      "start_time": "05:25",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -111,71 +119,63 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "11:55",
+      "start_time": "11:35",
+      "end_time": "12:10",
       "episode_description": ""
     },
     {
-      "show_name": "Sexy por Accidente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/sexy-por-accidente.webp",
-      "show_category": "Comedia",
-      "start_time": "11:55",
-      "end_time": "14:00",
-      "episode_description": "Renee Bernett (Amy Schumer) sabe que es una chica promedio en un mundo de personas genéticamente hermosas. Después de caerse de una bicicleta de ejercicios y golpearse la cabeza, ella cree que un hechizo la ha vuelto sumamente hermosa. Excepto que, para el resto del mundo, ella se va exactamente igual. La nueva confianza de Renee de repente la ayuda a escalar posiciones en la compañía de cosméticos para la que trabaja, recibiendo el respeto de su ídolo y jefe, Avery LeClaire (Michelle Williams), finalmente, Renee se da cuenta de que \"el hechizo\" se ha esfumado, pero a través del proceso, aprende que la verdadera belleza no está en la apariencia."
-    },
-    {
-      "show_name": "Comer, Rezar, Amar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/comer-rezar-amar.webp",
-      "show_category": "Drama",
-      "start_time": "14:00",
-      "end_time": "16:40",
-      "episode_description": "Liz (Julia Roberts) es una escritora famosa pero se da cuenta que algo le falta en su vida, le comenta a su jefa Delia (Viola Davis) que tomara un año que lo dedicará a viajar por Italia, India y Bali. En sus viajes comerá para tener una relación con la comida, rezará para tranquilizar su alma y amará para arreglar todo lo que le hace falta en su vida."
-    },
-    {
-      "show_name": "Desesperada",
+      "show_name": "Z",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:40",
-      "end_time": "18:30",
+      "start_time": "12:10",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
-      "show_name": "Yo, Frankenstein",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/yo-frankenstein.webp",
+      "show_name": "Dobles de acción",
+      "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:00",
-      "episode_description": "200 años atrás, el Doctor Frankenstein hizo una criatura que llevaría su mismo apellido, desde entonces esta criatura ha estado habitando entre nosotros y ahora Adam Frankenstein (Aaron Eckhart) se encuentra atrapado en una batalla ancestral sobre el destino de la humanidad, Adam descubre que él tiene la llave que podría destruir la humanidad."
+      "start_time": "13:45",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amenaza roja",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "17:55",
+      "episode_description": ""
     },
     {
       "show_name": "Misión Imposible",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
+      "start_time": "17:55",
+      "end_time": "19:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tomb Raider",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:55",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Non-Stop: Sin Escalas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/non-stop-sin-escalas.webp",
-      "show_category": "Acción",
-      "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Durante el vuelo transatlántico desde la ciudad de Nueva York hacia Londres, el mariscal estadounidense Bill Marks (Liam Neeson), recibe una serie de mensajes amenazantes diciéndole que matará a un pasajero cada 20 minutos, a menos que le transfieran 150 millones de dólares a una cuenta. Con la vida de cientos de pasajeros colgando en un hilo, Marks debe utilizar todo lo que ha aprendido en su carrera para descubrir al asesino."
-    },
-    {
-      "show_name": "Una sombra en la nube",
+      "show_name": "Apocalypto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
-      "end_time": "01:20",
+      "start_time": "22:00",
+      "end_time": "00:35",
       "episode_description": ""
     }
   ]

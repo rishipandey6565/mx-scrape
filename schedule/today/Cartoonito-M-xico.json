@@ -1,9 +1,9 @@
 {
   "channel": "Cartoonito (México)",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Grizzy and the lemmings",
+      "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,31 +11,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pocoyó",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Blippi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
       "show_name": "Blippi Wonders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Meekah",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grizzy and the lemmings",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Grizzy and the lemmings",
+      "show_name": "Hey Fuzzy Yellow",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hey Fuzzy Yellow",
+      "show_name": "Morphle",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -59,15 +59,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Morphle",
+      "show_name": "Hey Duggee",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bea's block",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hey Duggee",
+      "show_name": "Mecha Builders",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bea's block",
+      "show_name": "Lucas the Spider",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -83,39 +91,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mecha Builders",
+      "show_name": "Bugs Bunny Builders",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lucas the Spider",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bugs Bunny Builders",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Batwheels",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cartoonito-M-xico/today/batwheels.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/batwheels.jpg",
       "show_category": "Animación",
-      "start_time": "09:00",
-      "end_time": "09:45",
+      "start_time": "08:00",
+      "end_time": "08:45",
       "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
     },
     {
       "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grizzy and the lemmings",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Blippi Block",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:45",
@@ -123,63 +131,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Grizzy and the lemmings",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Blippi Block",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:45",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Numberblocks",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
       "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:45",
+      "start_time": "10:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Mundo Bita Imagine-se",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
-      "end_time": "12:00",
+      "start_time": "10:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
       "show_name": "Bugs Bunny Builders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "11:00",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cartoonito-M-xico/today/batwheels.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/batwheels.jpg",
       "show_category": "Animación",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
     },
     {
       "show_name": "Cuquín",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La casa de muñecas de Gabby",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "12:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:45",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Booba",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -187,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La casa de muñecas de Gabby",
+      "show_name": "Lucas the Spider",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:15",
@@ -195,31 +203,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
-      "end_time": "14:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lucas the Spider",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:15",
-      "end_time": "14:45",
-      "episode_description": ""
-    },
-    {
       "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:45",
-      "end_time": "15:00",
+      "start_time": "13:45",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "Bugs Bunny Builders",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Batwheels",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/batwheels.jpg",
+      "show_category": "Animación",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
+    },
+    {
+      "show_name": "Hey Duggee",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -227,23 +235,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Batwheels",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cartoonito-M-xico/today/batwheels.webp",
-      "show_category": "Animación",
+      "show_name": "Minibods",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
+      "episode_description": ""
     },
     {
-      "show_name": "Hey Duggee",
+      "show_name": "Blippi Block",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mundo Bita Imagine-se",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Minibods",
+      "show_name": "Cosmo, el cosmonauta",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -251,111 +267,87 @@
       "episode_description": ""
     },
     {
-      "show_name": "Blippi Block",
+      "show_name": "Bugs Bunny Builders",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mundo Bita Imagine-se",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:15",
       "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cosmo, el cosmonauta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "17:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:45",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bugs Bunny Builders",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Batwheels",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cartoonito-M-xico/today/batwheels.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/batwheels.jpg",
       "show_category": "Animación",
-      "start_time": "18:30",
-      "end_time": "19:00",
+      "start_time": "17:30",
+      "end_time": "18:00",
       "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
     },
     {
       "show_name": "Mundo Bita Imagine-se",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:15",
+      "start_time": "18:00",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
       "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:15",
-      "end_time": "19:45",
+      "start_time": "18:15",
+      "end_time": "18:45",
       "episode_description": ""
     },
     {
       "show_name": "Cuquín",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:45",
-      "end_time": "20:00",
+      "start_time": "18:45",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Lu y sus amigos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:30",
+      "start_time": "19:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
       "show_name": "La casa de muñecas de Gabby",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "start_time": "19:30",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Bugs Bunny Builders",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cartoonito-M-xico/today/batwheels.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/batwheels.jpg",
       "show_category": "Animación",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": "¡Conoce a los geniales héroes con ruedas de Gotham City! ¡Súbete a la nueva serie para niños Batwheels! ¡Bam, Buff, BiBi, Redbird y Wing son los Batwheels que destruyen supervillanos y queman gomas, que trabajan juntos para salvar el día!"
     },
     {
       "show_name": "Lucas the Spider",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pocoyó",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

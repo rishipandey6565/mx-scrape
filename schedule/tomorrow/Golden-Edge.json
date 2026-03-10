@@ -1,110 +1,118 @@
 {
   "channel": "Golden Edge",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "El hijo de Chucky",
+      "show_name": "El club de la pelea",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "00:32",
       "episode_description": ""
     },
     {
-      "show_name": "Huesera",
+      "show_name": "Suave patria",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:05",
-      "end_time": "01:50",
+      "start_time": "00:32",
+      "end_time": "02:22",
       "episode_description": ""
     },
     {
-      "show_name": "Barrabás",
+      "show_name": "Peligro en la montaña",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:50",
-      "end_time": "03:57",
+      "start_time": "02:22",
+      "end_time": "04:05",
       "episode_description": ""
     },
     {
-      "show_name": "Fatale",
+      "show_name": "El ascensor del Diablo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:57",
-      "end_time": "05:50",
+      "start_time": "04:05",
+      "end_time": "05:32",
       "episode_description": ""
     },
     {
-      "show_name": "Casino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Edge/tomorrow/casino.webp",
-      "show_category": "Drama",
-      "start_time": "05:50",
-      "end_time": "09:03",
-      "episode_description": "Como la ambición ciega, la pasión candente y la codicia de los 24 quilates derribaron un imperio. Las Vegas 1973 es el escenario de esta historia basada en hechos sobre la operación multimillonaria del casino del casino de la muchedumbre – donde las fortunas y las vidas fueron creadas y perdidas en un tirar de dados."
-    },
-    {
-      "show_name": "La cabaña",
+      "show_name": "El rastreador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:03",
-      "end_time": "11:26",
+      "start_time": "05:32",
+      "end_time": "07:03",
       "episode_description": ""
     },
     {
-      "show_name": "Baywatch: Guardianes de la Bahía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Edge/tomorrow/baywatch-guardianes-de-la-bahía.webp",
-      "show_category": "Comedia",
-      "start_time": "11:26",
-      "end_time": "13:32",
-      "episode_description": "Matt Brody (Zac Efron) es el nuevo recluta que llega a la playa integrándose a las líneas guardianes de la bahía, en los primeros días de la llegada de Matt, Mitch Buchannon (Dwayne Johnson), descubren una serie de crimines, Mitch junto con su equipo deciden ponerse manos a la obra para detener a estos criminales, y poder defender lo que han jurado proteger."
-    },
-    {
-      "show_name": "El hijo de Chucky",
+      "show_name": "Los hijos de la calle",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:32",
-      "end_time": "15:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chucky, el muñeco diabólico 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:07",
-      "end_time": "16:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "8 Mile: Calle de las Ilusiones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:46",
-      "end_time": "18:47",
+      "start_time": "07:03",
+      "end_time": "09:46",
       "episode_description": ""
     },
     {
       "show_name": "Historia Americana X",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:47",
-      "end_time": "21:00",
+      "start_time": "09:46",
+      "end_time": "11:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "8 Mile: Calle de las Ilusiones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:59",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "El pico de Dante",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:56",
+      "start_time": "14:00",
+      "end_time": "15:56",
       "episode_description": ""
     },
     {
-      "show_name": "El club de la pelea",
+      "show_name": "No manches Frida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:56",
-      "end_time": "01:32",
+      "start_time": "15:56",
+      "end_time": "18:02",
       "episode_description": ""
+    },
+    {
+      "show_name": "Baila Conmigo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:02",
+      "end_time": "20:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Bamba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:20",
+      "end_time": "22:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El títere",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:20",
+      "end_time": "23:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrapen al Gringo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/atrapen_al_gringo.jpg",
+      "show_category": "",
+      "start_time": "23:57",
+      "end_time": "01:38",
+      "episode_description": "Encarcelado por las autoridades mexicanas por haber robado dinero de un jefe de la mafia de San Diego, Driver (Mel Gibson), es enviado a una prisión de mala muerte donde conocerá los peligros de que se le conoce como “El Pueblito”. Este no es un lugar para cualquiera y mucho menos para un extranjero, a menos que reciba la ayuda de alguien como el niño de 10 años, quien a su vez necesitará la ayuda de Driver."
     }
   ]
 }

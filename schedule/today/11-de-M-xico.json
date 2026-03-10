@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Operación mamut",
+      "show_name": "¿Más vale maña que fuerza?",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,63 +11,79 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ha Nacido una Estrella",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Himno Nacional",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:02",
+      "start_time": "00:00",
+      "end_time": "00:02",
       "episode_description": ""
     },
     {
-      "show_name": "Ha Nacido una Estrella",
+      "show_name": "¿Más vale maña que fuerza?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:02",
-      "end_time": "02:00",
+      "start_time": "00:02",
+      "end_time": "00:15",
       "episode_description": ""
     },
     {
-      "show_name": "La Hora Nacional",
+      "show_name": "Mañanera 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bichos en el corazón de la Tierra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Diálogos En Confianza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "05:15",
+      "start_time": "00:15",
+      "end_time": "01:15",
       "episode_description": ""
     },
     {
       "show_name": "Big Cities",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:15",
-      "end_time": "05:30",
+      "start_time": "01:15",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Diario De Viaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Diálogos En Confianza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bichos en el corazón de la Tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
       "show_name": "La aventura de México desconocido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aprender a Envejecer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Actívate",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -75,111 +91,119 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aprender a Envejecer",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Actívate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Himno Nacional",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Radio, Televisión, y Cinematografía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:02",
-      "end_time": "07:07",
+      "start_time": "06:00",
+      "end_time": "06:02",
       "episode_description": ""
     },
     {
       "show_name": "Once Noticias a las seis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:07",
-      "end_time": "10:30",
+      "start_time": "06:02",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
       "show_name": "Diálogos En Confianza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:30",
+      "start_time": "09:30",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Aprender a Envejecer",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Once Noticias al minuto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:03",
+      "start_time": "12:00",
+      "end_time": "12:03",
       "episode_description": ""
     },
     {
-      "show_name": "Cantaclaro",
+      "show_name": "En este pueblo no hay ladrones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:03",
-      "end_time": "14:45",
+      "start_time": "12:03",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Big Cities",
+      "show_name": "Conmemoraciones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:45",
-      "end_time": "15:00",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
       "show_name": "Once Noticias a las dos",
       "show_logo": "",
       "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un lugar llamado México",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El libro rojo: Especies amenazadas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "A+A",
+      "show_name": "Escuela de rugidos",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "16:55",
+      "end_time": "16:07",
       "episode_description": ""
     },
     {
-      "show_name": "Radio, Televisión, y Cinematografía",
+      "show_name": "Sam y Julia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:55",
+      "start_time": "16:07",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daniel Tigre y su Vecindad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Escuela de rugidos",
+      "show_name": "Zander",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -187,47 +211,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sam y Julia",
+      "show_name": "Shaun, el cordero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:07",
+      "end_time": "17:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi hermano el monstruo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:15",
       "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Alma",
+      "show_name": "Academia de superhéroes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "17:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Prueba total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:45",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Juani y Gatón",
+      "show_name": "Once Noticias al minuto",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:07",
+      "end_time": "18:03",
       "episode_description": ""
     },
     {
-      "show_name": "Amigas/os ONN: Detrás de la artesanía",
+      "show_name": "Crónicas de barrio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:07",
-      "end_time": "18:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La orquestita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:15",
+      "start_time": "18:03",
       "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "El escuadrón de lo increíble",
+      "show_name": "¿Quién era David Alfaro Siqueiros?",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -243,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Historias de vida",
+      "show_name": "Relatos de Mujeres",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:03",
@@ -251,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aprender en comunidad",
+      "show_name": "Lugares Secretos",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -259,23 +291,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Once Noticias al minuto",
+      "show_name": "Especiales del Once",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Relatos de Mujeres",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:03",
       "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Lugares Secretos",
+      "show_name": "Tríptico",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -283,23 +307,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectivas históricas",
+      "show_name": "Punto de referencia, tu noticiero",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ciudad Infinita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Punto de referencia, tu noticiero",
+      "show_name": "Masiosare",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -307,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare",
+      "show_name": "Sin muros",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

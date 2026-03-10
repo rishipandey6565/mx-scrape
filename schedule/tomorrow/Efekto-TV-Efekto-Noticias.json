@@ -1,7 +1,15 @@
 {
   "channel": "Efekto TV (Efekto Noticias)",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
     {
       "show_name": "Programa Pagado",
       "show_logo": "",
@@ -55,6 +63,62 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -91,34 +155,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Programa Pagado",
+      "show_name": "Reel institucional",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Programa Pagado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
       "show_name": "Reel institucional",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reel institucional",
+      "show_name": "Capital FM",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Capital pirata FM",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -139,34 +203,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Capital FM",
+      "show_name": "Reel institucional",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Capital pirata FM",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Reel institucional",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "21:00",
+      "start_time": "20:00",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reel institucional",
+      "show_name": "Programa Pagado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Pagado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }
