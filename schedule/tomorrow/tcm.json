@@ -1,150 +1,158 @@
 {
   "channel": "TCM",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
+      "show_name": "La chica del casillero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-chica-del-casillero-2015_l_m.jpg",
+      "show_category": "Coin Locker Girl",
+      "start_time": "00:31",
+      "end_time": "02:25",
+      "episode_description": "Una niña fue abandonada en el locker número 10 de una estación del metro. Su suerte la lleva a vivir entre la miseria y la crueldad de una familia de mafiosos que la forma como una criminal que cumple las misiones que le asignan."
+    },
+    {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 33",
-      "start_time": "01:08",
-      "end_time": "01:45",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e95_l_m.jpg",
+      "show_category": "Episodio 95",
+      "start_time": "02:25",
+      "end_time": "02:35",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 31",
-      "start_time": "01:45",
-      "end_time": "02:22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e93_l_m.jpg",
+      "show_category": "Episodio 93",
+      "start_time": "02:35",
+      "end_time": "02:46",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 29",
-      "start_time": "02:22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e100_l_m.jpg",
+      "show_category": "Episodio 100",
+      "start_time": "02:46",
       "end_time": "03:00",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 30",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e91_l_m.jpg",
+      "show_category": "Episodio 91",
       "start_time": "03:00",
-      "end_time": "03:38",
+      "end_time": "03:15",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 31",
-      "start_time": "03:38",
-      "end_time": "04:13",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hollywood-one-on-one-s00e92_l_m.jpg",
+      "show_category": "Episodio 92",
+      "start_time": "03:15",
+      "end_time": "03:24",
       "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/hollywood-one-on-one.webp",
-      "show_category": "Episodio 32",
-      "start_time": "04:13",
-      "end_time": "04:48",
-      "episode_description": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos."
-    },
-    {
-      "show_name": "Chica aterradora",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Scarygirl",
-      "start_time": "04:48",
-      "end_time": "04:30",
-      "episode_description": "Mientras su mundo está envuelto en oscuridad, una joven debe superar sus miedos y viajar a una misteriosa ciudad de luz, salvar a su padre de un científico peligroso y evitar la destrucción de su planeta."
-    },
-    {
-      "show_name": "Chica aterradora",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Scarygirl",
-      "start_time": "04:30",
-      "end_time": "06:04",
-      "episode_description": "Mientras su mundo está envuelto en oscuridad, una joven debe superar sus miedos y viajar a una misteriosa ciudad de luz, salvar a su padre de un científico peligroso y evitar la destrucción de su planeta."
-    },
-    {
-      "show_name": "El robo al banco de Inglaterra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Day They Robbed the Bank of England",
-      "start_time": "06:04",
-      "end_time": "07:36",
-      "episode_description": "En 1901, un grupo de nacionalistas irlandeses buscan dar un golpe al gobierno británico atracando el Banco de Inglaterra"
-    },
-    {
-      "show_name": "Cita en San Luis",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Meet Me in St. Louis",
-      "start_time": "07:36",
-      "end_time": "09:38",
-      "episode_description": "El matrimonio Smith, afincado en San Luis, tiene cuatro preciosas hijas. Una de ellas, Esther, se enamora de un vecino. Sin embargo, toda la familia debe trasladarse a Nueva York."
-    },
-    {
-      "show_name": "Esperando la carroza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/esperando-la-carroza.webp",
-      "show_category": "Comedia / 1985",
-      "start_time": "09:38",
-      "end_time": "11:22",
-      "episode_description": "Mamá Cora comienza a olvidar las cosas, hasta que un día sale a la calle y no regresa. La presunta pérdida de la abuela desata en la familia un terremoto en el que las miserias y las cuentas pendientes emergen con toda la potencia."
     },
     {
       "show_name": "El tesoro de Sierra Madre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
       "show_category": "The Treasure of the Sierra Madre",
-      "start_time": "11:22",
-      "end_time": "13:36",
+      "start_time": "03:24",
+      "end_time": "05:39",
       "episode_description": "Codicia, celos y sospecha plagan a tres hombres que se han dado a la búsqueda de oro en las montañas mexicanas."
     },
     {
       "show_name": "El rey del Once",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/el-rey-del-once.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-rey-del-once-2016_l_m.jpg",
       "show_category": "Drama / 2016",
-      "start_time": "13:36",
-      "end_time": "15:05",
+      "start_time": "05:39",
+      "end_time": "05:39",
+      "episode_description": "Ariel cree haber dejado atrás su pasado, distanciado de su progenitor, tras construir una nueva y exitosa vida como economista en Nueva York. Hasta que, llamado por su padre, vuelve a Buenos Aires, al barrio judío de su niñez."
+    },
+    {
+      "show_name": "El rey del Once",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-rey-del-once-2016_l_m.jpg",
+      "show_category": "Drama / 2016",
+      "start_time": "05:39",
+      "end_time": "06:55",
       "episode_description": "Ariel cree haber dejado atrás su pasado, distanciado de su progenitor, tras construir una nueva y exitosa vida como economista en Nueva York. Hasta que, llamado por su padre, vuelve a Buenos Aires, al barrio judío de su niñez."
     },
     {
       "show_name": "La legión invencible",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/la-legión-invencible.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-legion-invencible-1949_l_m.jpg",
       "show_category": "She Wore a Yellow Ribbon",
-      "start_time": "15:05",
-      "end_time": "16:59",
+      "start_time": "06:55",
+      "end_time": "08:47",
       "episode_description": "Después de la gran victoria de los indios en una lucha contra el general Custer, deciden unirse todas las tribus, reconquistar las tierras que pertenecieron a sus antepasados y expulsar a los rostros pálidos."
     },
     {
       "show_name": "El código enigma",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/el-código-enigma.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-codigo-enigma-2014_l_m.jpg",
       "show_category": "The Imitation Game",
-      "start_time": "16:59",
-      "end_time": "19:00",
+      "start_time": "08:47",
+      "end_time": "10:45",
       "episode_description": "Alan Turing y su equipo corren una carrera contrarreloj tratando de romper el cifrado de la máquina Enigma de la Alemania Nazi en el ultrasecreto Cuartel General de Comunicaciones del Gobierno del Reino Unido."
     },
     {
-      "show_name": "El último turno",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "The Last Shift",
-      "start_time": "19:00",
-      "end_time": "20:34",
-      "episode_description": "Stanley es un empleado de un restaurante que, tras 38 años de trabajo sin descanso, se prepara para realizar su último turno. Sin embargo, su vida toma un rumbo inesperado cuando le piden que entrene a la persona que lo reemplazará."
+      "show_name": "Nocturno",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Nocturne",
+      "start_time": "10:45",
+      "end_time": "12:17",
+      "episode_description": "Un detective de policía investiga a profundidad el supuesto suicidio de un compositor de Hollywood."
+    },
+    {
+      "show_name": "San Antonio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Western / 1945 /6.3",
+      "start_time": "12:17",
+      "end_time": "14:12",
+      "episode_description": "Un ranchero sospecha que el dueño de la taberna del lugar es el cerebro de una banda de ladrones. Sus investigaciones le llevan a enamorarse de la cantante del bar, quien está sometida a las órdenes del villano."
+    },
+    {
+      "show_name": "La hija de la novia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Daughter of the Bride",
+      "start_time": "14:12",
+      "end_time": "15:52",
+      "episode_description": "Diane y Kate, madre e hija, son amigas inseparables. Sin embargo, sus vidas dan un vuelco cuando Diane anuncia su compromiso con un hombre misterioso."
+    },
+    {
+      "show_name": "Nace una estrella",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "A Star Is Born",
+      "start_time": "15:52",
+      "end_time": "19:00",
+      "episode_description": "Norman Maine, un famoso actor con una seria adicción al alcohol que está en plena decadencia artística, descubre a una joven con un gran talento para la canción y decide impulsar su carrera cinematográfica."
     },
     {
       "show_name": "El ciudadano ilustre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/tcm/tomorrow/el-ciudadano-ilustre.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-ciudadano-ilustre-2016_l_m.jpg",
       "show_category": "Comedia / 2016",
-      "start_time": "20:34",
-      "end_time": "22:41",
+      "start_time": "19:00",
+      "end_time": "21:01",
       "episode_description": "La historia de un argentino Premio Nobel de Literatura, que hace cuarenta años se fue de su pueblo a Europa. Cuando el intendente de su pueblo natal lo invita para nombrarlo Ciudadano Ilustre, decide cancelar su agenda para regresar."
     },
     {
-      "show_name": "La mujer del año",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Woman of the Year",
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_signos-s01e16_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 16 - Castor y Polux",
+      "start_time": "21:01",
+      "end_time": "21:46",
+      "episode_description": "Después de su fuga, Antonio aprovecha la peregrinación de los Penitentes para volver al pueblo de incógnito y reencontrarse con su familia. El plan de venganza que comenzó dos años atrás solo podrá terminar con una nueva muerte."
+    },
+    {
+      "show_name": "El lobista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-lobista-s01e01-martillos-contra-el-mal_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Martillos contra el mal",
+      "start_time": "21:46",
+      "end_time": "22:41",
+      "episode_description": "Un negocio de rutina complica la vida del lobista Matías Franco cuando un cliente muere en circunstancias misteriosas."
+    },
+    {
+      "show_name": "La chica del casillero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-chica-del-casillero-2015_l_m.jpg",
+      "show_category": "Coin Locker Girl",
       "start_time": "22:41",
       "end_time": "",
-      "episode_description": "Un cronista deportivo y una comentarista de actualidad, se enamoran, se casan y adoptan un niño. Los problemas surgen cuando ella quiere seguir con su profesión y dejar la educación del niño en manos de su marido."
+      "episode_description": "Una niña fue abandonada en el locker número 10 de una estación del metro. Su suerte la lleva a vivir entre la miseria y la crueldad de una familia de mafiosos que la forma como una criminal que cumple las misiones que le asignan."
     }
   ]
 }

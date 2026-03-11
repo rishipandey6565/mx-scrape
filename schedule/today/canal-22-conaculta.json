@@ -1,34 +1,58 @@
 {
   "channel": "Canal 22",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Jazz",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
-    },
-    {
-      "show_name": "Música hecha en México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Musical",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
-    },
-    {
       "show_name": "A confirmar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/a-confirmar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-confirmar_l_m.jpg",
       "show_category": "Variedades",
-      "start_time": "02:00",
-      "end_time": "05:00",
+      "start_time": "00:00",
+      "end_time": "00:30",
       "episode_description": "Programación a confirmar."
     },
     {
+      "show_name": "Cultura 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+    },
+    {
+      "show_name": "Marquesina rumbo al Oscar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Especial",
+      "start_time": "01:30",
+      "end_time": "02:30",
+      "episode_description": "Una de las noches más esperadas del mundo cinematográfico es la entrega de los premios Oscar, que reconoce el trabajo de directores, actrices, actores, editores, fotógrafos, vestuaristas, escenógrafos, maquillistas... del séptimo arte."
+    },
+    {
+      "show_name": "Ellas programan 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- ¿Más vale maña que fuerza?",
+      "start_time": "02:30",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "México global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-andres-caballero-milan-italia_l_m.jpg",
+      "show_category": "- Andrés Caballero, Milán, Italia",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
+    },
+    {
+      "show_name": "Mujeres al frente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "En cada capítulo, una mujer extraordinaria cuenta su historia personal para inspirar a las demás. Conoce más sobre la vida de las mujeres que participan del programa y sus relatos de superación, resiliencia y pasión."
+    },
+    {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -36,7 +60,7 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -44,7 +68,7 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
@@ -52,155 +76,139 @@
     },
     {
       "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
-      "end_time": "09:00",
+      "end_time": "09:30",
       "episode_description": "Conferencia de prensa matutina de la primera presidenta de México, Claudia Sheinbaum. Durante la cita, la mandataria reflexiona sobre lo más destacado en la agenda política del país, los proyectos a lograr y mucho más."
     },
     {
-      "show_name": "Vida saludable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/vida-saludable.webp",
-      "show_category": "Salud",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Serie que aborda diversos temas para prevenir y corregir malos hábitos en relación a la salud y otros temas relacionados con mantener un bienestar físico y también, mental."
-    },
-    {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Pantalla de cristal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/pantalla-de-cristal.webp",
+      "show_name": "Tratos y retratos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tratos-y-retratos_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de las producciones audiovisuales de México, con notas de interés y novedades."
+      "episode_description": "Conducido por Silvia lemus, este ciclo de entrevistas representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad."
     },
     {
       "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
       "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
     },
     {
-      "show_name": "Paraísos bajo el agua",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/paraísos-bajo-el-agua.webp",
-      "show_category": "Documental",
+      "show_name": "Una historia de Vasconia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_una-historia-de-vasconia-s01e01-el-mito-de-la-caverna_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - El mito de la caverna",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Arrecifes, tiburones y barcos hundidos son algunos de los protagonistas del océano que contribuyen a dibujar el paisaje marítimo, el cual tiene una historia en la que también convergen desastres naturales, la caza y el turismo."
+      "episode_description": "Se realiza un recorrido histórico hasta llegar a como vivían y se desenvolvían nuestros ante pasados, para descubrir los símbolos escritos dentro de diferentes cuevas del mundo como las de francia."
     },
     {
-      "show_name": "Me voy pal norte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/me-voy-pal-norte.webp",
-      "show_category": "Documental",
+      "show_name": "México global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-carlos-vargas-tallin-estonia_l_m.jpg",
+      "show_category": "- Carlos Vargas, Tallin, Estonia",
       "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Las experiencias de migrantes en busca del sueño americano. Las dificultades que enfrentan en su travesía, como la detención en la frontera, pérdida de familiares en el desierto y la lucha por mantener sus raíces y cultura."
+      "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
     },
     {
-      "show_name": "NCC Salud",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/ncc-salud.webp",
-      "show_category": "Salud",
+      "show_name": "¡Llegamos todas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
+      "episode_description": "Cada episodio es una ventana a la vida y trayectoria de una mujer que ha desafiado las diferentes barreras de género, redefiniendo el liderazgo en México. Es un espacio donde la cercanía y la reflexión son protagonistas."
     },
     {
-      "show_name": "Rodando caminos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Mujeres al frente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Hacer largos recorridos en bicicleta, conocer historias extraordinarias de personas comunes y llegar a lugares mágicos y escondidos que sorprenden a cualquier viajero, pasiones que se combinan en esta serie documental de 24 episodios."
+      "episode_description": "En cada capítulo, una mujer extraordinaria cuenta su historia personal para inspirar a las demás. Conoce más sobre la vida de las mujeres que participan del programa y sus relatos de superación, resiliencia y pasión."
     },
     {
       "show_name": "¡Clic clac!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/clic-clac.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_clic-clac-1_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
       "episode_description": "Espacio que propone un equilibrio entre formación y entretenimiento para niños, abarcando temas como ciencia, literatura, naturaleza, arte, tradiciones mexicanas e historia, presentados de una forma muy creativa."
     },
     {
-      "show_name": "Paraísos bajo el agua",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/paraísos-bajo-el-agua.webp",
-      "show_category": "Documental",
+      "show_name": "Una historia de Vasconia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_una-historia-de-vasconia-s01e01-el-mito-de-la-caverna_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - El mito de la caverna",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Arrecifes, tiburones y barcos hundidos son algunos de los protagonistas del océano que contribuyen a dibujar el paisaje marítimo, el cual tiene una historia en la que también convergen desastres naturales, la caza y el turismo."
+      "episode_description": "Se realiza un recorrido histórico hasta llegar a como vivían y se desenvolvían nuestros ante pasados, para descubrir los símbolos escritos dentro de diferentes cuevas del mundo como las de francia."
     },
     {
-      "show_name": "A fonda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_name": "Latinoamericanas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Violencia estética contra las mujeres",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "A Fonda es una serie documental que busca reflexionar sobre la identidad chilanga (de oriundos y adaptados) a través de sus costumbres culinarias. El conductor Diego Mejía presenta el testimonio de diversos cocineros y habitantes."
-    },
-    {
-      "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
-    },
-    {
-      "show_name": "La raíz doble",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-raíz-doble.webp",
-      "show_category": "Cultural",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
+      "episode_description": "Con una perspectiva progresista y de género, este programa busca analizar y debatir los acontecimientos políticos más relevantes en México y la Ciudad de México, situándolos en el contexto de la coyuntura latinoamericana."
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
-      "start_time": "20:00",
-      "end_time": "21:00",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
       "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/punto-de-referencia.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_punto-de-referencia_l_m.jpg",
       "show_category": "Político",
-      "start_time": "22:00",
-      "end_time": "22:30",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
     },
     {
-      "show_name": "Pantalla de cristal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/pantalla-de-cristal.webp",
-      "show_category": "Interés general",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de las producciones audiovisuales de México, con notas de interés y novedades."
+      "show_name": "La oveja eléctrica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-electrica-s20e00-el-efecto-murcielago_l_m.jpg",
+      "show_category": "Temporada 20 - ¿Para qué sirve tener un mundo interno? Juan luis arsuaga, investigador",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
     },
     {
-      "show_name": "Lumbreras del cine mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Entrevista",
+      "show_name": "Un día...",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 3",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "El cronista Guillermo Osorno comparte una jornada completa con distintos personajes, explorando sus rutinas, pensamientos y espacios. A lo largo del día, lo ordinario se transforma en un retrato cercano y revelador de la vida en México hoy."
+    },
+    {
+      "show_name": "Ellas programan 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Niños de mis ojos / El gigante / Casa chica",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Entrevistas a diferentes realizadores y trabajadores de proyectos audiovisuales."
+      "episode_description": "Ciclo cinematográfico que presenta películas realizadas por directoras mexicanas y que abordan desde la memoria hasta la identidad. Las producciones ofrecen nuevas miradas sobre la representación femenina en el México del siglo XXI."
     }
   ]
 }
