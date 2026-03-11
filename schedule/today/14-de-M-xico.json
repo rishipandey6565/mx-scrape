@@ -1,44 +1,52 @@
 {
   "channel": "14 de México",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "Gucha'chi",
+      "show_name": "La Tierra y la Carne",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:35",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Amor y Sexo (Safo 1963)",
+      "show_name": "Los tres García",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:35",
-      "end_time": "02:25",
+      "start_time": "00:00",
+      "end_time": "01:55",
       "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:25",
-      "end_time": "04:25",
+      "start_time": "01:55",
+      "end_time": "03:55",
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Diálogos por la democracia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:25",
-      "end_time": "05:25",
+      "start_time": "03:55",
+      "end_time": "04:55",
       "episode_description": ""
     },
     {
-      "show_name": "Maestros olvidados",
+      "show_name": "Tv Médica",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:25",
+      "start_time": "04:55",
+      "end_time": "05:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "México lindo en corto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:45",
       "end_time": "06:10",
       "episode_description": ""
     },
@@ -75,50 +83,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "TV Migrante Informa",
+      "show_name": "Ama de Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
-      "end_time": "10:45",
+      "end_time": "11:05",
       "episode_description": ""
     },
     {
-      "show_name": "Ventana al Mundo",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reportaje 14",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:45",
+      "start_time": "11:05",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
-      "end_time": "12:40",
+      "start_time": "12:00",
+      "end_time": "13:05",
       "episode_description": ""
     },
     {
-      "show_name": "Tv Médica",
+      "show_name": "Identidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:40",
-      "end_time": "13:30",
+      "start_time": "13:05",
+      "end_time": "13:35",
       "episode_description": ""
     },
     {
-      "show_name": "MUCHO+Q2",
+      "show_name": "La independencia inconclusa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
+      "start_time": "13:35",
       "end_time": "14:30",
       "episode_description": ""
     },
@@ -127,22 +127,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "15:45",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
-      "show_name": "Amor y Sexo (Safo 1963)",
+      "show_name": "Piedras que hablan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:45",
-      "end_time": "17:35",
+      "start_time": "16:05",
+      "end_time": "17:05",
       "episode_description": ""
     },
     {
-      "show_name": "La Tierra y la Carne",
+      "show_name": "Músicos en directo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:35",
+      "start_time": "17:05",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Debate Público",
+      "show_name": "Versiones Públicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Identidad",
+      "show_name": "Los Secretos de la Corrupción",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -195,11 +195,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Tierra y la Carne",
+      "show_name": "Bajo el Volcán",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:00",
+      "end_time": "01:25",
       "episode_description": ""
     }
   ]

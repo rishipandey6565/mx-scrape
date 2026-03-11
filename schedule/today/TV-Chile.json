@@ -1,28 +1,20 @@
 {
   "channel": "TV Chile",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
-    {
-      "show_name": "El Medio Día",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
     {
       "show_name": "Hacedor de Hambre",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
       "show_name": "24 noche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:45",
       "end_time": "01:30",
       "episode_description": ""
     },
@@ -31,14 +23,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Frutos del País",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,22 +31,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:45",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Buenos Días a Todos",
+      "show_name": "Cambio de mando",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Medio Día",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
+      "start_time": "05:00",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -75,58 +51,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Cambio de mando",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El especialista responde",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Medio Día",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Programa Pagado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Programa Pagado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Romané",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hacedor de Hambre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -147,10 +75,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chile Conectado",
+      "show_name": "Destinos Turísticos",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El especialista responde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
       "end_time": "21:45",
       "episode_description": ""
     },

@@ -1,9 +1,17 @@
 {
   "channel": "22 de México",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "¿Más vale maña que fuerza?",
+      "show_name": "Ellas programan Nyanga",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "Latinoamericanas",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -27,18 +35,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Más vale maña que fuerza?",
+      "show_name": "Ellas programan Nyanga",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
-      "end_time": "04:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "México Global Norteamérica",
+      "show_name": "Una historia de vasconia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujeres al frente",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conferencia del Pueblo",
+      "show_name": "Conferencia del Pueblo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tratos y retratos",
+      "show_name": "Pantalla de cristal",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Una historia de vasconia",
+      "show_name": "El Cancionero y sus Amigos",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -107,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Llegamos Todas!",
+      "show_name": "Sanamente",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -131,15 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Una historia de vasconia",
+      "show_name": "Aqua",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crónica Animal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Latinoamericanas",
+      "show_name": "Arquetipas",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -171,26 +195,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La oveja eléctrica",
+      "show_name": "Taller de las Audiencias",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "Un Dia...con Osorno",
+      "show_name": "Titixe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ellas programan Nyanga",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

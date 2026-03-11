@@ -1,28 +1,12 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
       "show_name": "Live from the players",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PGA Tour Highlight Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Live from the players",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -39,19 +23,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "06:00",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Live from the players",
+      "show_name": "PGA TOUR Specials",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
+      "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Live from the players",
+      "show_name": "Live From THE PLAYERS",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -59,15 +43,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "PGA TOUR Specials",
+      "show_name": "PGA TOUR: The CUT",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Players Championship: Preview Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "PGA Tour Highlight Show",
+      "show_name": "PGA TOUR Specials",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Live from the players",
+      "show_name": "Live From THE PLAYERS",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
