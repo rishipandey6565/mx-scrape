@@ -1,6 +1,6 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
     {
       "show_name": "Contacto deportivo\nEn Vivo",
@@ -15,6 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "México Nuevo Siglo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -52,7 +68,7 @@
     },
     {
       "show_name": "PJ Masks: Héroes en Pijamas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/pj-masks-héroes-en-pijamas.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
       "show_category": "Animación",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -60,7 +76,7 @@
     },
     {
       "show_name": "PAW Patrol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/paw-patrol.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
       "show_category": "Animación",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -84,7 +100,7 @@
     },
     {
       "show_name": "Sonic Boom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/sonic-boom.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
       "show_category": "Animación",
       "start_time": "09:00",
       "end_time": "10:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Los Jóvenes Titanes En Acción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/los-jóvenes-titanes-en-acción.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
       "show_category": "Animación",
       "start_time": "13:00",
       "end_time": "14:30",
@@ -124,51 +140,35 @@
     },
     {
       "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/bob-esponja.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png",
       "show_category": "Animación",
       "start_time": "16:00",
-      "end_time": "17:30",
+      "end_time": "18:00",
       "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
     },
     {
-      "show_name": "el chavo animado",
+      "show_name": "Si no Despierto",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/si_no_despierto.jpg",
+      "show_category": "Drama",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "episode_description": "¿Y si sólo tuvieras un día más para poder cambiarlo todo? Samantha Kinston (Zoey Deutch) lo tiene todo: los amigos perfectos, el novio perfecto, y un futuro aparentemente perfecto. Pero entonces, todo cambia. Después de una noche trágica, Sam se despierta sin futuro alguno. Atrapada reviviendo el mismo día una y otra vez, ella comienza a preguntarse cuán perfecta es realmente su vida. A medida que comienza a desentrañar el misterio de una vida repentinamente descarrilada, ella también deberá desentrañar los secretos de las personas más cercanas a ella y descubrir el poder de un solo día para hacer una gran diferencia, no sólo en su propia vida, si no en las vidas de las personas que la rodean – antes de que se quede sin tiempo para siempre."
+    },
+    {
+      "show_name": "Despierto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:30",
+      "start_time": "20:00",
+      "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Los espectros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El hijo de Chucky",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:45",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chicago PD",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/chicago-pd.webp",
-      "show_category": "Acción",
-      "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
-    },
-    {
-      "show_name": "Contacto deportivo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
+      "show_name": "El Conjuro",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_conjuro.jpg",
+      "show_category": "Horror",
+      "start_time": "21:45",
       "end_time": "00:00",
-      "episode_description": ""
+      "episode_description": "\"The Conjuring\". Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) son dos investigadores de actividad paranormal que trabajan para ayudar a una familia que se encuentra aterrorizada por una presencia oscura en la casa de su granja.Forzados a enfrentarse a este ente poderoso, los Warren se ven a sí mismos atrapados en el caso más terrorífico de sus vidas."
     }
   ]
 }

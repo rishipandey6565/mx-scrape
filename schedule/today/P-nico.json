@@ -1,157 +1,149 @@
 {
   "channel": "Pánico",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
-    {
-      "show_name": "Solum",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De la Oscuridad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:56",
-      "end_time": "02:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sweet Home",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:35",
-      "end_time": "04:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hasta los Huesos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:01",
-      "end_time": "06:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lyle",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "07:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Maldición Del Mary Celeste",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:24",
-      "end_time": "08:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:42",
-      "end_time": "09:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Abandon",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:12",
-      "end_time": "10:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:53",
-      "end_time": "11:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aprisionados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:24",
-      "end_time": "12:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:57",
-      "end_time": "13:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Gran Despertar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:28",
-      "end_time": "14:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ich-Chi",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:36",
-      "end_time": "16:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Escuela",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:07",
-      "end_time": "17:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Leyenda de Halloween Jack",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:40",
-      "end_time": "19:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Leyenda Del Muñeco Robert",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:05",
-      "end_time": "20:27",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Somnia: Antes de Despertar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:27",
-      "end_time": "22:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jessabelle",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:10",
-      "end_time": "23:48",
-      "episode_description": ""
-    },
     {
       "show_name": "Robert Renacido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:48",
+      "start_time": "00:00",
       "end_time": "01:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Niña de Papá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:09",
+      "end_time": "02:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tormento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:57",
+      "end_time": "04:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sacrificio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:20",
+      "end_time": "05:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Del Cielo Al Infierno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:55",
+      "end_time": "07:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:31",
+      "end_time": "08:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Miedo Profundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:02",
+      "end_time": "09:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:25",
+      "end_time": "09:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Terror Talk",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:55",
+      "end_time": "11:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:28",
+      "end_time": "11:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jack In the Box: El Origen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:59",
+      "end_time": "13:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Cuidadora de la Mansión Garret",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:33",
+      "end_time": "15:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Casa Del Árbol",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:22",
+      "end_time": "17:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Amusement Park",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:07",
+      "end_time": "18:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Post Mortem: Fotos Del Más Allá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:06",
+      "end_time": "20:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi ángel guardián",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:06",
+      "end_time": "21:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sweet River",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:54",
+      "end_time": "23:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "It Came From Below",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:42",
+      "end_time": "01:10",
       "episode_description": ""
     }
   ]

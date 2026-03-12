@@ -1,109 +1,117 @@
 {
   "channel": "HBO Mundi",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
-      "show_name": "Manchester Junto al Mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/manchester-junto-al-mar.webp",
-      "show_category": "Drama",
+      "show_name": "Elizabeth",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:20",
-      "episode_description": "Lee Chandler (Casey Affleck) es un conserje solitario de la ciudad de Boston que mientras trabaja recibe una llamada desgarradora, su hermano Joe (Kyle Chandler) ha muerto, dejándolo a él como el único tutor legal de su sobrino Patrick (Lucas Hedges), dejando a un lado su trabajo Lee regresa a Manchester para cuidar a Patrick, un joven de 16 años, se ve obligado a lidiar con su pasado que lo separó de su ex esposa Randi (Michelle Williams) y la comunidad donde nació y creció."
+      "end_time": "00:50",
+      "episode_description": ""
     },
     {
       "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:20",
-      "end_time": "01:15",
+      "start_time": "00:50",
+      "end_time": "01:45",
       "episode_description": ""
     },
     {
-      "show_name": "Candyman",
+      "show_name": "The Wolf Man",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
+      "start_time": "01:45",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Magnolia",
+      "show_name": "El Hombre invisible",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "06:15",
+      "end_time": "04:15",
       "episode_description": ""
     },
     {
-      "show_name": "Los marginados",
+      "show_name": "Prófugo por accidente",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:15",
-      "end_time": "08:05",
+      "start_time": "04:15",
+      "end_time": "06:05",
       "episode_description": ""
     },
     {
-      "show_name": "Waltz with bashir",
+      "show_name": "Empezar de nuevo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:05",
-      "end_time": "09:40",
+      "start_time": "06:05",
+      "end_time": "07:55",
       "episode_description": ""
     },
     {
-      "show_name": "The Settlers",
+      "show_name": "Día de entrenamiento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:40",
-      "end_time": "11:25",
+      "start_time": "07:55",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Kneecap",
+      "show_name": "Promesas del Este",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:25",
-      "end_time": "13:15",
+      "start_time": "10:00",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "Mountainhead",
+      "show_name": "Gangster americano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:15",
-      "end_time": "15:10",
+      "start_time": "11:45",
+      "end_time": "14:25",
       "episode_description": ""
     },
     {
-      "show_name": "Anora",
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
+      "start_time": "14:25",
+      "end_time": "16:15",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
+    },
+    {
+      "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:10",
-      "end_time": "17:35",
+      "start_time": "16:15",
+      "end_time": "17:10",
       "episode_description": ""
     },
     {
-      "show_name": "Mejor... imposible",
+      "show_name": "Boyhood momentos de una vida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:35",
+      "start_time": "17:10",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Wicked",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Red Social",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/red_social.jpg",
+      "show_category": "Película",
       "start_time": "20:00",
-      "end_time": "22:45",
-      "episode_description": ""
+      "end_time": "22:05",
+      "episode_description": "Nombre que recibe la película \"The Social Network\" en Latinoamérica, que cuenta la historia de Facebook desde sus comienzos y cómo fue que Mark Zuckerberg se vuelve multimillonario."
     },
     {
-      "show_name": "Elizabeth",
+      "show_name": "Jerry Maguire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:45",
-      "end_time": "00:50",
+      "start_time": "22:05",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

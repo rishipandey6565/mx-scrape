@@ -1,12 +1,20 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
-      "show_name": "En Primicia",
+      "show_name": "Bocas de arena",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esto es España",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
       "end_time": "00:30",
       "episode_description": ""
     },
@@ -119,19 +127,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:45",
-      "end_time": "16:40",
+      "end_time": "16:35",
       "episode_description": ""
     },
     {
       "show_name": "La promesa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:40",
+      "start_time": "16:35",
       "end_time": "17:35",
       "episode_description": ""
     },
     {
-      "show_name": "Un país mágico",
+      "show_name": "Sukha",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:35",
@@ -163,27 +171,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "The floor",
+      "show_name": "Al margen de todo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
-      "end_time": "22:15",
+      "end_time": "21:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Al margen de todo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:50",
+      "end_time": "23:30",
       "episode_description": ""
     },
     {
       "show_name": "Viaje al centro de la tele",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
-      "end_time": "23:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bocas de arena",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:15",
-      "end_time": "00:15",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]
