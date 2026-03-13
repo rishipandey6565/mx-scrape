@@ -1,9 +1,9 @@
 {
   "channel": "AYM Sports",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Fútbol Mexicano Liga Expansión",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,26 +11,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "IWRG: Platicando con",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Carlos García: Escalador de gran pared",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El pierrotazo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -39,22 +31,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Baloncesto Mexicano Femenino LNBP",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "05:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "El pierrotazo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
+      "start_time": "02:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -75,31 +59,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "IWRG: Platicando con",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
-      "end_time": "14:30",
+      "start_time": "10:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "Fútbol Mexicano Liga Expansión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
+      "start_time": "13:00",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Campeones",
+      "show_name": "La Cumbia Revienta",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -107,15 +83,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "IWRG: Platicando con",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "18:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baloncesto Mexicano Femenino LNBP",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
       "show_name": "IWRG: Platicando con",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Máximo Fútbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -131,11 +123,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Boxeo",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

@@ -1,126 +1,118 @@
 {
   "channel": "Cinema Platino",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
-    {
-      "show_name": "El secreto del lago",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dos tipos peligrosos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:53",
-      "end_time": "02:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi ex es un Espía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/mi-ex-es-un-espía.webp",
-      "show_category": "Acción",
-      "start_time": "02:53",
-      "end_time": "04:57",
-      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
-    },
-    {
-      "show_name": "La Guerra del Mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/la-guerra-del-mañana.webp",
-      "show_category": "Acción",
-      "start_time": "04:57",
-      "end_time": "07:12",
-      "episode_description": "Los viajeros del tiempo llegan desde 2051 para entregar un mensaje urgente: Dentro de 30 años, la humanidad está perdiendo una guerra contra una especie alienígena mortal. La única esperanza de supervivencia es que soldados y civiles sean transportados al futuro y se unan a la lucha. Decidido a salvar a al mundo para su hija, Dan Forester (Chris Pratt) se une a un científico brillante y su padre separado para reescribir el destino del planeta."
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:12",
-      "end_time": "07:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "AIR: La Historia Detrás del Logo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/air-la-historia-detrás-del-logo.webp",
-      "show_category": "",
-      "start_time": "07:43",
-      "end_time": "09:31",
-      "episode_description": "AIR: La Historia Detrás del Logo revela la increíble asociación revolucionaria entre el entonces novato Michael Jordan y la incipiente división de baloncesto de Nike, que revolucionó el mundo de los deportes y la cultura contemporánea con la marca Air Jordán.Una historia conmovedora que sigue la apuesta que define la carrera de un equipo poco convencional con todo en juego, la visión intransigente de una madre que sabe el valor del inmenso talento de su hijo y el fenómeno del baloncesto que se convertirá en el más grande de todos los tiempos."
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:31",
-      "end_time": "10:02",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sin Tiempo Para Morir",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/sin-tiempo-para-morir.webp",
-      "show_category": "Acción",
-      "start_time": "10:02",
-      "end_time": "12:45",
-      "episode_description": "James Bond (Daniel Craig) dejó el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz dura poco cuando su viejo amigo Felix Leiter (Jeffrey Wright) de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, lo que lleva a Bond tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología."
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:45",
-      "end_time": "13:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aprendices Fuera de Línea",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/aprendices-fuera-de-línea.webp",
-      "show_category": "Comedia",
-      "start_time": "13:16",
-      "end_time": "15:20",
-      "episode_description": "(The Internship) Nick (Owen Wilson) y Billy (Vince Vaughn) son dos vencedores que por décadas han trabajado sin tener que preocuparse por saber de tecnología e internet, todo esto está por cambiar cuando se dan cuenta que la empresa para la cual han trabajado por años, se da a la quiebra. Sin trabajo, no les queda más que intentar conseguir trabajo en google, pero la tarea no es fácil ya que la competencia está repleta de jóvenes con gran talento que al igual que ellos desean trabajar para el gigante motor de búsqueda de internet."
-    },
-    {
-      "show_name": "Mientras Estés Conmigo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:20",
-      "end_time": "17:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Horizonte: Una Leyenda Americana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:21",
-      "end_time": "20:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jack In the Box: El Origen",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:29",
-      "end_time": "22:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jack In the Box: El Despertar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:03",
-      "end_time": "23:42",
-      "episode_description": ""
-    },
     {
       "show_name": "Jack en la Caja Maldita 3: El Ascenso",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:42",
+      "start_time": "00:00",
       "end_time": "01:19",
       "episode_description": ""
+    },
+    {
+      "show_name": "Juego de Ladrones",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_robo_perfecto.jpg",
+      "show_category": "Acción",
+      "start_time": "01:19",
+      "end_time": "03:43",
+      "episode_description": "Una saga de crímenes de Los Ángeles en la línea de \"Calor\", sigue la vida de una unidad de élite del departamento del sheriff del condado de Los Ángeles y la banda de ladrones de bancos más exitosa del estado, mientras los forajidos planean un atraco aparentemente imposible al Banco de la Reserva Federal del centro de Los Ángeles."
+    },
+    {
+      "show_name": "La Casa Gucci",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_casa_gucci.jpg",
+      "show_category": "Crimen",
+      "start_time": "03:43",
+      "end_time": "06:20",
+      "episode_description": "La Casa Gucci está inspirada en la impactante historia real de imperio familiar detrás de la casa de moda italiana Gucci. A lo largo de tres décadas de amor, traición, decadencia, venganza y en última instancia un asesinato, veremos lo que significa un nombre, lo que vale y hasta dónde llegará una familia por el control."
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:20",
+      "end_time": "06:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Respect: La Historia de Aretha Franklin",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/respect_la_historia_de_aretha_franklin.jpg",
+      "show_category": "Biografía",
+      "start_time": "06:51",
+      "end_time": "09:18",
+      "episode_description": "Tras el ascenso de la carrera de Aretha Franklin (Jennifer Hudson) desde una niña cantado en el coro de la iglesia de su padre hasta su estrellato internacional, \"Respect\" es la notable historia real del viaje de la artista para encontrar su voz y convertirse en la Reina del Soul."
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:18",
+      "end_time": "09:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ataque a la casa blanca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:49",
+      "end_time": "11:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:46",
+      "end_time": "12:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El triunfo del espíritu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:17",
+      "end_time": "14:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Trece vidas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:32",
+      "end_time": "17:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La ballena",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:02",
+      "end_time": "19:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Birdman",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:04",
+      "end_time": "21:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Renacido",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/revenant_el_renacido.jpg",
+      "show_category": "Aventura",
+      "start_time": "21:05",
+      "end_time": "23:42",
+      "episode_description": "En una expedición a tierras americanas inexploradas, el legendario explorador Hugh Glass (Leonardo DiCaprio) es brutalmente atacado por un oso y es dado por muerto por los miembros de su equipo de caza. En su lucha por sobrevivir, Glass tolera un dolor inimaginable, así como la traición de su confidente John Fitzgerald (Tom Hardy). Su gran voluntad y el amor hacia su familia hacen que Glass haga todo lo posible por sobrevivir a un invierno cruel."
+    },
+    {
+      "show_name": "Luz de Luna",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/luz_de_luna.jpg",
+      "show_category": "Drama",
+      "start_time": "23:42",
+      "end_time": "01:37",
+      "episode_description": "Chiron (Alex Hibbert) es un chico que es atormentado todos los días en las calles de Miami, cuando regresa a su casa después de la escuela no solo vive el tormento del acoso de niños más grandes que él, sino que también lidiar con su madre Paula (Naomie Harris), una drogadicta que siempre le grita. Chiron debe explorar su propia sexualidad."
     }
   ]
 }

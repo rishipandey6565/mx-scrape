@@ -1,6 +1,6 @@
 {
   "channel": "ESNE TV",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
     {
       "show_name": "Siempre Alegres",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Desde el Corazón del Papa",
+      "show_name": "Donde Dios llora",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo lo Puedo en Cristo",
+      "show_name": "Documentales",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -147,18 +147,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "El secreto de la felicidad",
+      "show_name": "Tiempo para Tí",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ecclesia on line",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -171,18 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla y Santo Rosario desde Guadalajara Mexico",
+      "show_name": "La hora del encuentro",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "17:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Actualidad y Fé",
+      "show_name": "Santo Rosario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -203,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Tesoro de la Fe",
+      "show_name": "Sanando el corazón herido",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -235,10 +227,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siempre Alegres",
+      "show_name": "CDJ - Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Podcast real y verdadero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

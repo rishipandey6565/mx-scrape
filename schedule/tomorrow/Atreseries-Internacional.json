@@ -1,36 +1,28 @@
 {
   "channel": "Atreseries (Internacional)",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "UPA Next",
+      "show_name": "Velvet",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:17",
+      "end_time": "00:28",
       "episode_description": ""
     },
     {
       "show_name": "Pop up: aquí no hay quien viva",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:17",
-      "end_time": "03:43",
+      "start_time": "00:28",
+      "end_time": "04:09",
       "episode_description": ""
     },
     {
       "show_name": "Esposa Joven",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:43",
-      "end_time": "04:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Allí abajo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:53",
+      "start_time": "04:09",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -39,6 +31,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UPA Next",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:22",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -55,46 +55,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "10:30",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Travesía",
+      "show_name": "A tortas con la vida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:45",
+      "start_time": "11:00",
+      "end_time": "12:45",
       "episode_description": ""
     },
     {
-      "show_name": "Ciudad prohibida",
+      "show_name": "¡Solo se vive dos veces!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:45",
-      "end_time": "13:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dulce ambición",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:15",
-      "end_time": "14:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amar es para siempre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:15",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sueños de libertad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
+      "start_time": "12:45",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -107,51 +83,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Travesía",
+      "show_name": "Refugiados",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:45",
-      "end_time": "18:45",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Amar es para siempre",
+      "show_name": "La valla",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:45",
+      "start_time": "19:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cuerpo de élite",
+      "show_name": "Velvet",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dulce ambición",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:15",
-      "end_time": "22:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sueños de libertad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:15",
-      "end_time": "23:15",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
       "show_name": "Ciudad prohibida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:15",
-      "end_time": "00:45",
+      "start_time": "21:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pop up: aquí no hay quien viva",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "01:30",
       "episode_description": ""
     }
   ]

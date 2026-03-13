@@ -1,9 +1,9 @@
 {
   "channel": "TVC Deportes",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
     {
-      "show_name": "Extra Innings LMB",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,47 +11,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Extra Innings LMB",
+      "show_name": "Fútbol femenino amistosos internacionales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Baloncesto CIBACOPA",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "02:30",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:00",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
       "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "start_time": "02:30",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Béisbol sin fronteras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "03:30",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Quinto cuarto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol femenino amistosos internacionales",
+      "show_name": "Baloncesto Liga ACB",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -67,26 +67,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto CIBACOPA",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baloncesto Liga ACB",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
       "show_name": "Fútbol Copa de Francia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Liga Mexicana de Softbol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
+      "start_time": "13:00",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -111,63 +111,47 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "17:30",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Premier Tv",
+      "show_name": "Fútbol femenino amistosos internacionales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "América Bajo Par",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
+      "start_time": "17:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Quinto cuarto",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
+      "end_time": "20:05",
       "episode_description": ""
     },
     {
-      "show_name": "Fútbol Copa de Francia",
+      "show_name": "Baloncesto: Previa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "20:05",
+      "end_time": "20:15",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Total",
+      "show_name": "Baloncesto CIBACOPA",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:00",
+      "start_time": "20:15",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Boxeo Total",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tvc Deportes Total",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "22:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

@@ -1,33 +1,41 @@
 {
   "channel": "Film & Arts",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "McDonald & Dodds",
+      "show_name": "Una obra maestra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:40",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "La edad de la inocencia",
+      "show_name": "Un engaño de lujo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:40",
-      "end_time": "04:40",
+      "start_time": "00:00",
+      "end_time": "02:05",
       "episode_description": ""
     },
     {
-      "show_name": "La edad de la inocencia",
+      "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:40",
+      "start_time": "02:05",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Orfea enamorada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Íntimo y personal",
+      "show_name": "The Sound Weavers",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -35,115 +43,115 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Art Mysteries",
+      "show_name": "El Teatro En Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:30",
+      "end_time": "06:20",
       "episode_description": ""
     },
     {
-      "show_name": "The Graham Norton Show",
+      "show_name": "Vivaldi y Mozart en el Louvre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:20",
       "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La edad de la inocencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "10:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dance on",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:05",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Íntimo y personal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patience",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patience",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Íntimo y personal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La edad de la inocencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Graham Norton Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:35",
-      "end_time": "18:35",
       "episode_description": ""
     },
     {
       "show_name": "Orfea enamorada",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:35",
-      "end_time": "20:35",
+      "start_time": "07:30",
+      "end_time": "09:35",
       "episode_description": ""
     },
     {
-      "show_name": "The Art Mysteries",
+      "show_name": "Revelaciones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:35",
-      "end_time": "21:00",
+      "start_time": "09:35",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Graham Norton Show",
+      "show_name": "Gaby Moreno en el Troubadou",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "David Garrett",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un engaño de lujo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "14:55",
       "episode_description": ""
     },
     {
       "show_name": "Una obra maestra",
       "show_logo": "",
       "show_category": "",
+      "start_time": "14:55",
+      "end_time": "16:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Graham Norton Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:50",
+      "end_time": "17:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Volviéndose Marylin",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:40",
+      "end_time": "18:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "McDonald & Dodds",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:35",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tres colores Blanco",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:00",
+      "end_time": "23:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Vuelo del Globo Rojo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:50",
+      "end_time": "02:00",
       "episode_description": ""
     }
   ]

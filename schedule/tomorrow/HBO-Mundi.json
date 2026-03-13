@@ -1,110 +1,94 @@
 {
   "channel": "HBO Mundi",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
-    {
-      "show_name": "Jerry Maguire",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El sustituto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Soldado anónimo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "05:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Beetlejuice El superfantasma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:10",
-      "end_time": "06:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Código negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:45",
-      "end_time": "08:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Juez",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:25",
-      "end_time": "10:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jurado Nº 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:50",
-      "end_time": "12:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El juego de la fortuna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:50",
-      "end_time": "15:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Orgullo y prejuicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:10",
-      "end_time": "17:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Enseñanza de vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:20",
-      "end_time": "19:05",
-      "episode_description": ""
-    },
     {
       "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:05",
-      "end_time": "20:00",
+      "start_time": "00:00",
+      "end_time": "00:20",
       "episode_description": ""
+    },
+    {
+      "show_name": "Historia Americana X",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:20",
+      "end_time": "02:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El estado de juego violencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:25",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La lista de Schindler",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "06:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Infiltrado del KKKlan",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg",
+      "show_category": "Biografía",
+      "start_time": "06:20",
+      "end_time": "08:45",
+      "episode_description": "La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular."
     },
     {
       "show_name": "El brutalista",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "23:25",
+      "start_time": "08:45",
+      "end_time": "12:15",
       "episode_description": ""
     },
     {
-      "show_name": "HBO Movies",
+      "show_name": "Duna: Parte Dos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/duna_parte_dos.jpg",
+      "show_category": "Acción",
+      "start_time": "12:15",
+      "end_time": "15:05",
+      "episode_description": "Duna: Parte Dos explora el viaje mítico de Paul Atreides (Timothée Chalamet) mientras se une a Chani (Zendaya) y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever."
+    },
+    {
+      "show_name": "La sustancia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:25",
-      "end_time": "00:20",
+      "start_time": "15:05",
+      "end_time": "17:35",
       "episode_description": ""
+    },
+    {
+      "show_name": "Todo, en todas partes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:35",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Anora",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
+      "start_time": "22:25",
+      "end_time": "00:15",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
     }
   ]
 }
