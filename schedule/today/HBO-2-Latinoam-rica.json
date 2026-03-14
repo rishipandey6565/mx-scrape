@@ -1,110 +1,118 @@
 {
   "channel": "HBO 2 Latinoamérica",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "El intermediario",
+      "show_name": "Shazam! Fury of the Gods",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam_la_furia_de_los_dioses.jpg",
+      "show_category": "Acción",
+      "start_time": "00:00",
+      "end_time": "00:19",
+      "episode_description": "La película continua la historia del adolescente Billy Batson (Asher Angel) quien, al recitar la palabra mágica \"¡SHAZAM!\" (Zachary Levi) se transforma en su alter ego adulto de superhéroe, Shazam."
+    },
+    {
+      "show_name": "Tornados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
+      "start_time": "00:19",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Venom: El Último Baile",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/venom-el-último-baile.webp",
-      "show_category": "Acción",
-      "start_time": "00:00",
-      "end_time": "01:57",
-      "episode_description": "En Venom: El Último Baile, Tom Hardy regresa como Venom, uno de los personajes más grandiosos y complejos de Marvel, para la última película de la trilogía. Eddie y Venom están huyendo. Perseguidos por sus dos mundos y con la red cerrándose, el dúo se ve obligado a tomar una decisión devastadora que hará que el último baile de Venom y Eddie termine."
-    },
-    {
-      "show_name": "Resident Evil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/resident-evil.webp",
-      "show_category": "Acción",
-      "start_time": "01:57",
-      "end_time": "03:45",
-      "episode_description": "Algo podrido se está gestando bajo la meca industrial conocida como Ciudad Raccoon. Desconocida para sus millones de residentes, una enorme instalación subterránea de bioingeniería conocida como \"La Colmena\" ha desencadenado accidentalmente el letal y mutante Virus-T, matando a todos sus empleados. Para contener la fuga, la supercomputadora gobernante \"La Reina Roja\", ha sellado todas las entras y salidas. Ahora un equipo de élite de comandantes altamente entrenados incluyendo a Rain (Michelle Rodriguez), Alice (Milla Jovovich) y Matt (Eric Mabius) deben correr para penetrar a la \"Colmena\" para aislar el Virus-T antes de que consuma a la humanidad entera. Para hacerlo, deben superar las defensas mortales de la Reina Roja, enfrentarse a los empleados zombis come carne, luchar con perros mutantes asesinos y luchar contra \"Cazador\", una bestia salvaje genéticamente alterada cuya fuerza aumenta cada vez que se alimenta de sus víctimas asesinadas."
-    },
-    {
-      "show_name": "El caso de Richard Jewell",
+      "show_name": "DTF St. Louis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:45",
+      "start_time": "02:30",
+      "end_time": "03:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enemigos Públicos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/enemigos_publicos.jpg",
+      "show_category": "Biografía",
+      "start_time": "03:32",
       "end_time": "06:00",
-      "episode_description": ""
+      "episode_description": "(Public Enemies) En los años de 1930 en la ciudad de Chicago, en los Estados Unidos, uno de los más notables asalta bancos, John Dillinger (Johnny Depp) ama tanto su trabajo y esto es lo que lo hace a él sentirse bien.Este delincuente ha huido de la ciudad con ningún tipo de miedo a las represalias que las autoridades tienen hacia él y su banda de delincuentes. Mientras el continua asaltando bancos y huyendo de la justicia con su banda de ladrones, el conoce a Billie Frechette (Marion Cotillard) y termina enamorándose de esta mujer que logra entrar en su corazón frio. Mientras él se enamora y empieza su romance con Billie un agente del FBI Mervin Purvis (Christian Bale) se hace cargo del caso de estos roba bancos y Purvis está obsesionado en capturar a Dillinger a toda costa y no descansará hasta capturarlo a él y su banda."
     },
     {
-      "show_name": "Aquellos Que Desean Mi Muerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/aquellos-que-desean-mi-muerte.webp",
-      "show_category": "Acción",
+      "show_name": "Furia de Titanes 2",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:48",
-      "episode_description": "Hannah (Angelina Jolie), una bombera paracaidista que aún se tambalea por la pérdida de tres vidas que no pudo salvar de un incendio cuando se encuentra con un niño de 12 años traumatizado sin ningún otro lugar a donde acudir."
-    },
-    {
-      "show_name": "Oblivion",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/oblivion.webp",
-      "show_category": "Acción",
-      "start_time": "07:48",
-      "end_time": "10:00",
-      "episode_description": "En un planeta tierra de un futuro distante con una superficie destruida luego de décadas de guerras con extraterrestres, un hombre llamado Jack Harper (Tom Cruise), es el técnico encargado de reparar drones de la tierra, descubre los restos de una nave espacial que al inspeccionarla de cerca se hace nuevamente pregunta de todo lo que él creía acerca de la guerra y a lo mejor ahora está en él el destino de la humanidad."
-    },
-    {
-      "show_name": "H. Potter y la Órden del",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "12:25",
+      "end_time": "07:44",
       "episode_description": ""
     },
     {
-      "show_name": "Aquaman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/aquaman.webp",
-      "show_category": "Acción",
-      "start_time": "12:25",
-      "end_time": "14:55",
-      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
-    },
-    {
-      "show_name": "Sisu Camino a la venganza",
+      "show_name": "Destino final 4",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:55",
-      "end_time": "16:32",
+      "start_time": "07:44",
+      "end_time": "09:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
+      "show_category": "Acción",
+      "start_time": "09:10",
+      "end_time": "11:30",
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
+    },
+    {
+      "show_name": "Rooster",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
       "show_name": "Como agua para chocolate",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:32",
-      "end_time": "17:22",
+      "start_time": "12:05",
+      "end_time": "12:55",
       "episode_description": ""
     },
     {
-      "show_name": "M3GAN 2.0",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/m3gan-20.webp",
-      "show_category": "Acción",
-      "start_time": "17:22",
-      "end_time": "19:30",
-      "episode_description": "Dos años después de que M3GAN, una maravilla de la inteligencia artificial, se rebelara y se embarcara en una masacre (con una coreografía implacable) y fuera posteriormente destruida, su creadora, Gemma (Allison Williams), se ha convertido en una reconocida autora y defensora de la supervisión gubernamental de la IA. Mientras tanto, Cady (Violet McGraw), la sobrina de Gemma, de 14 años, se ha convertido en una adolescente que se rebela contra las reglas sobreprotectoras de Gemma.Sin que ellos lo sepan, la tecnología subyacente de M3GAN ha sido robada y utilizada indebidamente por un poderoso contratista de defensa para crear un arma de grado militar conocida como Amelia (Ivanna Sakhno), la espía asesina de la infiltración definitiva. Pero a medida que Amelia adquiere mayor autoconciencia, pierde cada vez más interés en obedecer órdenes humanas. O en mantenerlas cerca. Con el futuro de la humanidad en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN (Amie Donald) y dotarla de algunas mejoras que la hagan más rápida, fuerte y letal. Al cruzar sus caminos, el icono original de la IA está a punto de encontrar su rival."
+      "show_name": "Amigos con beneficios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:55",
+      "end_time": "14:51",
+      "episode_description": ""
     },
     {
-      "show_name": "El Hombre de Acero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/el-hombre-de-acero.webp",
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
       "show_category": "Acción",
-      "start_time": "19:30",
+      "start_time": "14:51",
+      "end_time": "17:11",
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
+    },
+    {
+      "show_name": "Una batalla tras otra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:11",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El intermediario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "22:00",
-      "episode_description": "(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada."
+      "episode_description": ""
     },
     {
-      "show_name": "Shazam! Fury of the Gods",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/shazam-fury-of-the-gods.webp",
+      "show_name": "Black Adam",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/black_adam.jpg",
       "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:19",
-      "episode_description": "La película continua la historia del adolescente Billy Batson (Asher Angel) quien, al recitar la palabra mágica \"¡SHAZAM!\" (Zachary Levi) se transforma en su alter ego adulto de superhéroe, Shazam."
+      "end_time": "00:13",
+      "episode_description": "Casi 5000 años después de que los dioses antiguos le confirieran los poderes todopoderosos y lo encarcelaran con la misma rapidez – Black Adam (Dwayne Johnson) es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno."
     }
   ]
 }
