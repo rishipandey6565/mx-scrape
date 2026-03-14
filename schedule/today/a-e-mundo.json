@@ -1,302 +1,398 @@
 {
   "channel": "A&E",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Crímenes no resueltos: el ADN habla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - Un camino fatal",
+      "show_name": "Las primeras 48: minutos críticos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Interrogaciones: mentiras y lo que dices",
       "start_time": "00:20",
       "end_time": "01:05",
-      "episode_description": "En 1995, una joven de catorce años es brutalmente asesinada en un sendero boscoso, en la ciudad de Atlanta, Georgia. El departamento de policía y la comunidad se unen para apoyar a su madre en su busca de la justicia."
-    },
-    {
-      "show_name": "Crímenes no resueltos: el ADN habla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Luchó como el infierno",
-      "start_time": "01:05",
-      "end_time": "01:50",
-      "episode_description": "Cuando el coche manchado de sangre de Stefanie Watson es encontrado en un estacionamiento de Maryland, su familia mantiene la esperanza de que siga viva."
-    },
-    {
-      "show_name": "City Confidential",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 7 Episodio 134 - Derrame de sangre en Brookland",
-      "start_time": "01:50",
-      "end_time": "02:35",
-      "episode_description": "Tres empleados son asesinados a tiros dentro de uno de los lugares favoritos para almorzar en Washington D.C."
-    },
-    {
-      "show_name": "City Confidential",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 7 Episodio 135 - Violencia en la villa",
-      "start_time": "02:35",
-      "end_time": "03:20",
-      "episode_description": "El terror arrasa un exclusivo distrito comercial de Houston, Texas, cuando un tirador decide atacar a las mujeres sin previo aviso."
-    },
-    {
-      "show_name": "City Confidential",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 14 Episodio 11 - Santo terror",
-      "start_time": "03:20",
-      "end_time": "04:05",
-      "episode_description": "En 2002, Diane Snellen fue encontrada brutalmente asesinada. Durante casi un año, la policía luchó por resolver el misterio; pero un golpe de suerte llevó a los detectives a sospechosos inesperados."
-    },
-    {
-      "show_name": "Acusado: ¿yo lo hice?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - ¿Partera negligente o cuidador responsable?",
-      "start_time": "04:05",
-      "end_time": "04:50",
-      "episode_description": "Después de que una partera sin licencia asiste un parto en el hogar, el bebé muere. La partera es acusada de negligencia infantil con resultado fatal. Ella dice que hizo todo lo que debía, pero la fiscalía cree que no estaba capacitada."
-    },
-    {
-      "show_name": "Acusado: ¿yo lo hice?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - ¿Esposa asesina o cónyuge maltratado?",
-      "start_time": "04:50",
-      "end_time": "05:35",
-      "episode_description": "Un esposo se cae de un coche y muere tirado en la calle, tras una acalorada discusión con su esposa. Más tarde, la esposa afirma no recordar haberlo herido en absoluto."
-    },
-    {
-      "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 75",
-      "start_time": "05:35",
-      "end_time": "06:00",
-      "episode_description": "Un hombre es arrestado por la policía en Utah y una mujer orina en un estacionamiento en Texas. Además, se realiza una búsqueda canina en Carolina del Sur."
-    },
-    {
-      "show_name": "Acumuladores compulsivos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/acumuladores-compulsivos.webp",
-      "show_category": "Temporada 15 Episodio 8 - Canada: Coral",
-      "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": "Coral es profesora, artista y herborista. Su casa está repleta de arte, instrumentos musicales, manualidades y cientos de hierbas. Ella acumula estos objetos, para poder convertirlo en un centro para la comunidad donde enseñar."
-    },
-    {
-      "show_name": "¡Alto! Frontera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/alto-frontera.webp",
-      "show_category": "Temporada 3 Episodio 6",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "En el aeropuerto de Lima los servicios de inteligencia reportan sobre unos pasajeros sospechosos de pertenecer a una red criminal y los oficiales logran atraparlos."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 9 Episodio 7 - Sorpresa en Santa Ana",
-      "start_time": "08:00",
-      "end_time": "08:20",
-      "episode_description": "Las subastas de Santa Ana, CA, sacan lo mejor de los compradores. Los planes de Jarrod y Brandi se tuercen cuando Dave llega dispuesto a causar problemas."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 9 Episodio 8 - Grandes números en Arcadia",
-      "start_time": "08:20",
-      "end_time": "08:45",
-      "episode_description": "Los compradores visitan Arcadia, en California, una zona de clase alta, donde Darrell y Brandon se comportan de forma inapropiada. El padre de Rene ayuda al buscar objetos de coleccionista."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 9 Episodio 9 - El león de Lancaster",
-      "start_time": "08:45",
-      "end_time": "09:05",
-      "episode_description": "Ivy busca la ventaja que tiene de jugar en su casa cuando los compradores llegan a Lancaster, California. Mary limpia a profundidad después de ganar un casillero impresionante."
-    },
-    {
-      "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
-      "show_category": "Temporada 9 Episodio 10 - El gran triunfo de Mary",
-      "start_time": "09:05",
-      "end_time": "09:30",
-      "episode_description": "Los depósitos en El Monte, CA, son famosos por sus extraordinarios objetos y esta subasta no es la excepción."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 16 Episodio 21 - House of Horrors / Final Sacrifice",
-      "start_time": "09:30",
-      "end_time": "10:15",
-      "episode_description": "En Tulsa, un ataque de martillo deja a dos jóvenes aferrándose a la vida. Los detectives corren para atrapar al sospechoso antes de que vuelva a atacar."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 17 Episodio 7 - Rastros de sangre",
-      "start_time": "10:15",
-      "end_time": "11:00",
-      "episode_description": "En Tulsa, un hombre dispara y mata a un desconocido. En Atlanta, una discusión acalorada termina con un hombre muerto y el otro en peligro."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 21 Episodio 4 - Compañía peligrosa",
-      "start_time": "11:00",
-      "end_time": "11:50",
-      "episode_description": "Un padre desaparecido aparece muerto, cuando sus planes de desalojar a un inquilino encienden una furia asesina."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 21 Episodio 3 - Monstruo",
-      "start_time": "11:50",
-      "end_time": "12:35",
-      "episode_description": "Un detective de la policía de Tulsa, Oklahoma, rastrea a un asesino sádico que asesinó al hermano de un hombre que robó su camioneta."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 21 Episodio 360 - Asesino retrovisor",
-      "start_time": "12:35",
-      "end_time": "13:25",
-      "episode_description": "En Atlanta, un intercambio de drogas en un estacionamiento se convierte en un tiroteo que deja a dos hombres muertos. En Tulsa, una ejecución fuera de un motel se convierte en un doble asesinato cuando el asesino ve a un testigo."
-    },
-    {
-      "show_name": "Las primeras 48 horas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/las-primeras-48-horas.webp",
-      "show_category": "Temporada 17 Episodio 5 - Amor eterno",
-      "start_time": "13:25",
-      "end_time": "14:10",
-      "episode_description": "En Tulsa, una mujer mayor muere golpeada y apuñalada como consecuencia de una venganza. Mientras tanto, un joven con un futuro muy prometedor se queda sin tiempo para cumplir con su parte del trato en un negocio peligroso."
-    },
-    {
-      "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 19 - Confesiones impactantes 2",
-      "start_time": "14:10",
-      "end_time": "15:00",
-      "episode_description": "En Miami, un interrogatorio de Acción de Gracias da un giro sorprendente; en Tulsa, una discusión entre un grupo de amigos se vuelve violenta y ninguna de sus historias coincide."
-    },
-    {
-      "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 20 - Asesinato en la familia",
-      "start_time": "15:00",
-      "end_time": "15:45",
-      "episode_description": "En Cleveland, una familia queda devastada tras el asesinato de un tío adorado a manos de su propia sangre."
-    },
-    {
-      "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 20 - Asesinato en la familia",
-      "start_time": "15:45",
-      "end_time": "16:35",
-      "episode_description": "En Cleveland, una familia queda devastada tras el asesinato de un tío adorado a manos de su propia sangre."
-    },
-    {
-      "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 2 - Interrogaciones: mentiras y lo que dices",
-      "start_time": "16:35",
-      "end_time": "17:20",
       "episode_description": "Los detectives en Cleveland se sientan con amigos y el sospechoso del asesinato de una madre joven, luego el novio de una mujer desaparecida es interrogado en el condado de Harris con la esperanza de encontrar el mujer viva."
     },
     {
       "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 2 Episodio 3 - El calor del momento 3",
-      "start_time": "17:20",
-      "end_time": "18:10",
+      "start_time": "01:05",
+      "end_time": "01:50",
       "episode_description": "En Birmingham, el cuerpo de un hombre se encuentra quemado después de una discusión con un amigo; en Nueva Orleans, un hombre con cáncer recibe un viaje a casa que termina en su asesinato."
     },
     {
       "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 2 Episodio 4 - Los forenses no mienten",
-      "start_time": "18:10",
-      "end_time": "18:55",
+      "start_time": "01:50",
+      "end_time": "02:35",
       "episode_description": "Una mirada retrospectiva a tres casos de The First 48 donde los forenses desempeñaron un papel fundamental en la resolución de homicidios."
     },
     {
       "show_name": "Las primeras 48: minutos críticos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 2 Episodio 5 - Sin testigos",
-      "start_time": "18:55",
-      "end_time": "19:45",
+      "start_time": "02:35",
+      "end_time": "03:20",
       "episode_description": "Encontrar la verdad sin testigos no es tarea fácil para los detectives. En Cincinnati ocurre un extraño asesinato en un incendio. Luego, en Memphis, una huella dactilar podría resolver el asesinato de un predicador."
     },
     {
+      "show_name": "Las primeras 48 horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-primeras-48-horas-s21e03-abajo-un-pasillo-oscuro_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 3 - Monstruo",
+      "start_time": "03:20",
+      "end_time": "04:05",
+      "episode_description": "Un detective de la policía de Tulsa, Oklahoma, rastrea a un asesino sádico que asesinó al hermano de un hombre que robó su camioneta."
+    },
+    {
+      "show_name": "Las primeras 48 horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-primeras-48-horas-s21e360-asesino-retrovisor_l_m.jpg",
+      "show_category": "Temporada 21 Episodio 360 - Asesino retrovisor",
+      "start_time": "04:05",
+      "end_time": "04:50",
+      "episode_description": "En Atlanta, un intercambio de drogas en un estacionamiento se convierte en un tiroteo que deja a dos hombres muertos. En Tulsa, una ejecución fuera de un motel se convierte en un doble asesinato cuando el asesino ve a un testigo."
+    },
+    {
+      "show_name": "Las primeras 48 horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-primeras-48-horas-s17e05-amor-eterno_l_m.jpg",
+      "show_category": "Temporada 17 Episodio 5 - Amor eterno",
+      "start_time": "04:50",
+      "end_time": "05:35",
+      "episode_description": "En Tulsa, una mujer mayor muere golpeada y apuñalada como consecuencia de una venganza. Mientras tanto, un joven con un futuro muy prometedor se queda sin tiempo para cumplir con su parte del trato en un negocio peligroso."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 77",
+      "start_time": "05:35",
+      "end_time": "06:00",
+      "episode_description": "En Carolina del Sur, la policía es víctima de una broma pesada. En Texas, se topan con un incendio en una casa y un hombre necesita ayuda en la carretera."
+    },
+    {
+      "show_name": "Acumuladores compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_acumuladores-compulsivos-s14e03-canada-darlene_l_m.jpg",
+      "show_category": "Temporada 14 Episodio 3 - Canada: Darlene",
+      "start_time": "06:00",
+      "end_time": "07:30",
+      "episode_description": "Darlene cree que su casa abarrotada de cosas es un desorden místico de la nueva era. Tiene tantas cosas que terminó durmiendo bajo una lona en el porche de su casa. Pero con la llegada del invierno, necesita un cambio para no morir de frío."
+    },
+    {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e09-el-leon-de-lancaster_l_m.jpg",
       "show_category": "Temporada 9 Episodio 9 - El león de Lancaster",
-      "start_time": "19:45",
-      "end_time": "20:05",
+      "start_time": "07:30",
+      "end_time": "07:50",
       "episode_description": "Ivy busca la ventaja que tiene de jugar en su casa cuando los compradores llegan a Lancaster, California. Mary limpia a profundidad después de ganar un casillero impresionante."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e10-el-gran-triunfo-de-mary_l_m.jpg",
       "show_category": "Temporada 9 Episodio 10 - El gran triunfo de Mary",
-      "start_time": "20:05",
-      "end_time": "20:30",
+      "start_time": "07:50",
+      "end_time": "08:15",
       "episode_description": "Los depósitos en El Monte, CA, son famosos por sus extraordinarios objetos y esta subasta no es la excepción."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e11-subastas-arriba_l_m.jpg",
       "show_category": "Temporada 9 Episodio 11 - ¡Subastas arriba!",
-      "start_time": "20:30",
-      "end_time": "20:50",
+      "start_time": "08:15",
+      "end_time": "08:35",
       "episode_description": "Palm Springs, CA, ha sido un lugar de tesoros y drama para los compradores, y la subasta de hoy será muy interesante."
     },
     {
       "show_name": "¿Quién da má$?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-e-mundo/today/quién-da-má.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e12-el-de-mary-y-allee_l_m.jpg",
       "show_category": "Temporada 9 Episodio 12 - El de Mary y Allee",
-      "start_time": "20:50",
-      "end_time": "21:15",
+      "start_time": "08:35",
+      "end_time": "09:00",
       "episode_description": "En la moderna zona de North Hollywood se organiza una subasta donde los compradores esperan obtener artículos de gran calidad."
     },
     {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e05_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 5",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "En el aeropuerto internacional José Chávez, de la ciudad de Lima, un carro de equipaje contiene un paquete algo llamativo. Tras una verificación por las cámaras, proceden a buscar a su dueña para inspeccionarla y al hacer un control canino."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e06_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 6",
+      "start_time": "09:30",
+      "end_time": "09:55",
+      "episode_description": "En el aeropuerto de Lima los servicios de inteligencia reportan sobre unos pasajeros sospechosos de pertenecer a una red criminal y los oficiales logran atraparlos."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e07_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 7",
+      "start_time": "09:55",
+      "end_time": "10:25",
+      "episode_description": "Un pasajero colombiano con destino a Madrid es perfilado por agentes de seguridad aeroportuarios. Luego de ser interrogado deciden hacer una revisión. Al revisar su equipaje la policía se encontró con paquetes de café con cocaína."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e08_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 8",
+      "start_time": "10:25",
+      "end_time": "10:55",
+      "episode_description": "En el Aeropuerto internacional de Bogotá, Colombia, alertan de un equipaje con droga en bodega antes de ser ingresado al avión. Los oficiales son alertados para encontrar al pasajero que figura como responsable."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e19_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 19",
+      "start_time": "10:55",
+      "end_time": "11:25",
+      "episode_description": "A pocos kilómetros del centro de La Habana y de algunas de las playas más turísticas del Mar Caribe, comienza otra jornada repleta de vuelos en el Aeropuerto José Martí, la principal frontera aérea de la isla."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e10_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 10",
+      "start_time": "11:25",
+      "end_time": "11:50",
+      "episode_description": "Un pasajero que viaja desde México arriba al aeropuerto de Colombia y es perfilado por los oficiales aeroportuarios. La breve estadía despierta sospechas y deciden inspeccionar sus pertenencias."
+    },
+    {
+      "show_name": "¡Alto! Frontera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_alto-frontera-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 11",
+      "start_time": "11:50",
+      "end_time": "12:20",
+      "episode_description": "En el aeropuerto de Bogotá, Colombia, perfilan a una pasajera de origen mexicano con destino a su país, que genera sospechas por su escaso equipaje para tener una estadía tan extensa."
+    },
+    {
+      "show_name": "¡Alto! Frontera: Chile",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1",
+      "start_time": "12:20",
+      "end_time": "12:50",
+      "episode_description": "La brigada antinarcóticos intercepta a un pasajero qiue en su maleta encuentran una carga que no parece ser la de un turista. Se encienden las alarmas al hallar un proyectil nueve milímetros en la mochila de un niño."
+    },
+    {
+      "show_name": "¡Alto! Frontera: Chile",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2",
+      "start_time": "12:50",
+      "end_time": "13:20",
+      "episode_description": "Un haitiano pierde los estribos al no poder abordar un vuelo, causando destrozos en el aeropuerto. La brigada canina enciende las alarmas al marcar un envío, y dos pasajeros son delatados por las cámaras."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11",
+      "start_time": "13:20",
+      "end_time": "13:50",
+      "episode_description": "Francisco Zea narra cómo se detecta una motocicleta robada."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4",
+      "start_time": "13:50",
+      "end_time": "14:15",
+      "episode_description": "Francisco Zea relata cómo las cámaras de C5 previenen hechos que podrían poner en peligro la seguridad de toda una población, monitorean de día y de noche, buscando indicios de delitos y hasta detectan los más extraños conflictos vecinales."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5",
+      "start_time": "14:15",
+      "end_time": "14:40",
+      "episode_description": "Francisco Zea relata como las cámaras de videovigilancia detectan sospechosos ocultos en la noche, descubren un hábil conductor que huye a toda velocidad y colaboran con los bomberos para evitar una catástrofe."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6",
+      "start_time": "14:40",
+      "end_time": "15:05",
+      "episode_description": "Francisco Zea relata cómo las cámaras de videovigilancia intervienen en una pelea callejera con un fallecido y detectan una camioneta que impacta la puerta de un comercio para robar el cajero automático."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7",
+      "start_time": "15:05",
+      "end_time": "15:30",
+      "episode_description": "Francisco Zea relata cómo las cámaras detectan a un grupo de hombres robando un comercio y minutos después uno de ellos regresa a realizar unas compras. Además, captan un feroz tiroteo entre un policía y varios ladrones."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8",
+      "start_time": "15:30",
+      "end_time": "15:55",
+      "episode_description": "Francisco Zea relata cómo gracias a las cámaras descubren una pelea que se vuelve peligrosa para el agredido, detienen a dos ladrones de tumbas que intentan huir por el panteón y siguen por la ciudad a un ladrón armado."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e09_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 9",
+      "start_time": "15:55",
+      "end_time": "16:20",
+      "episode_description": "Francisco Zea relata como gracias a las cámaras detienen a tres jóvenes que roban amenazando con machetes, encuentran a un sospechoso de un robo en una garita fronteriza y frustran un asalto con armas largas en una farmacia."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 10",
+      "start_time": "16:20",
+      "end_time": "16:45",
+      "episode_description": "Francisco Zea relata cómo gracias a las cámaras detectan un robo, se realiza una persecución y se descubre el escondite de los criminales. Además, vemos un seguimiento a dos motos que intentan escapar de un robo."
+    },
+    {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 69",
+      "start_time": "16:45",
+      "end_time": "17:05",
+      "episode_description": "Un hombre empuña una espátula en Carolina del Sur."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 70",
+      "start_time": "17:05",
+      "end_time": "17:30",
+      "episode_description": "Un hombre amenaza a la policía con un machete en Florida. Allí mismo, también surge una pelea por un cobertizo en el Panhandle y una mujer ataca a su madre con un cochecito de bebé en Indiana."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 71",
+      "start_time": "17:30",
+      "end_time": "17:50",
+      "episode_description": "Una mujer borracha elude el arresto en Texas y un perro es devuelto a su dueño en Luisiana."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 72",
+      "start_time": "17:50",
+      "end_time": "18:15",
+      "episode_description": "Un adolescente secuestra un autobús escolar en Texas, un perro ladra demasiado fuerte en Florida y la policía en Nevada arresta a un hombre en un quad."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 73",
+      "start_time": "18:15",
+      "end_time": "18:35",
+      "episode_description": "Una mirada sin filtros a los departamentos de los policías en acción. Sin paradas rutinarias en Texas."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 74",
+      "start_time": "18:35",
+      "end_time": "19:00",
+      "episode_description": "Un hombre defeca en un balde en Nevada, un sospechoso para la policía proporciona una identificación falsa en Washington y otro sospechoso intenta evadir el arresto en Texas."
+    },
+    {
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 4 Episodio 75",
-      "start_time": "21:15",
-      "end_time": "21:40",
+      "start_time": "19:00",
+      "end_time": "19:20",
       "episode_description": "Un hombre es arrestado por la policía en Utah y una mujer orina en un estacionamiento en Texas. Además, se realiza una búsqueda canina en Carolina del Sur."
     },
     {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 4 Episodio 76",
-      "start_time": "21:40",
-      "end_time": "22:00",
+      "start_time": "19:20",
+      "end_time": "19:45",
       "episode_description": "Un veterano sin hogar es ayudado por oficiales en Illinois, luego los oficiales se encuentran con un sujeto enojado en Texas y, además, hallan un cuchillo en Arizona."
     },
     {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e11-subastas-arriba_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 11 - ¡Subastas arriba!",
+      "start_time": "19:45",
+      "end_time": "20:05",
+      "episode_description": "Palm Springs, CA, ha sido un lugar de tesoros y drama para los compradores, y la subasta de hoy será muy interesante."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e12-el-de-mary-y-allee_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 12 - El de Mary y Allee",
+      "start_time": "20:05",
+      "end_time": "20:30",
+      "episode_description": "En la moderna zona de North Hollywood se organiza una subasta donde los compradores esperan obtener artículos de gran calidad."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e13-lucha-en-la-noche_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 13 - Lucha en la noche",
+      "start_time": "20:30",
+      "end_time": "20:50",
+      "episode_description": "Los compradores esperan conseguir tesoros nocturnos en Huntington Beach, California. Darrell y Brandon rastrean buenos casilleros en su territorio. Dave busca una mejor puntuación o a un tonto."
+    },
+    {
+      "show_name": "¿Quién da má$?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_quien-da-ma-s09e14-un-padre-sabe-mas_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 14 - Un padre sabe más",
+      "start_time": "20:50",
+      "end_time": "21:15",
+      "episode_description": "Los compradores regresan a Montebello, CA, donde han obtenido grandes lotes y librado batallas aún más grandes. Darrell y Brandon buscan instigar a los demás."
+    },
+    {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 4 Episodio 77",
-      "start_time": "22:00",
-      "end_time": "22:25",
+      "start_time": "21:15",
+      "end_time": "21:40",
       "episode_description": "En Carolina del Sur, la policía es víctima de una broma pesada. En Texas, se topan con un incendio en una casa y un hombre necesita ayuda en la carretera."
     },
     {
       "show_name": "Patrulla policial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 4 Episodio 78",
-      "start_time": "22:25",
-      "end_time": "22:45",
+      "start_time": "21:40",
+      "end_time": "22:00",
       "episode_description": "Una persecución en motocicleta en Nevada, un atropello y fuga en Florida y un coche que toma dirección contraria en Indiana."
     },
     {
-      "show_name": "Secretos de famosos: Sex Tapes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Farrah Abraham",
-      "start_time": "22:45",
-      "end_time": "23:35",
-      "episode_description": "La estrella de Teen Mom, Farrah Abraham, encuentra la fama a una edad temprana, pero no es hasta que se \"filtra\" su video sexual que su poder estelar se dispara, aunque la reacción es igualmente rápida."
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 79",
+      "start_time": "22:00",
+      "end_time": "22:25",
+      "episode_description": "Un miembro marginado del proletariado es arrestado en Utah y luego la policía arresta a un drogadicto en Indiana."
     },
     {
-      "show_name": "Secretos de famosos: Sex Tapes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 6 - Mimi Faust amor y Hip Hop",
-      "start_time": "23:35",
-      "end_time": "00:20",
-      "episode_description": "La estrella del reality show Mimi Faust comparte la verdadera historia, incluidos secretos nunca antes revelados detrás de su video sexual, uno de los más vendidos de todos los tiempos."
+      "show_name": "Patrulla policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 80",
+      "start_time": "22:25",
+      "end_time": "22:45",
+      "episode_description": "Una persecución en la carretera en Nevada, vapeadores sujetos en Indiana y amantes abandonados en Georgia."
+    },
+    {
+      "show_name": "¡Alto! Frontera: Chile",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "22:45",
+      "end_time": "23:15",
+      "episode_description": "Una joven intenta burlar los controles al transportar una carga oculta. La policía recibe a una ciudadana chilena que regresa de Estados Unidos con una particular situación migratoria, y un turista brasilero se lleva un recuerdo imborrable."
+    },
+    {
+      "show_name": "¡Alto! Frontera: Chile",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4",
+      "start_time": "23:15",
+      "end_time": "23:45",
+      "episode_description": "En un equipaje que arriba desde Brasil detectan una maleta con un contenido sospechoso. Un nervioso turista llega desde Perú con un largo prontuario, y se detectan productos contaminados con una peligrosa droga."
+    },
+    {
+      "show_name": "Cam Alert",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cam-alert-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11",
+      "start_time": "23:45",
+      "end_time": "00:10",
+      "episode_description": "Francisco Zea narra cómo se detecta una motocicleta robada."
     }
   ]
 }

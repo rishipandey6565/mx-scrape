@@ -1,198 +1,134 @@
 {
   "channel": "Sony",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Perrito",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/perrito.webp",
-      "show_category": "Puppy",
-      "start_time": "01:49",
+      "show_name": "Venom: Carnage liberado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Venom: Let There Be Carnage",
+      "start_time": "00:19",
       "end_time": "02:00",
-      "episode_description": "Los residentes del Hotel Transylvania encuentran su mundo al revés cuando el joven Dennis consigue una mascota del tamaño de un monstruo."
+      "episode_description": "Eddie Brock intenta relanzar su carrera entrevistando al asesino en serie Cletus Kasady, que se convierte en el huésped del simbionte Carnage y escapa de la cárcel tras una ejecución fallida."
     },
     {
       "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/la-niñera.webp",
-      "show_category": "Temporada 1 Episodio 1 - Piloto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s01e05-personal-business_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Una mañana con CC",
       "start_time": "02:00",
       "end_time": "02:30",
-      "episode_description": "Una vendedora de cosméticos a domicilio termina siendo contratada como la niñera de una adinerada familia."
-    },
-    {
-      "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/la-niñera.webp",
-      "show_category": "Temporada 1 Episodio 4 - El mal tercio",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Cuando Fran actúa como un acompañante en la cita de Maggie, el novio de Maggie muestra interés en Fran."
-    },
-    {
-      "show_name": "Bettys Diagnose",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 6 Episodio 9 - Alles nur aus liebe",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Betty y Frank están en las nubes, pero entonces llega Oliver, que ha regresado de Sudamérica con Yannik. Esto significa que Betty finalmente tiene que hablar con Oliver sobre su futuro."
-    },
-    {
-      "show_name": "Bettys Diagnose",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 6 Episodio 10 - Stillgestanden",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "Betty está a punto de desayunar por última vez con Oli y Yannik. Mientras los tres aprovechan la situación al máximo, llega a la sala la tan esperada nueva hermana."
-    },
-    {
-      "show_name": "The Night Shift",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/the-night-shift.webp",
-      "show_category": "Temporada 2 Episodio 6 - Niebla de guerra",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "Gwen, T.C. y Drew corren hacia la escena de un accidente automovilístico con múltiples víctimas; La cuñada de T.C. lo visita."
-    },
-    {
-      "show_name": "Chicas con clase",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 11 - Howard the Date",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Howard Earp Head, socialmente torpe y propenso a sufrir hemorragias nasales, a quien las chicas conocieron en el crucero de solteros, regresa para rogarle a Mary Jo que sea su acompañante para su 15vo. reencuentro con la escuela secundaria."
-    },
-    {
-      "show_name": "Chicas con clase",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 12 - I'll Be Home for Christmas",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Un Papá Noel que trabaja a tiempo parcial pone a prueba el espíritu navideño cuando roba los regalos que le han encargado poner debajo del árbol."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 2 Episodio 5 - En las buenas y en las malas",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Janet vuelve a la casa, después de irse a cuidar a la mamá durante seis semanas. El doctor Boucher, de la terapia de parejas, tiene una sesión privada con Michael y le recomienda que lleve a Janet a una cena romántica."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 2 Episodio 6 - El escuchó, ella escuchó",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Claire quiere ir a una fiesta a la casa de un chico y Michael no la deja. Janet cree que Claire debería tomar sus propias decisiones."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 2 Episodio 7 - El jardín de Michael",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Michael debe llevar a Junior al médico para el chequeo anual. Cuando Junior sale del consultorio, Michael le confiesa al médico que le cuesta orinar y él le hace un examen de próstata."
-    },
-    {
-      "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/la-niñera.webp",
-      "show_category": "Temporada 1 Episodio 5 - Una mañana con CC",
-      "start_time": "08:30",
-      "end_time": "09:00",
       "episode_description": "Los intentos de C.C. por acercarse a los hijos de Maxwell hacen que Gracie se escape."
     },
     {
       "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/la-niñera.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s01e09-personal-business_l_m.jpg",
       "show_category": "Temporada 1 Episodio 9 - Asuntos personales",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "02:30",
+      "end_time": "03:00",
       "episode_description": "Maxwell quiere contratar a la popular estrella del jabón Brock Storm para su último show, pero solo lo hará si consigue una cita con Fran."
     },
     {
-      "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/la-niñera.webp",
-      "show_category": "Temporada 1 Episodio 7 - Mi amiga imaginaria",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Fran mata accidentalmente al amigo imaginario de Grace."
+      "show_name": "Bettys Diagnose",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 11 - Herzschläge",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Los padres de Talula llegan inesperadamente al departamento que comparten Tobías y Emil. Después de la pérdida de su hija, se entregan al amor de su nieto. Betty también se mudó temporalmente al apartamento compartido."
     },
     {
-      "show_name": "Los ángeles de Charlie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/los-ángeles-de-charlie.webp",
-      "show_category": "Charlie's Angels",
-      "start_time": "10:00",
-      "end_time": "12:10",
-      "episode_description": "Luego de que un joven ingeniero en sistemas denuncia los peligros de una nueva tecnología, los ángeles de Charlie pondrán en riesgo su vida para proteger a la humanidad."
+      "show_name": "Bettys Diagnose",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 12 - Glatteis",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "La ciudad se ve afectada por una persistente ola de frío. Como resultado, muchos pacientes llegan a la estación al mismo tiempo."
     },
     {
-      "show_name": "El tesoro del Amazonas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/el-tesoro-del-amazonas.webp",
-      "show_category": "The Rundown",
-      "start_time": "12:10",
-      "end_time": "14:04",
-      "episode_description": "Un tenaz cazador de recompensas recibe una nueva misión: viajar a la jungla brasileña para hallar al hijo de un mafioso. Pero la búsqueda de un ídolo del oro y las acciones de un ambicioso hombre del lugar complicarán sus planes."
+      "show_name": "The Night Shift",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-night-shift-s02e07-necesito-saber_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 7 - Necesito saber",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "T.C. descubre la complicada historia de su cuñada después de tratarla por una caída de escaleras."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/vecinos.webp",
-      "show_category": "Temporada 11 Episodio 10 - El novio de Virginia",
-      "start_time": "14:04",
-      "end_time": "14:34",
-      "episode_description": "Silvia acude a un diplomado que dura dos días y quiere contratar a una niñera, pero Luis no está de acuerdo. Checa si llegarán a un arreglo. Además, Virginia le quiere declarar su amor a un chico y German piensa que es él."
+      "show_name": "Casados con hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s02e15-build-a-better-mousetrap_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 15 - Jonathan busca novia",
+      "start_time": "06:00",
+      "end_time": "06:24",
+      "episode_description": "Poncho tiene una idea para un nuevo tipo de zapatos. Jonathan trata de conseguir una cita. Poncho arruina su invención y Jonathan triunfa con su plan de ser popular."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/vecinos.webp",
-      "show_category": "Temporada 11 Episodio 11 - Bebé a bordo",
-      "start_time": "14:34",
-      "end_time": "15:04",
-      "episode_description": "En el segundo día del diplomado de Silvia, Luisito jr. queda al cuidado de Pedrito, pero este permite que todos los vecinos lo cuiden; y en un descuido pierden al bebé. Averigua en dónde se encontrará el hijo de Luis y Silvita."
+      "show_name": "Casados con hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s02e16-master-the-possibilities_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 16 - Poncho ama la literatura",
+      "start_time": "06:24",
+      "end_time": "06:50",
+      "episode_description": "Poncho y Esteban encuentran un libro de Poncho que debería ser devuelto en 1982. Poncho deja caer a la bibliotecaria de una escalera por intentar esconder el libro y se hace viral."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/vecinos.webp",
-      "show_category": "Temporada 11 Episodio 12 - Atorón",
-      "start_time": "15:04",
-      "end_time": "15:34",
-      "episode_description": "Es el aniversario de Benito y de Liz, pero él no tiene dinero para festejarlo, por lo que ella le pone un ultimátum para continuar con su relación. Luis y Magda discuten porque ambos quieren usar las escaleras."
+      "show_name": "Volver al futuro II",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_volver-al-futuro-ii-1989_l_m.jpg",
+      "show_category": "Back to the Future II",
+      "start_time": "06:50",
+      "end_time": "08:50",
+      "episode_description": "Marty McFly está tranquilo disfrutando de la familia perfecta hasta que llega Doc con el Delorean modernizado y deben viajar una y otra vez, de un tiempo al otro, para reparar las catástrofes de un destino alterado."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/vecinos.webp",
-      "show_category": "Temporada 11 Episodio 13 - Primera palabra",
-      "start_time": "15:34",
+      "show_name": "Volver al futuro III",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_volver-al-futuro-iii-1990_l_m.jpg",
+      "show_category": "Back to the Future III",
+      "start_time": "08:50",
+      "end_time": "11:00",
+      "episode_description": "La conclusión de la trilogía envía a Marty McFly a una misión de rescate al viejo oeste en el año 1885, en donde debe salvar al Doc Brown de ser asesinado en manos de otro miembro del clan Tannen."
+    },
+    {
+      "show_name": "Spider-Man: Sin camino a casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Spider-Man: No Way Home",
+      "start_time": "11:00",
+      "end_time": "13:40",
+      "episode_description": "La identidad secreta de Peter Parker se revela al mundo entero. Desesperado por ayuda, Peter recurre al Doctor Strange para hacer que el mundo olvide que él es Spider-Man. Pero el hechizo sale terriblemente mal con grandes consecuencias."
+    },
+    {
+      "show_name": "Bad Boys para siempre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bad-boys-para-siempre-2020_l_m.jpg",
+      "show_category": "Bad Boys for Life",
+      "start_time": "13:40",
       "end_time": "16:00",
-      "episode_description": "Liz ha encontrado el lugar perfecto para que ella y Benito vivan juntos. El bebé Luisito ha dicho su primera palabra, sólo que Luis cree que a Silvita no le gustará cuando se entere de qué ha dicho su hijo."
-    },
-    {
-      "show_name": "Venom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/venom.webp",
-      "show_category": "C.Ficción / 2018 /6.7",
-      "start_time": "16:00",
-      "end_time": "17:54",
-      "episode_description": "Eddie Brock lleva tiempo intentando desenmascarar al famoso genio científico Carlton Drake. Al investigar uno de los experimentos, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y adquiere nuevos e increíbles superpoderes."
-    },
-    {
-      "show_name": "Terremoto: la falla de San Andrés",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/terremoto-la-falla-de-san-andrés.webp",
-      "show_category": "San Andreas",
-      "start_time": "17:54",
-      "end_time": "20:04",
-      "episode_description": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake."
-    },
-    {
-      "show_name": "El día después de mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/el-día-después-de-mañana.webp",
-      "show_category": "The Day After Tomorrow",
-      "start_time": "20:04",
-      "end_time": "22:19",
-      "episode_description": "Las investigaciones de Jack indican que el calentamiento global puede provocar un cambio climático. Se toman medidas pero es tarde, por lo que se debe realizar una evacuación hacia el sur. Sin embargo, Jack va al norte a buscar a su hijo."
+      "episode_description": "Los detectives de Miami, Mike Lowrey y Marcus Burnett, deben enfrentarse a una pareja de narcotraficantes que causan estragos vengativos en su ciudad."
     },
     {
       "show_name": "Non-Stop: sin escalas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/tomorrow/non-stop-sin-escalas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_non-stop-sin-escalas-2014_l_m.jpg",
       "show_category": "Non-Stop",
-      "start_time": "22:19",
-      "end_time": "",
+      "start_time": "16:00",
+      "end_time": "18:00",
       "episode_description": "Un vigilante a bordo de un avión recibe mensajes de texto en los que se le pide que inste al gobierno a hacer una transferencia de 150 millones de dólares a una cuenta secreta. De lo contrario, un pasajero morirá cada 20 minutos."
+    },
+    {
+      "show_name": "El día después de mañana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-dia-despues-de-manana-2004_l_m.jpg",
+      "show_category": "The Day After Tomorrow",
+      "start_time": "18:00",
+      "end_time": "20:15",
+      "episode_description": "Las investigaciones de Jack indican que el calentamiento global puede provocar un cambio climático. Se toman medidas pero es tarde, por lo que se debe realizar una evacuación hacia el sur. Sin embargo, Jack va al norte a buscar a su hijo."
+    },
+    {
+      "show_name": "65: al borde de la extinción",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "65",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": "Después de un catastrófico accidente en un planeta desconocido, el piloto Mills descubre rápidamente que realmente está varado en la Tierra, pero hace 65 millones de años."
+    },
+    {
+      "show_name": "Gigantes de acero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gigantes-de-acero-2011_l_m.jpg",
+      "show_category": "Real Steel",
+      "start_time": "22:00",
+      "end_time": "",
+      "episode_description": "Experimenta la adrenalina y el frenesí de una actividad como la lucha de robots. Esta es la historia de un ex campeón de boxeo que, empujado por el fuerte deseo de un niño, regresa a las peleas de la mano de un misterioso robot."
     }
   ]
 }
