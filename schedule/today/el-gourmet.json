@@ -1,350 +1,358 @@
 {
   "channel": "El Gourmet",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Productos de mi tierra México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/productos-de-mi-tierra-méxico.webp",
-      "show_category": "Temporada 1 Episodio 6 - Nopal",
+      "show_name": "Guardianes de tradición. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e02-1_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - El taquito",
       "start_time": "00:00",
       "end_time": "00:30",
-      "episode_description": "Enrique Cervantes visita a Marcos Juárez, productor de nopal, en Tlanepantla, Morelos. Allí, Reina González cocina penca rellena. En Querétaro, María de los Ángeles Esperanza cocina un platillo llamado Nopales de santo."
+      "episode_description": "En 1917 en la Ciudad de México Don Marcos y Conchita Guillen tenían una tienda de especias, donde comenzaron a ofrecer tacos, carnitas y guisados."
     },
     {
-      "show_name": "Wok & Roll",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/wok-roll.webp",
-      "show_category": "Temporada 1 Episodio 10 - Pollo marinado y tiradito de salmon",
+      "show_name": "Fiestas con sabor mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - La k'uínchekua",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "El chef Iwao Komiyama presenta tres propuestas diferentes: pollo crocante al wok, una receta de la cocina fusión peruano-japonesa, un tiradito de salmón y por último pero no menos importante, un acompañamiento clásico de cocina japonesa"
+      "episode_description": "Benito asiste al festival de La K'uínchekua, que reúne danza, música, canto y ceremonias religiosas de las etnias michoacanas, teniendo como sede la mística zona arqueológica de Las Yácatas en Tzintzuntzan."
     },
     {
-      "show_name": "Los favoritos de Margarita Bernal en Bogotá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - El pantera",
+      "show_name": "Maestros del sushi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4",
       "start_time": "01:00",
       "end_time": "01:30",
-      "episode_description": "Margarita Bernal nos propone dar un tour gastronómico por sus lugares favoritos en Bogotá y sin dudarlo nos muestra El Pantera, una versión original que mezcla la comida mexicana con toques colombianos."
+      "episode_description": "Iwao Komiyama recorre la icónica Kappabashi Street de Tokio. Luego, de vuelta en Buenos Aires, aprende una receta auténtica de arroz avinagrado. Además, recorre una cadena de hand roll sushi y conoce al chef japonés, Shimada."
     },
     {
-      "show_name": "Los fogones tradicionales: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-fogones-tradicionales-españa.webp",
-      "show_category": "Temporada 5 Episodio 2 - Cocido - Piñas",
+      "show_name": "Don Juliote de la Mancha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Del teatro a los fogones",
       "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "En Viso del Alcor, Sevilla, Merceditas y Mercedes nos van a preparar un sabroso y nutrido cocido. Luego, en Cuevas de Velasco, un pequeño pueblo de La Alcarria Conquense, Maribel y Piedad elaboran el famoso postre de carnaval: Las piñas."
-    },
-    {
-      "show_name": "Cocina de mar Pacífico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Pescadillas de barrilete - Moyos a la diabla",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "En esta oportunidad, Alex Ruiz prepara unas pescadillas con un barrilete asado y desmenuzado, acompañado con una salsa de chiles costeños. Además, hace unos \"moyos a la diabla\", preparados con una salsa picante de chile habanero y guajillo."
-    },
-    {
-      "show_name": "Un paseo por Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/un-paseo-por-oaxaca.webp",
-      "show_category": "Temporada 1 Episodio 10 - Tesoros de Oaxaca",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Hoy vamos a mirar a Oaxaca desde sus tesoros, con la compañía de Margarita Carrillo. Visitamos el Mercado 20 de Noviembre, el Museo de Arte Textil y disfrutamos de entrevistas a diferentes artesanas."
-    },
-    {
-      "show_name": "Sonia en su huerta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/sonia-en-su-huerta.webp",
-      "show_category": "Temporada 1 Episodio 100 - Barbacoa de res estilo norteño con salsa taquera - Ensalada thai de papaya verde",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Sonia Ortiz nos recibe en su casa de Valle de Bravo, ella prepara una barbacoa de res al estilo norteño, con una salsa taquera. La cosecha de papaya verde y tomates cherry, le recuerda al sudeste asiático, más que nada a una ensalada thai."
-    },
-    {
-      "show_name": "Menú para todos los días",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/menú-para-todos-los-días.webp",
-      "show_category": "Temporada 3 Episodio 10 - Albóndigas con teriyaki de tamarindo y pastel de chocolate",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Un Menú para todos los días dedicado a los más pequeños. El chef Antonio De Livier ofrece opciones que harán las delicias de los niños."
-    },
-    {
-      "show_name": "Con vistas al mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Visitamos el restaurante Kamezí Deli & Bistró, en Lanzarote, donde degustamos su sancocho canario. Luego, en Granada, conocemos los pescados al horno que preparan en La Barraca."
-    },
-    {
-      "show_name": "Platos de cuchara",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/platos-de-cuchara.webp",
-      "show_category": "Temporada 2 Episodio 10 - Platos de cuchara con chayote",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Dos platos de cuchara de Zahie Tellez a base de chayote: Sopa de chayote y chayote con relleno dulce."
-    },
-    {
-      "show_name": "Los favoritos de Margarita Bernal en Bogotá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - El pantera",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Margarita Bernal nos propone dar un tour gastronómico por sus lugares favoritos en Bogotá y sin dudarlo nos muestra El Pantera, una versión original que mezcla la comida mexicana con toques colombianos."
+      "episode_description": "En esta ocasión, nuestros intrépidos hidalgos probarán el \"somallao\", un plato con bacalao que se hace sobre las brasas. En Almagro descubriremos también sus famosas berenjenas, que se maceran en vinagre para conservarse durante años."
     },
     {
       "show_name": "Los fogones tradicionales: México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-fogones-tradicionales-méxico.webp",
-      "show_category": "Temporada 1 Episodio 6 - Monica Meza Espinosa, Oscar Aguiar Meza y Luis Gabriel Cota - Cabrito, pescado kampachi",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "En este episodio, Mónica Meza Espinosa y Oscar Aguiar Meza preparan cabrito tradicional y sipai. Luis Gabriel Cota prepara pescado kampachi asado al mojo de ajo y pulpo borracho a la parrilla."
-    },
-    {
-      "show_name": "Con pocos ingredientes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Pescado a la sal - Buñuelos de lechuga - Brownie",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Estefi Colombo nos demuestra que las comidas hechas con pocos ingredientes pueden ser variadas y geniales. Estefi nos prepara un pescado a la sal y unos buñuelos de lechuga. Sumado a un brownie."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 4",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Visitamos los más remotos parajes en busca de los tesoros culinarios de cada región. San Juan Atzingo, Malinalco y Toluca son algunos de los lugares que visitamos en busca de las recetas emblemáticas de estas cocinas familiares."
     },
     {
       "show_name": "Maestros del taco",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/maestros-del-taco.webp",
-      "show_category": "Temporada 1 Episodio 10 - Blue Agave",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Poncho llega hasta Campeche y Quintana Roo en busca de los mejores maestros del taco. Alfonso descubre los tacos más ricos fuera de las clásicas taquerías."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_maestros-del-taco-s01e21-sirloin_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 21 - Sirloin",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Poncho continúa de viaje por su país en busca de los mejores maestros del taco. En este episodio descubre el taco de Sirloin an Villa Hermosa, Tabasco. De allí viaja a Campeche y en el restaurante Brizz prueba el delicioso taco suizo de atu"
     },
     {
-      "show_name": "Delicias de la antigua Europa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Budapest",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Visitamos Budapest, donde conoceremos un restaurante tradicional donde todo lleva paprika, el famoso pimentón húngaro. Además, entre los muchos vinos del país, destaca el prestigioso tokaji."
-    },
-    {
-      "show_name": "Postres caseros",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/postres-caseros.webp",
-      "show_category": "Temporada 1 Episodio 10 - Mousse de mamey churros con chocolate budín clásico",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Los clásicos postres caseros que siempre disfrutamos en familia vuelven reversionados por la pastelera mexicana, Paulina Abascal, que prepara: chocolate caliente con churros, budín de pan clásico y mousse de mamey."
-    },
-    {
-      "show_name": "Menú para todos los días",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/menú-para-todos-los-días.webp",
-      "show_category": "Temporada 3 Episodio 10 - Albóndigas con teriyaki de tamarindo y pastel de chocolate",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Un Menú para todos los días dedicado a los más pequeños. El chef Antonio De Livier ofrece opciones que harán las delicias de los niños."
-    },
-    {
-      "show_name": "Un paseo por Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/un-paseo-por-oaxaca.webp",
-      "show_category": "Temporada 1 Episodio 10 - Tesoros de Oaxaca",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Hoy vamos a mirar a Oaxaca desde sus tesoros, con la compañía de Margarita Carrillo. Visitamos el Mercado 20 de Noviembre, el Museo de Arte Textil y disfrutamos de entrevistas a diferentes artesanas."
-    },
-    {
-      "show_name": "Cocina de mar Pacífico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Pescadillas de barrilete - Moyos a la diabla",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "En esta oportunidad, Alex Ruiz prepara unas pescadillas con un barrilete asado y desmenuzado, acompañado con una salsa de chiles costeños. Además, hace unos \"moyos a la diabla\", preparados con una salsa picante de chile habanero y guajillo."
-    },
-    {
-      "show_name": "La cocina de los recuerdos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Aguachile con leche de tigre - Cazuela de mariscos",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Sergio Camacho comparte una reinterpretación del tradicional aguachile, así como una cazuela de mariscos. ¡Puro sabor a mar!"
-    },
-    {
-      "show_name": "Los fogones tradicionales: México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-fogones-tradicionales-méxico.webp",
-      "show_category": "Temporada 1 Episodio 6 - Monica Meza Espinosa, Oscar Aguiar Meza y Luis Gabriel Cota - Cabrito, pescado kampachi",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "En este episodio, Mónica Meza Espinosa y Oscar Aguiar Meza preparan cabrito tradicional y sipai. Luis Gabriel Cota prepara pescado kampachi asado al mojo de ajo y pulpo borracho a la parrilla."
-    },
-    {
-      "show_name": "Fiesta en casa al aire libre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Mousse de pepino y manzana con huevas de salmón",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Carmen López del Hierro elabora dos recetas: Mousse de pepino y manzana con huevos de salmón. Luego, un rollo de bonito a la asturiana, con ensalada de hojas verdes."
-    },
-    {
-      "show_name": "Mapa de los sabores de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Conejo al pulque - Frijoles charros",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "El pulque es una bebida tradicional y ancestral de México. Este será el ingrediente que le dará todo el sabor a un conejo que nos preparará el día de hoy Eduardo Osuna, junto con unos frijoles charros."
-    },
-    {
-      "show_name": "Sonia en su huerta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/sonia-en-su-huerta.webp",
-      "show_category": "Temporada 1 Episodio 100 - Barbacoa de res estilo norteño con salsa taquera - Ensalada thai de papaya verde",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Sonia Ortiz nos recibe en su casa de Valle de Bravo, ella prepara una barbacoa de res al estilo norteño, con una salsa taquera. La cosecha de papaya verde y tomates cherry, le recuerda al sudeste asiático, más que nada a una ensalada thai."
-    },
-    {
-      "show_name": "Ruta 40",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 4 - Dina Huapi - Bariloche",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Tupac llega a Río Negro y su primera parada es en Dina Huapi, donde conoce a un productor de vermut con hierbas silvestres. Ya en Bariloche, conoce a un chef que lo invita a cocinar conejo, visita el famoso Cerro Campanario y un ahumadero."
-    },
-    {
-      "show_name": "Especial Sandwiches de miga",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "episode_description": "Celebramos al sándwich de miga con un programa especial, por se un clásico infaltable en las mesas argentinas. Descubrimos su historia, los secretos de su preparación, los rellenos más populares y las versiones más innovadoras."
-    },
-    {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Puebla 2",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Conozca los secretos de los chiles en nogada, el platillo emblemático poblano. Recorremos el corazón de la ciudad. Luego, entramos en el Mercado de Sabores, para descubrir los puestos y los restaurantes locales."
-    },
-    {
-      "show_name": "Con pocos ingredientes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Pescado a la sal - Buñuelos de lechuga - Brownie",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Estefi Colombo nos demuestra que las comidas hechas con pocos ingredientes pueden ser variadas y geniales. Estefi nos prepara un pescado a la sal y unos buñuelos de lechuga. Sumado a un brownie."
-    },
-    {
-      "show_name": "Los favoritos de Margarita Bernal en Bogotá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - El pantera",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "Margarita Bernal nos propone dar un tour gastronómico por sus lugares favoritos en Bogotá y sin dudarlo nos muestra El Pantera, una versión original que mezcla la comida mexicana con toques colombianos."
-    },
-    {
-      "show_name": "Sonia en su huerta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/sonia-en-su-huerta.webp",
-      "show_category": "Temporada 1 Episodio 100 - Barbacoa de res estilo norteño con salsa taquera - Ensalada thai de papaya verde",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "Sonia Ortiz nos recibe en su casa de Valle de Bravo, ella prepara una barbacoa de res al estilo norteño, con una salsa taquera. La cosecha de papaya verde y tomates cherry, le recuerda al sudeste asiático, más que nada a una ensalada thai."
-    },
-    {
-      "show_name": "Fiesta en casa al aire libre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Mousse de pepino y manzana con huevas de salmón",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Carmen López del Hierro elabora dos recetas: Mousse de pepino y manzana con huevos de salmón. Luego, un rollo de bonito a la asturiana, con ensalada de hojas verdes."
+      "show_name": "Abuelita linda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_abuelita-linda-s02e15_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 15 - Veracruz - Abuelita Magnolia",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Verónica viaja hasta la ciudad, de Veracruz, no solo para disfrutar de sus playas y sumergirse en su acuario con tiburones.."
     },
     {
       "show_name": "México en una tortilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Tacos dorados de pato con mole - Mole verde con hongos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Chalupas poblanas - Enchiladas de bautizo",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Alejandro nos enseñará a cocinar un clásico de la cocina poblana callejera, las chalupitas. También, aprenderemos a preparar una delicia de la cocina de Oaxaca: enchiladas de bautizo."
+    },
+    {
+      "show_name": "Los sandwiches de Romo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-sandwiches-de-romo-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 4 - Sándwiches agridulces",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Mauricio Romo nos sorprende con un croissant tropical con camarones al coco. Un bocadillo de pavo con ciruela en pan brioche y por ultimo prepara un Philly Cheese Steak sandwich, relleno de arrachera, cebollas caramelizadas."
+    },
+    {
+      "show_name": "Sabor mediterráneo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Pescado con chimichurri y espárragos salteados",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Sole Nardelli visita la Masía de Buri, que se dedica al cultivo de vegetales y flores comestibles."
+    },
+    {
+      "show_name": "Dulces detalles con Paulina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dulces-detalles-con-paulina-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Esfera multicolor y la vida es rosa",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Esfera multicolor y la vida es rosa: propuestas con colores como protagonistas. Paulina Abascal nos sorprende con estas recetas para demostrar que no hace falta preparar grandes pasteles para sorprender a tus comensales."
+    },
+    {
+      "show_name": "Un paseo por Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-paseo-por-oaxaca-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Margarita es aprendiz",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Oaxaca es conocido por su extensa variedad gastronómica entre la que encontramos el quesillo Oaxaca, los mezcales, el pan de muerto y sus famosos moles."
+    },
+    {
+      "show_name": "Asado de obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 4 - Potrero de los Funes - San Luis",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Compartimos los viernes de asado con trabajadores de Buenos Aires, Cordoba y San Luis."
+    },
+    {
+      "show_name": "La cocina de Sonia Ortiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Ensalada de col con pollo crocante y rollo de carne",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Sonia Ortiz nos presenta una deliciosa combinación: pollo crujiente sazonado con semillas de sésamo y chipotle en una cama de ensalada de repollo y zanahoria. También comparte su receta de pastel de carne."
+    },
+    {
+      "show_name": "Los favoritos de Mauricio en Nueva York",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Ladureé",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Manhattan ofrece lo mejor de la pastelería mundial. Desde unas delicias belgas en Wafels and Dinges, hasta los mejores macarons del planeta en Ladureé. Mauricio se viste de neoyorquino y toma un café con crullers en Daily Provisions."
+    },
+    {
+      "show_name": "La cocina mágica de las setas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - El paraíso de las setas",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Viajamos a uno de los grandes paraísos de las setas de España, Soria. Junto al chef Alfonso Romero, buscaremos el hongo más caro y apreciado del mundo: la trufa negra."
+    },
+    {
+      "show_name": "Devuélveme los tápers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Lucía - Ana María",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Zahie Tellez visita a Lucía Avilez. Ella prepara unas costillas a los chiles para su amiga Lara Lucero. Por otro lado, conoce a Ana María Mata, que le cocina tinga de pollo a su hijo, Héctor Márquez."
+    },
+    {
+      "show_name": "México en una tortilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Chalupas poblanas - Enchiladas de bautizo",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Alejandro nos enseñará a cocinar un clásico de la cocina poblana callejera, las chalupitas. También, aprenderemos a preparar una delicia de la cocina de Oaxaca: enchiladas de bautizo."
+    },
+    {
+      "show_name": "Amigos a la mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 21 - Papillote de róbalo - Salpicón de zanahoria y camarones al ajillo",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "La mejor manera de armar un papilote de robalo, es lo que nos mostrarán paso a paso los chefs Zahie Téllez y Sergio Camacho. Ellos lo acompañán con un fresco salpicón de camarones, al que le dan un toque de picante."
+    },
+    {
+      "show_name": "Menú para todos los días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_menu-para-todos-los-dias-s01e12_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 12 - Pollo agridulce y pasta udon",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Hoy Antonio se enfoca en la cocina tradicional mexicana, por lo que te enseña a cocinar el pollo agridulce y pasta udon con nueces fritas."
+    },
+    {
+      "show_name": "Fiesta en casa al aire libre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 21 - Pulpo teriyaki con puré de berenjena asada",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Carmen López del Hierro elabora dos recetas. Primero, prepara pulpo teriyaki con puré de berenjena asada y luego tarta salada de tomate y tres quesos."
+    },
+    {
+      "show_name": "Los favoritos de Zahie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "La chef mexicana Zahie Téllez nos muestra su ciudad, ofreciendo un recorrido por los mejores puestos de tacos, quesadillas y pancitas. Una propuestas divertida y llena de sabor de la mano de Zahie."
+    },
+    {
+      "show_name": "Pueblos para comérselos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Olite",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "En este viaje conocemos Olite, un pueblo de Navarro. Allí aprenderemos a hacer la típica chistorra navarra, desayunaremos txantxigorri, comeremos guiso tradicional de cordero, migas del pastor, ajoarriero y unas alcachofas a la brasa."
+    },
+    {
+      "show_name": "Mapa de los sabores de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 21 - Caldo de codorniz - Tostada jerezana",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "En su incansable búsqueda culinaria, Eduardo Osuna nos trae dos recetas norteñas para chuparse los dedos: un caldo de codorniz acompañado de una tostada jerezana, de Zacatecas."
+    },
+    {
+      "show_name": "Maestros de la pizza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Hoy, Roberto visita Güerrín, clásica de la avenida Corrientes. En Adrogué conoce a dos pizzaiolas que están en el ranking de las mejores 50 del mundo. En Roma lo espera la famosa pinsa, muy aireada."
+    },
+    {
+      "show_name": "La cocina de Sonia Ortiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Ensalada de col con pollo crocante y rollo de carne",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Sonia Ortiz nos presenta una deliciosa combinación: pollo crujiente sazonado con semillas de sésamo y chipotle en una cama de ensalada de repollo y zanahoria. También comparte su receta de pastel de carne."
+    },
+    {
+      "show_name": "Guardianes de tradición. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e02-1_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - El taquito",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "En 1917 en la Ciudad de México Don Marcos y Conchita Guillen tenían una tienda de especias, donde comenzaron a ofrecer tacos, carnitas y guisados."
+    },
+    {
+      "show_name": "Abuelita linda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_abuelita-linda-s02e15_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 15 - Veracruz - Abuelita Magnolia",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Verónica viaja hasta la ciudad, de Veracruz, no solo para disfrutar de sus playas y sumergirse en su acuario con tiburones.."
+    },
+    {
+      "show_name": "Asado de obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 4 - Potrero de los Funes - San Luis",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Compartimos los viernes de asado con trabajadores de Buenos Aires, Cordoba y San Luis."
+    },
+    {
+      "show_name": "Las mejores recetas de Zahie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Frijol con hueso - Empanadas de ciruela",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": "La cocina de Zahie nos sorprende con dos recetas de su natal, Mazatlán: frijol con hueso y empanadas de ciruela."
+    },
+    {
+      "show_name": "Fiestas con sabor mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - La k'uínchekua",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Benito asiste al festival de La K'uínchekua, que reúne danza, música, canto y ceremonias religiosas de las etnias michoacanas, teniendo como sede la mística zona arqueológica de Las Yácatas en Tzintzuntzan."
+    },
+    {
+      "show_name": "Estefi express",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Tortilla de papa rallada",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Alejandro Ruiz prepara unos ricos tacos dorados rellenos de pato y bañados en mole de Oaxaca. Una verdadera delicia. Y como segundo plato un mole verde acompañado con hongos de temporada, impensable perdérselos."
+      "episode_description": "¿Poco tiempo y muchas ganas de comer rico? Estefi Colombo tiene la solución. Ella muestra cómo preparar platos deliciosos en pocos minutos y con ingredientes que tenemos seguro en nuestra cocina."
+    },
+    {
+      "show_name": "Pueblos para comérselos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Olite",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "En este viaje conocemos Olite, un pueblo de Navarro. Allí aprenderemos a hacer la típica chistorra navarra, desayunaremos txantxigorri, comeremos guiso tradicional de cordero, migas del pastor, ajoarriero y unas alcachofas a la brasa."
+    },
+    {
+      "show_name": "La cocina de Sonia Ortiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Ensalada de col con pollo crocante y rollo de carne",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Sonia Ortiz nos presenta una deliciosa combinación: pollo crujiente sazonado con semillas de sésamo y chipotle en una cama de ensalada de repollo y zanahoria. También comparte su receta de pastel de carne."
     },
     {
       "show_name": "Me voy a comer el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/me-voy-a-comer-el-mundo.webp",
-      "show_category": "Temporada 4 Episodio 3 - Georgia",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "La periodista Verónica Zumalacárregui continúa viajando alrededor del mundo para seguir presentándonos la mejor gastronomía de cada región. En estos nuevos episodio visita Marruecos, Croacia, Georgia y Turquía."
-    },
-    {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Puebla 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s02e08_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 8 - Macao",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Conozca los secretos de los chiles en nogada, el platillo emblemático poblano. Recorremos el corazón de la ciudad. Luego, entramos en el Mercado de Sabores, para descubrir los puestos y los restaurantes locales."
+      "end_time": "18:30",
+      "episode_description": "En Macao pueden encontrarse todos los excesos arquitectónicos y gastronómicos imaginables. Verónica Zumalacárregui se adentrará en un hotel casino que reproduce exactamente la ciudad de Venecia y probará la cocina chinoportuguesa macaense."
     },
     {
-      "show_name": "Especial Sandwiches de miga",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1",
-      "start_time": "18:00",
+      "show_name": "La ruta de los insectos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4",
+      "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "Celebramos al sándwich de miga con un programa especial, por se un clásico infaltable en las mesas argentinas. Descubrimos su historia, los secretos de su preparación, los rellenos más populares y las versiones más innovadoras."
+      "episode_description": "En Tequisquiapan, Querétaro, Quique visita a Georgina López que da a conocer su proyecto de una granja casera de larvas de tenebrio. Carlos Aroyo cocina una pasta casera con harina de tenebrio con ragú"
     },
     {
-      "show_name": "Ruta 40",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 4 - Dina Huapi - Bariloche",
+      "show_name": "La ruta del mar patagonico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 3 - Puerto deseado - Empanadas de sombrerito y pejerrey",
       "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Tupac llega a Río Negro y su primera parada es en Dina Huapi, donde conoce a un productor de vermut con hierbas silvestres. Ya en Bariloche, conoce a un chef que lo invita a cocinar conejo, visita el famoso Cerro Campanario y un ahumadero."
+      "episode_description": "Tupac Guantay continúa su travesía culinaria, a través del mar patagónico, para llegar hasta Puerto deseado, donde tendrá la oportunidad de degustar unas deliciosas empanadas de sombrerito y pejerrey."
     },
     {
-      "show_name": "Productos de mi tierra México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/productos-de-mi-tierra-méxico.webp",
-      "show_category": "Temporada 1 Episodio 6 - Nopal",
+      "show_name": "Los imperdibles México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Frijoles refritos",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Enrique Cervantes visita a Marcos Juárez, productor de nopal, en Tlanepantla, Morelos. Allí, Reina González cocina penca rellena. En Querétaro, María de los Ángeles Esperanza cocina un platillo llamado Nopales de santo."
+      "episode_description": "Comenzamos con pura tradición mexicana, frijoles refritos hechos al carbón, en la mítica \"Fonda Margarita\". Seguimos con una receta Tapatía, la carne en su jugo, un guisado que nos transporta a las comidas familiares."
     },
     {
-      "show_name": "Platos de cuchara",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/platos-de-cuchara.webp",
-      "show_category": "Temporada 2 Episodio 10 - Platos de cuchara con chayote",
+      "show_name": "Especial la verdad de la milanesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - La verdad de la milanesa",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Dos platos de cuchara de Zahie Tellez a base de chayote: Sopa de chayote y chayote con relleno dulce."
+      "end_time": "21:00",
+      "episode_description": "Arrancamos el programa con el chef Petersen, quien nos va a explicar como es la verdad de la milanesa, todos los consejos servidos al plato, para que puedan degustar tanto los someliers, como vos en tu casa, de las mejores milanesas."
     },
     {
-      "show_name": "Los fogones tradicionales: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-fogones-tradicionales-españa.webp",
-      "show_category": "Temporada 5 Episodio 2 - Cocido - Piñas",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "En Viso del Alcor, Sevilla, Merceditas y Mercedes nos van a preparar un sabroso y nutrido cocido. Luego, en Cuevas de Velasco, un pequeño pueblo de La Alcarria Conquense, Maribel y Piedad elaboran el famoso postre de carnaval: Las piñas."
+      "show_name": "Guardianes de tradición. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e02-1_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - El taquito",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "En 1917 en la Ciudad de México Don Marcos y Conchita Guillen tenían una tienda de especias, donde comenzaron a ofrecer tacos, carnitas y guisados."
     },
     {
       "show_name": "Me voy a comer el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/me-voy-a-comer-el-mundo.webp",
-      "show_category": "Temporada 4 Episodio 3 - Georgia",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "La periodista Verónica Zumalacárregui continúa viajando alrededor del mundo para seguir presentándonos la mejor gastronomía de cada región. En estos nuevos episodio visita Marruecos, Croacia, Georgia y Turquía."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s02e08_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 8 - Macao",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "En Macao pueden encontrarse todos los excesos arquitectónicos y gastronómicos imaginables. Verónica Zumalacárregui se adentrará en un hotel casino que reproduce exactamente la ciudad de Venecia y probará la cocina chinoportuguesa macaense."
     },
     {
-      "show_name": "Especial Sandwiches de miga",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1",
-      "start_time": "22:00",
+      "show_name": "Cocina de mar Pacífico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Pescado zarandeado - Langostas al mojo de ajo",
+      "start_time": "22:30",
       "end_time": "23:00",
-      "episode_description": "Celebramos al sándwich de miga con un programa especial, por se un clásico infaltable en las mesas argentinas. Descubrimos su historia, los secretos de su preparación, los rellenos más populares y las versiones más innovadoras."
+      "episode_description": "Alex Ruiz nos prepara un pescado zarandeado, al estilo de la costa de Nayarit. Continúa con unas langostas al mojo de ajo, con las que el chef prepara unos tacos de langosta con mantequilla y frijoles al estilo Baja California."
     },
     {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Puebla 2",
+      "show_name": "Pueblos para comérselos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Olite",
       "start_time": "23:00",
       "end_time": "23:30",
-      "episode_description": "Conozca los secretos de los chiles en nogada, el platillo emblemático poblano. Recorremos el corazón de la ciudad. Luego, entramos en el Mercado de Sabores, para descubrir los puestos y los restaurantes locales."
+      "episode_description": "En este viaje conocemos Olite, un pueblo de Navarro. Allí aprenderemos a hacer la típica chistorra navarra, desayunaremos txantxigorri, comeremos guiso tradicional de cordero, migas del pastor, ajoarriero y unas alcachofas a la brasa."
     },
     {
-      "show_name": "Ruta 40",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 4 - Dina Huapi - Bariloche",
+      "show_name": "La ruta del mar patagonico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 3 - Puerto deseado - Empanadas de sombrerito y pejerrey",
       "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "Tupac llega a Río Negro y su primera parada es en Dina Huapi, donde conoce a un productor de vermut con hierbas silvestres. Ya en Bariloche, conoce a un chef que lo invita a cocinar conejo, visita el famoso Cerro Campanario y un ahumadero."
+      "episode_description": "Tupac Guantay continúa su travesía culinaria, a través del mar patagónico, para llegar hasta Puerto deseado, donde tendrá la oportunidad de degustar unas deliciosas empanadas de sombrerito y pejerrey."
     }
   ]
 }

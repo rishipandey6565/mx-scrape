@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,83 +20,107 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "LOSC Lille (Fra) vs. Aston Villa (Ing)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Octavos de final - Ida, Stade Pierre-Mauroy",
+      "show_name": "Wrexham vs. Swansea City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 38, SToK Racecourse",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
+      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Stage 5",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Etapa 6",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Tirreno - Adriático",
       "start_time": "06:00",
       "end_time": "09:00",
       "episode_description": "Vive lo más emocionante de la carrera ciclista Tirreno-Adriático en su edición 2026. La competición cruza cinco regiones italianas con un recorrido variado que ofrecerá oportunidades para todo tipo de corredores."
     },
     {
-      "show_name": "Badalona vs. Barcelona",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Semifinal - Ida, Estadi Municipal de Badalona",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "09:00",
-      "end_time": "10:45",
-      "episode_description": "Vive lo más emocionante de los partidos de la edición 2025-2026 de la Copa de la Reina. El público podrá disfrutar de un campeonato disputado por los 16 mejores clubes femeninos de España."
+      "end_time": "10:00",
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Segunda ronda, TPC Sawgrass, Ponte Vedra, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Tercera ronda, TPC Sawgrass, Ponte Vedra, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "PGA TOUR - The Players",
-      "start_time": "10:45",
+      "start_time": "11:45",
       "end_time": "17:00",
       "episode_description": "Vive todas las emociones de uno de los torneos de golf más prestigiosos del mundo, organizado anualmente por el PGA Tour en Ponte Vedra Beach, Florida. El evento reúne a destacadas figuras en encuentros inolvidables."
     },
     {
-      "show_name": "Alebrijes de Oaxaca vs. Tapatío",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 10, Estadio Tecnológico de Oaxaca",
+      "show_name": "Sydney",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_nautica-sydney_l_m.jpg",
+      "show_category": "Sail GP",
       "start_time": "17:00",
-      "end_time": "18:55",
-      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
+      "end_time": "18:00",
+      "episode_description": "Utilizará carreras en estadios costeros de formato corto para maximizar el impacto y la emoción. Cada gran premio incluirá dos días de competición con un total de cinco carreras de flota."
     },
     {
-      "show_name": "Las Olmecas de Tabasco vs. Diablos Rojos Femenil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Juego 3, Estadio Alfredo Harp Helú",
-      "start_time": "18:55",
-      "end_time": "22:00",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
+      "show_name": "El show de la Copa Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-el-show-de-la-copa-libertadores_l_m.jpg",
+      "show_category": "El show de la Copa Libertadores",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente."
     },
     {
-      "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Generación fútbol",
-      "start_time": "22:00",
+      "show_name": "Denver Nuggets vs. Los Angeles Lakers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Crypto.com Arena",
+      "start_time": "18:30",
+      "end_time": "21:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Sacramento Kings vs. Los Angeles Clippers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Intuit Dome",
+      "start_time": "21:00",
       "end_time": "23:00",
-      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Udinese vs. Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 29, Dacia Arena - Stadio Friuli",
       "start_time": "23:00",
-      "end_time": "00:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "end_time": "01:00",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     }
   ]
 }
