@@ -1,9 +1,9 @@
 {
   "channel": "a+",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
-      "show_name": "La Amante de la Mafia",
+      "show_name": "Penthouse de la muerte",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Paid Programing",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -99,58 +99,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "La duquesa del tepetate",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gata Salvaje",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tres hermanos",
+      "show_name": "Atrás de las nubes",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:30",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los aventureros",
+      "show_name": "Los tres amores de Lola",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "17:45",
       "episode_description": ""
     },
     {
-      "show_name": "Tigres vs. Querétaro\nEn Vivo",
+      "show_name": "Bataclan mexicano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "19:00",
+      "start_time": "17:45",
+      "end_time": "19:45",
       "episode_description": ""
     },
     {
-      "show_name": "El hombre de negro",
+      "show_name": "La gran aventura del zorro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:30",
+      "start_time": "19:45",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "El Ahorcado",
+      "show_name": "Ahora Más Noticias\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "22:15",
+      "start_time": "21:30",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Penthouse de la muerte",
+      "show_name": "Juego peligroso",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }

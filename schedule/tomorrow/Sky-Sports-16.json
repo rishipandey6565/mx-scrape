@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 16",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
-      "show_name": "Real Oviedo vs. Valencia",
+      "show_name": "Real Sociedad vs. CA Osasuna",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Deportivo Alavés vs. Villarreal",
+      "show_name": "RCD Mallorca vs. Espanyol",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Girona FC vs. Athletic Club de",
+      "show_name": "Real Betis vs. Celta de Vigo",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -31,75 +31,51 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:45",
+      "end_time": "06:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Real Oviedo vs. Valencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:45",
+      "end_time": "08:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Girona FC vs. Athletic Club de",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:45",
+      "end_time": "10:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportivo Alavés vs. Villarreal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:45",
+      "end_time": "12:45",
       "episode_description": ""
     },
     {
       "show_name": "Atlético de Madrid vs. Getafe C",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "07:45",
+      "start_time": "12:45",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
       "show_name": "Previo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:45",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "RCD Mallorca vs. Espanyol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Barcelona vs. Sevilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/barcelona-vs-sevilla.webp",
-      "show_category": "Deporte",
-      "start_time": "10:15",
-      "end_time": "12:15",
-      "episode_description": "Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrentan los equipos Fútbol Club Barcelona versus Sevilla Fútbol Club."
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:15",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Betis vs. Celta de Vigo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Previo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
+      "start_time": "14:45",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Real Sociedad vs. CA Osasuna\nEn Vivo",
+      "show_name": "Rayo Vallecano vs. Levante",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -107,31 +83,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Barcelona vs. Sevilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/barcelona-vs-sevilla.webp",
-      "show_category": "Deporte",
+      "show_name": "RCD Mallorca vs. Espanyol",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "17:00",
       "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barcelona vs. Sevilla",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_sevilla.png",
+      "show_category": "Deporte",
+      "start_time": "19:00",
+      "end_time": "21:00",
       "episode_description": "Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrentan los equipos Fútbol Club Barcelona versus Sevilla Fútbol Club."
     },
     {
       "show_name": "Real Madrid vs. Elche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/real-madrid-vs-elche.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_elche.png",
       "show_category": "Deporte",
-      "start_time": "19:00",
-      "end_time": "21:00",
+      "start_time": "21:00",
+      "end_time": "23:00",
       "episode_description": "Desde el estadio Santiago Bernabéu ubicado en la ciudad de Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus Elche Club de Fútbol."
     },
     {
-      "show_name": "Atlético de Madrid vs. Getafe C",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Real Sociedad vs. CA Osasuna",
+      "show_name": "Rayo Vallecano vs. Levante",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

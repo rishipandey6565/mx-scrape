@@ -1,102 +1,110 @@
 {
   "channel": "Space (México)",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Evil Dead: El Despertar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/evil-dead-el-despertar.webp",
-      "show_category": "Terror",
+      "show_name": "Ghostbusters: El Legado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/ghostbusters_el_legado.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "01:11",
-      "episode_description": "Trasladando la acción de los bosques a la ciudad, \"Evil Dead: El Despertar\" cuenta la retorcida historia de dos hermanas distanciadas, cuyo reencuentro se ve truncado por la aparición de demonios poseedores de carne, lo que las empuja a una batalla primordial por la supervivencia mientras se enfrentan a la versión más pesadillesca imaginable de la familia."
+      "end_time": "00:19",
+      "episode_description": "Cuando una madre soltera y sus dos hijos llegan a un pequeño pueblo, comienzan a descubrir su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo."
     },
     {
       "show_name": "Blade Cazador de vampiros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:11",
-      "end_time": "03:12",
+      "start_time": "00:19",
+      "end_time": "02:24",
       "episode_description": ""
     },
     {
-      "show_name": "El carnicero",
+      "show_name": "Little Bone Lodge",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:12",
-      "end_time": "04:40",
+      "start_time": "02:24",
+      "end_time": "04:02",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "La niña del mar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:40",
+      "start_time": "04:02",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fuego con fuego",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "07:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Asesinos de élite",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:20",
-      "end_time": "09:24",
       "episode_description": ""
     },
     {
       "show_name": "El Vengador Del Futuro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:24",
-      "end_time": "11:23",
-      "episode_description": ""
-    },
-    {
-      "show_name": "V de venganza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:23",
-      "end_time": "13:39",
+      "start_time": "07:20",
+      "end_time": "09:17",
       "episode_description": ""
     },
     {
       "show_name": "Difícil de matar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:39",
-      "end_time": "15:23",
+      "start_time": "09:17",
+      "end_time": "10:57",
       "episode_description": ""
-    },
-    {
-      "show_name": "xXx",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/xxx.webp",
-      "show_category": "Acción",
-      "start_time": "15:23",
-      "end_time": "17:29",
-      "episode_description": "Xander \"xXx\" Cage (Vin Diesel), es un ex atleta de deportes extremos conocido por sus acrobacias públicas en las que desafiaba a la muerte y a la ley. El espía de la Agencia Nacional de Seguridad, Augustus Gibbons (Samuel L. Jackson), lo busca para una peligrosa misión encubierta. Gibbons y la NSA enfrentan una situación desesperada en Praga, cuando un espía encubierto ha sido asesinado por una banda de maleantes que poseen tecnología de punta conocidos como \"Anarchy 99\", comandados por el malvado ex comandante del ejército ruso, Yorgi (Marton Csokas), y su hermosa novia Yelena (Asia Argento). El agente XXX necesitará todas sus habilidades extremas para combatir a un enemigo astuto, organizado y totalmente despiadado más allá de lo que él está acostumbrado."
-    },
-    {
-      "show_name": "Spider-Man: Lejos de Casa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/spider-man-lejos-de-casa.webp",
-      "show_category": "Acción",
-      "start_time": "17:29",
-      "end_time": "19:55",
-      "episode_description": "Nuestro vecino amigable superhéroe decide unirse a sus mejores amigos Ned (Jacob Batalon), Michelle \"MJ\" Jones (Zendaya) y el resto de la pandilla en unas vacaciones europeas. Sin embargo, el plan de Peter (Tom Holland) para dejar atrás al súper heroico Spider-Man durante unas semanas se desecha rápidamente cuando acepta sin estar de acuerdo a Nick Fury (Samuel L. Jackson) para descubrir el misterio de varios ataques de criaturas elementales, ¡creando estragos en todo el continente!"
     },
     {
       "show_name": "El Demoledor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:55",
+      "start_time": "10:57",
+      "end_time": "13:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Animales fantásticos y dónde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:04",
+      "end_time": "15:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Animales Fantásticos 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:23",
+      "end_time": "17:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Animales Fantásticos 3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:39",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La guardería de papá",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:10",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Ghostbusters: El Legado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/ghostbusters-el-legado.webp",
+      "show_name": "Spider-Man: Lejos de Casa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_lejos_de_casa.jpg",
       "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:19",
-      "episode_description": "Cuando una madre soltera y sus dos hijos llegan a un pequeño pueblo, comienzan a descubrir su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo."
+      "end_time": "00:24",
+      "episode_description": "Nuestro vecino amigable superhéroe decide unirse a sus mejores amigos Ned (Jacob Batalon), Michelle \"MJ\" Jones (Zendaya) y el resto de la pandilla en unas vacaciones europeas. Sin embargo, el plan de Peter (Tom Holland) para dejar atrás al súper heroico Spider-Man durante unas semanas se desecha rápidamente cuando acepta sin estar de acuerdo a Nick Fury (Samuel L. Jackson) para descubrir el misterio de varios ataques de criaturas elementales, ¡creando estragos en todo el continente!"
     }
   ]
 }

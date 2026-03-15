@@ -1,20 +1,44 @@
 {
   "channel": "TCM (México)",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
-    {
-      "show_name": "Tía Mame",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:25",
-      "episode_description": ""
-    },
     {
       "show_name": "Feedback",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:25",
+      "start_time": "00:00",
+      "end_time": "00:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La dama de la mafia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:31",
+      "end_time": "02:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:02",
+      "end_time": "02:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:39",
+      "end_time": "02:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:49",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,87 +47,103 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:32",
+      "end_time": "03:37",
       "episode_description": ""
     },
     {
-      "show_name": "Los tres mosqueteros",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
-      "end_time": "06:48",
+      "start_time": "03:37",
+      "end_time": "04:11",
       "episode_description": ""
     },
     {
-      "show_name": "Singin' in the rain",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:48",
-      "end_time": "08:38",
+      "start_time": "04:11",
+      "end_time": "04:26",
       "episode_description": ""
     },
     {
-      "show_name": "Superman II",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:38",
-      "end_time": "10:53",
+      "start_time": "04:26",
+      "end_time": "04:34",
       "episode_description": ""
     },
     {
-      "show_name": "The racer",
+      "show_name": "El Hombre y la Bestia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:53",
-      "end_time": "12:33",
+      "start_time": "04:34",
+      "end_time": "06:32",
       "episode_description": ""
     },
     {
-      "show_name": "Dr. Jekyll and Mr. Hyde",
+      "show_name": "Enemigo al acecho",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:33",
-      "end_time": "14:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Enemy at the Gates",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:34",
-      "end_time": "16:48",
+      "start_time": "06:32",
+      "end_time": "08:42",
       "episode_description": ""
     },
     {
       "show_name": "Julius Caesar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:48",
-      "end_time": "19:00",
+      "start_time": "08:42",
+      "end_time": "10:54",
       "episode_description": ""
     },
     {
-      "show_name": "El ciudadano",
+      "show_name": "Las minas del rey Salomón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:08",
+      "start_time": "10:54",
+      "end_time": "12:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Máquina del tiempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:43",
+      "end_time": "14:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historias extraordinarias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:33",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Fiesta en casa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:08",
-      "end_time": "22:57",
+      "start_time": "19:00",
+      "end_time": "20:47",
       "episode_description": ""
     },
     {
-      "show_name": "Feedback",
+      "show_name": "Historias de Filadelfia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:57",
-      "end_time": "00:35",
+      "start_time": "20:47",
+      "end_time": "22:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La dama de la mafia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:46",
+      "end_time": "00:17",
       "episode_description": ""
     }
   ]

@@ -1,94 +1,102 @@
 {
   "channel": "HBO Mundi",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "¡Huye!",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/huye.jpg",
+      "show_category": "Terror",
       "start_time": "00:00",
-      "end_time": "00:20",
+      "end_time": "00:15",
+      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
+    },
+    {
+      "show_name": "The Damned",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
+      "end_time": "01:45",
       "episode_description": ""
     },
     {
-      "show_name": "Historia Americana X",
+      "show_name": "Petite maman",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:20",
-      "end_time": "02:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El estado de juego violencia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:25",
+      "start_time": "01:45",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "La lista de Schindler",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Red Social",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/red_social.jpg",
+      "show_category": "Película",
       "start_time": "03:00",
-      "end_time": "06:20",
-      "episode_description": ""
+      "end_time": "05:05",
+      "episode_description": "Nombre que recibe la película \"The Social Network\" en Latinoamérica, que cuenta la historia de Facebook desde sus comienzos y cómo fue que Mark Zuckerberg se vuelve multimillonario."
     },
     {
-      "show_name": "El Infiltrado del KKKlan",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/el-infiltrado-del-kkklan.webp",
-      "show_category": "Biografía",
-      "start_time": "06:20",
-      "end_time": "08:45",
-      "episode_description": "La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular."
-    },
-    {
-      "show_name": "El brutalista",
+      "show_name": "Gattaca experimento genético",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
-      "end_time": "12:15",
+      "start_time": "05:05",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
-      "show_name": "Duna: Parte Dos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/duna-parte-dos.webp",
-      "show_category": "Acción",
-      "start_time": "12:15",
-      "end_time": "15:05",
-      "episode_description": "Duna: Parte Dos explora el viaje mítico de Paul Atreides (Timothée Chalamet) mientras se une a Chani (Zendaya) y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever."
+      "show_name": "Magnolia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:55",
+      "end_time": "10:10",
+      "episode_description": ""
     },
     {
-      "show_name": "La sustancia",
+      "show_name": "Boyhood momentos de una vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:10",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Día de entrenamiento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "15:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nosferatu",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:05",
-      "end_time": "17:35",
+      "end_time": "17:20",
       "episode_description": ""
     },
     {
-      "show_name": "Todo, en todas partes",
+      "show_name": "Duna",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:35",
+      "start_time": "17:20",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Anora",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "El Triángulo de la Tristeza",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_triangulo_de_la_tristeza.jpg",
+      "show_category": "Comedia",
       "start_time": "20:00",
-      "end_time": "22:25",
-      "episode_description": ""
+      "end_time": "22:30",
+      "episode_description": "En esta divertidísima película de Ruben Östlund, ganador de la Palma de Oro, la jerarquía social se pone patas arriba, revelando la escandalosa relación entre poder y belleza. Carl (Harris Dickinson) y Yaya (Charlbi Dean), una pareja de modelos famosos, son invitados a un crucero de lujo para súper ricos, capitaneado por un desquiciado capitán de barco (Woody Harrelson). Lo que al principio parecía instagrameable acaba de forma catastrófica, dejando a los supervivientes varados en una isla desierta y luchando por la supervivencia."
     },
     {
-      "show_name": "¡Huye!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/huye.webp",
-      "show_category": "Terror",
-      "start_time": "22:25",
-      "end_time": "00:15",
-      "episode_description": "Cuando Chris (Daniel Kaluuya), un joven afroamericano, visita la familia de su novia de tez blanca, Rose Armitage (Allison Williams), se encuentra atrapado en la verdadera razón del porqué de su invitación. Al principio, Chris lee el comportamiento demasiado complaciente de la familia mientras intenta calmar sus nervios tratando de lidiar con la relación interracial con su hija, pero a medida que avanza el fin de semana, una serie de descubrimientos inquietantes lo llevan a una verdad que nunca podría haber imaginado."
+      "show_name": "El esquema fenicio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "00:20",
+      "episode_description": ""
     }
   ]
 }

@@ -1,68 +1,52 @@
 {
   "channel": "TNT (México)",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Top Gun",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:05",
-      "episode_description": ""
-    },
-    {
       "show_name": "Guasón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/guasón.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/guason.jpg",
       "show_category": "Crimen",
-      "start_time": "00:05",
-      "end_time": "02:14",
+      "start_time": "00:00",
+      "end_time": "00:34",
       "episode_description": "Un hombre que lucha por encontrar su camino en la sociedad fracturada de Ciudad Gótica. Un payaso de alquiler de día, aspira a ser un cómico por la noche… pero descubre que la broma siempre parece estar sobre él. Atrapado en una existencia cíclica entre la apatía y la crueldad, Arthur Fleck (Joaquin Phoenix) toma una mala decisión que provoca una reacción en cadena de eventos cada vez mayores en este estudio de carácter arenoso."
     },
     {
-      "show_name": "Días de Ira",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:14",
-      "end_time": "04:01",
-      "episode_description": ""
+      "show_name": "Spider-Man: No Way Home",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_sin_camino_a_casa.jpg",
+      "show_category": "Acción",
+      "start_time": "00:34",
+      "end_time": "03:01",
+      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
     },
     {
       "show_name": "Juego de Asesinos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:01",
-      "end_time": "05:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:43",
-      "end_time": "05:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:46",
-      "end_time": "05:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TNT Buzz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:47",
-      "end_time": "05:50",
+      "start_time": "03:01",
+      "end_time": "04:44",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:50",
+      "start_time": "04:44",
+      "end_time": "05:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:19",
+      "end_time": "05:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:56",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -75,124 +59,92 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:12",
-      "end_time": "06:25",
+      "end_time": "06:15",
       "episode_description": ""
     },
     {
-      "show_name": "El espanta tiburones",
+      "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:25",
-      "end_time": "08:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Champions Espectacular",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:05",
-      "end_time": "08:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:50",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sunderland vs. Brighton & Hove Albion",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:10",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chelsea vs. Newcastle United",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Shrek",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
-      "end_time": "15:19",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Shrek 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:19",
-      "end_time": "16:53",
+      "start_time": "06:15",
+      "end_time": "06:18",
       "episode_description": ""
     },
     {
       "show_name": "Shrek Tercero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/shrek-tercero.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg",
       "show_category": "Animación",
-      "start_time": "16:53",
-      "end_time": "18:30",
+      "start_time": "06:18",
+      "end_time": "07:52",
       "episode_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
     },
     {
       "show_name": "Shrek para siempre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:07",
+      "start_time": "07:52",
+      "end_time": "09:28",
       "episode_description": ""
     },
     {
-      "show_name": "Top Gun",
+      "show_name": "Golpe bajo el juego final",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:07",
-      "end_time": "22:11",
+      "start_time": "09:28",
+      "end_time": "11:22",
       "episode_description": ""
     },
     {
-      "show_name": "Guasón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/guasón.webp",
-      "show_category": "Crimen",
-      "start_time": "22:11",
-      "end_time": "00:34",
-      "episode_description": "Un hombre que lucha por encontrar su camino en la sociedad fracturada de Ciudad Gótica. Un payaso de alquiler de día, aspira a ser un cómico por la noche… pero descubre que la broma siempre parece estar sobre él. Atrapado en una existencia cíclica entre la apatía y la crueldad, Arthur Fleck (Joaquin Phoenix) toma una mala decisión que provoca una reacción en cadena de eventos cada vez mayores en este estudio de carácter arenoso."
+      "show_name": "Spider-Man: No Way Home",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_sin_camino_a_casa.jpg",
+      "show_category": "Acción",
+      "start_time": "11:22",
+      "end_time": "13:57",
+      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
+    },
+    {
+      "show_name": "Barbie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:57",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Punto de encuentro TNT",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Oscars",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/los_oscars.png",
+      "show_category": "Especial",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "episode_description": "“The Academy Awards” la ceremonia de entrega de los premios Oscar de la academia, concedido en reconocimiento a la excelencia de los profesionales de la industria cinematográfica incluyendo directores, actores y escritores."
+    },
+    {
+      "show_name": "El origen",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "23:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La lista de los besos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:16",
+      "end_time": "00:52",
+      "episode_description": ""
     }
   ]
 }

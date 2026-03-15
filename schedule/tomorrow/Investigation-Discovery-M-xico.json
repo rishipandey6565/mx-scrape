@@ -1,25 +1,25 @@
 {
   "channel": "Investigation Discovery (México)",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
-    {
-      "show_name": "Muerte en el pueblo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:20",
-      "episode_description": ""
-    },
     {
       "show_name": "Asesinatos en el campo de juego",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:20",
+      "start_time": "00:00",
+      "end_time": "00:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Detrás de los crímenes virales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:43",
       "end_time": "01:10",
       "episode_description": ""
     },
     {
-      "show_name": "Crímenes de las chicas pesadas",
+      "show_name": "Casos infames: Brittany Murphy",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:10",
@@ -27,23 +27,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "La casa del mal",
+      "show_name": "Demonios de Hollywood",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La casa del mal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:49",
       "end_time": "03:36",
       "episode_description": ""
     },
     {
-      "show_name": "Muerte en el pueblo",
+      "show_name": "Revista People investiga",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:36",
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Muerte en el pueblo",
+      "show_name": "Revista People investiga",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:24",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Asesinatos en el campo de juego",
+      "show_name": "Detalles de un Crimen",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:49",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Asesinatos en el campo de juego",
+      "show_name": "Detalles de un Crimen",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:39",
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres perdidas de Alaska",
+      "show_name": "Asesinatos en Silicon Valley",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:49",
@@ -131,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres perdidas de Alaska",
+      "show_name": "Asesinatos en Silicon Valley",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:38",
@@ -139,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres perdidas de Alaska",
+      "show_name": "Detrás del engaño",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:28",
@@ -147,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Terror en casa",
+      "show_name": "Crímenes del pasado",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:17",
@@ -155,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Terror en casa",
+      "show_name": "Crímenes del pasado",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:07",
@@ -163,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Terror en casa",
+      "show_name": "Crímenes del pasado",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:57",
@@ -171,67 +163,75 @@
       "episode_description": ""
     },
     {
-      "show_name": "Johnny vs Amber: el juicio",
+      "show_name": "Crimen casi perfecto",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:46",
-      "end_time": "17:43",
+      "end_time": "17:36",
       "episode_description": ""
     },
     {
-      "show_name": "Johnny vs Amber: el juicio",
+      "show_name": "Muerte en el pueblo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:43",
-      "end_time": "18:40",
+      "start_time": "17:36",
+      "end_time": "18:26",
       "episode_description": ""
     },
     {
-      "show_name": "Lively vs Baldoni: The Hollywood Feud",
+      "show_name": "El precio de la fama",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:40",
-      "end_time": "19:39",
+      "start_time": "18:26",
+      "end_time": "19:17",
       "episode_description": ""
     },
     {
-      "show_name": "Casos infames: Brittany Murphy",
+      "show_name": "El precio de la fama",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:39",
-      "end_time": "20:29",
+      "start_time": "19:17",
+      "end_time": "20:07",
       "episode_description": ""
     },
     {
-      "show_name": "Demonios de Hollywood",
+      "show_name": "Asesinatos en Silicon Valley",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:29",
-      "end_time": "22:10",
+      "start_time": "20:07",
+      "end_time": "20:57",
       "episode_description": ""
     },
     {
-      "show_name": "Revista People investiga",
+      "show_name": "El curioso caso de...",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:10",
-      "end_time": "23:00",
+      "start_time": "20:57",
+      "end_time": "22:04",
       "episode_description": ""
     },
     {
-      "show_name": "Revista People investiga",
+      "show_name": "El curioso caso de...",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "23:52",
+      "start_time": "22:04",
+      "end_time": "22:54",
       "episode_description": ""
     },
     {
-      "show_name": "Asesinatos en el campo de juego",
+      "show_name": "El lado oscuro de Playboy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:52",
-      "end_time": "00:43",
+      "start_time": "22:54",
+      "end_time": "23:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El lado oscuro de Playboy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:45",
+      "end_time": "00:35",
       "episode_description": ""
     }
   ]

@@ -1,18 +1,18 @@
 {
   "channel": "Televisa (XERV)",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "En punto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/en-punto.webp",
-      "show_category": "News",
+      "show_name": "La Rosa de Guadalupe: relatos de impacto",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14298873_b_v8_aa.jpg",
+      "show_category": "Soaps",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": "Un equipo de periodistas trabaja para llevar las noticias clave que serán el tema de conversación del país al día siguiente."
+      "episode_description": "Especial sobre la Rosa de Guadalupe. Las historias más polémicas y crudas de este programa que no deja de sorprender."
     },
     {
       "show_name": "Especial de R.T.C.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/especial-de-rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg",
       "show_category": "Instructional",
       "start_time": "00:00",
       "end_time": "06:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Espectáculos en corto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/espectáculos-en-corto.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8495014_b_v8_aa.jpg",
       "show_category": "Performing Arts",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "Espectáculos en corto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/espectáculos-en-corto.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p8495014_b_v8_aa.jpg",
       "show_category": "Performing Arts",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -36,91 +36,123 @@
     },
     {
       "show_name": "El Chapulín Colorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/el-chapulín-colorado.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p373776_b_v12_aa.jpg",
       "show_category": "Sitcom",
       "start_time": "07:00",
-      "end_time": "08:00",
+      "end_time": "08:15",
       "episode_description": "El Chapulín Colorado es la representación antagónica de un súper héroe típico, es miedoso, torpe, no deduce la situación tan rápidamente, crea más problemas y no resuelve nada, pero al final todo sale bien cuando la víctima encuentra la solución."
     },
     {
-      "show_name": "La chica del trébol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/la-chica-del-trébol.webp",
-      "show_category": "Movies",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Una humilde joven se enamora de un hombre de clase alta y para no perderlo inventa una vida que no le pertenece."
+      "show_name": "Cápsula",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p18129588_b_v12_aa.jpg",
+      "show_category": "Instructional",
+      "start_time": "08:15",
+      "end_time": "08:30",
+      "episode_description": "Programa de activación física."
     },
     {
-      "show_name": "El Metiche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/el-metiche.webp",
-      "show_category": "Movies",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Su curiosidad lo ha llevado a ser testigo de un crimen, ahora la mafia quiere callarlo y la policía cuestionarlo."
-    },
-    {
-      "show_name": "Enrique Griego",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/enrique-griego.webp",
-      "show_category": "Health",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "show_name": "Dr. Dona Cooper Dockery Show - Get Healthy Heart Disease",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p17847956_st_v8_aa.jpg",
+      "show_category": "Paid Program",
+      "start_time": "08:30",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
+      "show_name": "Será anunciado",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dr.jpg",
+      "show_category": "Sports",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Programación que se anunciará."
+    },
+    {
       "show_name": "En la cocina con Gerónimo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/en-la-cocina-con-gerónimo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p13808487_b_v8_ab.jpg",
       "show_category": "Food",
-      "start_time": "12:30",
-      "end_time": "13:30",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": "Programa especializado en cocina, donde el chef presenta recetas enfocadas en la nutrición familiar, de una manera sencilla, práctica y económica, con los ingredientes disponibles en casa."
     },
     {
-      "show_name": "Espectáculos en corto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/espectáculos-en-corto.webp",
-      "show_category": "Performing Arts",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Con Juan Carlos Vásquez."
+      "show_name": "Los Dos Carnales",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p21166736_b_v8_aa.jpg",
+      "show_category": "Specials",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Los hermanos Imanol y Poncho Quezada, también conocidos como \"Los Dos Carnales\", han puesto a la música norteña en lo más alto de las listas de popularidad en México y Estados Unidos. Un especial que celebra todos sus logros."
     },
     {
-      "show_name": "El arracadas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/el-arracadas.webp",
+      "show_name": "Más deporte",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p438597_b_v8_aa.jpg",
+      "show_category": "News",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Un resumen dominical deportivo que presenta la jornada sabatina del fútbol mexicano y los previos para los partidos del domingo, así como reportajes, entrevistas y notas de color."
+    },
+    {
+      "show_name": "Cinco de Chocolate y Uno de Fresa",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p49567_p_v7_aa.jpg",
       "show_category": "Movies",
-      "start_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "Una novicia come unos hongos especiales y cambia de personalidad actuando como una alocada joven sicodélica."
+    },
+    {
+      "show_name": "Acción",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p15759143_b_v12_ad.jpg",
+      "show_category": "Sports",
+      "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Un joven regresa a casa con el cuerpo de su padre asesinado, su madre le hace jurar que se vengará del asesino y le da un pendiente al que apodan \"Las arracadas\", así comienza la cacería."
+      "episode_description": "Las mejores jugadas y momentos culminantes de la semana. Un programa de ritmo acelerado con solo lo mejor de todos los deportes y resúmenes de toda la acción obligatoria de la semana."
     },
     {
-      "show_name": "María, la del barrio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/maría-la-del-barrio.webp",
-      "show_category": "Soaps",
+      "show_name": "Cash: El peso del dinero VIP",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p27425971_b_v12_aa.jpg",
+      "show_category": "Game Shows",
       "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Dos equipos de cinco celebridades donde cada uno se enfrentan en un duelo de preguntas y respuestas para ganar un premio en efectivo y evitar ser aplastados, literalmente."
+    },
+    {
+      "show_name": "Piensa rápido VIP",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31019185_b_v12_ab.jpg",
+      "show_category": "Game Shows",
+      "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Una muchacha humilde, hermosa y carismática que creció en la pobreza se dedica a ser recolectora en los basureros de la ciudad, pero el destino la llevará como sirvienta en la casa de la familia De la Vega en donde conoce al hombre de sus sueños."
+      "episode_description": "Dos equipos de celebridades están listos para demostrar quién piensa más rápido con tal de llevarse hasta 6000 dólares para diferentes propósitos. Tendrán que completar diferentes pruebas y avanzar poco a poco para llegar al final de la competencia."
     },
     {
-      "show_name": "Esta historia me suena a todo volumen",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/esta-historia-me-suena-a-todo-volumen.webp",
-      "show_category": "Music",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Cada episodio aborda los problemas familiares representados en una canción que inspira la historia del episodio. La trama conduce a la reflexión de problemas entre padres e hijos y muestra cómo resolverlos en la vida cotidiana."
-    },
-    {
-      "show_name": "Como dice el dicho, a fondo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/como-dice-el-dicho-a-fondo.webp",
+      "show_name": "Tal para cual",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p13123647_b_v8_aa.jpg",
       "show_category": "Comedy",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Se recrean historias y situaciones que se asemejan a los dichos comunes de la cultura popular. Se dramatiza una historia interesante y cautivadora que represente a un dicho específico, elegido para cada episodio."
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Una divertida y entrañable comedia que nos cuenta las aventuras del día a día de un grupo de inseparables amigos."
     },
     {
-      "show_name": "La Rosa de Guadalupe: relatos de impacto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Televisa-XERV/today/la-rosa-de-guadalupe-relatos-de-impacto.webp",
-      "show_category": "Soaps",
+      "show_name": "Familia de Diez",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p233993_st_v8_aa.jpg",
+      "show_category": "Children",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Más vale sola",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28134306_b_v12_aa.jpg",
+      "show_category": "Comedy",
+      "start_time": "20:30",
+      "end_time": "22:00",
+      "episode_description": "Dos medias hermanas, Julieta y Pilar, se enteran de su parentesco y se ven obligadas a vivir juntas."
+    },
+    {
+      "show_name": "¿Apostarías por mí?",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p31895409_b_v12_aa.jpg",
+      "show_category": "Game Shows",
       "start_time": "22:00",
       "end_time": "00:00",
-      "episode_description": "Especial sobre la Rosa de Guadalupe. Las historias más polémicas y crudas de este programa que no deja de sorprender."
+      "episode_description": "Doce parejas de celebridades ponen a prueba su amor y su estrategia en una competencia 24/7 desde Brasil. Drama, apuestas y emociones por un gran premio de 300 000 dólares."
     }
   ]
 }

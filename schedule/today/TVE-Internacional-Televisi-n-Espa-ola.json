@@ -1,9 +1,9 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Españoles en el mundo",
+      "show_name": "Dias de cine",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,42 +11,98 @@
       "episode_description": ""
     },
     {
-      "show_name": "Españoles en el mundo",
+      "show_name": "Atencion obras",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:20",
-      "end_time": "01:30",
+      "end_time": "00:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tendido cero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:50",
+      "end_time": "01:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esto es España",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:40",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias 24 H",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "02:00",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Flash Moda",
+      "show_name": "Medina en TVE",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buenas Noticias TV",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:15",
       "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Imprescindibles",
+      "show_name": "Shalom",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:30",
+      "end_time": "05:45",
       "episode_description": ""
     },
     {
-      "show_name": "Tenderete",
+      "show_name": "Ultimas preguntas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "05:45",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pueblo de Dios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
+      "end_time": "06:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esto es España",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:40",
+      "end_time": "07:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "OBJETIVO IGUALDAD 30",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:10",
+      "end_time": "07:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conversatorios en casa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:25",
       "end_time": "07:55",
       "episode_description": ""
     },
@@ -59,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pagina dos",
+      "show_name": "Un país para leerlo",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:50",
@@ -67,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El escarabajo verde",
+      "show_name": "Se hace lo que se puede",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:20",
@@ -75,34 +131,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "Canas de viajar",
+      "show_name": "Beatus Ille",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:50",
-      "end_time": "10:50",
+      "end_time": "10:20",
       "episode_description": ""
     },
     {
-      "show_name": "Audiencia abierta",
+      "show_name": "Flash Moda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:50",
-      "end_time": "11:20",
+      "start_time": "10:20",
+      "end_time": "10:45",
       "episode_description": ""
     },
     {
       "show_name": "D Corazón",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:20",
-      "end_time": "13:10",
+      "start_time": "10:45",
+      "end_time": "11:55",
       "episode_description": ""
     },
     {
-      "show_name": "Saber y ganar fin de semana",
+      "show_name": "Saber y ganar - Fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:10",
+      "start_time": "11:55",
+      "end_time": "12:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "15M Castilla-León. Decide",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:45",
+      "end_time": "13:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aqui la tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:20",
       "end_time": "13:55",
       "episode_description": ""
     },
@@ -111,30 +183,54 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:55",
-      "end_time": "14:30",
+      "end_time": "14:20",
       "episode_description": ""
     },
     {
-      "show_name": "Informe semanal",
+      "show_name": "15M Castilla-León, Resultados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
+      "start_time": "14:20",
+      "end_time": "15:25",
       "episode_description": ""
     },
     {
-      "show_name": "DecoMasters",
+      "show_name": "Cine de barrio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:50",
+      "start_time": "15:25",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "Viaje al centro de la tele",
+      "show_name": "Cine de barrio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:50",
+      "start_time": "15:45",
+      "end_time": "17:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Turismo rural en el mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:25",
+      "end_time": "18:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Beatus Ille",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:05",
+      "end_time": "18:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Aqui la tierra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:35",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -147,27 +243,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Historia de nuestro cine",
+      "show_name": "Imprescindibles",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:35",
-      "end_time": "21:35",
+      "end_time": "20:35",
       "episode_description": ""
     },
     {
-      "show_name": "Gala de Clausura",
+      "show_name": "En Primicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:35",
-      "end_time": "23:20",
+      "start_time": "20:35",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Dias de cine",
+      "show_name": "Generación click",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
-      "end_time": "00:20",
+      "start_time": "21:30",
+      "end_time": "22:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Adolescentes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:25",
+      "end_time": "22:25",
       "episode_description": ""
     }
   ]
