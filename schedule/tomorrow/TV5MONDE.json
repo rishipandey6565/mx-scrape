@@ -1,20 +1,44 @@
 {
   "channel": "TV5MONDE",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Elles",
+      "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:29",
+      "end_time": "00:02",
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:29",
+      "start_time": "00:02",
+      "end_time": "00:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "REUSSS",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:27",
+      "end_time": "01:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La grande galerie francophone",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:06",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un si grand soleil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,30 +55,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:32",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le magazine de la riviera",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:32",
+      "start_time": "04:33",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "FOOT!",
+      "show_name": "Mise au point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:54",
+      "end_time": "05:52",
       "episode_description": ""
     },
     {
-      "show_name": "Chef Pays",
+      "show_name": "A travers champs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:54",
+      "start_time": "05:52",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -75,34 +99,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bien báti",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:18",
+      "end_time": "08:17",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Escapades en suisse italienne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:18",
-      "end_time": "08:45",
+      "start_time": "08:17",
+      "end_time": "08:44",
       "episode_description": ""
     },
     {
-      "show_name": "A bon entendeur",
+      "show_name": "# Version française",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
-      "end_time": "09:12",
+      "start_time": "08:44",
+      "end_time": "09:11",
       "episode_description": ""
     },
     {
-      "show_name": "L'épicerie",
+      "show_name": "Chef Pays",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:12",
+      "start_time": "09:11",
       "end_time": "09:39",
       "episode_description": ""
     },
@@ -139,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une Femme á Kosyam",
+      "show_name": "Marianne",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
@@ -155,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Destination francophonie",
+      "show_name": "Slam",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:27",
@@ -171,18 +195,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:00",
+      "end_time": "16:01",
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:01",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -191,14 +215,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
+      "end_time": "17:31",
       "episode_description": ""
     },
     {
-      "show_name": "Des racines & des ailes",
+      "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
+      "start_time": "17:31",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -211,35 +235,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "L'air de la mer rend libre",
+      "show_name": "La grande librairie",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:30",
+      "end_time": "21:36",
       "episode_description": ""
     },
     {
-      "show_name": "Lou et sophie",
+      "show_name": "Investigation RTBF",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:13",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lou et sophie",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:13",
-      "end_time": "22:55",
+      "start_time": "21:36",
+      "end_time": "23:08",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:55",
-      "end_time": "00:02",
+      "start_time": "23:08",
+      "end_time": "00:15",
       "episode_description": ""
     }
   ]

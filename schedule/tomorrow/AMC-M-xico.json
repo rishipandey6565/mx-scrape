@@ -1,60 +1,52 @@
 {
   "channel": "AMC (México)",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Caminando entre tumbas",
+      "show_name": "La chica del dragón tatuado",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "02:35",
       "episode_description": ""
     },
     {
-      "show_name": "Plan de escape: El rescate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:05",
-      "end_time": "01:55",
-      "episode_description": ""
+      "show_name": "Rocky",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/rocky.jpg",
+      "show_category": "Drama",
+      "start_time": "02:35",
+      "end_time": "04:45",
+      "episode_description": "Rocky Balboa (Sylvester Stallone) es un luchador de Filadelfia que es despreciado por el dueño de su gimnasio, patrocinado por un tiburón prestamista y rechazado por una tímida Adrian (Talia Shire), cuyo hermano carnicero mantiene ingeniándoselas una pareja romántica. Rocky habría permanecido en está rutina si el campeón de peso pesado Apollo Creed (Carl Weathers) no hubiera publicado una pelea para el Bicentenario dándole la oportunidad a un \"nadie\" para que se convierta en un \"alguien\". El \"semental italiano\" entrena con seriedad y recorre la distancia… ¡contra todo pronóstico!"
     },
     {
-      "show_name": "El Vengador Del Futuro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:55",
-      "end_time": "03:55",
-      "episode_description": ""
+      "show_name": "Tales of the Walking Dead",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
+      "show_category": "Drama",
+      "start_time": "04:45",
+      "end_time": "05:35",
+      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
-      "show_name": "Vivarium",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/vivarium.webp",
-      "show_category": "Misterio",
-      "start_time": "03:55",
-      "end_time": "05:45",
-      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
-    },
-    {
-      "show_name": "Making the Movies",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
-      "end_time": "06:10",
+      "start_time": "05:35",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:10",
-      "end_time": "06:35",
+      "start_time": "06:00",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:35",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -123,59 +115,67 @@
       "episode_description": ""
     },
     {
-      "show_name": "Z",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:35",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Locos de ira",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:35",
-      "end_time": "14:30",
+      "start_time": "11:30",
+      "end_time": "13:25",
       "episode_description": ""
     },
     {
-      "show_name": "Hobbit Un Viaje Inesperado",
+      "show_name": "Un gran chico",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "17:30",
+      "start_time": "13:25",
+      "end_time": "15:20",
       "episode_description": ""
+    },
+    {
+      "show_name": "Hobbit La desolación de",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:20",
+      "end_time": "18:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rocky III",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:10",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Pasajero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Juegos del Hambre: Sinsajo 1",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_juegos_del_hambre_sinsajo_parte_1.jpg",
+      "show_category": "Aventura",
+      "start_time": "22:00",
+      "end_time": "23:55",
+      "episode_description": "Katniss Everdeen (Jennifer Lawrence) se encuentra en el Distrito 13 luego de que haya quebrantado los juegos para siempre. Bajo el liderazgo de la Presidenta Coin (Julianne Moore) y la ayuda de sus fieles amigos, Katniss va en busca como salvar a Peeta (Josh Hutcherson) de una nación que ahora han sido influenciados por el coraje de la joven."
     },
     {
       "show_name": "Rocky II",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Creed II",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/creed-ii.webp",
-      "show_category": "Drama",
-      "start_time": "19:40",
-      "end_time": "22:00",
-      "episode_description": "La vida se ha convertido en un acto de equilibrio para Adonis Creed (Michael B. Jordan). Entre las obligaciones personales y el entrenamiento para su próxima gran pelea, se enfrenta al desafío de su vida. Enfrentar a un oponente con vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Rocky Balboa (Sylvester Stallone) está a su lado a través de todo y, juntos, Rocky y Adonis enfrentarán su legado compartido, cuestionarán por qué vale la pena luchar y descubrirán que nada es más importante que la familia. Creed II se trata de volver a lo básico para redescubrir lo que te hizo un campeón en primer lugar, y recordar que, no importa a dónde vayas, no puedes escapar de tu historia."
-    },
-    {
-      "show_name": "Sin aire",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La chica del dragón tatuado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:40",
-      "end_time": "02:35",
+      "start_time": "23:55",
+      "end_time": "02:05",
       "episode_description": ""
     }
   ]

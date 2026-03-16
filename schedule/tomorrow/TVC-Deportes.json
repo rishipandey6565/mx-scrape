@@ -1,9 +1,9 @@
 {
   "channel": "TVC Deportes",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Especial LMB",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,58 +11,90 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Baloncesto Liga ACB",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "00:30",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Al Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Liga Premier Tv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "La Charreada",
+      "show_name": "Baloncesto Liga ACB",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Maratón",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Tenis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clubhouse",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
+      "start_time": "10:00",
       "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Todo Deporte DW",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baloncesto Liga ACB",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -91,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RPM",
+      "show_name": "El Quinto cuarto",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -99,34 +131,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "20:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:00",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:30",
+      "start_time": "20:00",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Total",
+      "show_name": "Boxeo Total",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }

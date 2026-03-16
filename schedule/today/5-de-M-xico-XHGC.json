@@ -1,20 +1,52 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
-      "show_name": "BOX Televisa\nEn Vivo",
+      "show_name": "Backdoor",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -27,55 +59,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "05:00",
       "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PJ Masks: Héroes en Pijamas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
+      "show_category": "Animación",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks."
+    },
+    {
+      "show_name": "PAW Patrol",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
+      "show_category": "Animación",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "¡Prepárate para pasar un buen rato moviendo la cola en estas aventuras de rescate con PAW Patrol! Prepárate para salvar el día en Adventure Bay con Ryder y su equipo de cachorros heroicos: Marshall el perro bombero, Skye el cachorro volador temerario, Chase el perro policía, Rubble el cachorro de construcción, Rocky el cachorro de reciclaje y Zuma el perro de rescate acuático."
+    },
+    {
+      "show_name": "Max y la pandilla medieval",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "Viva el rey Julien",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mallorca vs. Espanyol\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:55",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Sonic Boom",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
+      "show_category": "Animación",
       "start_time": "09:00",
-      "end_time": "10:30",
-      "episode_description": ""
+      "end_time": "10:00",
+      "episode_description": "Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas."
     },
     {
-      "show_name": "Hunted Hathaways",
+      "show_name": "Los Pitufos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
+      "start_time": "10:00",
       "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Doogal Aventuras Peludas",
+      "show_name": "Jurassic World Campamento",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -83,47 +123,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Beethoven y el tesoro",
+      "show_name": "Miraculous World París",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "15:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Hotel para perros",
+      "show_name": "Bob Esponja La pelicula",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:00",
+      "start_time": "14:00",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "Doctor Dolittle",
+      "show_name": "Lo que una chica quiere",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:55",
+      "start_time": "15:45",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "América vs. Mazatlán FC\nEn Vivo",
+      "show_name": "La nueva cenicienta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:55",
-      "end_time": "21:00",
+      "start_time": "18:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "John Wick 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/john-wick-2.webp",
+      "show_name": "Goblin El Guardián",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Casados con Hijos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chicago PD",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg",
       "show_category": "Acción",
-      "start_time": "21:00",
+      "start_time": "23:00",
       "end_time": "23:30",
-      "episode_description": "El legendario sicario John Wick (Keanu Reeves) se ve obligado a terminar corta retirada por un antiguo asociado que ha conspirado para tomar el control de su sombrío gremio de asesinos internacionales. Vinculado por un juramento de sangre para ayudarlo, John viaja a Roma, donde se enfrenta a algunos de los asesinos más letales del mundo."
+      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
     },
     {
-      "show_name": "Backdoor",
+      "show_name": "Contacto deportivo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

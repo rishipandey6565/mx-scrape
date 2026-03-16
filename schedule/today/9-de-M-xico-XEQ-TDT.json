@@ -1,9 +1,17 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
-      "show_name": "Los marcados",
+      "show_name": "El ojo de vidrio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,10 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -31,14 +55,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "07:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Iglesia de Dios Internacional",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
+      "start_time": "06:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": ""
     },
@@ -47,46 +87,62 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
-      "end_time": "14:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Peregrina",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:45",
+      "start_time": "12:30",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Emiliano Zapata",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:45",
-      "end_time": "17:45",
+      "start_time": "14:30",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Soy el hijo del gallero",
+      "show_name": "Ellas tambien son rebeldes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:45",
-      "end_time": "19:45",
+      "start_time": "15:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "La güera Chabela y Jesús C",
+      "show_name": "La maestra inolvidable",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:45",
-      "end_time": "21:30",
+      "start_time": "17:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "El ojo de vidrio",
+      "show_name": "Esto ya es personal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caso Cerrado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Velvet, el nuevo imperio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "00:00",
       "episode_description": ""
     }

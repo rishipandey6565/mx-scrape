@@ -1,9 +1,9 @@
 {
   "channel": "22 de México",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Encuadre Iberoamericano",
+      "show_name": "DocTV Latinoamérica",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,34 +11,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Cancionero y sus Amigos",
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Jazz, boleros y algo más",
+      "show_name": "Culturas Veintidós\nEn Vivo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Marquesina 22",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Sol a mi Lado",
+      "show_name": "Memoria viva de ciertos dias",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "La choca",
+      "show_name": "Hainan, Perla de China",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "DocTV Latinoamérica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujeres al frente",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -63,14 +87,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vida Saludable",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": ""
     },
@@ -83,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pantalla de cristal",
+      "show_name": "Tratos y retratos",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -99,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Una historia de vasconia",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -107,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Ruta-T",
+      "show_name": "México Global Europa",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -115,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "NCC Salud",
+      "show_name": "¡Llegamos Todas!",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -123,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rodando caminos",
+      "show_name": "Mujeres al frente",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -139,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "África, continente enigmático",
+      "show_name": "Una historia de vasconia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -147,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A Fonda",
+      "show_name": "Latinoamericanas",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -155,23 +171,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marquesina 22",
+      "show_name": "Culturas Veintidós\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La raíz doble",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_name": "Masiosare\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -179,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare\nEn Vivo",
+      "show_name": "Noticiero Punto de Referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -187,11 +195,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Punto de Referencia",
+      "show_name": "La oveja eléctrica",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:30",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un Dia...con Osorno",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shorts México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
