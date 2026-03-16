@@ -1,118 +1,110 @@
 {
   "channel": "De Película",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "La primera noche",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "La Primera Noche",
-      "start_time": "00:16",
-      "end_time": "02:12",
-      "episode_description": "Un grupo de adolescentes de la clase media de México, se enfrentan ante las nuevas sensaciones, emociones y ansiedad de su primera experiencia sexual. Una noche que marcará su vida para siempre."
+      "show_name": "El pistolero del Diablo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-pistolero-del-diablo-1974_l_m.jpg",
+      "show_category": "Thriller / 1974",
+      "start_time": "01:39",
+      "end_time": "03:05",
+      "episode_description": "Un hombre a raíz de que mató accidentalmente a su hijo en una cacería, Joseph Morgan se hizo alcohólico y se volvió la burla del pueblo. Los hermanos Preston, Phil, Joe y Steve lo humillan y violan a su esposa."
     },
     {
-      "show_name": "El revólver sangriento",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/el-revólver-sangriento.webp",
-      "show_category": "Western / 1964",
-      "start_time": "02:12",
-      "end_time": "04:03",
-      "episode_description": "Cuando se nace con alma de pistolero no se piensa más que en matar. El fiel compañero para esto es un Révolver, pero este es el caso de un revólver sangriento que no tiene miedo ni para cuando ejecuta sus deseos mortales."
+      "show_name": "Para usted jefa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_para-usted-jefa-1979_l_m.jpg",
+      "show_category": "Comedia / 1979",
+      "start_time": "03:05",
+      "end_time": "04:32",
+      "episode_description": "Rosa, madre del boxeador Efrén, campeón mundial de peso gallo, recibe un televisor en colores que le regala su hijo para que lo vea exponer su título frente al retador Carlos Zárate en Los Ángeles, recordando sus amores y sacrificios."
     },
     {
-      "show_name": "Escápate conmigo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/escápate-conmigo.webp",
-      "show_category": "Comedia / 1988 /2.4",
-      "start_time": "04:03",
+      "show_name": "El tesoro de Moctezuma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-tesoro-de-moctezuma-1966_l_m.jpg",
+      "show_category": "Acción / 1966",
+      "start_time": "04:32",
       "end_time": "06:00",
-      "episode_description": "Agobiada porque su tía la quiere casar con un viejo viudo, una joven decide escapar de su casa sin importar las consecuencias. En su camino encuentra tres amigos, que la ayudan a inscribirse en un concurso de televisión."
+      "episode_description": "Santo y Jorge Rubio viajan rumbo a San Francisco para desmantelar de una vez y para siempre a la banda de traficantes de arte prehispánico."
     },
     {
-      "show_name": "Un callejón sin salida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/un-callejón-sin-salida.webp",
-      "show_category": "Drama / 1965 /4.8",
+      "show_name": "El sargento Pérez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-sargento-perez-1973-1_l_m.jpg",
+      "show_category": "Comedia / 1973 /4.6",
       "start_time": "06:00",
-      "end_time": "07:27",
-      "episode_description": "Emilio, el dueño del cabaret \"La Gardenia\", es un jugador compulsivo. Su incontrolable adicción lo lleva a apostar y perder su negocio en una partida de póker contra Javier. Su triunfo comienza a transformar a Javier en un aprovechado."
+      "end_time": "07:45",
+      "episode_description": "El general Turrubiates envía al Sargento Pérez y al Coronel Fuentes como voluntarios de armas con Pancho Villa. En su trayecto visitarán burdeles, haciendas, circos y todos aquellos lugares donde encuentren mujeres para enamorar."
     },
     {
-      "show_name": "El muchacho de Durango",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/el-muchacho-de-durango.webp",
-      "show_category": "Western / 1961",
-      "start_time": "07:27",
-      "end_time": "08:59",
-      "episode_description": "El joven Venado llega a un pueblo de la frontera persiguiendo a un grupo de delincuentes. Allí, será interceptado por el sheriff, quien al identificarlo como un extraño, lo acusa de un robo y asesinato que nunca cometió."
-    },
-    {
-      "show_name": "La flecha envenenada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/la-flecha-envenenada.webp",
-      "show_category": "Western / 1956",
-      "start_time": "08:59",
-      "end_time": "10:24",
-      "episode_description": "Una joven huérfana es atacada por apaches, debiendo pagar las deudas de su difunto padre, ya que, si no lo hace, puede llegar a ser despojada de sus tierras."
-    },
-    {
-      "show_name": "Salón México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/salón-méxico.webp",
-      "show_category": "Drama / 1948",
-      "start_time": "10:24",
-      "end_time": "12:07",
-      "episode_description": "El drama de Mercedes, una mujer que para poder sostener a su hermana menor, quien todavía asiste a un caro colegio, tiene que trabajar en un cabaret en las noches. Paco y Mercedes ganan un concurso de baile."
-    },
-    {
-      "show_name": "El fugitivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/el-fugitivo.webp",
-      "show_category": "Western / 1966",
-      "start_time": "12:07",
-      "end_time": "14:00",
-      "episode_description": "Cumplida su condena en la cárcel, el sombrío y taciturno Emiliano se dispone a matar, en venganza, al hombre por cuya traición fue injustamente arrestado."
-    },
-    {
-      "show_name": "Sinvergüenza, pero honrado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/sinvergüenza-pero-honrado.webp",
-      "show_category": "Comedia / 1985 /6.6",
-      "start_time": "14:00",
-      "end_time": "15:47",
-      "episode_description": "Alberto es un sinvergüenza convertido en un hombre de bien gracias al amor de una mujer, con quien se dispone a formar su nueva familia. Sin embargo, antes deberá explicar las circunstancias que lo llevaron a tomar el papel de padre."
+      "show_name": "Los tres alegres compadres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-tres-alegres-compadres-1952_l_m.jpg",
+      "show_category": "Comedia / 1952 /6.7",
+      "start_time": "07:45",
+      "end_time": "09:53",
+      "episode_description": "Después de realizar un robo en los Estados Unidos, Diana cruza la frontera hacia México y llega a Magdalena, Jalisco. Conoce a \"los tres alegres compadres\" y despierta en ellos un sentimiento hasta entonces desconocido: el amor."
     },
     {
       "show_name": "Don Quijote cabalga de nuevo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/don-quijote-cabalga-de-nuevo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_don-quijote-cabalga-de-nuevo-1973_l_m.jpg",
       "show_category": "Comedia / 1973 /6.7",
-      "start_time": "15:47",
-      "end_time": "18:14",
+      "start_time": "09:53",
+      "end_time": "12:20",
       "episode_description": "Una visión nueva del caballero de la triste figura, siempre obsesionado con los caballeros andantes y acompañado de un peculiar Sancho Panza, recuerda algunas de sus mejores aventuras."
     },
     {
-      "show_name": "El mil usos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/el-mil-usos.webp",
-      "show_category": "Drama / 1981 /7.2",
-      "start_time": "18:14",
-      "end_time": "20:12",
-      "episode_description": "Las trágicas aventuras de un hombre analfabeto llamado \"Milusos\", que deja a su familia y su ciudad natal para ir a la gran ciudad e intentar mejorar su suerte. Y descubre que no está preparado para lo que encuentra."
+      "show_name": "Ya nunca más",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ya-nunca-mas-1984_l_m.jpg",
+      "show_category": "Drama / 1984",
+      "start_time": "12:20",
+      "end_time": "14:05",
+      "episode_description": "A pesar de sufrir la pérdida de su madre, un pequeño cuenta con el apoyo de su padre, sobre todo en su afición por el canto. Sin embargo, otra desgracia empaña sus vidas. A sus 14 años es gravemente herido en un accidente de motocicleta."
     },
     {
-      "show_name": "Corona de lágrimas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/corona-de-lágrimas.webp",
-      "show_category": "Drama / 1967",
-      "start_time": "20:12",
-      "end_time": "22:06",
-      "episode_description": "Cuando una mujer es despedida de su trabajo, su situación se complica debido a que tiene tres hijos que mantener pero, cuando la convivencia se torna difícil entre ellos, cada uno deberá buscar una salida a la situación que viven."
+      "show_name": "Los pistoleros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 1962",
+      "start_time": "14:05",
+      "end_time": "15:39",
+      "episode_description": "Un médico, su amigo el marshall Rogelio y los hermanos Jiménez, son contactados por el sheriff de otra ciudad para unirse en la lucha contra una banda fuera de la ley."
     },
     {
-      "show_name": "Un macho en la casa de citas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/tomorrow/un-macho-en-la-casa-de-citas.webp",
-      "show_category": "Comedia / 1982 /7.2",
-      "start_time": "22:06",
-      "end_time": "23:46",
-      "episode_description": "La Coronela, madama de un burdel, muere misteriosamente. La policía, para desentrañar el misterio, convence a su hermano para que se haga pasar por ella."
+      "show_name": "El violetero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-violetero-1960_l_m.jpg",
+      "show_category": "Comedia / 1960 /6.9",
+      "start_time": "15:39",
+      "end_time": "17:10",
+      "episode_description": "Cuando Lorenzo Miguel es contratado por doña Beatriz como su jardinero familiar, este se vuelve indispensable para su hija Lucía, quien comienza a enamorarse de él sin saber que una confusión pondrá en peligro su amor."
     },
     {
-      "show_name": "Todo por nada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Todo Por Nada",
-      "start_time": "23:46",
+      "show_name": "Dios se lo pague",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dios-se-lo-pague-1990_l_m.jpg",
+      "show_category": "Comedia / 1990 /4.3",
+      "start_time": "17:10",
+      "end_time": "18:59",
+      "episode_description": "Una limosnera tiene un golpe de suerte, que la transforma en dama millonaria. Un joven actor, al conocerla, sabe que ella, puede ser el peldaño hacia la cima de la fama."
+    },
+    {
+      "show_name": "Escuela de valientes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_escuela-de-valientes-1961_l_m.jpg",
+      "show_category": "Comedia / 1961 /4.8",
+      "start_time": "18:59",
+      "end_time": "20:30",
+      "episode_description": "Gabriela es una buena mujer que constantemente sufre los golpes de Ramiro, su abusivo y violento marido. Cuando la joven creía que no podría sobrevivir a un siguiente enfrentamiento con el hombre, aparece en su vida Doroteo."
+    },
+    {
+      "show_name": "El ropavejero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-ropavejero-1947_l_m.jpg",
+      "show_category": "Comedia / 1947 /7.1",
+      "start_time": "20:30",
+      "end_time": "22:22",
+      "episode_description": "Cirilo es un vendedor de ropa usada que sueña con comprar una granja para su vecino y la mujer de éste. En sus intentos por conseguir el dinero necesario vivirá grandes aventuras y conocerá el amor."
+    },
+    {
+      "show_name": "Cuentos colorados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cuentos-colorados-1980_l_m.jpg",
+      "show_category": "Comedia / 1980 /7.2",
+      "start_time": "22:22",
       "end_time": "",
-      "episode_description": "Un grupo de asesinos toman por asalto una tranquila granja donde abusan de las mujeres y después dan muerte a todos los integrantes. Sin saberlo, desatan la mas feroz de las venganzas, de parte de los dos hermanos sobrevivientes."
+      "episode_description": "Grandes aventuras y ocurrencias pasan en una casa de citas, donde nuestro héroe \"Resortes\" entra a trabajar sin saber de qué se trata el negocio. Al enterarse y aprender el oficio, nunca le cuenta a nadie por vergüenza."
     }
   ]
 }
