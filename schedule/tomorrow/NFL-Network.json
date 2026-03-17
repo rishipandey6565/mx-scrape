@@ -1,6 +1,6 @@
 {
   "channel": "NFL Network",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
       "show_name": "NFL Football",
@@ -107,19 +107,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "NFL Football",
+      "show_name": "NFL Fantasy Live Free Agency",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "21:00",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "NFL Football",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "00:00",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Fantasy Live Free Agency",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "NFL Football",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "01:30",
       "episode_description": ""
     }
   ]

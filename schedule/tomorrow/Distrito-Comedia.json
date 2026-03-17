@@ -1,6 +1,6 @@
 {
   "channel": "Distrito Comedia",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
       "show_name": "Humor sin barreras",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Más noche",
+      "show_name": "5x8 Comedia",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:45",
@@ -39,22 +39,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:45",
-      "end_time": "03:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Príncipe del Barrio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:35",
-      "end_time": "04:00",
+      "end_time": "03:55",
       "episode_description": ""
     },
     {
       "show_name": "Vecinos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "03:55",
+      "end_time": "04:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Príncipe del Barrio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:50",
       "end_time": "05:20",
       "episode_description": ""
     },
@@ -79,14 +79,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
-      "end_time": "08:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Simón dice",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:20",
       "end_time": "08:45",
       "episode_description": ""
     },
@@ -95,6 +87,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:45",
+      "end_time": "09:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Simón dice",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:35",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -111,28 +111,28 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:15",
-      "end_time": "12:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Renta Congelada",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:10",
-      "end_time": "12:35",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Una familia de diez",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:35",
+      "start_time": "12:30",
+      "end_time": "13:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Renta Congelada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:20",
       "end_time": "13:45",
       "episode_description": ""
     },
     {
       "show_name": "El Chavo del Ocho",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Distrito-Comedia/tomorrow/el-chavo-del-ocho.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
       "show_category": "Comedia",
       "start_time": "13:45",
       "end_time": "15:00",
@@ -143,22 +143,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tal para cual",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:55",
-      "end_time": "16:20",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
       "show_name": "Vecinos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:20",
+      "start_time": "16:15",
+      "end_time": "17:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tal para cual",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:10",
       "end_time": "17:35",
       "episode_description": ""
     },
@@ -175,27 +175,27 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:45",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Príncipe del Barrio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
       "show_name": "El Chavo del Ocho",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Distrito-Comedia/tomorrow/el-chavo-del-ocho.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg",
       "show_category": "Comedia",
       "start_time": "20:00",
-      "end_time": "21:15",
+      "end_time": "20:45",
       "episode_description": "Las vivencias de El Chavo (Roberto Gómez Bolaños), Kiko (Carlos Villagrán), la Chilindrina (María Antonieta de las Nieves), Ñoño (Édgar Vivar) que juntos hacen un sinfín de travesuras a Doña Florinda (Florinda Meza), Don Ramón (Ramón Valdés), Doña Clotilde (Angelines Fernández), el Señor Barriga (Édgar Vivar) y el Profesor Jirafales (Rubén Aguirre)."
     },
     {
-      "show_name": "Vecinos",
+      "show_name": "El Príncipe del Barrio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "5x8 Comedia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:15",

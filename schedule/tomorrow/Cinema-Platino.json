@@ -1,125 +1,133 @@
 {
   "channel": "Cinema Platino",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
-    {
-      "show_name": "Una",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hombre del Norte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/el-hombre-del-norte.webp",
-      "show_category": "Acción",
-      "start_time": "00:34",
-      "end_time": "02:54",
-      "episode_description": "Del visionario director Robert Eggers llega El Hombre del Norte, una epopeya llena de acción que sigue a un joven príncipe vikingo en búsqueda para vengar el asesinato de su padre."
-    },
-    {
-      "show_name": "Trece vidas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:54",
-      "end_time": "05:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Todo sobre los Ricardo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:24",
-      "end_time": "07:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:35",
-      "end_time": "08:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tres segundos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:06",
-      "end_time": "09:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:58",
-      "end_time": "10:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ellas Hablan",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:29",
-      "end_time": "12:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:12",
-      "end_time": "12:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Redención",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/redención.webp",
-      "show_category": "Acción",
-      "start_time": "12:43",
-      "end_time": "14:51",
-      "episode_description": "Después de presenciar la caída de su unidad por culpa de fuego enemigo en Afganistán, Joey Jones (Jason Statham) ha estado viviendo en las calles de Londres, tratando de olvidar su pasado y evitar problemas. Mientras huye de una banda despiadada, entra en el apartamento de un hombre rico, y asume la identidad de un hombre de clase alta. Justo cuando Joey está en camino para encontrarse con su amiga y patrocinadora, la Hermana Cristina (Agata Buzek), su novia embarazada es encontrada muerta en el río. Ahora, Joey deberá usar sus contactos en la mafia china para encontrar al hombre responsable, sin detenerse hasta que se haga justicia."
-    },
-    {
-      "show_name": "Assassin's Creed",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/assassins-creed.webp",
-      "show_category": "Acción",
-      "start_time": "14:51",
-      "end_time": "16:44",
-      "episode_description": "Callum Lynch (Michael Fassbender), un hombre condenado a muerte es sometido a una tecnología revolucionaria que desbloquea sus recuerdos genéticos. Cuando Callum despierta, Sophia Rikkin (Marion Cotillard) le explica que es lo que paso y lo que está sucediendo y porque está teniendo recuerdos de su antepasado, Aguilar – Un asesino de una sociedad secreta – en la España del siglo XV. Ahora Callum deberá utilizar este increíble conocimiento y destrezas para detener la opresiva y poderosa organización templaria del presente."
-    },
-    {
-      "show_name": "El Mayordomo de la Casa Blanca",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:44",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Amigos por siempre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Jessabelle",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:53",
-      "end_time": "22:31",
-      "episode_description": ""
-    },
     {
       "show_name": "007: Spectre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:31",
+      "start_time": "00:00",
       "end_time": "01:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inconcebible",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:02",
+      "end_time": "02:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El bar de las grandes esperanzas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:51",
+      "end_time": "04:43",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bajo el mismo cielo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:43",
+      "end_time": "06:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:31",
+      "end_time": "07:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La gran Gilly Hopkins",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:01",
+      "end_time": "08:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:39",
+      "end_time": "09:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Criaturas salvajes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:09",
+      "end_time": "10:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:42",
+      "end_time": "11:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Por qué los hombres son infieles?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:13",
+      "end_time": "12:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hot Seat: En la Mira",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:48",
+      "end_time": "14:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mientras Estés Conmigo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:31",
+      "end_time": "16:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sin Escape",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_escape.jpg",
+      "show_category": "Acción",
+      "start_time": "16:32",
+      "end_time": "18:19",
+      "episode_description": "Jack (Owen Wilson) decide viajar con su familia Annie (Lake Bell), Lucy (Sterling Jerins) y Beeze (Claire Geare) al sureste de Asia. Mientras bajan del avión conocen a un extranjero igual que ellos llamado Hammond (Pierce Brosnan) quien conoce y le da buenas expectativas del país, pero él no sabe que ese país está a punto de pasar por un conflicto armado y ahora ellos deberán correr por sus vidas."
+    },
+    {
+      "show_name": "Primicia mortal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:19",
+      "end_time": "20:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tesla",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:21",
+      "end_time": "22:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rogue",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:10",
+      "end_time": "00:03",
       "episode_description": ""
     }
   ]

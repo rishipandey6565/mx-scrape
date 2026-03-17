@@ -1,52 +1,44 @@
 {
   "channel": "AMC (México)",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
+    {
+      "show_name": "Rocky II",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "02:05",
+      "episode_description": ""
+    },
     {
       "show_name": "La chica del dragón tatuado",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:35",
+      "start_time": "02:05",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/rocky.webp",
-      "show_category": "Drama",
-      "start_time": "02:35",
-      "end_time": "04:45",
-      "episode_description": "Rocky Balboa (Sylvester Stallone) es un luchador de Filadelfia que es despreciado por el dueño de su gimnasio, patrocinado por un tiburón prestamista y rechazado por una tímida Adrian (Talia Shire), cuyo hermano carnicero mantiene ingeniándoselas una pareja romántica. Rocky habría permanecido en está rutina si el campeón de peso pesado Apollo Creed (Carl Weathers) no hubiera publicado una pelea para el Bicentenario dándole la oportunidad a un \"nadie\" para que se convierta en un \"alguien\". El \"semental italiano\" entrena con seriedad y recorre la distancia… ¡contra todo pronóstico!"
-    },
-    {
       "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/tales-of-the-walking-dead.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
       "show_category": "Drama",
-      "start_time": "04:45",
-      "end_time": "05:35",
+      "start_time": "05:00",
+      "end_time": "05:50",
       "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:35",
-      "end_time": "06:00",
+      "start_time": "05:50",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:25",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -119,43 +111,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Locos de ira",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "13:25",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
       "show_name": "Un gran chico",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:25",
-      "end_time": "15:20",
+      "start_time": "11:35",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Hobbit La desolación de",
+      "show_name": "Erin Brockovich Mujer Audaz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:20",
-      "end_time": "18:10",
+      "start_time": "13:30",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky III",
+      "show_name": "El hobbit la batalla de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:10",
+      "start_time": "15:55",
+      "end_time": "18:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rocky IV",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:25",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Pasajero",
+      "show_name": "Elysium",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -163,19 +155,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Juegos del Hambre: Sinsajo 1",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/juegos-del-hambre-sinsajo-1.webp",
-      "show_category": "Aventura",
-      "start_time": "22:00",
-      "end_time": "23:55",
-      "episode_description": "Katniss Everdeen (Jennifer Lawrence) se encuentra en el Distrito 13 luego de que haya quebrantado los juegos para siempre. Bajo el liderazgo de la Presidenta Coin (Julianne Moore) y la ayuda de sus fieles amigos, Katniss va en busca como salvar a Peeta (Josh Hutcherson) de una nación que ahora han sido influenciados por el coraje de la joven."
-    },
-    {
-      "show_name": "Rocky II",
+      "show_name": "¿Y dónde están las rubias?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:55",
-      "end_time": "02:05",
+      "start_time": "22:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
