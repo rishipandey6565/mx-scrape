@@ -1,110 +1,126 @@
 {
   "channel": "ESPN",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Nonito Donaire vs. Riku Masuda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
-      "start_time": "01:30",
-      "end_time": "06:00",
-      "episode_description": "Los mejores combates de boxeo y MMA."
-    },
-    {
-      "show_name": "Etapa 7",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Tirreno - Adriático",
-      "start_time": "06:00",
-      "end_time": "09:00",
-      "episode_description": "Vive lo más emocionante de la carrera ciclista Tirreno-Adriático en su edición 2026. La competición cruza cinco regiones italianas con un recorrido variado que ofrecerá oportunidades para todo tipo de corredores."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Sydney",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sydney.webp",
-      "show_category": "Sail GP",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": "Utilizará carreras en estadios costeros de formato corto para maximizar el impacto y la emoción. Cada gran premio incluirá dos días de competición con un total de cinco carreras de flota."
-    },
-    {
-      "show_name": "Jannik Sinner vs. Carlos Alcaraz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Roland Garros",
-      "start_time": "10:30",
-      "end_time": "10:45",
-      "episode_description": "Vive los partidos de la 129º edición del Abierto de Francia y el segundo evento de Grand Slam de 2025. Jugado desde su inauguración en 1891 bajo la organización y el amparo de la Federación Francesa de Tenis."
-    },
-    {
-      "show_name": "Ronda final, TPC Sawgrass, Ponte Vedra, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "PGA TOUR - The Players",
-      "start_time": "10:45",
-      "end_time": "16:00",
-      "episode_description": "Vive todas las emociones de uno de los torneos de golf más prestigiosos del mundo, organizado anualmente por el PGA Tour en Ponte Vedra Beach, Florida. El evento reúne a destacadas figuras en encuentros inolvidables."
-    },
-    {
-      "show_name": "Lo mejor de la NFL 2025-2026",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/lo-mejor-de-la-nfl-2025-2026.webp",
-      "show_category": "Especial de SportsCenter",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "Un especial en el que podrás ver las mejores jugadas, resultados de los partidos, así como análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas."
-    },
-    {
-      "show_name": "Memphis Hustle vs. Capitanes de Ciudad de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/memphis-hustle-vs-capitanes-de-ciudad-de-méxico.webp",
-      "show_category": "Landers Center, Southaven, MS, USA",
-      "start_time": "17:00",
-      "end_time": "19:30",
-      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
-    },
-    {
-      "show_name": "Acción de la NBA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/acción-de-la-nba.webp",
-      "show_category": "Acción de la NBA",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
-      "show_name": "Atl. San Luis vs. Pachuca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 11, Estadio Alfonso Lastras",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "AZ vs. Heracles Almelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 27, Afas Stadion",
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Ronda final, TPC Sawgrass, Ponte Vedra, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "PGA TOUR - The Players",
+      "start_time": "06:00",
+      "end_time": "08:00",
+      "episode_description": "Vive todas las emociones de uno de los torneos de golf más prestigiosos del mundo, organizado anualmente por el PGA Tour en Ponte Vedra Beach, Florida. El evento reúne a destacadas figuras en encuentros inolvidables."
+    },
+    {
+      "show_name": "Boston Legacy vs. NJ/NY Gotham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-boston-legacy-vs-nj-ny-gotham-temporada-regular-sports-illustrated-stadium_l_m.jpg",
+      "show_category": "Temporada regular, Sports Illustrated Stadium",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": "Vive los partidos de la 14º edición de la National Women's Soccer League, la máxima categoría del fútbol femenino en Estados Unidos."
+    },
+    {
+      "show_name": "Inter vs. Atalanta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 29, Stadio Giuseppe Meazza",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+    },
+    {
+      "show_name": "Lazio vs. Milan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 29, Stadio Olimpico",
+      "start_time": "12:00",
+      "end_time": "13:50",
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
+    },
+    {
+      "show_name": "Portsmouth vs. Derby County",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 38, Fratton Park",
+      "start_time": "13:50",
+      "end_time": "16:00",
+      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+    },
+    {
+      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+    },
+    {
+      "show_name": "Orlando Magic vs. Atlanta Hawks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, State Farm Arena",
+      "start_time": "17:00",
+      "end_time": "19:30",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Los Angeles Lakers vs. Houston Rockets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Toyota Center",
+      "start_time": "19:30",
+      "end_time": "22:00",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
       "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }
   ]
 }

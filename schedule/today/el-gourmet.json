@@ -1,358 +1,374 @@
 {
   "channel": "El Gourmet",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Cholula",
+      "show_name": "Productos de mi tierra México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Cacao",
       "start_time": "00:00",
       "end_time": "00:30",
-      "episode_description": "En Cholula recorremos las fonditas del zócalo. Luego, llegamos a la gran pirámide y junto a ella, saboreamos las cholulteca en La Lunita. Después, probamos las creaciones del chef, Eduardo Luna."
+      "episode_description": "Enrique Cervantes visita a productores de cacao en La Chonita, Tabasco y hablan de su producción. En una cocina chontal, en Comalcalco, Tabasco, Beatriz Fernández cocina pozol y Nelly Córdova Morillo cocina mole tabasqueño."
     },
     {
-      "show_name": "Fiestas con sabor mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 3 - Barbacoa",
+      "show_name": "Wok & Roll",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_wok-roll-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Temari sushi y yakisoba",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Junto al historiador Benito Taibo, recorremos las fiestas gastronómicas mexicanas como la de la barbacoa en Hidalgo."
+      "episode_description": "Iwao Komiyama prepara un Temari sushi y una propuesta al wok, de forma vegetariana, sin gluten, él cocina un Yakisoba que son verduras con Soba y pasta de trigo sarraceno."
     },
     {
-      "show_name": "Maestros del sushi",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5",
+      "show_name": "Los favoritos de Alex Ruiz en Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
       "start_time": "01:00",
       "end_time": "01:30",
-      "episode_description": "Iwao visita a una familia típica de Tokio, a quienes sorprende con un sushi con acento argentino. Ya en Buenos Aires, visita el restaurant Mirutaki, para conocer el arte del sashimi."
+      "episode_description": "Hoy, el Chef Alex Ruiz nos muestra su cuna, Portosuelo, una propuesta gastronómica de cocina rural. \"Los tacos del Carmen\", \"Las Barbacoas de México\" y \"Real Minero\" son otros de los favoritos de Alex Ruiz que conocemos en este episodio."
     },
     {
-      "show_name": "Don Juliote de la Mancha",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Entre sopas y castillos",
+      "show_name": "Guardianes de tradición. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e03-1_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - La gran fama puebla",
       "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Hoy aprenderemos a cocinar albóndigas originales, que combina con azafrán manchego. Luego, pasan la tarde en una finca. En Tomelloso visitarán un lugar que hace la mejor pizza del mundo. Además, prepararán gachas dulces en una iglesia."
-    },
-    {
-      "show_name": "Los fogones tradicionales: México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-fogones-tradicionales-méxico.webp",
-      "show_category": "Temporada 2 Episodio 5",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Visitamos los más remotos parajes en busca de los tesoros culinarios de cada región. San Juan Atzingo, Malinalco y Toluca son algunos de los lugares que visitamos en busca de las recetas emblemáticas de estas cocinas familiares."
-    },
-    {
-      "show_name": "Maestros del taco",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/maestros-del-taco.webp",
-      "show_category": "Temporada 1 Episodio 22 - Los trompos",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "En su búsqueda de los mejores maestros del taco Poncho Cadena viaja hasta Yucatan, en la taquería Los trompos de Mérida prueba el Mega taco de pastor."
-    },
-    {
-      "show_name": "Abuelita linda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/abuelita-linda.webp",
-      "show_category": "Temporada 2 Episodio 16 - Aquismon - Abuelita Elia",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Verónica viaja hasta una de las joyas naturales de México, la Huasteca Potosina. En la localidad de Aquismón conocerá a Doña Elia, una abuelita que desde hace décadas está al frente del restaurante local más exitoso."
-    },
-    {
-      "show_name": "México en una tortilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Chichilo negro - Taco de chapulín en costra de quesillo",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Hoy cocina 100% de Oaxaca, empezando por un mole típico seguido de un exquisito taco de chapulín y dicen que quien come chapulines se enamora de Oaxaca. Descubrilo de la mano de Alejandro Ruiz."
-    },
-    {
-      "show_name": "Los sandwiches de Romo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/los-sandwiches-de-romo.webp",
-      "show_category": "Temporada 2 Episodio 5 - Sándwiches asiáticos",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Gustos de Asia. Primero con un Sando Sandwich, que es un clásico de Japón. De Corea, Romo te enseña a cocinar un gofredillo con muslos de pollo y verduras frescas. Luego, unos mini sandwiches tostados rellenos de camarón, clásicos de China."
-    },
-    {
-      "show_name": "Sabor mediterráneo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Samfaina y pancakes",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Sole Nardelli se encuentra con Don Perez, quien relata la historia de Sant Pol. Luego, ella cocina una Samfaina con queso de oveja. Además, Carmen, la mujer que cocina el mejor pulpo, le enseña su receta."
-    },
-    {
-      "show_name": "Dulces detalles con Paulina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/dulces-detalles-con-paulina.webp",
-      "show_category": "Temporada 1 Episodio 5 - Mini crujiente de avellana y fresas a la crema",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "La famosa pastelera mexicana Paulina Abascal nos trae sus mejores recetas dulces en pequeñas presentaciones. En esta oportunidad: mini crujiente de avellana y fresas a la crema."
-    },
-    {
-      "show_name": "Un paseo por Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/un-paseo-por-oaxaca.webp",
-      "show_category": "Temporada 1 Episodio 5 - Textiles y recetas",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Oaxaca es reconocida por la calidad de sus textiles. En distintas poblaciones hacen distintos textiles: mantas, trajes típicos, tapetes, blusas. Con hilo, con lana, con estambre. Hoy los conocemos a todos y cocinamos con Abigail Mendoza."
-    },
-    {
-      "show_name": "Asado de obra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 5 - Chivito al disco - San Luis",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Desde Leandro N. Alem, San Luis, Claudio nos recibe en una de las obras es la que está trabajando y nos muestra como son sus viernes de asado de obra. Esta vez prepara chivito al disco y brusquetas de chanfaina."
-    },
-    {
-      "show_name": "La cocina de Sonia Ortiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/la-cocina-de-sonia-ortiz.webp",
-      "show_category": "Temporada 1 Episodio 5 - Chimichanga de pollo, enchiladas potosinas y frijoles charros",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Las mejores recetas cocinera mexicana que triunfa en las redes sociales. Hoy prepara chimichanga de pollo, enchiladas potosinas y frijoles charros."
-    },
-    {
-      "show_name": "Los favoritos de Margarita Bernal en Bogotá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Pastelería Florida",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Margarita Bernal sale a las calles de Bogotá y nos muestra sus sitios predilectos, como la Pastelería Florida o Tolú, en la Plaza de Mercado La Perseverancia. Además, Mesa Franca y Harry Sazón."
-    },
-    {
-      "show_name": "La cocina mágica de las setas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Setas con estrella",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Hoy buscamos setas en el entorno mágico de los bosques de La Rioja. Viajaremos al pueblo más pequeño del mundo que tiene un restaurante dos estrellas Michelín, donde nos espera el gran chef Ignacio Echapresto."
-    },
-    {
-      "show_name": "Devuélveme los tápers",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Tony - Lean - Josecito",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "La familia Mastronicola, Tony, Lean y Josecito, forman parte de un grupo de teatro independiente, y una vez al mes son los encargados de cocinar para todo el equipo."
-    },
-    {
-      "show_name": "México en una tortilla",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Chichilo negro - Taco de chapulín en costra de quesillo",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Hoy cocina 100% de Oaxaca, empezando por un mole típico seguido de un exquisito taco de chapulín y dicen que quien come chapulines se enamora de Oaxaca. Descubrilo de la mano de Alejandro Ruiz."
-    },
-    {
-      "show_name": "Amigos a la mesa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 22 - Pasta cavatelli a los tres quesos - Muslos de pollo a la cacciatore",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Zahie Téllez y Sergio Camacho nos enseñaran sus secretos para preparar una pasta cavatelli casera fresca para chuparse los dedos, que acompañaran con unos deliciosos muslos de pollo, para toda la familia."
-    },
-    {
-      "show_name": "Menú para todos los días",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/menú-para-todos-los-días.webp",
-      "show_category": "Temporada 1 Episodio 13 - Pescado en crema de cilantro y pasta con pollo",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Dos platos de elaboración sencilla y llenos de sabor. La propuesta de Antonio De Livier es: por un lado, pescado en crema de cilantro y por el otro, pasta corta con pollo, crema y brócoli."
-    },
-    {
-      "show_name": "Fiesta en casa al aire libre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 22 - Sausage rolls",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Carmen López del Hierro prepara la receta de Sausage rolls o rollitos de hojaldre y salchicha con ensalada de col lombarda."
-    },
-    {
-      "show_name": "Los favoritos de Osuna en Querétaro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "En Querétaro la barbacoa es un platillo para compartir con la familia y amigos, Osuna visita Barbacoa de Don Lole donde descubre los secretos de esta preparación tradicional y ancestral. En Distribuidora de carnes García prueba los delicios"
-    },
-    {
-      "show_name": "Pueblos para comérselos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Zahara de la Sierra",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Descubrimos Zahara de la Sierra, uno de los pueblos de la sierra de Cádiz. Uno de sus puntos fuertes es la gastronomía tradicional con recetas como \"Los quemones\", una sopa de tomate con especias, o los asados de chivito y el queso payoyo."
-    },
-    {
-      "show_name": "Mapa de los sabores de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 22 - Chilpachole de jaiba - Encacahuatado de cerdo",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Un platillo insignia de la comida del golfo es este chilpachole de Jaiba que nos trae Eduardo Osuna. Luego, nos lleva a Xalapa, en este viaje imaginario, para probar un encacahuatado de cerdo, ¡puro sabor de antaño!"
-    },
-    {
-      "show_name": "Maestros de la pizza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Roberto visita Angelín, creadora de la famosa pizza de cancha. En Nápoles, prueba una pizza que rompe el molde: la frita. Además, conoce el poolish, la masa madre, la famosa biga y el tomate de Nápoles."
-    },
-    {
-      "show_name": "La cocina de Sonia Ortiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/la-cocina-de-sonia-ortiz.webp",
-      "show_category": "Temporada 1 Episodio 5 - Chimichanga de pollo, enchiladas potosinas y frijoles charros",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Las mejores recetas cocinera mexicana que triunfa en las redes sociales. Hoy prepara chimichanga de pollo, enchiladas potosinas y frijoles charros."
-    },
-    {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Cholula",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "En Cholula recorremos las fonditas del zócalo. Luego, llegamos a la gran pirámide y junto a ella, saboreamos las cholulteca en La Lunita. Después, probamos las creaciones del chef, Eduardo Luna."
-    },
-    {
-      "show_name": "Abuelita linda",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/abuelita-linda.webp",
-      "show_category": "Temporada 2 Episodio 16 - Aquismon - Abuelita Elia",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Verónica viaja hasta una de las joyas naturales de México, la Huasteca Potosina. En la localidad de Aquismón conocerá a Doña Elia, una abuelita que desde hace décadas está al frente del restaurante local más exitoso."
-    },
-    {
-      "show_name": "Asado de obra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 5 - Chivito al disco - San Luis",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Desde Leandro N. Alem, San Luis, Claudio nos recibe en una de las obras es la que está trabajando y nos muestra como son sus viernes de asado de obra. Esta vez prepara chivito al disco y brusquetas de chanfaina."
-    },
-    {
-      "show_name": "Los ñoquis del 29",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Este programa especial contará los orígenes y la actualidad de la tradición de \"Los Ñoquis del 29\". Además, incluirá variedad de recetas y múltiples versiones de cómo hacer este clásico de las pastas."
-    },
-    {
-      "show_name": "Fiestas con sabor mexicano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 3 - Barbacoa",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Junto al historiador Benito Taibo, recorremos las fiestas gastronómicas mexicanas como la de la barbacoa en Hidalgo."
-    },
-    {
-      "show_name": "Estefi express",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Canelones de verdura",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "¿Poco tiempo y muchas ganas de comer rico? Estefi Colombo tiene la solución. Ella muestra cómo preparar platos deliciosos en pocos minutos y con ingredientes que tenemos seguro en nuestra cocina."
-    },
-    {
-      "show_name": "Pueblos para comérselos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Zahara de la Sierra",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "Descubrimos Zahara de la Sierra, uno de los pueblos de la sierra de Cádiz. Uno de sus puntos fuertes es la gastronomía tradicional con recetas como \"Los quemones\", una sopa de tomate con especias, o los asados de chivito y el queso payoyo."
-    },
-    {
-      "show_name": "La cocina de Sonia Ortiz",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/la-cocina-de-sonia-ortiz.webp",
-      "show_category": "Temporada 1 Episodio 5 - Chimichanga de pollo, enchiladas potosinas y frijoles charros",
-      "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Las mejores recetas cocinera mexicana que triunfa en las redes sociales. Hoy prepara chimichanga de pollo, enchiladas potosinas y frijoles charros."
-    },
-    {
-      "show_name": "Me voy a comer el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/me-voy-a-comer-el-mundo.webp",
-      "show_category": "Temporada 4 Episodio 20 - Barcelona",
-      "start_time": "17:30",
-      "end_time": "18:30",
-      "episode_description": "Verónica viaja a Barcelona para empaparse de su tradición, su carácter mediterráneo y su inconfundible sabor. De la mano de la periodista gastronómica, Cristina Jolonch, recorrerá algunos de los rincones más emblemáticos de la ciudad."
-    },
-    {
-      "show_name": "La ruta de los insectos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Quique visita a Francisco Hernández y Alejandro de la Brena en su granja de grillos. En el centro de la ciudad de Querétaro, en la Universidad Autónoma de Querétaro, Isac Rivas cocina galletas de chocolate con chapulines y grillos."
-    },
-    {
-      "show_name": "La ruta del mar patagonico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 4 - Rada tilly - Pulpo",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Tupac Guantay continúa su viaje culinario para llegar a Rada Tilly, en donde logra deleitarse con un pulpo especial."
-    },
-    {
-      "show_name": "Los imperdibles México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5 - Churros del moro",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Si visitas la Ciudad de Mexico, una parada fundamental son los Churros de El Moro que se acompañan con un chocolate caliente. Del antojo dulce pasamos al rey indiscutible de la taqueria mexicana, el Taco al Pastor, de El Huequito."
-    },
-    {
-      "show_name": "Productos de mi tierra México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/productos-de-mi-tierra-méxico.webp",
-      "show_category": "Temporada 1 Episodio 3 - Frijol",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Enrique Cervantes visita Los Capulines, Morelos. Allí lo recibe Michel Villegas quien le habla sobre la producción de frijol."
-    },
-    {
-      "show_name": "Destino México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Cholula",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "En Cholula recorremos las fonditas del zócalo. Luego, llegamos a la gran pirámide y junto a ella, saboreamos las cholulteca en La Lunita. Después, probamos las creaciones del chef, Eduardo Luna."
-    },
-    {
-      "show_name": "Me voy a comer el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-gourmet/today/me-voy-a-comer-el-mundo.webp",
-      "show_category": "Temporada 4 Episodio 20 - Barcelona",
-      "start_time": "21:30",
-      "end_time": "22:30",
-      "episode_description": "Verónica viaja a Barcelona para empaparse de su tradición, su carácter mediterráneo y su inconfundible sabor. De la mano de la periodista gastronómica, Cristina Jolonch, recorrerá algunos de los rincones más emblemáticos de la ciudad."
+      "episode_description": "En 1892 la señora Victoria Ortiz Torres crea la Dulcería La Gran Fama, luego de entender que los dulces que hacia en su casa tenían gran aceptación entre sus amigas."
     },
     {
       "show_name": "Cocina de mar Pacífico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Mole coloradito con camarones - Caldo de piedra",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Alex Ruiz cocina un mole coloradito con camarones. Además, nos prepara a orillas del mar Pacífico un caldo de piedra con pescado, camarones, tomate, ajo y cebolla, sumado a un toque muy especial, piedras incandescentes."
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Camarones rellenos de tocino - Tacos gobernador",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Alex prepara unos camarones rellenos de tocino y verduras salteadas. Luego, cocina unos tacos gobernador, que los acompaña con una salsa hecha en un mortero."
     },
     {
-      "show_name": "Pueblos para comérselos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Zahara de la Sierra",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Descubrimos Zahara de la Sierra, uno de los pueblos de la sierra de Cádiz. Uno de sus puntos fuertes es la gastronomía tradicional con recetas como \"Los quemones\", una sopa de tomate con especias, o los asados de chivito y el queso payoyo."
+      "show_name": "Un paseo por Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-paseo-por-oaxaca-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Danzas y degustación",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Hoy comenzamos degustando uno de los ingredientes más nobles: el maíz. Luego, iremos a un lugar lleno de tradición: Tehuantepec. Allí, degustaremos de la mano de Margarita los diferentes moles."
+    },
+    {
+      "show_name": "Sonia en su huerta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonia-en-su-huerta-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Timbal de setas - Ensalada de flores del huerto",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Sonia Ortiz cosecha una gran variedad de flores comestibles, abutilones, mastuerzo, malva y dalia negra en otras, y nos enseña como utilizarlas en una ensalada de la huerta."
+    },
+    {
+      "show_name": "Menú para todos los días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_menu-para-todos-los-dias-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 11 - Verduras en tempura y rollos de lasagna al horno",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "El chef Antonio De Livier nos trae una receta de la gastronomía japonesa: verduras en tempura al estilo \"Toño\" con una salsa ponzu. Luego, un clásico de la cocina italiana, la lasagna bolognesa."
+    },
+    {
+      "show_name": "Con vistas al mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "En Granada, visitamos el restaurante: La Bahía, para probar su ensalada con aguacate y mango. Luego, en Pontevedra, descubrimos la arrocería: A Lanzada, donde nos preparan su arroz con bogavante."
+    },
+    {
+      "show_name": "Platos de cuchara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_platos-de-cuchara-s02e11_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 11 - Platos de cuchara perfumados con hierba santa",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Pozole para celebrar a todos los santos y Sopa de cueza son las dos recetas que prepara Zahie en estos Platos de cuchara."
+    },
+    {
+      "show_name": "Los favoritos de Alex Ruiz en Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Hoy, el Chef Alex Ruiz nos muestra su cuna, Portosuelo, una propuesta gastronómica de cocina rural. \"Los tacos del Carmen\", \"Las Barbacoas de México\" y \"Real Minero\" son otros de los favoritos de Alex Ruiz que conocemos en este episodio."
+    },
+    {
+      "show_name": "Los fogones tradicionales: México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Daniel Barrera y María Cristina feliz Monrroy - Filete de cabrería flameado, pescado jurel",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Hoy Daniel Barrera prepara filete de cabrería flameado con Bacanora añejo con salsa de tuétano. María Cristina Feliz Monrroy prepara pescado jurel con hierbas de la región, tortillas de harina de mezquite, pan de mezquite frito y asado."
+    },
+    {
+      "show_name": "Con pocos ingredientes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Conos de queso rellenos - Salteado de fideos de arroz",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Estefi Colombo nos enseña tres recetas festivas: conos de queso rellenos, salteado de fideos de arroz y cheesecake de chocolate. Todo, cocinado con pocos ingredientes."
+    },
+    {
+      "show_name": "Maestros del taco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_maestros-del-taco-s01e11-koy-koy_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Koy Koy",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "En este episodio Poncho disfruta de 3 tacos uno relleno de chorizo argentino, otro de milanesa y uno final de pavo! De visita en Villahermosa (Tabasco)."
+    },
+    {
+      "show_name": "Delicias de la antigua Europa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Praga",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "En Praga, visitaremos el hermoso castillo de Konopiste, donde veremos cómo se servían las espléndidas mesas del barroco. Luego, una taberna de Praga anclada en la Edad Media y probaremos el famoso gulash."
+    },
+    {
+      "show_name": "Postres caseros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_postres-caseros-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Cheescake de limón galletas de triple chocolate pastel de trufa",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Recetas dulces de elaboración y casera es lo que ofrece Paulina Abascal en este episodio de Postres Caseros, tres preparaciones imperdibles: Cheesecake de limón, Galletas de chocolate con macadamia y Pastel untuoso de chocolate."
+    },
+    {
+      "show_name": "Menú para todos los días",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_menu-para-todos-los-dias-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 11 - Verduras en tempura y rollos de lasagna al horno",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "El chef Antonio De Livier nos trae una receta de la gastronomía japonesa: verduras en tempura al estilo \"Toño\" con una salsa ponzu. Luego, un clásico de la cocina italiana, la lasagna bolognesa."
+    },
+    {
+      "show_name": "Un paseo por Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-paseo-por-oaxaca-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Danzas y degustación",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Hoy comenzamos degustando uno de los ingredientes más nobles: el maíz. Luego, iremos a un lugar lleno de tradición: Tehuantepec. Allí, degustaremos de la mano de Margarita los diferentes moles."
+    },
+    {
+      "show_name": "Cocina de mar Pacífico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Camarones rellenos de tocino - Tacos gobernador",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Alex prepara unos camarones rellenos de tocino y verduras salteadas. Luego, cocina unos tacos gobernador, que los acompaña con una salsa hecha en un mortero."
+    },
+    {
+      "show_name": "La cocina de los recuerdos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Mixiote de carnero - Sopa cholulteca",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Alrededor de la mesa se generan los recuerdos más memorables, como con el mixiote de carnero que prepara Sergio Camacho, además de una rica y tradicional sopa como sólo en Cholula se cocina."
+    },
+    {
+      "show_name": "Los fogones tradicionales: México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Daniel Barrera y María Cristina feliz Monrroy - Filete de cabrería flameado, pescado jurel",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Hoy Daniel Barrera prepara filete de cabrería flameado con Bacanora añejo con salsa de tuétano. María Cristina Feliz Monrroy prepara pescado jurel con hierbas de la región, tortillas de harina de mezquite, pan de mezquite frito y asado."
+    },
+    {
+      "show_name": "Fiesta en casa al aire libre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Crema de espárragos blancos con berberechos",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Carmen López del Hierro elabora dos recetas. Primero, crema de espárragos blancos con berberechos y, luego, bacalao a la vizcaína al estilo de su madre."
+    },
+    {
+      "show_name": "Mapa de los sabores de México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Tamal de pescado - Quelites capeados",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "La cocina del Golfo de México es una cocina de mar y tierra, como resultado del mestizaje de dos culturas, la europea y la indígena. Eduardo nos enseña a preparar un tamal de pescado acompañado de unos quelites en salsa verde."
+    },
+    {
+      "show_name": "Sonia en su huerta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonia-en-su-huerta-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Timbal de setas - Ensalada de flores del huerto",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Sonia Ortiz cosecha una gran variedad de flores comestibles, abutilones, mastuerzo, malva y dalia negra en otras, y nos enseña como utilizarlas en una ensalada de la huerta."
     },
     {
       "show_name": "La ruta del mar patagonico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 4 - Rada tilly - Pulpo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Bahía Bustamante - Salmón y algas",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "El viaje culinario de Tupac Guantay continúa por el sur de la patagónia, conduciendolo directamente hacia Bahía Bustamante, para luego deleitarse con un salmón y algas."
+    },
+    {
+      "show_name": "Productos de mi tierra México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Cacao",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Enrique Cervantes visita a productores de cacao en La Chonita, Tabasco y hablan de su producción. En una cocina chontal, en Comalcalco, Tabasco, Beatriz Fernández cocina pozol y Nelly Córdova Morillo cocina mole tabasqueño."
+    },
+    {
+      "show_name": "Los Petersen en la Patagonia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-petersen-en-la-patagonia-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Río Hermoso - Salmón a la estaca",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Los hermanos Petersen siguen su recorrido por la Patagonia. En San Martin de los Andes, Roberto visita una chocolatería. Mientras, Christian prepara un salmón a la estaca con huevo."
+    },
+    {
+      "show_name": "Fiestas con sabor mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Feria nacional del burro",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Benito participa de la Feria Nacional del Burro, que se celebra en el pueblo de Otumba en el Estado de México desde 1965 y cuyo objetivo es reconocer y festejar al burro, ya que tiene un simbolismo con las arduas labores en el campo."
+    },
+    {
+      "show_name": "Con pocos ingredientes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Conos de queso rellenos - Salteado de fideos de arroz",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Estefi Colombo nos enseña tres recetas festivas: conos de queso rellenos, salteado de fideos de arroz y cheesecake de chocolate. Todo, cocinado con pocos ingredientes."
+    },
+    {
+      "show_name": "Los favoritos de Alex Ruiz en Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Hoy, el Chef Alex Ruiz nos muestra su cuna, Portosuelo, una propuesta gastronómica de cocina rural. \"Los tacos del Carmen\", \"Las Barbacoas de México\" y \"Real Minero\" son otros de los favoritos de Alex Ruiz que conocemos en este episodio."
+    },
+    {
+      "show_name": "Sonia en su huerta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonia-en-su-huerta-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Timbal de setas - Ensalada de flores del huerto",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Sonia Ortiz cosecha una gran variedad de flores comestibles, abutilones, mastuerzo, malva y dalia negra en otras, y nos enseña como utilizarlas en una ensalada de la huerta."
+    },
+    {
+      "show_name": "Fiesta en casa al aire libre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Crema de espárragos blancos con berberechos",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Carmen López del Hierro elabora dos recetas. Primero, crema de espárragos blancos con berberechos y, luego, bacalao a la vizcaína al estilo de su madre."
+    },
+    {
+      "show_name": "México en una tortilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Mole amarillo de res de Cuicatlán - Tostada de insectos",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "Hoy estamos de manteles largos, ya que Alejandro nos compartirá el secreto para preparar uno de los clásicos moles oaxaqueños: \"el amarillito\". Acompañaremos este plato con una tostada de maíz con guacamole y con insectos de temporada."
+    },
+    {
+      "show_name": "Me voy a comer el mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s04e04-turquia_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 4 - Turquía",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": "Verónica Zumalacárregui viaja a Turquía para conocer su sorprendente gastronomía. En las calles de Estambul existe una gran variedad de comida callejera y en Capadocia se comparte el desayuno con una familia."
+    },
+    {
+      "show_name": "Fiestas con sabor mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Feria nacional del burro",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Benito participa de la Feria Nacional del Burro, que se celebra en el pueblo de Otumba en el Estado de México desde 1965 y cuyo objetivo es reconocer y festejar al burro, ya que tiene un simbolismo con las arduas labores en el campo."
+    },
+    {
+      "show_name": "Los Petersen en la Patagonia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-petersen-en-la-patagonia-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Río Hermoso - Salmón a la estaca",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Los hermanos Petersen siguen su recorrido por la Patagonia. En San Martin de los Andes, Roberto visita una chocolatería. Mientras, Christian prepara un salmón a la estaca con huevo."
+    },
+    {
+      "show_name": "Sonia en su huerta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sonia-en-su-huerta-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11 - Timbal de setas - Ensalada de flores del huerto",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Sonia Ortiz cosecha una gran variedad de flores comestibles, abutilones, mastuerzo, malva y dalia negra en otras, y nos enseña como utilizarlas en una ensalada de la huerta."
+    },
+    {
+      "show_name": "La ruta del mar patagonico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Bahía Bustamante - Salmón y algas",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "El viaje culinario de Tupac Guantay continúa por el sur de la patagónia, conduciendolo directamente hacia Bahía Bustamante, para luego deleitarse con un salmón y algas."
+    },
+    {
+      "show_name": "Productos de mi tierra México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Cacao",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Enrique Cervantes visita a productores de cacao en La Chonita, Tabasco y hablan de su producción. En una cocina chontal, en Comalcalco, Tabasco, Beatriz Fernández cocina pozol y Nelly Córdova Morillo cocina mole tabasqueño."
+    },
+    {
+      "show_name": "Platos de cuchara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_platos-de-cuchara-s02e11_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 11 - Platos de cuchara perfumados con hierba santa",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Pozole para celebrar a todos los santos y Sopa de cueza son las dos recetas que prepara Zahie en estos Platos de cuchara."
+    },
+    {
+      "show_name": "Guardianes de tradición. México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e03-1_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - La gran fama puebla",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "En 1892 la señora Victoria Ortiz Torres crea la Dulcería La Gran Fama, luego de entender que los dulces que hacia en su casa tenían gran aceptación entre sus amigas."
+    },
+    {
+      "show_name": "Me voy a comer el mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s04e04-turquia_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 4 - Turquía",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Verónica Zumalacárregui viaja a Turquía para conocer su sorprendente gastronomía. En las calles de Estambul existe una gran variedad de comida callejera y en Capadocia se comparte el desayuno con una familia."
+    },
+    {
+      "show_name": "Los favoritos de Alex Ruiz en Oaxaca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Hoy, el Chef Alex Ruiz nos muestra su cuna, Portosuelo, una propuesta gastronómica de cocina rural. \"Los tacos del Carmen\", \"Las Barbacoas de México\" y \"Real Minero\" son otros de los favoritos de Alex Ruiz que conocemos en este episodio."
+    },
+    {
+      "show_name": "Los Petersen en la Patagonia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-petersen-en-la-patagonia-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Río Hermoso - Salmón a la estaca",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Los hermanos Petersen siguen su recorrido por la Patagonia. En San Martin de los Andes, Roberto visita una chocolatería. Mientras, Christian prepara un salmón a la estaca con huevo."
+    },
+    {
+      "show_name": "Fiestas con sabor mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Feria nacional del burro",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Benito participa de la Feria Nacional del Burro, que se celebra en el pueblo de Otumba en el Estado de México desde 1965 y cuyo objetivo es reconocer y festejar al burro, ya que tiene un simbolismo con las arduas labores en el campo."
+    },
+    {
+      "show_name": "La ruta del mar patagonico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Bahía Bustamante - Salmón y algas",
       "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "Tupac Guantay continúa su viaje culinario para llegar a Rada Tilly, en donde logra deleitarse con un pulpo especial."
+      "episode_description": "El viaje culinario de Tupac Guantay continúa por el sur de la patagónia, conduciendolo directamente hacia Bahía Bustamante, para luego deleitarse con un salmón y algas."
     }
   ]
 }
