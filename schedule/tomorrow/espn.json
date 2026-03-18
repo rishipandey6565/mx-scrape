@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,23 +20,23 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "PSV vs. NEC Nijmegen",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 27, Philips Stadion",
+      "show_name": "Final, LoanDepot Park, Miami, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Clásico Mundial de Béisbol 2026",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Todos los partidos de la edición 70 de la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia."
+      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,79 +52,95 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Napoli vs. Lecce",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 29, Estadio Diego Armando Maradona",
+      "show_name": "Barcelona vs. Badalona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Semifinal - Vuelta, Estadi Johan Cruyff",
       "start_time": "08:00",
       "end_time": "10:00",
-      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
-    },
-    {
-      "show_name": "Semifinal 1, LoanDepot Park, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Clásico Mundial de Béisbol 2026",
-      "start_time": "10:00",
-      "end_time": "11:50",
-      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
-    },
-    {
-      "show_name": "Costa Adeje Tenerife vs. Atl. de Madrid",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Semifinal - Vuelta, Estadio Heliodoro Rodríguez López",
-      "start_time": "11:50",
-      "end_time": "14:00",
       "episode_description": "Vive lo más emocionante de los partidos de la edición 2025-2026 de la Copa de la Reina. El público podrá disfrutar de un campeonato disputado por los 16 mejores clubes femeninos de España."
     },
     {
-      "show_name": "Semifinal 2, LoanDepot Park, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Clásico Mundial de Béisbol 2026",
-      "start_time": "14:00",
-      "end_time": "16:00",
-      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
-    },
-    {
-      "show_name": "Goles de la Serie A",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/goles-de-la-serie-a.webp",
-      "show_category": "Goles de la Serie A",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano."
+      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "17:00",
-      "end_time": "18:00",
+      "start_time": "11:00",
+      "end_time": "11:30",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Final, Indian Wells Tennis Garden, Indian Wells, CA, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ATP World Tour Masters 1000 - BNP Paribas Open",
-      "start_time": "18:00",
-      "end_time": "19:55",
-      "episode_description": "Vive toda la emoción de los partidos del Abierto de Paribas BNP ATP World Tour Masters 1000. Disfruta de los enfrentamientos entre los deportistas de élite que se presentan en la competición para llevarse el título."
+      "show_name": "AEK (Gre) vs. Celje (Slo)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final - Vuelta, OPAP Arena",
+      "start_time": "11:30",
+      "end_time": "13:40",
+      "episode_description": "Vive los partidos de la quinta edición de la UEFA Conference League, competencia que reúne a 32 equipos de Europa. Los amantes del deporte pueden disfrutar de un evento que reúne a los mejores deportistas del continente europeo."
     },
     {
-      "show_name": "Serie de la Reina - Juego 1",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Liga Mexicana de Softbol",
-      "start_time": "19:55",
-      "end_time": "23:00",
-      "episode_description": "Disfruta las emociones de la Liga Mexicana de Softbol. Las mejores jugadoras compiten en clubes legendarios como Diablos y Charros. Pasión, fuerza y talento definen el máximo nivel del softbol profesional femenino."
+      "show_name": "Betis (Esp) vs. Panathinaikos (Gre)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final - Vuelta, Estadio La Cartuja",
+      "start_time": "13:40",
+      "end_time": "16:00",
+      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "Primera ronda, Hard Rock Stadium, Miami, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Miami Open",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "episode_description": "Disfruta las emociones de este torneo que se disputa en canchas duras en el Hard Rock Stadium de Miami Gardens, Florida. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados."
+    },
+    {
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
+    },
+    {
+      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+    },
+    {
+      "show_name": "Generación fútbol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Generación fútbol",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "",
