@@ -1,93 +1,109 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
-      "show_name": "La favorita",
+      "show_name": "No Me Olvides",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Doom: Aniquilación",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:07",
       "end_time": "02:04",
       "episode_description": ""
     },
     {
-      "show_name": "La Rehabilitación",
+      "show_name": "La favorita",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:04",
-      "end_time": "03:42",
+      "end_time": "04:03",
       "episode_description": ""
     },
     {
-      "show_name": "Perdiendo el este",
+      "show_name": "La gran aventura de Los Lunnis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:42",
+      "start_time": "04:03",
       "end_time": "07:00",
       "episode_description": ""
-    },
-    {
-      "show_name": "Sin rodeos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "08:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Perdiendo el este",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:31",
-      "end_time": "10:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Loco por Mary",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/today/loco-por-mary.webp",
-      "show_category": "Comedia",
-      "start_time": "10:24",
-      "end_time": "12:47",
-      "episode_description": "There's Something About Mary. Ted (Ben Stiller) era un nerd en el colegio, quien a pesar de esto logró que una de las chicas más populares de la escuela, Mary (Cameron Díaz) saliera con él para la fiesta de graduación."
     },
     {
       "show_name": "Todas contra John",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:47",
-      "end_time": "14:37",
+      "start_time": "07:00",
+      "end_time": "08:32",
       "episode_description": ""
     },
     {
-      "show_name": "Días perrunos",
+      "show_name": "Australia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:37",
-      "end_time": "16:52",
+      "start_time": "08:32",
+      "end_time": "12:02",
       "episode_description": ""
     },
     {
-      "show_name": "Corazón Valiente",
+      "show_name": "La gran aventura de Los Lunnis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:52",
-      "end_time": "20:16",
+      "start_time": "12:02",
+      "end_time": "13:47",
       "episode_description": ""
     },
     {
-      "show_name": "Sweetheart",
+      "show_name": "Perdiendo el este",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:16",
+      "start_time": "13:47",
+      "end_time": "15:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deja vu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:40",
+      "end_time": "18:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Loco corazón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:06",
+      "end_time": "20:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Absolutamente fabulosas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:14",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "No Me Olvides",
+      "show_name": "Recién Casados",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:07",
+      "end_time": "23:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Irene, Yo Y Mi Otro Yo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:54",
+      "end_time": "02:03",
       "episode_description": ""
     }
   ]

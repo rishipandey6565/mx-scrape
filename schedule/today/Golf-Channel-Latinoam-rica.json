@@ -1,20 +1,36 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
       "show_name": "2026 Players Championship",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "2026 Players Championship",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -23,6 +39,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -31,6 +55,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -39,14 +71,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA Tour Highlight Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
       "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Big Swing with Jimmy Roberts",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
       "show_name": "5 Clubs with Gary Williams",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -87,51 +135,67 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "LPGA Season Preview",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf Today",
+      "show_name": "School of Golf",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Studio golftv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "2026 Players Championship",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Studio golftv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA TOUR: The CUT",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Studio golftv",
+      "show_name": "The Smylie Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Studio golftv",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Big Swing with Jimmy Roberts",
+      "show_name": "Vanity Index Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -139,11 +203,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "2026 Players Championship",
+      "show_name": "Studio golftv",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "01:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Smylie Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vanity Index Podcast",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

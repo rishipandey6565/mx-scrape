@@ -1,12 +1,20 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
-      "show_name": "Al cielo con ella",
+      "show_name": "En Primicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telediario matinal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "00:50",
       "episode_description": ""
     },
@@ -63,14 +71,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:40",
-      "end_time": "12:35",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Malas Lenguas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:35",
+      "start_time": "12:30",
       "end_time": "13:30",
       "episode_description": ""
     },
@@ -111,22 +119,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "15:45",
-      "end_time": "16:55",
+      "end_time": "16:35",
       "episode_description": ""
     },
     {
       "show_name": "La promesa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:55",
-      "end_time": "17:30",
+      "start_time": "16:35",
+      "end_time": "17:35",
       "episode_description": ""
     },
     {
       "show_name": "Sukha",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
+      "start_time": "17:35",
       "end_time": "18:25",
       "episode_description": ""
     },
@@ -155,34 +163,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bocas de cielo",
+      "show_name": "The floor",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
-      "end_time": "21:45",
+      "end_time": "22:15",
       "episode_description": ""
     },
     {
-      "show_name": "Víctimas del misterio",
+      "show_name": "Viaje al centro de la tele",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:45",
-      "end_time": "22:34",
+      "start_time": "22:15",
+      "end_time": "23:25",
       "episode_description": ""
     },
     {
-      "show_name": "Víctimas del misterio",
+      "show_name": "Bocas de cielo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:34",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Primicia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
+      "start_time": "23:25",
       "end_time": "00:30",
       "episode_description": ""
     }

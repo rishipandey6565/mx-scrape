@@ -1,125 +1,109 @@
 {
   "channel": "Golden Plus",
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "schedule": [
     {
-      "show_name": "María, ¡Me Muero!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Plus/tomorrow/maría-me-muero.webp",
-      "show_category": "Comedia",
+      "show_name": "La Bamba",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:18",
-      "episode_description": "\"María, ¡Me Muero! Es una comedia sobre un hombre hipocondriaco, el único ser en el mundo capaz de tener hasta resfriados terminales, y de su mujer que tiene que aguantarlo hasta que decide hacer algo al respecto. El miedo a la muerte nunca fue tan divertido."
-    },
-    {
-      "show_name": "07:19 La hora del temblor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:18",
-      "end_time": "02:54",
+      "end_time": "00:52",
       "episode_description": ""
     },
     {
-      "show_name": "Mi hijo y yo",
+      "show_name": "Historia policial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:54",
-      "end_time": "04:31",
+      "start_time": "00:52",
+      "end_time": "02:46",
       "episode_description": ""
     },
     {
-      "show_name": "Jumper",
+      "show_name": "Hombre de Familia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombre_de_familia.jpg",
+      "show_category": "Comedia",
+      "start_time": "02:46",
+      "end_time": "04:40",
+      "episode_description": "(The Family Man) Es la historia moderna de Frank Capra. Jack Campbell (Nicolas Cage), es un hombre exitoso de negocios que vive su vida de soltero teniéndolo todo incluyendo un lujoso auto deportivo. Un día el despierta al lado de su ex novia de universidad, Kate Reynolds (Téa Leoni) que ahora es su esposa además ahora él tiene dos hijos y su auto deportivo es ahora una mini-van y viven en New Jersey. Al ver que él no cuenta con los lujos que anteriormente poseía ahora busca desesperadamente recuperar su vida anterior."
+    },
+    {
+      "show_name": "Juego De Espias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:31",
-      "end_time": "06:03",
+      "start_time": "04:40",
+      "end_time": "06:51",
       "episode_description": ""
     },
     {
-      "show_name": "Belleza Inesperada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Golden-Plus/tomorrow/belleza-inesperada.webp",
-      "show_category": "Drama",
-      "start_time": "06:03",
-      "end_time": "07:43",
-      "episode_description": "Howard (Will Smith) es un exitoso ejecutivo publicitario de Nueva York que sufrió una gran perdida y este pierde el interés por la vida. Tratando de buscar respuestas le escribe cartas al Amor, al Tiempo y la Muerte, pero sus amigos creen que está perdiendo la cabeza y tratan de ayudarlo. Whit (Edward Norton), Simon (Michael Peña) y Claire (Kate Winslet) harán lo posible para que Howard vuelva a apreciar la vida como antes. Brigitte (Helen Mirren) se le presenta como la Muerte, Raffi (Jacob Latimore) como el Tiempo y por ultimo Amy (Keira Knightley) como el Amor. Estos personajes que viven en la mente de Howard son tan reales que decide contárselo a la psicóloga Madeleine (Naomi Harris) quien le hará ver lo que le está sucediendo."
-    },
-    {
-      "show_name": "El Patriota",
+      "show_name": "Historia policial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:43",
-      "end_time": "09:16",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Desierto de oro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:16",
-      "end_time": "10:56",
+      "start_time": "06:51",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
       "show_name": "Guerra de novias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:56",
-      "end_time": "12:28",
+      "start_time": "08:45",
+      "end_time": "10:17",
       "episode_description": ""
     },
     {
-      "show_name": "Jungla",
+      "show_name": "El Patriota",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:28",
-      "end_time": "14:27",
+      "start_time": "10:17",
+      "end_time": "11:50",
       "episode_description": ""
     },
     {
       "show_name": "Los ilusionistas 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:27",
-      "end_time": "16:27",
+      "start_time": "11:50",
+      "end_time": "13:50",
       "episode_description": ""
     },
     {
-      "show_name": "La Bamba",
+      "show_name": "Arma mortal 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:27",
-      "end_time": "18:19",
+      "start_time": "13:50",
+      "end_time": "15:48",
       "episode_description": ""
     },
     {
-      "show_name": "Locura de amor en Las Vegas",
+      "show_name": "Arma Mortal 3",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:19",
+      "start_time": "15:48",
+      "end_time": "17:49",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arma Mortal 4",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:49",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Muñeco Diabólico",
+      "show_name": "El Mediador",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:33",
+      "end_time": "22:25",
       "episode_description": ""
     },
     {
-      "show_name": "Chucky, el muñeco diabólico 2",
+      "show_name": "Dallas Buyers Club: El club de los desahuciados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:33",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Bamba",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:52",
+      "start_time": "22:25",
+      "end_time": "00:26",
       "episode_description": ""
     }
   ]

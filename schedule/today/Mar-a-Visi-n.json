@@ -1,7 +1,15 @@
 {
   "channel": "María Visión",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
+    {
+      "show_name": "El santísimo sacramento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
     {
       "show_name": "El santísimo sacramento",
       "show_logo": "",
@@ -131,18 +139,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Jornada de oración por la paz",
+      "show_name": "Podcast Faro Azul",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
-      "end_time": "19:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Podcast Dios y Hombre",
+      "show_name": "Santo rosario 'De las rosas'",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ejercicios espirituales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Santa misa, Virgen del Pilar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },

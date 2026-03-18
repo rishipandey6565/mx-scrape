@@ -1,36 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:02",
+      "end_time": "00:15",
       "episode_description": ""
     },
     {
       "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:02",
-      "end_time": "00:27",
+      "start_time": "00:15",
+      "end_time": "00:40",
       "episode_description": ""
     },
     {
-      "show_name": "REUSSS",
+      "show_name": "Une Confession",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:27",
-      "end_time": "01:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La grande galerie francophone",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:06",
+      "start_time": "00:40",
       "end_time": "02:35",
       "episode_description": ""
     },
@@ -59,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Littoral",
+      "show_name": "Pistes vertes",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:33",
@@ -67,18 +59,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mise au point",
+      "show_name": "Le Point",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:52",
+      "end_time": "05:54",
       "episode_description": ""
     },
     {
-      "show_name": "A travers champs",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:52",
+      "start_time": "05:54",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -99,42 +91,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une brique dans le ventre",
+      "show_name": "Islande, sur la piste du renar",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:17",
+      "end_time": "08:20",
       "episode_description": ""
     },
     {
-      "show_name": "Escapades en suisse italienne",
+      "show_name": "Littoral",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:17",
-      "end_time": "08:44",
+      "start_time": "08:20",
+      "end_time": "08:47",
       "episode_description": ""
     },
     {
-      "show_name": "# Version française",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:44",
-      "end_time": "09:11",
+      "start_time": "08:47",
+      "end_time": "09:14",
       "episode_description": ""
     },
     {
-      "show_name": "Chef Pays",
+      "show_name": "A travers champs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:11",
-      "end_time": "09:39",
+      "start_time": "09:14",
+      "end_time": "09:43",
       "episode_description": ""
     },
     {
       "show_name": "Tout le monde veut prendre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:39",
+      "start_time": "09:43",
       "end_time": "10:37",
       "episode_description": ""
     },
@@ -163,10 +155,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Marianne",
+      "show_name": "En avoir",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
+      "end_time": "13:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fake it till you make it",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:28",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Slam",
+      "show_name": "Magazine",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:27",
@@ -195,18 +195,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hep taxi !",
+      "show_name": "Une brique dans le ventre",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
-      "end_time": "16:01",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le Point",
+      "show_name": "Mise au point",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:01",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -219,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un Dimanche á la campagne",
+      "show_name": "Laëtitia",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:31",
@@ -235,27 +235,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "La grande librairie",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:02",
-      "end_time": "21:36",
+      "end_time": "21:34",
       "episode_description": ""
     },
     {
-      "show_name": "Investigation RTBF",
+      "show_name": "Un Alibi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:36",
-      "end_time": "23:08",
+      "start_time": "21:34",
+      "end_time": "23:05",
       "episode_description": ""
     },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:08",
-      "end_time": "00:15",
+      "start_time": "23:05",
+      "end_time": "00:12",
       "episode_description": ""
     }
   ]
