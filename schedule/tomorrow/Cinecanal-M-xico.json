@@ -1,102 +1,94 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
     {
-      "show_name": "Irene, Yo Y Mi Otro Yo",
+      "show_name": "Corazón Valiente",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:03",
+      "end_time": "03:06",
       "episode_description": ""
     },
     {
-      "show_name": "Recreo",
+      "show_name": "Martha Marcy May Marlene",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:03",
-      "end_time": "03:30",
+      "start_time": "03:06",
+      "end_time": "04:45",
       "episode_description": ""
+    },
+    {
+      "show_name": "Tolkien",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/tolkien.jpg",
+      "show_category": "Biografía",
+      "start_time": "04:45",
+      "end_time": "07:00",
+      "episode_description": "Tolkien explora los años de formación del autor huérfano mientras encuentra amistad, amor e inspiración artística entre un grupo de compañeros marginados en la escuela. Esto lo lleva al estallido de la Primera Guerra Mundial, que amenaza con destrozar la \"comunidad\". Todas estas experiencias inspirarían a Tolkien (Nicholas Hoult) a escribir sus famosas novelas de la Tierra Media."
     },
     {
       "show_name": "¿Qué te juegas?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La gran aventura de Los Lunnis",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "07:00",
-      "end_time": "08:28",
+      "end_time": "09:35",
       "episode_description": ""
     },
     {
-      "show_name": "Días perrunos",
+      "show_name": "Loco por Mary",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/loco_por_mary.png",
+      "show_category": "Comedia",
+      "start_time": "09:35",
+      "end_time": "11:59",
+      "episode_description": "There's Something About Mary. Ted (Ben Stiller) era un nerd en el colegio, quien a pesar de esto logró que una de las chicas más populares de la escuela, Mary (Cameron Díaz) saliera con él para la fiesta de graduación."
+    },
+    {
+      "show_name": "Sí, quiero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:28",
-      "end_time": "10:43",
+      "start_time": "11:59",
+      "end_time": "13:48",
       "episode_description": ""
     },
     {
-      "show_name": "Perdiendo el este",
+      "show_name": "La Increíble Vida de Walter Mitty",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:43",
-      "end_time": "12:36",
+      "start_time": "13:48",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Un Amor Inquebrantable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/tomorrow/un-amor-inquebrantable.webp",
-      "show_category": "Biografía",
-      "start_time": "12:36",
-      "end_time": "14:51",
-      "episode_description": "Basada en la historia real e inspiradora del amor inquebrantable de una madre ante las probabilidades imposibles. Cuando el hijo adoptivo de Joyce Smith (Chrissy Metz), John (Marcel Ruiz) cae a través de un lago helado de Missouri, toda esperanza parece perdida. Pero mientras el cuerpo de John yace sin vida, Joyce se niega a rendirse. Su firme creencia inspira a los que la rodean a seguir orando para la recuperación de John, incluso ante la historia de cada caso y la predicción científica."
-    },
-    {
-      "show_name": "Otra oportunidad para amar",
+      "show_name": "Sweetheart",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:51",
-      "end_time": "16:56",
+      "start_time": "16:00",
+      "end_time": "17:43",
       "episode_description": ""
     },
     {
-      "show_name": "No Me Olvides",
+      "show_name": "Recién Casados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:56",
-      "end_time": "19:03",
+      "start_time": "17:43",
+      "end_time": "19:39",
       "episode_description": ""
     },
     {
-      "show_name": "Éxodo: Dioses y Reyes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/tomorrow/éxodo-dioses-y-reyes.webp",
-      "show_category": "Drama",
-      "start_time": "19:03",
+      "show_name": "Moulin Rouge! Amor en Rojo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:39",
       "end_time": "22:00",
-      "episode_description": "La historia del líder Moisés (Christian Bale), un hombre con coraje que desafía al faraón egipcio, Ramsés (Joel Edgerton). El relato de su fuga de Egipto y sus devastadoras plagas mortales junto a 600,000 esclavos."
+      "episode_description": ""
     },
     {
-      "show_name": "Absolutamente fabulosas",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "La Batalla de los Sexos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_batalla_de_los_sexos.jpg",
+      "show_category": "Biografía",
       "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Corazón Valiente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:45",
-      "end_time": "03:09",
-      "episode_description": ""
+      "end_time": "00:25",
+      "episode_description": "El electrizante partido de tenis de 1973 entre la número uno del mundo Billie Jean King (Emma Stone) y el ex campeón y estafador en serie Bobby Riggs (Steve Carell) fue considerado como LA BATALLA DE LOS SEXOS y se convirtió en el evento deportivo televisado más visto de todos los tiempos."
     }
   ]
 }

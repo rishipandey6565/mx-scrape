@@ -1,142 +1,126 @@
 {
   "channel": "Cinema Platino",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
-    {
-      "show_name": "Rogue",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:03",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Fundador",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/el-fundador.webp",
-      "show_category": "Biografía",
-      "start_time": "00:03",
-      "end_time": "02:02",
-      "episode_description": "Cuenta la historia real de Ray Kroc (Michael Keaton), un vendedor de Illinois y como conoció a Mac (John Carroll Lynch) y Dick McDonald (Nick Offerman), dos hombres que estaban llevando una operación de hamburguesas en el sur de California en los años 50’s. Krock quedó impresionado por la rapidez del sistema de los hermanos en hacer comida rápida y vio un gran potencial en la franquicia."
-    },
-    {
-      "show_name": "Atrapada En El Fondo Del Mar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/atrapada-en-el-fondo-del-mar.webp",
-      "show_category": "Drama",
-      "start_time": "02:02",
-      "end_time": "03:28",
-      "episode_description": "Unos días después de Navidad, las medias hermanas Ida (Moa Gammel) y Tuva (Madeleine Martin) deciden hacer una inmersión en una remota costa, pero un deslave deja atrapada a Tuva bajo el agua. Ida regresa a la superficie para descubrir que el mismo desplazamiento de roca ha cubierto todo su equipo dejándolas completamente aisladas sin ninguna posibilidad de pedir ayuda. Mientras se desarrolla la frenética carrera por la supervivencia, Ida se someterá a los imposibles para ayudar a Tuva."
-    },
-    {
-      "show_name": "La ballena",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:28",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vuelo 478",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "07:04",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:04",
-      "end_time": "07:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un acto de esperanza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:34",
-      "end_time": "09:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:21",
-      "end_time": "09:51",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gold",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:51",
-      "end_time": "11:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:28",
-      "end_time": "11:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Agente Bajo Fuego",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/agente-bajo-fuego.webp",
-      "show_category": "Acción",
-      "start_time": "11:58",
-      "end_time": "14:02",
-      "episode_description": "Cuando hay un intento de asesinato contra el presidente de los Estados Unidos, Allan Trumbull (Morgan Freeman), su hombre de confianza, el agente del Servicio Secreto Mike Banning (Gerard Butler), es acusado injustamente y puesto bajo custodia. Después de escapar de la captura, se convierte en un hombre que huye y debe evadir a su propia agencia y ser más astuto que el FBI para encontrar la verdadera amenaza hacia el presidente. Desesperado por descubrir la verdad, Bannin trabaja con aliados poco probables para ayudar a limpiar su nombre, evitar que su familia sufra daños y salvar al país del peligro inminente."
-    },
-    {
-      "show_name": "La increíble historia de David Copperfield",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:02",
-      "end_time": "16:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sismo Magnitud 9.5",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:08",
-      "end_time": "18:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maremoto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:06",
-      "end_time": "19:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Castigados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:54",
-      "end_time": "21:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Juego de Ladrones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/juego-de-ladrones.webp",
-      "show_category": "Acción",
-      "start_time": "21:28",
-      "end_time": "23:51",
-      "episode_description": "Una saga de crímenes de Los Ángeles en la línea de \"Calor\", sigue la vida de una unidad de élite del departamento del sheriff del condado de Los Ángeles y la banda de ladrones de bancos más exitosa del estado, mientras los forajidos planean un atraco aparentemente imposible al Banco de la Reserva Federal del centro de Los Ángeles."
-    },
     {
       "show_name": "Addicted",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:51",
+      "start_time": "00:00",
       "end_time": "01:46",
       "episode_description": ""
+    },
+    {
+      "show_name": "Respect: La Historia de Aretha Franklin",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/respect_la_historia_de_aretha_franklin.jpg",
+      "show_category": "Biografía",
+      "start_time": "01:46",
+      "end_time": "04:17",
+      "episode_description": "Tras el ascenso de la carrera de Aretha Franklin (Jennifer Hudson) desde una niña cantado en el coro de la iglesia de su padre hasta su estrellato internacional, \"Respect\" es la notable historia real del viaje de la artista para encontrar su voz y convertirse en la Reina del Soul."
+    },
+    {
+      "show_name": "Mi Policía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:17",
+      "end_time": "06:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:09",
+      "end_time": "06:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El escándalo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:40",
+      "end_time": "08:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:29",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Judy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "10:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:57",
+      "end_time": "11:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Argentina, 1985",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/argentina_1985.jpg",
+      "show_category": "Suspenso",
+      "start_time": "11:28",
+      "end_time": "13:51",
+      "episode_description": "Argentina, 1985 esta inspirada en la historia real de los fiscales Julio Strassera (Ricardo Darín) y Luis Moreno Ocampo (Peter Lanzani), que se atrevieron a investigar y perseguir la dictadura militar más sangrienta de Argentina en 1985. Sin dejarse intimidar por la todavía considerable influencia militar en la nueva y frágil democracia, Strassera y Moreno Ocampo reunieron un joven equipo jurídico de dudosos héroes para su batalla de David contra Goliat. Bajo una amenaza constante sobre ellos y sus familias, corrieron contra el tiempo para hacer justicia a las víctimas de la junta militar."
+    },
+    {
+      "show_name": "El código enigma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:51",
+      "end_time": "15:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un Caminio a Casa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:50",
+      "end_time": "17:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Inconcebible",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "19:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Seis Minutos Para la Medianoche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:44",
+      "end_time": "21:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Desesperada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:38",
+      "end_time": "23:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vivarium",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/vivarium.jpg",
+      "show_category": "Misterio",
+      "start_time": "23:07",
+      "end_time": "00:52",
+      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
     }
   ]
 }

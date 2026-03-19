@@ -1,9 +1,9 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
     {
-      "show_name": "Velvet, el nuevo imperio",
+      "show_name": "La hora pico",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -55,6 +55,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cronicas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "09:30",
       "episode_description": ""
     },
@@ -91,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En la palma de tu mano",
+      "show_name": "Una lección de amor",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -99,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La seducción",
+      "show_name": "Del Otro Lado Del Puente",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -111,16 +127,16 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:00",
+      "end_time": "19:55",
       "episode_description": ""
     },
     {
-      "show_name": "Caso cerrado Edición estelar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
+      "show_name": "Monterrey vs. Guadalajara",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_guadalajara.png",
+      "show_category": "Fútbol",
+      "start_time": "19:55",
       "end_time": "22:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Tecnológico, ubicado en la ciudad de Monterrey, Nuevo León, se enfrentan los equipos Club de Fútbol Monterrey versus Club Deportivo Guadalajara."
     },
     {
       "show_name": "La hora pico",

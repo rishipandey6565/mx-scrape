@@ -1,28 +1,44 @@
 {
   "channel": "TCM (México)",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
-    {
-      "show_name": "Rebel Without a Cause",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:32",
-      "episode_description": ""
-    },
     {
       "show_name": "El ciudadano ilustre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:32",
-      "end_time": "02:36",
+      "start_time": "00:00",
+      "end_time": "00:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los cazamuertos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:59",
+      "end_time": "02:28",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:36",
+      "start_time": "02:28",
+      "end_time": "02:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:38",
+      "end_time": "02:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:46",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,103 +47,103 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Butterfield 8",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:05",
-      "end_time": "06:01",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Breaking Point",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:01",
-      "end_time": "07:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "An American in Paris",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:44",
-      "end_time": "09:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El hombre de al lado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:48",
-      "end_time": "11:38",
+      "end_time": "03:55",
       "episode_description": ""
     },
     {
       "show_name": "Treasure Trackers",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:38",
-      "end_time": "13:15",
+      "start_time": "03:55",
+      "end_time": "05:27",
       "episode_description": ""
     },
     {
       "show_name": "Easter Parade",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:15",
-      "end_time": "15:07",
+      "start_time": "05:27",
+      "end_time": "07:19",
       "episode_description": ""
     },
     {
       "show_name": "The Imitation Game",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:07",
-      "end_time": "17:08",
+      "start_time": "07:19",
+      "end_time": "09:19",
       "episode_description": ""
     },
     {
       "show_name": "Derecho de familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:08",
+      "start_time": "09:19",
+      "end_time": "11:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fort Apache",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:08",
+      "end_time": "13:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Knights of the Round Table",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:27",
+      "end_time": "15:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cautivos del mal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:32",
+      "end_time": "17:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Carroceros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:39",
       "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Lobista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Lobista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:56",
-      "end_time": "20:46",
       "episode_description": ""
     },
     {
       "show_name": "A Streetcar Named Desire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:46",
-      "end_time": "23:01",
+      "start_time": "19:00",
+      "end_time": "21:16",
       "episode_description": ""
     },
     {
-      "show_name": "El ciudadano ilustre",
+      "show_name": "La fragilidad de los cuerpos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:01",
-      "end_time": "01:05",
+      "start_time": "21:16",
+      "end_time": "22:08",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La fragilidad de los cuerpos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:08",
+      "end_time": "23:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deadtectives",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:06",
+      "end_time": "00:37",
       "episode_description": ""
     }
   ]

@@ -1,109 +1,117 @@
 {
   "channel": "HBO Mundi",
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "schedule": [
     {
-      "show_name": "On Swift Horses",
+      "show_name": "La sombra del comandante",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:30",
       "episode_description": ""
+    },
+    {
+      "show_name": "La posada",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "7 Days in Hell",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Boyhood momentos de una vida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:50",
+      "end_time": "06:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La cocina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:40",
+      "end_time": "09:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Todo, en todas partes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:05",
+      "end_time": "11:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Priscilla",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/priscilla.jpg",
+      "show_category": "Biografía",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "episode_description": "Cuando la adolescente Priscila Beaulieu (Cailee Spaeny) conoce a Elvis Presley (Jacob Elordi) en una fiesta, el hombre que ya es una superestrella meteórica del rock and roll se convierte en alguien completamente inesperado en los momentos privados: un enamoramiento emocionante, un aliado en la soledad, un mejor amigo vulnerable. A través de los ojos de Priscilla, Sofia Coppola cuenta el lado invisible de un gran mito americano en el largo noviazgo y el turbulento matrimonio de Elvis y Priscilla, desde una base militar alemana hasta su finca de ensueño en Graceland, en este retrato de amor, fantasía y fama profundamente sentido y detallado."
+    },
+    {
+      "show_name": "No nos dejes caer esta noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "15:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Llegada (2016)",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_llegada_2016.jpg",
+      "show_category": "Ciencia Ficción",
+      "start_time": "15:15",
+      "end_time": "17:15",
+      "episode_description": "Una nave extraña aterriza en el planeta, el Coronel Weber (Forest Whitaker), llega a la universidad donde trabaja la experta en lingüística Louise Banks (Amy Adams) para que le ayude a descifrar un mensaje que ha dejado esta nave. Louise junto con un equipo de élite comandados por Ian Donnelly (Jeremy Renner) deberán descifrar lo que ellos quieren y porque están allí, y evitar que se desate una guerra mundial. Tendrán que poner en peligro sus vidas y seguramente, las de toda la humanidad."
     },
     {
       "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The man who knew too much",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:55",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lazos de vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los marginados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:55",
-      "end_time": "06:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El brutalista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:50",
-      "end_time": "10:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Leyenda del Caballero Verde",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:20",
-      "end_time": "12:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Leyendas de los héroes Cóndor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:35",
-      "end_time": "15:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sacrificio de leyenda",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:10",
-      "end_time": "17:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gangster americano",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "17:15",
+      "end_time": "18:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gattaca experimento genético",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:10",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Kneecap",
+      "show_name": "El esquema fenicio",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:55",
+      "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Juego de poder",
+      "show_name": "El Crimen del Padre Amaro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:55",
-      "end_time": "23:45",
+      "start_time": "21:45",
+      "end_time": "23:50",
       "episode_description": ""
     },
     {
-      "show_name": "La sombra del comandante",
+      "show_name": "Magnolia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:45",
-      "end_time": "01:30",
+      "start_time": "23:50",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]

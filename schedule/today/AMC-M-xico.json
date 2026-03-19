@@ -1,44 +1,60 @@
 {
   "channel": "AMC (México)",
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "schedule": [
     {
-      "show_name": "Rocky II",
+      "show_name": "¿Y dónde están las rubias?",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:05",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "La chica del dragón tatuado",
+      "show_name": "Rocky III",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:05",
-      "end_time": "05:00",
+      "start_time": "00:00",
+      "end_time": "01:50",
       "episode_description": ""
     },
     {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/tales-of-the-walking-dead.webp",
-      "show_category": "Drama",
-      "start_time": "05:00",
-      "end_time": "05:50",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
+      "show_name": "Soldado Universal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:50",
+      "end_time": "03:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los indestructibles 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:40",
+      "end_time": "05:30",
+      "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:50",
-      "end_time": "06:25",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:25",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -111,35 +127,43 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:35",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Un gran chico",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:35",
-      "end_time": "13:30",
+      "start_time": "11:30",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
       "show_name": "Erin Brockovich Mujer Audaz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "15:55",
+      "start_time": "12:05",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "El hobbit la batalla de",
+      "show_name": "Son como niños 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:55",
+      "start_time": "14:30",
+      "end_time": "16:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Pasajero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:25",
       "end_time": "18:25",
       "episode_description": ""
     },
     {
-      "show_name": "Rocky IV",
+      "show_name": "Dos locas en fuga",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:25",
@@ -147,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Elysium",
+      "show_name": "Red",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -155,11 +179,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Y dónde están las rubias?",
+      "show_name": "Medianoche en Switchgrass",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:00",
+      "end_time": "23:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rocky IV",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:50",
+      "end_time": "01:25",
       "episode_description": ""
     }
   ]

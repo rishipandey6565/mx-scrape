@@ -1,52 +1,44 @@
 {
   "channel": "TNT (México)",
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "schedule": [
     {
-      "show_name": "Sangre, sudor y gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "R.I.P.D. Policía del Más Allá",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/ripd-policía-del-más-allá.webp",
-      "show_category": "Acción",
-      "start_time": "00:32",
-      "end_time": "02:05",
-      "episode_description": "Jeff Bridges y Ryan Reynolds encabezan esta película de acción y aventura supernatural en el papel de dos policías que son enviados por el Departamento de Descanse en Paz – por sus siglas en ingles Rest In Peace Department (R.I.P.D) – para proteger y servir a los vivos de los destructivos espíritus que se esconden dentro de los habitantes de la tierra. Cuando ellos descubren un complot que puede acabar la vida como la conocemos, la nueva pareja deberán aprender a trabajar juntos para poder regresar el balance cósmico… o empezar a ver las almas enfurecidas que atraviesan el túnel de la vida después de la muerte."
-    },
-    {
-      "show_name": "Zoolander 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/zoolander-2.webp",
+      "show_name": "Nosotros Los Nobles",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg",
       "show_category": "Comedia",
-      "start_time": "02:05",
-      "end_time": "03:47",
-      "episode_description": "Mucho tiempo sin Z. Cuando un misterioso asesino comienza a matar a las personas más bellas del mundo, la agente de la Interpol Valentina Valencia (Penélope Cruz) aprende que la clave de esta trama mortal reside en los con los modelos retirados Derek (Ben Stiller) y Hansel (Owen Wilson). Reclutados para una misión secreta, deben regresar al mundo de la alta costura, recuperar su fama y salvar el día. Las únicas cosas que interfieren en su camino: el maestro criminal Mugatu (Will Ferrell) y su malvada protegida Alexanya (Kristen Wiig)."
+      "start_time": "00:00",
+      "end_time": "00:04",
+      "episode_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
     },
     {
-      "show_name": "Magic Mike: El último baile",
+      "show_name": "El escuadrón suicida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:47",
-      "end_time": "05:41",
+      "start_time": "00:04",
+      "end_time": "02:26",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "Magic Mike El último baile",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:41",
-      "end_time": "05:50",
+      "start_time": "02:26",
+      "end_time": "04:18",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "Feedback",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:50",
+      "start_time": "04:18",
+      "end_time": "05:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:56",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -55,112 +47,104 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:14",
+      "end_time": "06:40",
       "episode_description": ""
     },
     {
-      "show_name": "Space Oddity",
+      "show_name": "TNT Buzz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:14",
-      "end_time": "07:54",
+      "start_time": "06:40",
+      "end_time": "06:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:42",
+      "end_time": "06:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "TNT Buzz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:45",
+      "end_time": "06:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Crepúsculo la Saga: Amanecer – Parte 1",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/crepusculo_la_saga_amanecer_parte_1.jpg",
+      "show_category": "Aventura",
+      "start_time": "06:46",
+      "end_time": "08:41",
+      "episode_description": "Edward (Robert Pattinson) y Bella (Kristen Stewart) se unen en matrimonio jurándose así amor y respeto, pero nunca se imaginarían que en la luna de miel algo extraño iba ocurrir – Bella queda embarazada de Edward – peligrando su vida y creando caos entre la tribu Quileute y los Cullen."
+    },
+    {
+      "show_name": "Mission Impossible - Rogue Nation",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:41",
+      "end_time": "10:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Animales Fantásticos y Dónde Encontrarlos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/animales_fantasticos_y_donde_encontrarlos.jpg",
+      "show_category": "Aventura",
+      "start_time": "10:55",
+      "end_time": "13:08",
+      "episode_description": "En 1926, cuando Newt Scamander (Eddie Redmayne) acaba de completar una excursión global para encontrar y documentar una extraordinaria variedad de criaturas mágicas. Al llegar a Nueva York para hacer una breve parada, podría haber ido y venido sin incidentes… si no fuera por una persona sin poderes mágicos llamado Jacob (Dan Fogler), un caso mágico fuera de lugar, y el escape de algunas de las fantásticas bestias de Newt, que podría significar problemas tanto para los mundos mágicos como para los no magos."
+    },
+    {
+      "show_name": "Nosotros Los Nobles",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg",
+      "show_category": "Comedia",
+      "start_time": "13:08",
+      "end_time": "15:04",
+      "episode_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
+    },
+    {
+      "show_name": "Lo mejor de Academy Awards",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:04",
+      "end_time": "15:07",
       "episode_description": ""
     },
     {
       "show_name": "La herencia del Sr. Deeds",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:54",
-      "end_time": "09:34",
+      "start_time": "15:07",
+      "end_time": "16:49",
       "episode_description": ""
     },
     {
-      "show_name": "El señor de los anillos: La comunidad del anillo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:34",
-      "end_time": "10:34",
-      "episode_description": ""
+      "show_name": "Matrix Resurrecciones",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/matrix_resurrecciones.jpg",
+      "show_category": "Acción",
+      "start_time": "16:49",
+      "end_time": "19:37",
+      "episode_description": "Sin sinopsis."
     },
     {
-      "show_name": "Fútbol: Previa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:34",
-      "end_time": "10:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol UEFA Champions League",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:44",
-      "end_time": "12:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Entre partidos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:44",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol UEFA Champions League",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fútbol: Post",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Señor de los Anillos: Las dos Torres",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/el-señor-de-los-anillos-las-dos-torres.webp",
+      "show_name": "Animales Fantásticos: Los Crímenes de Grindelwald",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/animales_fantasticos_los_crimenes_de_grindelwald.jpg",
       "show_category": "Aventura",
-      "start_time": "15:15",
-      "end_time": "16:00",
-      "episode_description": "Frodo (Elijah Wood) y los otros miembros de la comunidad continúan en su búsqueda sagrada para destruir el Anillo – pero por caminos separados. Su destino se encuentra en las dos torres: en la Torre Orthanc en Isengard, donde el hechicero corrupto Saruman los espera y la fortaleza de Sauron en Barad-dur, en las profundas tierras oscuras de Mordor."
-    },
-    {
-      "show_name": "El Señor de los Anillos: El Retorno del Rey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/el-señor-de-los-anillos-el-retorno-del-rey.webp",
-      "show_category": "Aventura",
-      "start_time": "16:00",
-      "end_time": "19:40",
-      "episode_description": "“Un anillo que gobierna a todos, un anillo para encontrarlos, un anillo para llevarlos a todos y unirlos en la oscuridad” – J. R. R. Tolkien, El Señor de los Anillos – En la conclusión de la obra maestra de J. R. R. Tolkien, El Señor de los Anillos, mientras los ejércitos se enfrentan en una batalla final que decidirá el destino del mundo – y poderosas, fuerzas antiguas de Luz y Oscuridad compiten para determinar lo que se avecina – un miembro de la Comunidad del Anillo es revelado como el noble heredero al trono de los Reyes de los Hombres. Sin embargo, la única esperanza para triunfar sobre el mal depende de un valiente Hobbit, Frodo Baggins (Elijah Wood), quien junto a su amigo leal Sam (Sean Astin) y el miserable Gollum (Andy Serkis), se aventuran dentro del corazón oscuro de Mordor en la prácticamente imposible tarea de destruir el Anillo de Poder."
-    },
-    {
-      "show_name": "Lo mejor de Academy Awards",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:40",
-      "end_time": "19:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Atracción peligrosa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:43",
+      "start_time": "19:37",
       "end_time": "22:00",
-      "episode_description": ""
+      "episode_description": "Tras haber sido capturado el poderoso mago oscuro Gellert Grindelwald (Johnny Depp), por \"MACUSA\" (Congreso Mágico de los Estados Unidos), con la ayuda de Newt Scamander (Eddie Redmayne). Pero, cumpliendo su amenaza, Grindelwald ha escapado y se ha dedicado a reunir seguidores, la mayoría desprevenidos de su verdadera agenda: crear hechiceros de sangre pura para gobernar a todos los seres no mágicos.En un esfuerzo por frustrar los planes de Grindelwald, Albus Dubledore (Jude Law), recluta a su antiguo alumno Newt Scamander, quien accede a ayudarle, sin darse cuenta de los peligros que le aguardan. Las líneas se dibujan mientras se prueba el amor y la lealtad, incluso los verdaderos amigos y familiares, en un mundo mágico cada vez más dividido."
     },
     {
-      "show_name": "Nosotros Los Nobles",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/nosotros-los-nobles.webp",
-      "show_category": "Comedia",
+      "show_name": "El escuadrón suicida",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:04",
-      "episode_description": "Germán Noble (Gonzalo Vega) es un hombre manipulador y un poderoso empresario. Un día Germán se da cuenta que tres sus hijos Javi (Luis Gerardo Méndez), Bárbara (Karla Souza) y Charlie (Juan Pablo Gil), están tirando sus vidas por la borda, decide darles una lección que nunca olvidaran haciéndoles creer que todas sus propiedades han sido embargadas debido a un fraude y que de ahora en adelante tendrán que hacer lo que nunca han hecho antes… trabajar."
+      "end_time": "00:30",
+      "episode_description": ""
     }
   ]
 }
