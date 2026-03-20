@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,23 +20,23 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Venezuela vs. USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Final, LoanDepot Park, Miami, FL, USA",
+      "show_name": "SC Braga (Por) vs. Ferencvaros (Hun)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final - Vuelta, Estádio Municipal de Braga",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
+      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,95 +44,71 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
-      "end_time": "07:00",
+      "end_time": "06:30",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
+      "show_name": "Serie A - Preview Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-serie-a-preview-show_l_m.jpg",
+      "show_category": "Serie A - Preview Show",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. Se lucha en varios frentes: el título, la clasificación a la Champions League, la Copa UEFA y esquivar la zona de descenso."
+    },
+    {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Barcelona vs. Badalona",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Semifinal - Vuelta, Estadi Johan Cruyff",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Vive lo más emocionante de los partidos de la edición 2025-2026 de la Copa de la Reina. El público podrá disfrutar de un campeonato disputado por los 16 mejores clubes femeninos de España."
-    },
-    {
       "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "08:00",
+      "end_time": "09:00",
       "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "AEK (Gre) vs. Celje (Slo)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Octavos de final - Vuelta, OPAP Arena",
-      "start_time": "11:30",
-      "end_time": "13:40",
-      "episode_description": "Vive los partidos de la quinta edición de la UEFA Conference League, competencia que reúne a 32 equipos de Europa. Los amantes del deporte pueden disfrutar de un evento que reúne a los mejores deportistas del continente europeo."
-    },
-    {
-      "show_name": "Betis (Esp) vs. Panathinaikos (Gre)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Octavos de final - Vuelta, Estadio La Cartuja",
-      "start_time": "13:40",
-      "end_time": "16:00",
-      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "16:00",
+      "show_name": "Segunda ronda, Hard Rock Stadium, Miami, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Miami Open",
+      "start_time": "09:00",
       "end_time": "17:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Torneo masculino de tenis que se juega todos los años en Miami Gardens. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados así como a sus fanáticos en un encuentro muy esperado."
     },
     {
-      "show_name": "Primera ronda, Hard Rock Stadium, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Segunda ronda, Hard Rock Stadium, Miami, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Miami Open",
       "start_time": "17:00",
       "end_time": "20:30",
-      "episode_description": "Disfruta las emociones de este torneo que se disputa en canchas duras en el Hard Rock Stadium de Miami Gardens, Florida. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados."
+      "episode_description": "Torneo masculino de tenis que se juega todos los años en Miami Gardens. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados así como a sus fanáticos en un encuentro muy esperado."
     },
     {
-      "show_name": "ATP Tour Uncovered",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ATP Tour Uncovered",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "La actualidad del circuito profesional masculino de tenis."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -140,7 +116,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "",

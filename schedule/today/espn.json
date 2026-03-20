@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,107 +20,131 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Aryna Sabalenka (BLR) vs. Elena Rybakina (KAZ)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Final, Indian Wells Tennis Garden, Indian Wells, CA",
+      "show_name": "Venezuela vs. Estados Unidos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Final",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Vive toda la emoción de los partidos del Abierto de Paribas BNP ATP World Tour Masters 1000. Disfruta de los enfrentamientos entre los deportistas de élite que se presentan en la competición para llevarse el título."
+      "episode_description": "Disfruta las emociones de la sexta edición del Clásico Mundial de Béisbol organizada por la MLB, que se desarrollará en Estados Unidos, Japón y Puerto Rico."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "PGA Tour Highlights - THE PLAYERS Championship",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "PGA Tour Highlights - THE PLAYERS Championship",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Torneo masculino de golf perteneciente al circuito del PGA Tour que se juega todos los años con sede en Estados Unidos. El campeonato reúne a destacadas figuras del deporte en un encuentro único y muy esperado por sus más fanáticos."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "TM1000 Miami",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Tenis",
+      "show_name": "Barcelona vs. Badalona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Semifinal - Vuelta, Estadi Johan Cruyff",
       "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea."
+      "end_time": "10:00",
+      "episode_description": "Vive lo más emocionante de los partidos de la edición 2025-2026 de la Copa de la Reina. El público podrá disfrutar de un campeonato disputado por los 16 mejores clubes femeninos de España."
+    },
+    {
+      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "AEK (Gre) vs. Celje (Slo)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final - Vuelta, OPAP Arena",
+      "start_time": "11:30",
+      "end_time": "13:40",
+      "episode_description": "Vive los partidos de la quinta edición de la UEFA Conference League, competencia que reúne a 32 equipos de Europa. Los amantes del deporte pueden disfrutar de un evento que reúne a los mejores deportistas del continente europeo."
+    },
+    {
+      "show_name": "Betis (Esp) vs. Panathinaikos (Gre)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Octavos de final - Vuelta, Estadio La Cartuja",
+      "start_time": "13:40",
+      "end_time": "16:00",
+      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Primera ronda, Hard Rock Stadium, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Miami Open",
-      "start_time": "09:00",
-      "end_time": "17:00",
+      "start_time": "17:00",
+      "end_time": "20:30",
       "episode_description": "Disfruta las emociones de este torneo que se disputa en canchas duras en el Hard Rock Stadium de Miami Gardens, Florida. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "18:00",
-      "end_time": "18:50",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Tlaxcala FC vs. Atlante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 10, Estadio Tlahuicole",
-      "start_time": "18:50",
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
     },
     {
-      "show_name": "Goles de la Eredivisie",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/goles-de-la-eredivisie.webp",
-      "show_category": "Goles de la Eredivisie",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Los goles del fútbol holandés."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }
   ]
 }
