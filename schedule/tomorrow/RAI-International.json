@@ -1,6 +1,6 @@
 {
   "channel": "RAI International",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
       "show_name": "TG Rai News",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "UnoMattina News",
+      "show_name": "Parlamento settegiorni",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:15",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TG1",
+      "show_name": "TG1 + TG1 Dialogo",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -35,39 +35,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Documentario",
+      "show_name": "Unomattina in famiglia",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "TG1 L.I.S",
+      "show_name": "Buongiorno benessere",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:45",
+      "start_time": "03:30",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Storie italiane",
+      "show_name": "Punto Europa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:45",
-      "end_time": "04:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cinque minuti",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:45",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Quante storie",
+      "show_name": "Tg3",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TGR Buongiorno Italia",
+      "show_name": "Mediterráneo",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -91,47 +83,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paparazzi!",
+      "show_name": "Tg2 week-end",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:30",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "TG Rai News",
+      "show_name": "O anche no",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
+      "start_time": "07:00",
       "end_time": "07:45",
       "episode_description": ""
     },
     {
-      "show_name": "Casa Italia",
+      "show_name": "Speciale TG3 XXXI Giornata",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:45",
-      "end_time": "09:45",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Piazza Affari",
+      "show_name": "Linea Verde Illumina",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:45",
-      "end_time": "10:00",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "La vita in diretta",
+      "show_name": "Linea Verde Italia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:30",
+      "end_time": "10:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ciao Maschio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:15",
       "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "L' Eredità",
+      "show_name": "L'eredità weekend",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:45",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TG1 + Cinque minuti",
+      "show_name": "TG1",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -147,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ars-L'italia delle meraviglie",
+      "show_name": "Gli italians",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -155,50 +155,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "È Sempre Mezzogiorno",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TGR Giornate FAI di Primavera",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:15",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
       "show_name": "Cartoni animati",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "15:45",
+      "start_time": "14:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "Home Sweet Rome!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:45",
-      "end_time": "16:15",
+      "start_time": "14:30",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Il paradiso delle signore",
+      "show_name": "Ciclismo Milano -Sanremo '26",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Affari Tuoi",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:00",
+      "start_time": "15:00",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -211,42 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un posto al sole",
+      "show_name": "Canzonissima",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
-      "end_time": "19:00",
+      "end_time": "21:45",
       "episode_description": ""
     },
     {
-      "show_name": "Stasera a letto tardi",
+      "show_name": "Novara vs. Conegliano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Punti di vista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tv7",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "TG Rai News",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
+      "start_time": "21:45",
       "end_time": "00:00",
       "episode_description": ""
     }

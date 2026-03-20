@@ -1,6 +1,6 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
     {
       "show_name": "Contacto deportivo\nEn Vivo",
@@ -15,6 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "México Nuevo Siglo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -52,7 +68,7 @@
     },
     {
       "show_name": "PJ Masks: Héroes en Pijamas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/pj-masks-héroes-en-pijamas.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg",
       "show_category": "Animación",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -60,7 +76,7 @@
     },
     {
       "show_name": "PAW Patrol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/paw-patrol.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg",
       "show_category": "Animación",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -84,7 +100,7 @@
     },
     {
       "show_name": "Sonic Boom",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/sonic-boom.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg",
       "show_category": "Animación",
       "start_time": "09:00",
       "end_time": "10:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Los Jóvenes Titanes En Acción",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/los-jóvenes-titanes-en-acción.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg",
       "show_category": "Animación",
       "start_time": "13:00",
       "end_time": "14:30",
@@ -119,62 +135,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "16:00",
+      "end_time": "15:30",
       "episode_description": ""
     },
     {
       "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/bob-esponja.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png",
       "show_category": "Animación",
-      "start_time": "16:00",
-      "end_time": "17:30",
+      "start_time": "15:30",
+      "end_time": "16:00",
       "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
     },
     {
-      "show_name": "el chavo animado",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
+      "show_name": "A Dos Metros de Ti",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/a_un_metro_de_distancia.jpg",
+      "show_category": "Drama",
+      "start_time": "16:00",
       "end_time": "18:15",
-      "episode_description": ""
+      "episode_description": "Stella Grant (Haley Lu Richardson) tiene diecisiete años de edad… está atada a su computadora portátil y ama a sus mejores amigos. Pero a diferencia de la mayoría de los adolescentes, pasa la mayor parte del tiempo viviendo en un hospital como paciente de fibrosis quística. Su vida está llena de rutinas, límites y autocontrol, la cual pone a prueba cuando conoce a un paciente con su misma enfermedad llamado Will Newman (Cole Sprouse)."
     },
     {
-      "show_name": "Un Paso Adelante",
+      "show_name": "La cabaña",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:15",
-      "end_time": "20:30",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Goblin El Guardián",
+      "show_name": "La intriga",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Casados con Hijos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chicago PD",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/chicago-pd.webp",
-      "show_category": "Acción",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
-    },
-    {
-      "show_name": "Contacto deportivo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
+      "start_time": "21:00",
       "end_time": "00:00",
       "episode_description": ""
     }

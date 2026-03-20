@@ -1,109 +1,141 @@
 {
   "channel": "HBO Pop",
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "schedule": [
-    {
-      "show_name": "La sonrisa de Mona Lisa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "We're Here",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/mujer-maravilla-1984.webp",
-      "show_category": "Acción",
-      "start_time": "03:00",
-      "end_time": "05:35",
-      "episode_description": "Sinopsis no disponible."
-    },
-    {
-      "show_name": "Los Ángeles de Charlie 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:35",
-      "end_time": "07:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dos inútiles en patrulla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:25",
-      "end_time": "09:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noche de Juegos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/noche-de-juegos.webp",
-      "show_category": "Crimen",
-      "start_time": "09:15",
-      "end_time": "11:00",
-      "episode_description": "Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este \"juego\" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego."
-    },
-    {
-      "show_name": "Una Esposa de Mentira",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/una-esposa-de-mentira.webp",
-      "show_category": "Comedia",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
-    },
-    {
-      "show_name": "No me las Toquen",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/no-me-las-toquen.webp",
-      "show_category": "Comedia",
-      "start_time": "13:00",
-      "end_time": "14:45",
-      "episode_description": "Cuando tres padres descubren el pacto de sus hijas para perder su virginidad en la fiesta de graduación se lanzan en una operación encubierta de una sola noche para evitar que las adolescentes cierren el trato."
-    },
-    {
-      "show_name": "Mujer Maravilla 1984",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/mujer-maravilla-1984.webp",
-      "show_category": "Acción",
-      "start_time": "14:45",
-      "end_time": "17:20",
-      "episode_description": "Sinopsis no disponible."
-    },
-    {
-      "show_name": "Una Esposa de Mentira",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/una-esposa-de-mentira.webp",
-      "show_category": "Comedia",
-      "start_time": "17:20",
-      "end_time": "19:20",
-      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
-    },
-    {
-      "show_name": "Quiero matar a mi jefe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:20",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Quiero matar a mi jefe 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:55",
-      "episode_description": ""
-    },
     {
       "show_name": "La fiesta de las salchichas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:55",
+      "start_time": "00:00",
       "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Definitivamente, Tal Vez",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gigoló por accidente en E",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Campamento de verano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "06:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barbie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:10",
+      "end_time": "08:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Damas en Guerra",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/damas_en_guerra.png",
+      "show_category": "Comedia",
+      "start_time": "08:10",
+      "end_time": "10:20",
+      "episode_description": "A sus treintas, Annie (Kristen Wiig) no se encuentra en lo mejor de su vida pero esto cambia completamente cuando ella toma el papel de ser dama de honor de la boda de su mejor amiga Lillian (Maya Rudolph). Siempre en su mente pero determinada a triunfar, Anna lidera un súper grupo de damas de boda en un viaje salvaje rumbo al gran evento."
+    },
+    {
+      "show_name": "La Tierra Perdida",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:20",
+      "end_time": "12:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mickey 17",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mickey_17.jpg",
+      "show_category": "Aventura",
+      "start_time": "12:05",
+      "end_time": "14:25",
+      "episode_description": "\"Mickey 17\". El improbable héroe, Mickey Barnes (Robert Pattinson), se encuentra en la extraordinaria circunstancia de trabajo para un empleador que exige el máximo compromiso con el trabajo… morir para ganarse la vida."
+    },
+    {
+      "show_name": "Shrek 2",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg",
+      "show_category": "Animación",
+      "start_time": "14:25",
+      "end_time": "16:00",
+      "episode_description": "Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito."
+    },
+    {
+      "show_name": "Loco y estupido amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barbie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Agentes 355",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/agentes_355.jpg",
+      "show_category": "Acción",
+      "start_time": "21:00",
+      "end_time": "23:05",
+      "episode_description": "Cuando un arma ultrasecreta cae en manos de mercenarios, el agente de la CIA Mason \"Mace\" Brown (Jessica Chastain) deberá unir fuerzas con la agente alemana Marie (Diane Kruger), la ex aliada del MI6 y especialista en informática de vanguardia Khadijah (Lupita Nyong'o), y la hábil psicóloga colombiana Graciela (Penélope Cruz) en una misión letal y vertiginosa para recuperarla, mientras que también se mantienen un paso por delante de una mujer misteriosa, Lin Mi Sheng (Fan Bingbing), que está siguiendo todos sus movimientos.A medida la acción se dispara por todo el mundo después los cafés de París a los mercados de Marruecos y las opulentas casas de subastas de Shanghái, el cuarteto de mujeres forjará una ligera lealtad que podría proteger al mundo o hacer que las maten."
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:05",
+      "end_time": "23:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como agua para chocolate",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:40",
+      "end_time": "00:40",
       "episode_description": ""
     }
   ]

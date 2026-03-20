@@ -1,44 +1,28 @@
 {
   "channel": "TCM (México)",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
-    {
-      "show_name": "El ciudadano ilustre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:59",
-      "episode_description": ""
-    },
     {
       "show_name": "Los cazamuertos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:59",
-      "end_time": "02:28",
+      "start_time": "00:00",
+      "end_time": "00:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La furia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:28",
+      "end_time": "02:17",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:28",
-      "end_time": "02:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:38",
-      "end_time": "02:46",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:46",
+      "start_time": "02:17",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,103 +31,119 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:55",
+      "end_time": "03:37",
       "episode_description": ""
     },
     {
-      "show_name": "Treasure Trackers",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:55",
-      "end_time": "05:27",
+      "start_time": "03:37",
+      "end_time": "03:50",
       "episode_description": ""
     },
     {
-      "show_name": "Easter Parade",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:27",
-      "end_time": "07:19",
+      "start_time": "03:50",
+      "end_time": "04:01",
       "episode_description": ""
     },
     {
-      "show_name": "The Imitation Game",
+      "show_name": "Fuerte apache",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:19",
-      "end_time": "09:19",
+      "start_time": "04:01",
+      "end_time": "06:14",
       "episode_description": ""
     },
     {
-      "show_name": "Derecho de familia",
+      "show_name": "Los Caballeros del Rey Arturo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:19",
-      "end_time": "11:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fort Apache",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:08",
-      "end_time": "13:27",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Knights of the Round Table",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:27",
-      "end_time": "15:32",
+      "start_time": "06:14",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
       "show_name": "Cautivos del mal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:32",
-      "end_time": "17:39",
+      "start_time": "08:15",
+      "end_time": "10:20",
       "episode_description": ""
     },
     {
       "show_name": "Carroceros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:39",
+      "start_time": "10:20",
+      "end_time": "11:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La edición navideña",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:37",
+      "end_time": "13:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las chicas de Harvey",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:09",
+      "end_time": "14:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fuga de Pretoria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:57",
+      "end_time": "16:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Superman III",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:48",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "A Streetcar Named Desire",
+      "show_name": "Otros pecados",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "21:16",
+      "end_time": "19:53",
       "episode_description": ""
     },
     {
-      "show_name": "La fragilidad de los cuerpos",
+      "show_name": "Otros pecados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:16",
-      "end_time": "22:08",
+      "start_time": "19:53",
+      "end_time": "20:41",
       "episode_description": ""
     },
     {
-      "show_name": "La fragilidad de los cuerpos",
+      "show_name": "Top Gun",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:08",
-      "end_time": "23:06",
+      "start_time": "20:41",
+      "end_time": "22:35",
       "episode_description": ""
     },
     {
-      "show_name": "Deadtectives",
+      "show_name": "La furia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:06",
-      "end_time": "00:37",
+      "start_time": "22:35",
+      "end_time": "00:22",
       "episode_description": ""
     }
   ]
