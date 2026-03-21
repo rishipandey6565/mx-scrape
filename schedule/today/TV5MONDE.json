@@ -1,20 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:51",
+      "end_time": "00:04",
       "episode_description": ""
     },
     {
-      "show_name": "La menace",
+      "show_name": "Le 6h info",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:51",
+      "start_time": "00:04",
+      "end_time": "01:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Notre Dame de Moncton",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:26",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,30 +39,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:26",
-      "end_time": "04:33",
+      "end_time": "04:32",
       "episode_description": ""
     },
     {
-      "show_name": "Chroniques d'en haut",
+      "show_name": "Territoires de France",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:33",
+      "start_time": "04:32",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Temps présent",
+      "show_name": "Silence, ça pousse !",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:54",
+      "end_time": "05:51",
       "episode_description": ""
     },
     {
-      "show_name": "La cuisine d'Isabelle et Ricar",
+      "show_name": "Le grand jt des territoires",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:54",
+      "start_time": "05:51",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -63,62 +71,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:00",
+      "end_time": "08:11",
       "episode_description": ""
     },
     {
-      "show_name": "Telematin",
+      "show_name": "L'aventure du monde des mondes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:51",
+      "start_time": "08:11",
+      "end_time": "09:03",
       "episode_description": ""
     },
     {
-      "show_name": "Intérieurs",
+      "show_name": "Refuges de montagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:51",
-      "end_time": "08:17",
+      "start_time": "09:03",
+      "end_time": "09:51",
       "episode_description": ""
     },
     {
-      "show_name": "C'est du belge",
+      "show_name": "Documentaire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:17",
-      "end_time": "08:44",
+      "start_time": "09:51",
+      "end_time": "10:45",
       "episode_description": ""
     },
     {
-      "show_name": "Partis skier",
+      "show_name": "Parlons éco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:44",
-      "end_time": "09:11",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Outremer, gourmand",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:11",
-      "end_time": "09:39",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tout le monde veut prendre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:39",
-      "end_time": "10:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un si grand soleil",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:37",
+      "start_time": "10:45",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -131,66 +115,66 @@
       "episode_description": ""
     },
     {
-      "show_name": "Allons- y Franco",
+      "show_name": "64' Débat",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:04",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
-      "show_name": "Notre Dame de Moncton",
+      "show_name": "Speciale questions pour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:04",
-      "end_time": "13:36",
+      "start_time": "12:05",
+      "end_time": "12:38",
       "episode_description": ""
     },
     {
-      "show_name": "À Mort le bikini",
+      "show_name": "Le match dans le match",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:36",
+      "start_time": "12:38",
+      "end_time": "13:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Magazine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:02",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Le journal de la rts",
+      "show_name": "Football - Ligue 1 McDonald's",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:27",
+      "end_time": "15:05",
       "episode_description": ""
     },
     {
-      "show_name": "Slam",
+      "show_name": "Football - Ligue 1 McDonald's",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:27",
-      "end_time": "15:00",
+      "start_time": "15:05",
+      "end_time": "16:04",
       "episode_description": ""
     },
     {
-      "show_name": "TV5Monde le Journal Afrique",
+      "show_name": "La grande galerie francophone",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Objectif monde l'hebdo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Documentaire",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
+      "start_time": "16:04",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -203,43 +187,43 @@
       "episode_description": ""
     },
     {
-      "show_name": "Meurtres á amiens",
+      "show_name": "Un soir... un train",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "18:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Fake it till you make it",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:58",
       "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "L'actu news",
+      "show_name": "Le Journal de la RTBF",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "20:02",
+      "end_time": "19:56",
       "episode_description": ""
     },
     {
-      "show_name": "L'empereur",
+      "show_name": "Gims á Paris la défense arena",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:02",
-      "end_time": "21:30",
+      "start_time": "19:56",
+      "end_time": "22:07",
       "episode_description": ""
     },
     {
-      "show_name": "Laëtitia",
+      "show_name": "Des racines & des ailes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:30",
-      "end_time": "22:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "C dans l'air",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:57",
-      "end_time": "00:04",
+      "start_time": "22:07",
+      "end_time": "00:07",
       "episode_description": ""
     }
   ]

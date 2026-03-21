@@ -1,28 +1,28 @@
 {
   "channel": "TV5MONDE",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
+    {
+      "show_name": "Des racines & des ailes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:07",
+      "episode_description": ""
+    },
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:04",
+      "start_time": "00:07",
+      "end_time": "01:14",
       "episode_description": ""
     },
     {
-      "show_name": "Le 6h info",
+      "show_name": "Trentenaires",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:04",
-      "end_time": "01:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Notre Dame de Moncton",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:26",
+      "start_time": "01:14",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,19 +31,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:26",
+      "end_time": "03:22",
       "episode_description": ""
     },
     {
-      "show_name": "Telematin",
+      "show_name": "Ça va l'faire",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:26",
+      "start_time": "03:22",
       "end_time": "04:32",
       "episode_description": ""
     },
     {
-      "show_name": "Territoires de France",
+      "show_name": "Falò",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:32",
@@ -51,18 +51,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Silence, ça pousse !",
+      "show_name": "A bon entendeur",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:51",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le grand jt des territoires",
+      "show_name": "Hep taxi !",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:51",
+      "start_time": "05:30",
+      "end_time": "05:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Complément d'enquête",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:57",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -79,30 +87,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:11",
-      "end_time": "09:03",
+      "end_time": "08:36",
       "episode_description": ""
     },
     {
-      "show_name": "Refuges de montagne",
+      "show_name": "Roi keïta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:03",
-      "end_time": "09:51",
+      "start_time": "08:36",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Documentaire",
+      "show_name": "Top 14 rugby le mag",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:51",
-      "end_time": "10:45",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Parlons éco",
+      "show_name": "Vivement dimanche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rassemblance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -123,31 +139,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Speciale questions pour",
+      "show_name": "Basik/Rts",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:05",
-      "end_time": "12:38",
+      "end_time": "12:33",
       "episode_description": ""
     },
     {
-      "show_name": "Le match dans le match",
+      "show_name": "Suisse en scène",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:38",
-      "end_time": "13:02",
+      "start_time": "12:33",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Magazine",
+      "show_name": "Tendance XXI",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:02",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_name": "# Version française",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -155,26 +171,50 @@
       "episode_description": ""
     },
     {
-      "show_name": "Football - Ligue 1 McDonald's",
+      "show_name": "Le journal de la rts",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:05",
+      "end_time": "14:27",
       "episode_description": ""
     },
     {
-      "show_name": "Football - Ligue 1 McDonald's",
+      "show_name": "Speciale questions pour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:05",
-      "end_time": "16:04",
+      "start_time": "14:27",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "La grande galerie francophone",
+      "show_name": "TV5Monde le Journal Afrique",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:04",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destination francophonie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Magazine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rassemblance",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -183,22 +223,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
+      "end_time": "17:29",
       "episode_description": ""
     },
     {
-      "show_name": "Un soir... un train",
+      "show_name": "Le coruskan",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fake it till you make it",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:58",
+      "start_time": "17:29",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -207,23 +239,39 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "19:56",
+      "end_time": "19:58",
       "episode_description": ""
     },
     {
-      "show_name": "Gims á Paris la défense arena",
+      "show_name": "Ni juge, ni soumise",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:56",
-      "end_time": "22:07",
+      "start_time": "19:58",
+      "end_time": "21:38",
       "episode_description": ""
     },
     {
-      "show_name": "Des racines & des ailes",
+      "show_name": "Un Dimanche á la campagne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:07",
-      "end_time": "00:07",
+      "start_time": "21:38",
+      "end_time": "23:09",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Le 6h info",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:09",
+      "end_time": "23:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Elles",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:34",
+      "end_time": "01:08",
       "episode_description": ""
     }
   ]

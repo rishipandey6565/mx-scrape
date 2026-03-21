@@ -1,36 +1,44 @@
 {
   "channel": "Space (México)",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
-      "show_name": "300",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "La Monja 2",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_monja_2.jpg",
+      "show_category": "Terror",
       "start_time": "00:00",
-      "end_time": "00:05",
+      "end_time": "00:04",
+      "episode_description": "1956 – Francia. Un sacerdote es asesinado. Un mal se está extendiendo. La secuela del gran éxito mundial sigue a la Hermana Irene (Taissa Farmiga) cuando una vez más se encuentra cara a cara con Valak (Bonnie Aarons), la monja demonio."
+    },
+    {
+      "show_name": "La monja",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:04",
+      "end_time": "01:45",
       "episode_description": ""
     },
     {
-      "show_name": "300: El Nacimiento de un Imperio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/300-el-nacimiento-de-un-imperio.webp",
-      "show_category": "Acción",
-      "start_time": "00:05",
-      "end_time": "01:47",
-      "episode_description": "Luego de su victoria contra Leónidas, el ejército Persa bajo el comando del ahora convertido en Dios, Jerjes (Rodrigo Santoro) y Artemisia (Eva Green) – una vengativa comandante de la armada naval – planean tomar las mayores ciudades Griegas, la primera de ellas Atenas donde el almirante Temístocles (Sullivan Stapleton) y sus nuevos aliados deberán detener este supremo ataque."
+      "show_name": "Un Lugar en Silencio",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_lugar_en_silencio.jpg",
+      "show_category": "Drama",
+      "start_time": "01:45",
+      "end_time": "03:15",
+      "episode_description": "Aquellos que han sobrevivido viven de acuerdo con una regla: nunca hagas ruido. Si no pueden oírte, no pueden cazarte."
     },
     {
-      "show_name": "Attraction La guerra ha",
+      "show_name": "El llanto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:47",
-      "end_time": "03:50",
+      "start_time": "03:15",
+      "end_time": "05:09",
       "episode_description": ""
     },
     {
-      "show_name": "Invasión",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:50",
+      "start_time": "05:09",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -39,72 +47,88 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:50",
+      "end_time": "07:03",
       "episode_description": ""
     },
     {
-      "show_name": "A ciegas",
+      "show_name": "Legado de mentiras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:50",
-      "end_time": "08:26",
+      "start_time": "07:03",
+      "end_time": "08:48",
       "episode_description": ""
     },
     {
-      "show_name": "Twist",
+      "show_name": "Plan de escape: El rescate",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:26",
-      "end_time": "10:01",
+      "start_time": "08:48",
+      "end_time": "10:27",
       "episode_description": ""
     },
     {
-      "show_name": "Batman regresa",
+      "show_name": "Terminator Génesis",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_genesis.jpg",
+      "show_category": "Acción",
+      "start_time": "10:27",
+      "end_time": "12:40",
+      "episode_description": "Cuando John Connor (Jason Clarke), envía a Kyle Reese (Jai Courtney) al año de 1984 para proteger a su madre, Sarah Connor (Emilia Clarke) y proteger el futuro de las máquinas, un giro inesperado en la sucesión de eventos generada en la línea del tiempo hace que ahora el pasado de 1984 no sea como el año que fue. Ahora Reese debe trabajar con nuevos aliados desconocidos, incluyendo a un Terminator T-800, el Guardián (Arnold Schwwarzenegger), entre otros enemigos para prevenir que el futuro sea dominado por las máquinas y destruyan la humanidad por completo."
+    },
+    {
+      "show_name": "Sniper Legacy",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:01",
-      "end_time": "12:15",
+      "start_time": "12:40",
+      "end_time": "14:26",
       "episode_description": ""
     },
     {
-      "show_name": "Batman inicia",
+      "show_name": "S.W.A.T: Unidad especial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:15",
-      "end_time": "14:44",
+      "start_time": "14:26",
+      "end_time": "16:31",
       "episode_description": ""
     },
     {
-      "show_name": "Robin Hood",
+      "show_name": "Operación peligrosa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:44",
-      "end_time": "16:44",
+      "start_time": "16:31",
+      "end_time": "18:13",
       "episode_description": ""
     },
     {
-      "show_name": "Difícil de matar",
+      "show_name": "La colonia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:44",
-      "end_time": "20:02",
+      "start_time": "18:13",
+      "end_time": "19:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Demoledor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:54",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
       "show_name": "¿Y dónde están las rubias?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:02",
-      "end_time": "22:00",
+      "start_time": "22:00",
+      "end_time": "23:56",
       "episode_description": ""
     },
     {
-      "show_name": "La Monja 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Space-M-xico/today/la-monja-2.webp",
-      "show_category": "Terror",
-      "start_time": "22:00",
-      "end_time": "00:04",
-      "episode_description": "1956 – Francia. Un sacerdote es asesinado. Un mal se está extendiendo. La secuela del gran éxito mundial sigue a la Hermana Irene (Taissa Farmiga) cuando una vez más se encuentra cara a cara con Valak (Bonnie Aarons), la monja demonio."
+      "show_name": "Sniper Legacy",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:56",
+      "end_time": "01:41",
+      "episode_description": ""
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "channel": "Sky Sports 16",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
-      "show_name": "Villarreal vs. Real Sociedad",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Sevilla Vs. Valencia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/sevilla_vs_valencia.png",
+      "show_category": "Deporte",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Ramón Sánchez-Pizjuán ubicado en la ciudad de Sevilla, España. Se enfrentan los equipos Sevilla Fútbol Club versus el Valencia Club de Fútbol."
     },
     {
-      "show_name": "RCD Mallorca vs. Espanyol",
+      "show_name": "Villarreal vs. Real Sociedad",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Rayo Vallecano vs. Levante",
+      "show_name": "Elche vs. RCD Mallorca",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Villarreal vs. Real Sociedad",
+      "show_name": "CA Osasuna vs. Girona FC",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:45",
@@ -51,12 +51,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Elche vs. RCD Mallorca\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Barcelona vs. Rayo Vallecano",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_rayo_vallecano.png",
+      "show_category": "Deporte",
       "start_time": "08:00",
       "end_time": "10:00",
-      "episode_description": ""
+      "episode_description": "Desde el estadio Camp Nou se enfrentan los equipos Fútbol Club Barcelona versus el Rayo Vallecano de Madrid."
     },
     {
       "show_name": "Previo",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Espanyol vs. Getafe\nEn Vivo",
+      "show_name": "Celta de Vigo vs. Dep. Alavés",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "CA Osasuna vs. Girona FC\nEn Vivo",
+      "show_name": "Athletic Club de Bilbao vs. Rea",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -99,23 +99,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sevilla Vs. Valencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/sevilla-vs-valencia.webp",
-      "show_category": "Deporte",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": "Desde el estadio Ramón Sánchez-Pizjuán ubicado en la ciudad de Sevilla, España. Se enfrentan los equipos Sevilla Fútbol Club versus el Valencia Club de Fútbol."
-    },
-    {
-      "show_name": "Elche vs. RCD Mallorca",
+      "show_name": "Real Madrid vs. Atlético de Madridad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "19:00",
+      "start_time": "15:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Espanyol vs. Getafe",
+      "show_name": "Barcelona vs. Rayo Vallecano",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_rayo_vallecano.png",
+      "show_category": "Deporte",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "episode_description": "Desde el estadio Camp Nou se enfrentan los equipos Fútbol Club Barcelona versus el Rayo Vallecano de Madrid."
+    },
+    {
+      "show_name": "Athletic Club de Bilbao vs. Rea",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -123,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "CA Osasuna vs. Girona FC",
+      "show_name": "Real Madrid vs. Atlético de Madridad",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -131,12 +131,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sevilla Vs. Valencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Sky-Sports-16/tomorrow/sevilla-vs-valencia.webp",
-      "show_category": "Deporte",
+      "show_name": "RC Celta de Vigo vs. Deportivo",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "23:00",
       "end_time": "01:00",
-      "episode_description": "Desde el estadio Ramón Sánchez-Pizjuán ubicado en la ciudad de Sevilla, España. Se enfrentan los equipos Sevilla Fútbol Club versus el Valencia Club de Fútbol."
+      "episode_description": ""
     }
   ]
 }

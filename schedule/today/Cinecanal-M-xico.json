@@ -1,94 +1,102 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
-      "show_name": "Corazón Valiente",
+      "show_name": "La Batalla de los Sexos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_batalla_de_los_sexos.jpg",
+      "show_category": "Biografía",
+      "start_time": "00:00",
+      "end_time": "00:25",
+      "episode_description": "El electrizante partido de tenis de 1973 entre la número uno del mundo Billie Jean King (Emma Stone) y el ex campeón y estafador en serie Bobby Riggs (Steve Carell) fue considerado como LA BATALLA DE LOS SEXOS y se convirtió en el evento deportivo televisado más visto de todos los tiempos."
+    },
+    {
+      "show_name": "Recreo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "03:06",
+      "start_time": "00:25",
+      "end_time": "02:06",
       "episode_description": ""
     },
     {
-      "show_name": "Martha Marcy May Marlene",
+      "show_name": "Un niñero sinvergüenza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:06",
-      "end_time": "04:45",
+      "start_time": "02:06",
+      "end_time": "03:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Perdiendo el este",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:24",
+      "end_time": "05:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Miamor perdido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:01",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
       "show_name": "Tolkien",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/today/tolkien.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/tolkien.jpg",
       "show_category": "Biografía",
-      "start_time": "04:45",
-      "end_time": "07:00",
-      "episode_description": "Tolkien explora los años de formación del autor huérfano mientras encuentra amistad, amor e inspiración artística entre un grupo de compañeros marginados en la escuela. Esto lo lleva al estallido de la Primera Guerra Mundial, que amenaza con destrozar la \"comunidad\". Todas estas experiencias inspirarían a Tolkien (Nicholas Hoult) a escribir sus famosas novelas de la Tierra Media."
-    },
-    {
-      "show_name": "¿Qué te juegas?",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "07:00",
-      "end_time": "09:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Loco por Mary",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/today/loco-por-mary.webp",
-      "show_category": "Comedia",
-      "start_time": "09:35",
-      "end_time": "11:59",
-      "episode_description": "There's Something About Mary. Ted (Ben Stiller) era un nerd en el colegio, quien a pesar de esto logró que una de las chicas más populares de la escuela, Mary (Cameron Díaz) saliera con él para la fiesta de graduación."
-    },
-    {
-      "show_name": "Sí, quiero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:59",
-      "end_time": "13:48",
-      "episode_description": ""
+      "end_time": "10:13",
+      "episode_description": "Tolkien explora los años de formación del autor huérfano mientras encuentra amistad, amor e inspiración artística entre un grupo de compañeros marginados en la escuela. Esto lo lleva al estallido de la Primera Guerra Mundial, que amenaza con destrozar la \"comunidad\". Todas estas experiencias inspirarían a Tolkien (Nicholas Hoult) a escribir sus famosas novelas de la Tierra Media."
     },
     {
       "show_name": "La Increíble Vida de Walter Mitty",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:48",
-      "end_time": "16:00",
+      "start_time": "10:13",
+      "end_time": "12:09",
       "episode_description": ""
     },
     {
-      "show_name": "Sweetheart",
+      "show_name": "Irene, Yo Y Mi Otro Yo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "17:43",
+      "start_time": "12:09",
+      "end_time": "14:26",
       "episode_description": ""
     },
     {
-      "show_name": "Recién Casados",
+      "show_name": "La vida secreta de Mascotas 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:43",
-      "end_time": "19:39",
+      "start_time": "14:26",
+      "end_time": "16:10",
       "episode_description": ""
     },
     {
-      "show_name": "Moulin Rouge! Amor en Rojo",
+      "show_name": "Pearl Harbor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:39",
+      "start_time": "16:10",
+      "end_time": "19:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Máxima Velocidad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:40",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Batalla de los Sexos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinecanal-M-xico/today/la-batalla-de-los-sexos.webp",
-      "show_category": "Biografía",
+      "show_name": "El Diablo Viste a la Moda",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_diablo_viste_a_la_moda.jpg",
+      "show_category": "Comedia",
       "start_time": "22:00",
-      "end_time": "00:25",
-      "episode_description": "El electrizante partido de tenis de 1973 entre la número uno del mundo Billie Jean King (Emma Stone) y el ex campeón y estafador en serie Bobby Riggs (Steve Carell) fue considerado como LA BATALLA DE LOS SEXOS y se convirtió en el evento deportivo televisado más visto de todos los tiempos."
+      "end_time": "00:09",
+      "episode_description": "Andy Achs (Anne Hathaway) es la asistente de una exigente editora de una revista de moda de Nueva York, Miranda Priestly (Meryl Streep), la joven Andy ha conseguido un trabajo que – un millón de chicas morirían para tenerlo – ¡Por desgracia, su empleo caído del cielo como la asistente personal de Miranda podría ser su muerte!"
     }
   ]
 }

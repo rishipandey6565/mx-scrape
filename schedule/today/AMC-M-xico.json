@@ -1,41 +1,41 @@
 {
   "channel": "AMC (México)",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
-      "show_name": "Rocky IV",
+      "show_name": "Medianoche en Switchgrass",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:25",
+      "end_time": "01:35",
       "episode_description": ""
     },
     {
-      "show_name": "Los indestructibles 2",
+      "show_name": "El Vengador Del Futuro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:25",
-      "end_time": "03:15",
+      "start_time": "01:35",
+      "end_time": "03:35",
       "episode_description": ""
     },
     {
-      "show_name": "Soldado Universal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "05:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/tales-of-the-walking-dead.webp",
+      "show_name": "El Intruso",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg",
       "show_category": "Drama",
-      "start_time": "05:05",
-      "end_time": "05:55",
-      "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
+      "start_time": "03:35",
+      "end_time": "05:20",
+      "episode_description": "Cuando una joven pareja casada, Scott (Michael Ealy) y Annie Howard (Meagan Good), compran la casa de sus sueños en el Valle de Napa, creen que han encontrado el hogar perfecto para dar los próximos pasos como familia. Pero cuando el vendedor, Charlie Peck (Dennis Quaid), extrañamente vinculado continúa infiltrándose en sus vidas, comienzan a sospechar que tiene motivos ocultos más allá de una venta rápida."
     },
     {
       "show_name": "Planet Action",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:20",
+      "end_time": "05:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:55",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -99,99 +99,59 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Dos locas en fuga",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:25",
-      "end_time": "11:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:50",
-      "end_time": "12:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Son como niños 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:20",
-      "end_time": "14:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Erin Brockovich Mujer Audaz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:15",
-      "end_time": "16:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Elysium",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:40",
-      "end_time": "18:40",
+      "end_time": "11:35",
       "episode_description": ""
     },
     {
       "show_name": "Legalmente Rubia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:40",
-      "end_time": "20:25",
+      "start_time": "11:35",
+      "end_time": "13:20",
       "episode_description": ""
     },
     {
-      "show_name": "Dos locas en fuga",
+      "show_name": "Capitán Phillips",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:25",
-      "end_time": "22:00",
+      "start_time": "13:20",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "Secuestro en Venice",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/secuestro-en-venice.webp",
+      "show_name": "Red",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
+      "end_time": "17:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Creed",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:45",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zombieland: Tiro de Gracia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/tierra_de_zombies_2.jpg",
       "show_category": "Acción",
-      "start_time": "22:00",
-      "end_time": "23:50",
-      "episode_description": "Steve Ford (Bruce Willis), es un detective de las playas de Venice: bueno con las damas, malo con los golpes, y salvaje por su perro, Buddy. Pero cuando su amada mascota es robada por matones locales, Steve hace una alianza dudosa con su líder retorcido Spyder (Jason Momoa). Uniendose con a su mejor amigo Dave (John Goodman), Steve saca las armas pesadas en busca de la cocaína robada de Spyder y el dinero para arreglar las cosas y volver a Buddy donde pertenece."
+      "start_time": "20:10",
+      "end_time": "22:00",
+      "episode_description": "A través del caos cómico que se extiende desde la Casa Blanca hasta el campo, estos cuatro asesinos deben enfrentarse a los muchos nuevos tipos de zombies que han evolucionado. Así como algunos nuevos supervivientes humanos. Pero sobre todo tienen que enfrentar los crecientes dolores de su propia familia improvisada y sarcástica."
     },
     {
-      "show_name": "Medianoche en Switchgrass",
+      "show_name": "Misión Imposible 4",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:50",
-      "end_time": "01:35",
+      "start_time": "22:00",
+      "end_time": "00:25",
       "episode_description": ""
     }
   ]
