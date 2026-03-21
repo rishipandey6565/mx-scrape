@@ -1,118 +1,110 @@
 {
   "channel": "De Película",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
-      "show_name": "Lo veo y no lo creo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Comedia / 1977 /5.8",
-      "start_time": "00:53",
-      "end_time": "02:40",
-      "episode_description": "Un ciego trabaja para otro ciego, pero lo que no sabe es que él tampoco puede ver, por lo que le pide cosas que solo la gente que puede ver tiene la capacidad de hacer."
-    },
-    {
-      "show_name": "Doña Macabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/doña-macabra.webp",
-      "show_category": "Comedia / 1971",
-      "start_time": "02:40",
-      "end_time": "04:23",
-      "episode_description": "En una vieja casona, Armida, Octavio y Demetria realizan ritos que les dan fama de brujas. Othón, seguro de que hay un tesoro escondido en el lugar, hace que su esposa Lucila sea acogida por Armida en su casa."
-    },
-    {
-      "show_name": "Uno y medio contra el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/uno-y-medio-contra-el-mundo.webp",
-      "show_category": "Comedia / 1971",
-      "start_time": "04:23",
-      "end_time": "06:00",
-      "episode_description": "Un hombre analfabeto y pobre viaja al Distrito Federal, donde conoce a un pequeño huérfano con quien se identifica y forma la pareja ideal para enfrentar el duro mundo exterior."
-    },
-    {
-      "show_name": "El ladrón fenómeno",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/el-ladrón-fenómeno.webp",
-      "show_category": "Comedia / 1980",
-      "start_time": "06:00",
-      "end_time": "07:42",
-      "episode_description": "Una banda musical roba una caja fuerte de un centro nocturno y la policía los busca, pero nadie sospecha nada de ellos pues hacen todo por pasar desapercibidos. Nadie imaginaría que estos artistas son unos ladrones."
-    },
-    {
-      "show_name": "Los desalmados",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/los-desalmados.webp",
-      "show_category": "Aventura / 1971 /4.6",
-      "start_time": "07:42",
-      "end_time": "09:10",
-      "episode_description": "Darky y Lee son dos cazadores de recompensas que desean vengar la muerte de sus padres, asesinados por unos facinerosos. Al llegar a un pueblo, la hija del sheriff pedirá su ayuda para rescatar a su padre, secuestrado por unos matones"
-    },
-    {
-      "show_name": "Puerta joven",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/puerta-joven.webp",
-      "show_category": "Comedia / 1949",
-      "start_time": "09:10",
-      "end_time": "11:17",
-      "episode_description": "Cantinflas trabaja como portero y además escribe cartas para ganar dinero extra. Sin embargo, los problemas sentimentales surgen cuando se enamora de su bella vecina quien ya tiene un pretendiente."
-    },
-    {
-      "show_name": "Nosotras las sirvientas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/nosotras-las-sirvientas.webp",
-      "show_category": "Comedia / 1951 /5.8",
-      "start_time": "11:17",
-      "end_time": "12:49",
-      "episode_description": "Una inocente y pobre campesina llega a la Ciudad de México, donde encontrará trabajo como empleada doméstica de un hombre rico. Los problemas empezarán cuando conozca a la novia de éste."
-    },
-    {
-      "show_name": "El tesoro de Clotilde",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/el-tesoro-de-clotilde.webp",
-      "show_category": "Comedia / 1994 /4.3",
-      "start_time": "12:49",
-      "end_time": "14:31",
-      "episode_description": "Después de la muerte de una anciana, su familia e incluso la enfermera que la cuidó emprenden la divertida búsqueda de un tesoro."
-    },
-    {
-      "show_name": "Don Juan 67",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/don-juan-67.webp",
-      "show_category": "Comedia / 1967 /7.3",
-      "start_time": "14:31",
-      "end_time": "16:02",
-      "episode_description": "Mauricio solo vive para seducir a mujeres de toda clase y condición. Con la complicidad de su mayordomo, el hombre consigue ganarse el corazón de muchas, para luego abandonarlas debido a su auténtico pánico al matrimonio."
-    },
-    {
-      "show_name": "Pistoleros famosos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Acción / 1981 /7.3",
-      "start_time": "16:02",
-      "end_time": "17:52",
-      "episode_description": "Un pistolero quiere vengarse de la muerte de su hermano y se une a una banda de contrabandistas, pero la tensión crece cuando decide seducir a la mujer de su enemigo."
-    },
-    {
-      "show_name": "Yo no me caso compadre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/yo-no-me-caso-compadre.webp",
-      "show_category": "Comedia / 1960 /5.0",
-      "start_time": "17:52",
-      "end_time": "19:33",
-      "episode_description": "Claudia y Mauro deben casarse aún sin conocerse y contra su voluntad porque así lo decidieron sus padres, Sidonio y Sirenio, cuando nacieron. Sin embargo, el día de la boda numerosos enredos se suscitarán."
+      "show_name": "El desconocido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 1974 /7.4",
+      "start_time": "00:28",
+      "end_time": "02:17",
+      "episode_description": "Recién deportado de Estados Unidos, Adalberto es un vagabundo que es testigo de un homicidio. Luego, llega a un pueblo donde acaba casándose con Carmen, la hija del difunto."
     },
     {
       "show_name": "Teresa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/teresa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_teresa-1961_l_m.jpg",
       "show_category": "Drama / 1961 /7.1",
-      "start_time": "19:33",
-      "end_time": "21:26",
+      "start_time": "02:17",
+      "end_time": "04:10",
       "episode_description": "Teresa es una joven humilde que vive en una vecindad junto a sus padres, quienes trabajan arduamente para poder pagar los estudios de su hija. La chica sueña con tener la gran vida llena de comodidades, avergonzándose de sus progenitores."
     },
     {
-      "show_name": "El trailer asesino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/el-trailer-asesino.webp",
-      "show_category": "Terror / 1986 /4.4",
-      "start_time": "21:26",
-      "end_time": "22:54",
-      "episode_description": "En una carretera aparecen cadáveres de gente atropellada. Una pareja que viaja en motocicleta es sacada de la carretera por un camión amarillo. La policía sospecha de Fernando debido a que sufre dolores de cabeza."
+      "show_name": "El chanfle 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chanfle-2-1981_l_m.jpg",
+      "show_category": "El chanfle II",
+      "start_time": "04:10",
+      "end_time": "06:00",
+      "episode_description": "Después de diez años de casado, el utilero de un equipo de fútbol ve frustrado el sueño de tener un hijo. Pero la vida le tiene preparada una recompensa."
     },
     {
-      "show_name": "Ángela Morante ¿Crimen o suicidio?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-pelicula/today/ángela-morante-crimen-o-suicidio.webp",
-      "show_category": "Drama / 1978",
-      "start_time": "22:54",
-      "end_time": "00:28",
-      "episode_description": "Un periodista investiga la muerte de la estrella de cine Ángela Morante, haciendo caso omiso al dictamen de suicidio accidental. Reconstruye la vida de la actriz con testimonios de quienes la conocieron."
+      "show_name": "Enamorada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_enamorada-1946_l_m.jpg",
+      "show_category": "Comedia / 1946 /7.6",
+      "start_time": "06:00",
+      "end_time": "07:49",
+      "episode_description": "En tiempos de la Revolución mientras los revolucionarios confiscan los bienes de los ricos del pueblo, el general Reyes se enamora de la bella e indomable Beatriz Peñafiel, hija del hombre más notable de Cholula."
+    },
+    {
+      "show_name": "La sotana del reo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-sotana-del-reo-1979_l_m.jpg",
+      "show_category": "Comedia / 1979",
+      "start_time": "07:49",
+      "end_time": "09:32",
+      "episode_description": "Unos bandidos atacan el rancho de Camacho y asesinan al capataz, que se niega a entregar la propiedad. Durante el asalto muere uno de los criminales. Manuel Camacho sale disfrazado de cura y se refugia en Santa Rita."
+    },
+    {
+      "show_name": "El fantasma de la opereta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-fantasma-de-la-opereta-1959_l_m.jpg",
+      "show_category": "Comedia / 1959",
+      "start_time": "09:32",
+      "end_time": "11:03",
+      "episode_description": "Tras una batalla campal entre el público de un cabaret, Aldo y Lucy son despedidos del lugar. Ahora, Aldo, que está enamorado de la muchacha, la convencerá de que haga una temporada en un teatro abandonado, en el que se refugia un fantasma."
+    },
+    {
+      "show_name": "Sabor a mí",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sabor-a-mi-1988_l_m.jpg",
+      "show_category": "Drama / 1988 /6.2",
+      "start_time": "11:03",
+      "end_time": "13:01",
+      "episode_description": "La vida del compositor oaxaqueño Álvaro Carrillo comienza a relatarse desde sus épocas escolares, vida sentimental, romances, hasta su exitoso arribo al mundo artístico, el cual es afectado por su problema de alcoholismo."
+    },
+    {
+      "show_name": "El superpolicía ochoochenta '880'",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-superpolicia-ochoochenta-880-1982_l_m.jpg",
+      "show_category": "Comedia / 1982",
+      "start_time": "13:01",
+      "end_time": "14:36",
+      "episode_description": "Un grupo de extraterrestres descubren que cuatro peligrosos ladrones roban una fórmula para hacerse invisibles y así poder cometer sus asaltos sin ningún riesgo."
+    },
+    {
+      "show_name": "Ando volando bajo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ando-volando-bajo-1959_l_m.jpg",
+      "show_category": "Comedia / 1959 /6.7",
+      "start_time": "14:36",
+      "end_time": "16:30",
+      "episode_description": "El Capitán Leal tiene fama de ser el mejor piloto de su compañía aérea, pero su gusto por la vida loca y las mujeres le está causando enormes problemas, más aún cuando le toca ser instructor de un piloto galán que acaba de llegar."
+    },
+    {
+      "show_name": "Cantinflas su excelencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 1967",
+      "start_time": "16:30",
+      "end_time": "19:01",
+      "episode_description": "La singular embajada de la República de Los Cocos en Pepeslavia cuenta con el canciller López, quien debido a una serie de sucesivos golpes de Estado asciende a embajador."
+    },
+    {
+      "show_name": "El revoltoso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-revoltoso-1951_l_m.jpg",
+      "show_category": "Comedia / 1951 /7.4",
+      "start_time": "19:01",
+      "end_time": "20:42",
+      "episode_description": "Un entrometido limpiacalzado provoca que un hombre rico y un cerrajero sean encarcelados y por sus mismos enredos, él también termina en prisión por hacer trampa en un salón de juego al que asistió invitado por Aída."
+    },
+    {
+      "show_name": "Campeón sin corona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_campeon-sin-corona-1946_l_m.jpg",
+      "show_category": "Drama / 1946 /7.3",
+      "start_time": "20:42",
+      "end_time": "22:46",
+      "episode_description": "Roberto \"Kid Terranova\" es un joven boxeador. Sus primeros triunfos lo convierten en el boxeador del momento. Su suerte cambia cuando enfrenta a Joe Ronda, que despierta en Roberto un profundo complejo de inferioridad."
+    },
+    {
+      "show_name": "Fútbol de alcoba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-de-alcoba-1988_l_m.jpg",
+      "show_category": "Comedia / 1988 /3.8",
+      "start_time": "22:46",
+      "end_time": "00:18",
+      "episode_description": "Un equipo femenino de fútbol va a competir a la capital. La esposa del patrocinador se las ingenia para pasar la noche con el entrenador, mientras que el equipo entero organiza una orgía."
     }
   ]
 }

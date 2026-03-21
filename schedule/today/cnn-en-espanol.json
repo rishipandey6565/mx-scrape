@@ -1,10 +1,10 @@
 {
   "channel": "CNN en Español",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
       "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/conclusiones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "03:00",
       "end_time": "04:00",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "04:00",
       "end_time": "05:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -52,63 +52,79 @@
     },
     {
       "show_name": "Café CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/café-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "06:00",
-      "end_time": "07:00",
+      "end_time": "06:30",
       "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
     },
     {
+      "show_name": "Globo economía",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_globo-economia-s00e541-la-ultima-carta-del-oraculo-de-omaha_l_m.jpg",
+      "show_category": "Episodio 541 - La última carta del \"oráculo de Omaha\"",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "José Antonio Montenegro repasa la última carta de Warren Buffett a sus inversores en Berkshire Hathaway con la ayuda de su invitado, José Gonzáles, socio director de GCG Advisors."
+    },
+    {
       "show_name": "Café CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/café-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
       "show_category": "Magazine",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
     },
     {
-      "show_name": "Oppenheimer presenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/oppenheimer-presenta.webp",
-      "show_category": "Episodio 647 - ¿Cuánto durará la guerra con Irán?",
+      "show_name": "La historia completa con Anderson Cooper",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 69 - Defensores de la justicia: cambio en las prisiones",
       "start_time": "08:00",
       "end_time": "09:00",
+      "episode_description": "Anderson Cooper viaja a Kenia para informar sobre el trabajo de Defensores de la Justicia, una organización sin fines de lucro que busca ayudar a las personas encarceladas en las superpobladas cárceles de África a reintegrarse a la..."
+    },
+    {
+      "show_name": "El mundo maravilloso de Quest",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mundo-maravilloso-de-quest_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Richard Quest irá explorando nuestro increíble planeta de a una ciudad a la vez para cavar profundamente en el ADN de cada lugar. El objetivo de este espacio es encontrar la esencia de cada destino."
+    },
+    {
+      "show_name": "Mercado México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mercado-mexico_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Segmento que aborda los temas y tendencias más importantes de México, una de las economías más influyentes de la región latinoamericana. Ofrece entrevistas exclusivas de importantes líderes empresariales, políticos y emprendedores."
+    },
+    {
+      "show_name": "Oppenheimer presenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_oppenheimer-presenta-s00e647-cuanto-durara-la-guerra-con-iran_l_m.jpg",
+      "show_category": "Episodio 647 - ¿Cuánto durará la guerra con Irán?",
+      "start_time": "10:00",
+      "end_time": "11:00",
       "episode_description": "Entrevista al profesor Abbas Milani, de la Universidad de Stanford, y a Gissou Nia, abogada experta en derechos humanos del Atlantic Council, sobre el impacto de la guerra con Irán y cuáles serían las consecuencias en todo el mundo si..."
     },
     {
-      "show_name": "Mercado sur",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/mercado-sur.webp",
-      "show_category": "Economía",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Un programa que cubre las tendencias macroeconómicas que impactan en la región y explora las industrias y corporaciones."
-    },
-    {
       "show_name": "Globo economía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/globo-economía.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_globo-economia-s00e541-la-ultima-carta-del-oraculo-de-omaha_l_m.jpg",
       "show_category": "Episodio 541 - La última carta del \"oráculo de Omaha\"",
-      "start_time": "09:30",
-      "end_time": "10:00",
+      "start_time": "11:00",
+      "end_time": "11:30",
       "episode_description": "José Antonio Montenegro repasa la última carta de Warren Buffett a sus inversores en Berkshire Hathaway con la ayuda de su invitado, José Gonzáles, socio director de GCG Advisors."
     },
     {
-      "show_name": "Choque de opiniones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/choque-de-opiniones.webp",
-      "show_category": "Episodio 656",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Analizamos la guerra con Irán, el aumento de los precios del petróleo y cómo está afectando a la economía de Estados Unidos."
-    },
-    {
-      "show_name": "Redacción con Nacho Girón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/redacción-con-nacho-girón.webp",
-      "show_category": "Noticiero",
-      "start_time": "11:00",
+      "show_name": "El mundo maravilloso de Quest",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mundo-maravilloso-de-quest_l_m.jpg",
+      "show_category": "Documental",
+      "start_time": "11:30",
       "end_time": "12:00",
-      "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
+      "episode_description": "Richard Quest irá explorando nuestro increíble planeta de a una ciudad a la vez para cavar profundamente en el ADN de cada lugar. El objetivo de este espacio es encontrar la esencia de cada destino."
     },
     {
       "show_name": "Redacción con Nacho Girón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/redacción-con-nacho-girón.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "12:00",
       "end_time": "13:00",
@@ -116,7 +132,7 @@
     },
     {
       "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/conclusiones.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "13:00",
       "end_time": "14:00",
@@ -124,23 +140,31 @@
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
       "start_time": "14:00",
       "end_time": "15:00",
       "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
     },
     {
-      "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/directo-usa.webp",
-      "show_category": "Noticiero",
+      "show_name": "Globo economía",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_globo-economia-s00e541-la-ultima-carta-del-oraculo-de-omaha_l_m.jpg",
+      "show_category": "Episodio 541 - La última carta del \"oráculo de Omaha\"",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "José Antonio Montenegro repasa la última carta de Warren Buffett a sus inversores en Berkshire Hathaway con la ayuda de su invitado, José Gonzáles, socio director de GCG Advisors."
+    },
+    {
+      "show_name": "Directo USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -148,7 +172,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -156,31 +180,39 @@
     },
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     },
     {
-      "show_name": "Conclusiones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/conclusiones.webp",
-      "show_category": "Periodístico",
+      "show_name": "Foro de CNN: Guerra con Irán",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Político",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
+      "episode_description": "Mientras la guerra con Irán se adentra en su tercera semana, el embajador de Estados Unidos en la ONU, Mike Waltz, y un panel de expertos responden a las preguntas de una audiencia en vivo desde el estudio. Modera Dana Bash."
+    },
+    {
+      "show_name": "Panorama mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     },
     {
       "show_name": "Deportes CNN",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/deportes-cnn.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
-      "start_time": "20:00",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
     },
     {
       "show_name": "Perspectivas de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -188,7 +220,7 @@
     },
     {
       "show_name": "Directo USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/directo-usa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -196,7 +228,7 @@
     },
     {
       "show_name": "Panorama mundial",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/cnn-en-espanol/today/panorama-mundial.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "23:00",
       "end_time": "00:00",

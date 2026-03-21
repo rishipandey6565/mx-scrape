@@ -1,50 +1,50 @@
 {
   "channel": "Canal 22",
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "schedule": [
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:30",
       "end_time": "01:30",
       "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
     },
     {
-      "show_name": "Taller de las audiencias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Latinoamericanas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Marchas y luchas feministas en América Latin",
       "start_time": "01:30",
       "end_time": "02:30",
-      "episode_description": "Espacio donde espectadores de Canal 22 califican los programas originales."
+      "episode_description": "Con una perspectiva progresista y de género, este programa busca analizar y debatir los acontecimientos políticos más relevantes en México y la Ciudad de México, situándolos en el contexto de la coyuntura latinoamericana."
     },
     {
-      "show_name": "Contra el silencio, todas las voces",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/contra-el-silencio-todas-las-voces.webp",
-      "show_category": "- Mamá King Kong",
+      "show_name": "Nocturno a Rosario",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Drama / 1992 /6.8",
       "start_time": "02:30",
-      "end_time": "04:00",
-      "episode_description": "Una madre busca un equilibrio entre la crianza de su hija y su vida personal en un viaje con amigas."
-    },
-    {
-      "show_name": "Memoria viva de ciertos días",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/memoria-viva-de-ciertos-días.webp",
-      "show_category": "- El último tranvía de la Ciudad de México",
-      "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "El tranvía fue una realidad en la San José de inicios del siglo XX. Su operación, por más de 50 años, concluyó por problemas administrativos y logísticos."
+      "episode_description": "Película inspirada en la vida del escritor y poeta Manuel Acuña, quien se distinguió en la corriente romántica durante el siglo XIX. Además, muestra como este decidió quitarse la vida a causa del rechazo amoroso de Rosario de la Peña."
     },
     {
       "show_name": "Voces violetas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "04:30",
-      "end_time": "06:00",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:30",
       "end_time": "07:30",
@@ -60,7 +60,7 @@
     },
     {
       "show_name": "La conferencia del pueblo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "07:30",
       "end_time": "09:30",
@@ -68,55 +68,55 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "09:30",
       "end_time": "10:30",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Marquesina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Magazine",
+      "show_name": "La raíz doble",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-raiz-doble-la-milpa-mujer-de-tierra-agua-y-cana-rufina-villa-hernandez-nahuatl-de-cuetzalan-puebla_l_m.jpg",
+      "show_category": "- La milpa mujer de tierra, agua y cana - Rufina Villa Hernández. Náhuatl de Cuetzalan Puebla",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Conducido por el periodista Julio López, es un espacio dedicado al mundo de la cinematografía en que se presentan entrevistas, críticas y noticias relacionadas con el séptimo arte."
+      "episode_description": "Se recorren múltiples estados mexicanos en busca de artistas reconocidos por sus comunidades, mostrando entrevistas donde podrás conocer la intimidad de los intérpretes, su vida cotidiana, sus historias y su talento."
     },
     {
       "show_name": "Mañanera 360º",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "11:00",
       "end_time": "12:00",
       "episode_description": "Una revista periodística televisiva en torno a la información que surge de la Conferencia Matutina Presidencial, cuyo propósito es presentar un panorama general. Además se presentan entrevistas, sondeos y una revisión de la actualidad."
     },
     {
-      "show_name": "Jazz, boleros y algo más...",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- JazzBook",
+      "show_name": "Música hecha en México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Musical",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
     },
     {
       "show_name": "México global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/méxico-global.webp",
-      "show_category": "- Beatriz Vizcaíno, Helsinki Finlandia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-global-rafael-pulido-madrid-espana_l_m.jpg",
+      "show_category": "- Rafael Pulido, Madrid, España",
       "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": "Conoce los sucesos más relevantes que impactan al planeta, desde una perspectiva de negocios, y acompaña a Carlos Mota a un recorrido que devela las problemáticas dentro este ámbito, aunado a la opinión de expertos."
     },
     {
-      "show_name": "NCC Reporte climático",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/ncc-reporte-climático.webp",
-      "show_category": "Clima",
+      "show_name": "Crónica animal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Reporte sobre cambio climático con un enfoque de periodismo de soluciones que muestra la manera en que los sectores académicos y sociales, así como las autoridades, enfrentan los efectos del cambio climático."
+      "episode_description": "Laura Barrera protagoniza una serie sobre la relación entre los seres humanos y los animales. El programa se enfoca en temas de bienestar animal, la cultura del cuidado, y la presencia de animales emblemáticos en la identidad mexicana."
     },
     {
       "show_name": "La primera mujer",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "14:00",
       "end_time": "14:30",
@@ -124,39 +124,31 @@
     },
     {
       "show_name": "¡Clic clac!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/clic-clac.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_clic-clac-1_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "14:30",
       "end_time": "17:00",
       "episode_description": "Espacio que propone un equilibrio entre formación y entretenimiento para niños, abarcando temas como ciencia, literatura, naturaleza, arte, tradiciones mexicanas e historia, presentados de una forma muy creativa."
     },
     {
-      "show_name": "Montecristi",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/montecristi.webp",
-      "show_category": "- Tejidos de origen V",
+      "show_name": "La piel de la ciudad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-piel-de-la-ciudad-s00e10-la-naturaleza_l_m.jpg",
+      "show_category": "Episodio 10 - La naturaleza",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Conoce la provincia de Manabí, lugar en el que se producen los sombreros Montecristi. Estas artesanías de fibra vegetal recibieron en 2007 la Denominación de Origen otorgada por el Instituto Ecuatoriano de la Propiedad Intelectual."
-    },
-    {
-      "show_name": "Inclusión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/inclusión.webp",
-      "show_category": "Episodio 4 - Empresarias",
-      "start_time": "17:30",
       "end_time": "18:00",
-      "episode_description": "Emisión que retrata la postura del feminismo desde sus orígenes y manifestaciones contemporáneas. El público podrá revalorizar el desarrollo histórico del movimiento y sus objetivos para lograr una mayor equidad entre hombres y mujeres."
+      "episode_description": "Diego en la conducción de su programa tendrá varios entrevistados, que les compartirán sus conocimientos sobre la naturaleza, estarán los avistador de aves, donde su funciones es una actividad recreativa."
     },
     {
-      "show_name": "Latinoamericanas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Marchas y luchas feministas en América Latin",
+      "show_name": "Arquetipas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Con una perspectiva progresista y de género, este programa busca analizar y debatir los acontecimientos políticos más relevantes en México y la Ciudad de México, situándolos en el contexto de la coyuntura latinoamericana."
+      "episode_description": "Un espacio que celebra la diversidad de la mujer, donde dialogamos con protagonistas que comparten sus historias. Conversamos con mujeres que rompen con estereotipos y condicionamientos sociales y que muestran la verdadera fuerza femenina."
     },
     {
       "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -164,35 +156,35 @@
     },
     {
       "show_name": "Masiosare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Político",
       "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Punto de referencia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/punto-de-referencia.webp",
-      "show_category": "Político",
+      "show_name": "Punto de referencia - Tu noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Un grupo de politólogos analizan de una manera sosegada los acontecimientos más inverosímiles de toda la política local."
+      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
     },
     {
-      "show_name": "Tratos y retratos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/tratos-y-retratos.webp",
-      "show_category": "Interés general",
+      "show_name": "¡Llegamos todas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 - Circe Camacho",
       "start_time": "22:00",
       "end_time": "22:30",
-      "episode_description": "Conducido por Silvia lemus, este ciclo de entrevistas representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad."
+      "episode_description": "Cada episodio es una ventana a la vida y trayectoria de una mujer que ha desafiado las diferentes barreras de género, redefiniendo el liderazgo en México. Es un espacio donde la cercanía y la reflexión son protagonistas."
     },
     {
-      "show_name": "Nocturno a Rosario",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Drama / 1992 /6.8",
+      "show_name": "Agentes del tiempo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "22:30",
-      "end_time": "00:30",
-      "episode_description": "Película inspirada en la vida del escritor y poeta Manuel Acuña, quien se distinguió en la corriente romántica durante el siglo XIX. Además, muestra como este decidió quitarse la vida a causa del rechazo amoroso de Rosario de la Peña."
+      "end_time": "01:30",
+      "episode_description": ""
     }
   ]
 }

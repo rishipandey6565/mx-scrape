@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,23 +20,23 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "SC Braga (Por) vs. Ferencvaros (Hun)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Octavos de final - Vuelta, Estádio Municipal de Braga",
+      "show_name": "Preston North End vs. Stoke City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 39, Deepdale",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón."
+      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,83 +44,91 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
-      "end_time": "06:30",
+      "end_time": "06:45",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Serie A - Preview Show",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/serie-a-preview-show.webp",
-      "show_category": "Serie A - Preview Show",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. Se lucha en varios frentes: el título, la clasificación a la Champions League, la Copa UEFA y esquivar la zona de descenso."
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
+      "start_time": "06:45",
+      "end_time": "07:15",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "07:15",
+      "end_time": "07:45",
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
     },
     {
-      "show_name": "Goles de la UEFA Europa League y UEFA Conference League",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Goles de la UEFA Europa League y UEFA Conference League",
-      "start_time": "08:00",
+      "show_name": "Gran Premio de Brasil, Autódromo Internacional Ayrton Senna",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Clasificación - Moto GP",
+      "start_time": "07:45",
+      "end_time": "08:45",
+      "episode_description": "Vive las carreras de clasificación de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo."
+    },
+    {
+      "show_name": "Lo mejor de MotoGP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_motociclismo-lo-mejor-de-motogp_l_m.jpg",
+      "show_category": "Lo mejor de MotoGP",
+      "start_time": "08:45",
       "end_time": "09:00",
-      "episode_description": "Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa."
+      "episode_description": "Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3."
     },
     {
       "show_name": "Segunda ronda, Hard Rock Stadium, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Miami Open",
       "start_time": "09:00",
-      "end_time": "17:00",
+      "end_time": "15:00",
       "episode_description": "Torneo masculino de tenis que se juega todos los años en Miami Gardens. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados así como a sus fanáticos en un encuentro muy esperado."
     },
     {
-      "show_name": "Segunda ronda, Hard Rock Stadium, Miami, FL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Miami Open",
-      "start_time": "17:00",
+      "show_name": "Oklahoma City Thunder vs. Washington Wizards",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Capitan One Arena",
+      "start_time": "15:00",
+      "end_time": "17:30",
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
+    },
+    {
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
+    },
+    {
+      "show_name": "Golden State Warriors vs. Atlanta Hawks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, State Farm Arena",
+      "start_time": "18:00",
       "end_time": "20:30",
-      "episode_description": "Torneo masculino de tenis que se juega todos los años en Miami Gardens. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados así como a sus fanáticos en un encuentro muy esperado."
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Lester Martinez vs. Immanuwel Aleem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
       "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Los mejores combates de boxeo y MMA."
     },
     {
-      "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Generación fútbol",
+      "show_name": "Milan vs. Torino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 30, Estadio San Siro",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti."
     }
   ]
 }

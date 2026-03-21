@@ -1,174 +1,294 @@
 {
   "channel": "El Financiero Bloomberg",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/al-cierre.webp",
-      "show_category": "Noticiero",
+      "show_name": "Con Ortega a las diez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
+      "show_category": "Político",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
-    },
-    {
-      "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/con-ortega-a-las-diez.webp",
-      "show_category": "Político",
-      "start_time": "01:00",
-      "end_time": "02:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- MACC",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Bloomberg Investigates lleva a los espectadores a un viaje inmersivo al corazón de nuestros reportajes más impactantes. Cada investigación es narrada por periodistas galardonados y sus protagonistas."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 1 - Monkey Laundering",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Permisos falsos, informantes encubiertos y millones de dólares. Cómo una agencia del gobierno estadounidense se propuso demostrar que los proveedores de laboratorios de investigación estaban importando monos salvajes de Camboya."
+    },
+    {
+      "show_name": "The Circuit: Sitting Down with the Newsoms",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
+      "episode_description": "Emily Chang conoce a la pareja presidencial de California, Gavin Newsom y Jennifer Seibel Newsom."
     },
     {
-      "show_name": "The Pulse",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/the-pulse.webp",
-      "show_category": "Economía",
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e16-al-gore-former-u-s-vice-president-climate-activist_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 16 - Al Gore, Former U.S. Vice President, Climate Activist",
       "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Francine Lacqua te presenta las informaciones y noticias más relevantes, así como también sus comentarios y análisis, sobre el acontecer relacionado al complejo mundo de los negocios en Europa."
+      "end_time": "03:30",
+      "episode_description": "El fundador y co-director ejecutivo del Grupo Carlyle, David Rubenstein, realiza exclusivas entrevistas a personalidades de gran renombre en el mundo de los negocios en Estados Unidos y a nivel global."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-surveillance.webp",
-      "show_category": "Economía",
-      "start_time": "04:00",
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 13",
+      "start_time": "03:30",
       "end_time": "04:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "episode_description": "Un análisis profundo mensual de las principales historias de África a través de la lente de Bloomberg. En este programa se analizarán las medidas clave adoptadas para ayudar a África a superar la brecha con las potencias mundiales."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-surveillance.webp",
-      "show_category": "Economía",
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Rethink",
       "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "Los desechos contribuyen significativamente al calentamiento global, pero convertirlos en un recurso puede ayudar a reducir las emisiones y disminuir la huella ambiental de la humanidad."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - The Poison in Us All",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Los productos químicos PFAS se utilizan en miles de productos destinados a hacer la vida más fácil."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Run for Your Life",
+      "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "episode_description": "En 2021, Agnes Tirop batió el récord mundial femenino de 10.000 metros. Cinco semanas después, ella estaba muerta. Bloomberg Investigates examina su asesinato y la amenaza de violencia contra otros corredores kenianos."
     },
     {
-      "show_name": "Bloomberg Open Interest",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Economía",
+      "show_name": "Is Europe Too Late to Compete in the Chip War?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Open to Debate, en colaboración con Bloomberg, analiza en profundidad una región que está definiendo su estrategia para convertirse en competidor en la carrera por el desarrollo de chips de IA: Europa."
+    },
+    {
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 12",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Un análisis profundo mensual de las noticias más importantes de África desde la perspectiva de Bloomberg."
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-chief-future-officer-s05e07-gina-goetter-hasbro_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 7 - Gina Goetter, Hasbro",
+      "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Todas las noticias que necesitas saber sobre el movimiento del mercado para comenzar con impulso el día de operaciones en Estados Unidos."
+      "episode_description": "Los directores financieros desempeñan un papel fundamental en la definición de la estrategia corporativa y el posicionamiento de las organizaciones para afrontar los retos futuros."
     },
     {
-      "show_name": "Bloomberg Technology",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-technology.webp",
-      "show_category": "Tecnología",
+      "show_name": "Bloomberg CityLab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-citylab-s00e01-rotterdam_l_m.jpg",
+      "show_category": "Episodio 1 - Rotterdam",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
+      "end_time": "09:10",
+      "episode_description": "El cambio climático amenaza cada vez más a las ciudades con inundaciones catastróficas. Muchos miran ahora a Róterdam y su larga historia de innovación cuando se trata de mantener el agua a raya."
     },
     {
-      "show_name": "Bloomberg Real Yield",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-real-yield.webp",
-      "show_category": "Noticiero",
+      "show_name": "Bloomberg CityLab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-citylab-s00e02-disaster-1_l_m.jpg",
+      "show_category": "Episodio 2 - Disaster - Part 1",
+      "start_time": "09:10",
+      "end_time": "09:20",
+      "episode_description": "El cambio climático amenaza cada vez más a las ciudades con inundaciones catastróficas. Muchos miran ahora a Róterdam y su larga historia de innovación cuando se trata de mantener el agua a raya."
+    },
+    {
+      "show_name": "Bloomberg CityLab",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-citylab-s00e03-disaster-2_l_m.jpg",
+      "show_category": "Episodio 3 - Disaster - Part 2",
+      "start_time": "09:20",
+      "end_time": "09:30",
+      "episode_description": "El cambio climático amenaza cada vez más a las ciudades con inundaciones catastróficas. Muchos miran ahora a Róterdam y su larga historia de innovación cuando se trata de mantener el agua a raya."
+    },
+    {
+      "show_name": "Bloomberg New Economy: Thriving in an Age of Extremes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Un espacio donde entablamos conversaciones sinceras con directores ejecutivos, inversores y líderes gubernamentales sobre cómo afrontar y prosperar en esta era de incertidumbre económica."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Inside North Korea's Secret Remote IT Workforce",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Edición que muestra un enfoque analítico de los más relevantes temas globales y eventos que afectan directamente los mercados de deuda, a nivel nacional e internacional, con un toque informativo y veraz."
+      "episode_description": "Esta es la historia de cómo la casa de una mujer de Arizona se convirtió en una puerta de entrada para los agentes informáticos de Corea del Norte: una \"granja de computadoras portátiles\" clandestina que se infiltró... ."
     },
     {
-      "show_name": "Bloomberg Balance of Power",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-balance-of-power.webp",
-      "show_category": "Periodístico",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 1 - Monkey Laundering",
       "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Una mirada en profundidad a la intersección de la política y los negocios globales."
+      "end_time": "11:30",
+      "episode_description": "Permisos falsos, informantes encubiertos y millones de dólares. Cómo una agencia del gobierno estadounidense se propuso demostrar que los proveedores de laboratorios de investigación estaban importando monos salvajes de Camboya."
     },
     {
-      "show_name": "Bloomberg Businessweek",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-businessweek.webp",
-      "show_category": "Negocios",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Airplane Thief",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "La creación de un espía chino: Ji Chaoqun era un joven y prometedor ingeniero de Pekín que se dirigía a Estados Unidos para estudiar."
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e12-pif-governor-yasir-al-rumayyan_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 12 - PIF Governor Yasir Al-Rumayyan",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Carol Massar y Tim Stenovec reúnen las últimas noticias del mundo de los negocios y las finanzas y las interesantes historias de tecnología, política, economía y más a nivel global."
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. // En éste episodio, Gobernador del PIF, Yasir Al-Rumayyan"
     },
     {
-      "show_name": "Bloomberg Markets: The Close",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-markets-the-close.webp",
-      "show_category": "Político",
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Dusk Or Dawn",
       "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "¿Cómo se distingue el anochecer del amanecer en la era del cambio climático? En el primer episodio de La guía del planeta para optimistas, el presentador Nikolaj Coster-Waldau comienza su viaje global para descubrirlo."
+    },
+    {
+      "show_name": "The Circuit: Sitting Down with the Newsoms",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
+      "start_time": "14:00",
       "end_time": "15:00",
-      "episode_description": "Bloomberg Markets: The Close. El programa acelerado es el espectáculo cercano al mercado por excelencia que lleva a los últimos minutos y segundos antes de la campana de cierre en Wall Street con las últimas noticias."
+      "episode_description": "Emily Chang conoce a la pareja presidencial de California, Gavin Newsom y Jennifer Seibel Newsom."
     },
     {
-      "show_name": "Al Sonar la Campanar con Raquel López-Portillo Maltos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 19",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Mishal Husain entrevista a diversos líderes mundiales, titanes empresariales e íconos culturales. Con su característica curiosidad y tenacidad, revela quiénes son estas personalidades y analiza cómo perciben el mundo a su alrededor."
+    },
+    {
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e15-bobbi-brown_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 15 - Bobbi Brown",
+      "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "Un programa que aborda lo más destacado de la información económica y financiera actual. Junto a Raquel López-Portillo Maltos, el público podrá informarse al completo a la hora de invertir y evaluar el mercado."
+      "episode_description": "El filántropo y financiero David Rubenstein revela historias exclusivas de las mentes más influyentes del mundo empresarial. En éste episodio, Bobbi Brown, fundadora de Jones Road Beauty y autora de \"Still Bobbi\""
     },
     {
-      "show_name": "Ganadores y perdedores",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/ganadores-y-perdedores.webp",
-      "show_category": "Economía",
+      "show_name": "The David Rubenstein Show: Peer-to-Peer Conversations",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-david-rubenstein-show-peer-to-peer-conversations-s11e16-al-gore-former-u-s-vice-president-climate-activist_l_m.jpg",
+      "show_category": "Temporada 11 Episodio 16 - Al Gore, Former U.S. Vice President, Climate Activist",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "El fundador y co-director ejecutivo del Grupo Carlyle, David Rubenstein, realiza exclusivas entrevistas a personalidades de gran renombre en el mundo de los negocios en Estados Unidos y a nivel global."
+    },
+    {
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 13",
+      "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "En el mundo de las finanzas y los negocios se juega cada día el futuro de la economía. ¿Quién ganó y quién perdió en la jornada?"
+      "episode_description": "Un análisis profundo mensual de las principales historias de África a través de la lente de Bloomberg. En este programa se analizarán las medidas clave adoptadas para ayudar a África a superar la brecha con las potencias mundiales."
     },
     {
-      "show_name": "El Financiero a las 17hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-17hs.webp",
-      "show_category": "Noticiero",
+      "show_name": "Tiempo de toros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tiempo-de-toros-1_l_m.jpg",
+      "show_category": "Magazine",
       "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "end_time": "17:30",
+      "episode_description": "Directamente desde el campo o de la plaza, el espacio ofrece una mirada moderna y fresca a una de las celebraciones más populares del mundo, informándote sobre la actividad taurina y presentándote a los toreros."
     },
     {
-      "show_name": "El Financiero a las 18hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-18hs.webp",
-      "show_category": "Noticiero",
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 20",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Mishal Husain entrevista a diversos líderes mundiales, titanes empresariales e íconos culturales. Con su característica curiosidad y tenacidad, revela quiénes son estas personalidades y analiza cómo perciben el mundo a su alrededor."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- The Oil Kingpin Who Built a Shadow Empire",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "En este espacio te llevamos lo más cerca del corazón de México y el mundo, a través de los hechos sociales, políticos, económicos y de los personajes que definen el curso de la historia, la ciencia y la tecnología."
+      "episode_description": "Lleva a los espectadores en un viaje inmersivo al corazón de nuestro reportaje más poderoso. Los periodistas galardonados y las personas cuyas historias cuentan arrojan luz sobre los problemas críticos que enfrenta nuestro mundo."
     },
     {
-      "show_name": "El Financiero a las 19hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-19hs.webp",
-      "show_category": "Periodístico",
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-wall-street-week_l_m.jpg",
+      "show_category": "Economía",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "Un diálogo con los principales nombres en finanzas sobre los problemas más importantes de la semana en Wall Street."
     },
     {
-      "show_name": "El Financiero a las 20hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-20hs.webp",
+      "show_name": "El Financiero Meet Point Virtual",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "El Financiero Meet Point Virtual ofrece foros interactivos sobre temas de interés, con los líderes más representativos de diferentes sectores la experiencia de participar e interactuar en un foro de El Financiero ahora a tu alcance."
     },
     {
-      "show_name": "Aldea global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Entre dichos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+      "end_time": "21:30",
+      "episode_description": "Un programa de entrevistas que recibe a diversos invitados para debatir temas de actualdiad en profundidad de la mano del conductor René Delgado."
     },
     {
-      "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/con-ortega-a-las-diez.webp",
-      "show_category": "Político",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
+      "show_name": "Moon shot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_moon-shot-nasa-s-next-search_l_m.jpg",
+      "show_category": "- NASA's Next Search",
+      "start_time": "21:30",
+      "end_time": "21:45",
+      "episode_description": "La llegada del hombre a la luna puede ser nuestro mayor logro tecnológico hasta la fecha. Por primera vez, el ser humano pondría los pies en un cuerpo celeste diferente al que lo vio nacer."
+    },
+    {
+      "show_name": "Moon shot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_moon-shot-s00e02-star-trek_l_m.jpg",
+      "show_category": "Episodio 2 - Star Trek",
+      "start_time": "21:45",
+      "end_time": "22:00",
+      "episode_description": "El espacio puede ser la última frontera, pero no podemos llegar muy lejos con el combustible para cohetes. Ahora, dos científicos están trabajando en un dispositivo que algún día podría hacer realidad el \"motor de impulsos\" de Star Trek."
     },
     {
       "show_name": "Aldea global",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Inside North Korea's Secret Remote IT Workforce",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
+      "episode_description": "Esta es la historia de cómo la casa de una mujer de Arizona se convirtió en una puerta de entrada para los agentes informáticos de Corea del Norte: una \"granja de computadoras portátiles\" clandestina que se infiltró... ."
     }
   ]
 }
