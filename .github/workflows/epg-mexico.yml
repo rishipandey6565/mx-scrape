@@ -6,6 +6,10 @@ on:
     - cron: '30 6 * * *'
   workflow_dispatch:
 
+# Explicitly grant the action permission to write back to your repository
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -13,11 +17,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Fetch all history so Git has the full context for rebasing
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          # Optional: Caches pip dependencies to speed up the run
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -29,8 +38,18 @@ jobs:
 
       - name: Commit and push updated schedules
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          # 1. Configure Git identity (using standard bot credentials)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Stage the newly generated files
           git add schedule/ epg.log
+          
+          # 3. Commit the changes, or exit cleanly if the scraper found nothing new
           git commit -m "Auto update Mexico EPG schedules" || exit 0
-          git push
+          
+          # 4. Pull any recent changes from the repo to prevent push conflicts
+          git pull --rebase origin main
+          
+          # 5. Push the final combined code back to GitHub
+          git push origin main
