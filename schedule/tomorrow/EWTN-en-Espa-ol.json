@@ -1,9 +1,9 @@
 {
   "channel": "EWTN en Español",
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "schedule": [
     {
-      "show_name": "Tertulias de fe",
+      "show_name": "Teresa, una vocación",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,15 +11,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mientras el Mundo Gira",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Dos en Dos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Canta y No Llores",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -35,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informe provida",
+      "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -43,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "De Dos en Dos",
+      "show_name": "Cenáculos en familia",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santo Rosario",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Vaticano",
+      "show_name": "De Dos en Dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ángelus con el Papa León XIV",
+      "show_name": "Santo Rosario",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla de la Divina Misericordia - mundo",
+      "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -91,34 +99,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Quinta Palabra",
+      "show_name": "Misa Diaria",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi familia católica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lukas Storyteller",
+      "show_name": "La Quinta Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lukas Storyteller",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:15",
       "end_time": "07:30",
       "episode_description": ""
     },
@@ -131,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi Ratito con Jesús",
+      "show_name": "Teresa, una vocación",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -139,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Somos Católicos",
+      "show_name": "Cenáculos en familia",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -147,15 +139,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un viaje, dos destinos",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Dos en Dos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vaticano",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -163,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Reflexiones de Cuaresma",
+      "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -171,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla de la Divina Misericordia",
+      "show_name": "La Coronilla de la Divina Misericordia Cantada",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -179,39 +179,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ángelus con el Papa León XIV",
+      "show_name": "Misa Diaria",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:00",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al santísimo nombre de Jesús",
+      "show_name": "El Santo Rosario desde Lourdes - Francia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
-      "end_time": "12:20",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Letanía a la preciosísima sangre de Jesús",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:20",
       "episode_description": ""
     },
     {
       "show_name": "Adoración eucarística desde la capilla de EWTN",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:20",
-      "end_time": "12:30",
+      "start_time": "13:20",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Misa del Domingo",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Santo Rosario desde Lourdes - Francia",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -219,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Razón y fe",
+      "show_name": "De Dos en Dos",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -227,15 +235,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Nuestra Fe",
+      "show_name": "Teresa, una vocación",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cenáculos en familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Un viaje, dos destinos",
+      "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -243,15 +259,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tertulias de fe",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ni AM, ni FM, ni Mp3",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mientras el Mundo Gira",
+      "show_name": "Tertulias de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -259,15 +283,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Conozca Primero Su Fe Católica",
+      "show_name": "Teresa, una vocación",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cenáculos en familia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Lo Mejor de la Madre Angélica",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -275,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informe provida",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -283,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "De Dos en Dos",
+      "show_name": "Ni AM, ni FM, ni Mp3",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -291,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ángelus con el Papa León XIV",
+      "show_name": "Señor, ¿Quién Eres Tú?",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -315,7 +347,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Teresa, una vocación",
+      "show_name": "Morir en paz: Cuidados paliativos vs. eutanasia",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",

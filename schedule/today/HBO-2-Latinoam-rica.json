@@ -1,118 +1,102 @@
 {
   "channel": "HBO 2 Latinoamérica",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
-      "show_name": "Jumanji: En la Selva",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/jumanji-en-la-selva.webp",
+      "show_name": "Spider-Man: De Regreso a Casa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_de_regreso_a_casa.jpg",
       "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "01:55",
-      "episode_description": "En la nueva aventura de Jumanji: Bienvenidos a la Selva, la mesa toca su turno en cuatro adolescentes que han sido castigados y son aspirados en el mundo de Jumanji. Cuando descubren una vieja consola de videojuegos con un juego que nunca han oído hablar, son inmediatamente empujados en la selva del juego, en los cuerpos de los avatares. Dr. Smolder (Dwayne Johnson), Profesor Shelly Oberón (Jack Black), Franklin \"Moose\" Findar (Jack Black) y Ruby Roundhose (Karen Gillan). Lo que descubren es que si no juegas Jumanji – Jumanji juega contigo. Ellos tendrán que ir en la aventura más peligrosa de sus vidas, o se quedaran atascados en el juego para siempre…."
+      "end_time": "00:20",
+      "episode_description": "Un joven Peter Parker (Tom Holland) comienza a navegar con su nueva identidad como el super héroe Spider-Man. Emocionado por su experiencia con Los Vengadores, Peter regresa a casa, donde vive con su tía May (Marisa Tomei), bajo la atenta mirada de su nuevo mentor Tony Stark (Robert Downey Jr.). Peter intenta volver de nuevo a su rutina diaria – distraído por los pensamientos de probar ser más que el vecino amistoso, el Hombre Araña – pero cuando el Buitre (Michael Keaton) emerge como un nuevo villano, todo lo que a Peter le importa será amenazado."
     },
     {
-      "show_name": "DTF St. Louis",
+      "show_name": "El Asesino del Juego de Citas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_asesino_del_juego_de_citas.jpg",
+      "show_category": "Crimen",
+      "start_time": "00:20",
+      "end_time": "02:02",
+      "episode_description": "El debut como directora de Anna Kendrick, El Asesino del Juego de Citas, está ambientada en Los Ángeles de 1970, cuando una aspirante a actriz se cruza con un asesino en serie en el set del popular programa, The Dating Game."
+    },
+    {
+      "show_name": "Sisu Camino a la venganza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:55",
-      "end_time": "02:55",
+      "start_time": "02:02",
+      "end_time": "03:40",
       "episode_description": ""
     },
     {
-      "show_name": "La Aparición",
+      "show_name": "Miami Vice",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:55",
-      "end_time": "04:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Posesión Infernal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:25",
+      "start_time": "03:40",
       "end_time": "06:00",
       "episode_description": ""
     },
     {
-      "show_name": "Amor a distancia",
+      "show_name": "Corazón de caballero",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "07:50",
+      "end_time": "08:20",
       "episode_description": ""
     },
     {
-      "show_name": "Rascacielos Rescate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:50",
-      "end_time": "09:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Tipos Malos 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/los-tipos-malos-2.webp",
-      "show_category": "Animación",
-      "start_time": "09:40",
-      "end_time": "11:32",
-      "episode_description": "El nuevo capítulo lleno de acción de la aclamada comedia de éxito de DreamWorks Animation sobre una banda de forajidos animales, nuestros ahora reformados Los Tipos Malos intentan – con mucho, mucho esfuerzo – ser buenos, pero en lugar de eso se ven envueltos en un robo de alto riesgo por todo el mundo, organizado por un nuevo equipo de criminales que nunca vieron venir: Las Chicas Malas."
-    },
-    {
-      "show_name": "Rooster",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:32",
-      "end_time": "12:07",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Como agua para chocolate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:07",
-      "end_time": "12:57",
-      "episode_description": ""
-    },
-    {
-      "show_name": "H. Potter y el prisionero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:57",
-      "end_time": "15:28",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tornados",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:28",
-      "end_time": "17:38",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquaman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/aquaman.webp",
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
       "show_category": "Acción",
-      "start_time": "17:38",
-      "end_time": "20:08",
-      "episode_description": "Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey."
+      "start_time": "08:20",
+      "end_time": "10:40",
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
     },
     {
-      "show_name": "Los Tipos Malos 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/los-tipos-malos-2.webp",
-      "show_category": "Animación",
-      "start_time": "20:08",
-      "end_time": "22:00",
-      "episode_description": "El nuevo capítulo lleno de acción de la aclamada comedia de éxito de DreamWorks Animation sobre una banda de forajidos animales, nuestros ahora reformados Los Tipos Malos intentan – con mucho, mucho esfuerzo – ser buenos, pero en lugar de eso se ven envueltos en un robo de alto riesgo por todo el mundo, organizado por un nuevo equipo de criminales que nunca vieron venir: Las Chicas Malas."
+      "show_name": "Una batalla tras otra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:40",
+      "end_time": "13:30",
+      "episode_description": ""
     },
     {
-      "show_name": "Spider-Man: De Regreso a Casa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-2-Latinoam-rica/today/spider-man-de-regreso-a-casa.webp",
+      "show_name": "Fragmentado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/fragmentado.jpg",
+      "show_category": "Horror",
+      "start_time": "13:30",
+      "end_time": "15:35",
+      "episode_description": "Tres chicas son secuestradas por Kevin (James McAvoy), un hombre con 23 personalidades distintas, evidenciadas por su psiquiatra de confianza, la Dra. Fletcher (Betty Buckley). Una de las personalidades de Kevin ha secuestrado a tres chicas; Claire (Haley Lu Richardson), Marcia (Jessica Sula) y Casey (Anya Taylor-Joy), ahora ellas deberán convencer a cualquiera de las personalidades para poder ser liberadas, antes que una personalidad que aún permanece sumergida en Kevin domine a las demás."
+    },
+    {
+      "show_name": "PECADORES",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:35",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El plan del asesino",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ángeles y demonios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
       "show_category": "Acción",
-      "start_time": "22:00",
-      "end_time": "00:20",
-      "episode_description": "Un joven Peter Parker (Tom Holland) comienza a navegar con su nueva identidad como el super héroe Spider-Man. Emocionado por su experiencia con Los Vengadores, Peter regresa a casa, donde vive con su tía May (Marisa Tomei), bajo la atenta mirada de su nuevo mentor Tony Stark (Robert Downey Jr.). Peter intenta volver de nuevo a su rutina diaria – distraído por los pensamientos de probar ser más que el vecino amistoso, el Hombre Araña – pero cuando el Buitre (Michael Keaton) emerge como un nuevo villano, todo lo que a Peter le importa será amenazado."
+      "start_time": "22:25",
+      "end_time": "00:45",
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
     }
   ]
 }

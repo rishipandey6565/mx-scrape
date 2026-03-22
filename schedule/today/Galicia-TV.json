@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
-      "show_name": "Luar",
+      "show_name": "Gala premios mestre mateo 2026",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,62 +15,70 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:15",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Parlamento",
+      "show_name": "Vivír o mar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:15",
-      "end_time": "02:30",
+      "start_time": "02:00",
+      "end_time": "02:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:35",
+      "end_time": "02:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Polo camiño da fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:40",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La santa misa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Bos Dias Fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:15",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Labranza",
+      "show_name": "Os nosos maiores",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:15",
-      "end_time": "03:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zigzag Diario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:45",
+      "start_time": "04:00",
       "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Divino Tesouro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
-      "end_time": "04:25",
       "episode_description": ""
     },
     {
       "show_name": "Gaña a Túa Aldea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:25",
-      "end_time": "05:10",
+      "start_time": "04:15",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Luar",
+      "show_name": "¿Bailamos?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:10",
+      "start_time": "05:00",
       "end_time": "06:55",
       "episode_description": ""
     },
@@ -95,14 +103,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:06",
-      "end_time": "08:20",
+      "end_time": "08:15",
       "episode_description": ""
     },
     {
       "show_name": "No foco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:20",
+      "start_time": "08:15",
       "end_time": "08:34",
       "episode_description": ""
     },
@@ -111,6 +119,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:34",
+      "end_time": "08:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La santa misa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:35",
       "end_time": "08:40",
       "episode_description": ""
     },
@@ -119,14 +135,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:40",
-      "end_time": "08:45",
+      "end_time": "09:05",
       "episode_description": ""
     },
     {
-      "show_name": "Somos animais",
+      "show_name": "Polo camiño da fe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
+      "start_time": "09:05",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "09:40",
       "episode_description": ""
     },
@@ -163,34 +187,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "No foco",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
+      "end_time": "16:20",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Somos animais",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
+      "start_time": "16:20",
+      "end_time": "17:10",
       "episode_description": ""
     },
     {
-      "show_name": "Latitude galega",
+      "show_name": "Expediente oculto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galegos no mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:55",
+      "start_time": "17:10",
       "end_time": "18:30",
       "episode_description": ""
     },
@@ -207,14 +223,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:20",
+      "end_time": "19:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mira ti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:27",
       "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "Gala premios mestre mateo 2026",
+      "show_name": "Cos pés na terra",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
+      "end_time": "20:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cos pés na terra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:25",
+      "end_time": "21:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cos pés na terra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:25",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Bailamos?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,9 +1,9 @@
 {
   "channel": "CNN en Español",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
     {
-      "show_name": "Directo USA con Juan Lopez",
+      "show_name": "GloboEconomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectivas desde Mexico",
+      "show_name": "Conclusiones",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,23 +19,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aristegui",
+      "show_name": "Mirador Mundial",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes CNN",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conclusiones",
+      "show_name": "Showbiz",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vive la salud",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Perspectivas desde Mexico",
+      "show_name": "La historia completa",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -43,15 +59,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Panorama Mundial",
+      "show_name": "Mirador Mundial",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes CNN",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Deportes CNN\nEn Vivo",
+      "show_name": "Oppenheimer presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -59,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Showbiz",
+      "show_name": "GloboEconomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -67,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "GloboEconomía",
+      "show_name": "Mercado Sur",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -75,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La historia completa",
+      "show_name": "Choque de Opiniones",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -83,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Oppenheimer presenta",
+      "show_name": "Conclusiones",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -91,47 +115,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectivas desde Mexico",
+      "show_name": "Deportes CNN",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Directo USA con Juan Lopez",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "GloboEconomía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
       "show_name": "Showbiz",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mercado México",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "GloboEconomía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Choque de Opiniones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
       "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "La historia completa",
+      "show_name": "Vive la salud",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Showbiz",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Conclusiones",
+      "show_name": "La historia completa",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -139,34 +179,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aristegui",
+      "show_name": "Oppenheimer presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportes CNN\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "GloboEconomía",
+      "show_name": "México Opina",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vive la salud",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -179,23 +203,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "GloboEconomía",
+      "show_name": "Choque de Opiniones",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Showbiz",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cnn dinero",
+      "show_name": "La historia completa",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -203,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mirador Mundial",
+      "show_name": "Oppenheimer presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -211,18 +227,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mercado México",
+      "show_name": "México Opina",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "GloboEconomía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -235,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Deportes CNN\nEn Vivo",
+      "show_name": "Deportes CNN",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -243,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Oppenheimer presenta",
+      "show_name": "La historia completa",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -251,18 +259,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Showbiz",
+      "show_name": "México Opina",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "GloboEconomía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

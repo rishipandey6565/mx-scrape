@@ -1,22 +1,126 @@
 {
   "channel": "Cinema Platino",
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "schedule": [
     {
-      "show_name": "Justicia implacable",
+      "show_name": "Mi ex es un Espía",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_ex_es_un_espia.jpg",
+      "show_category": "Acción",
+      "start_time": "00:00",
+      "end_time": "00:41",
+      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
+    },
+    {
+      "show_name": "Te amaré eternamente",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:33",
+      "start_time": "00:41",
+      "end_time": "02:47",
       "episode_description": ""
     },
     {
-      "show_name": "Mi ex es un Espía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/tomorrow/mi-ex-es-un-espía.webp",
-      "show_category": "Acción",
-      "start_time": "22:37",
-      "end_time": "00:41",
-      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
+      "show_name": "Gringo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:47",
+      "end_time": "04:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un acto de esperanza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:40",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Maldición de la Casa Winchester",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_maldicion_de_la_casa_winchester.jpg",
+      "show_category": "Biografía",
+      "start_time": "06:30",
+      "end_time": "08:09",
+      "episode_description": "Inspirada en hechos reales. En un tramo aislado de tierra a 50 millas de San Francisco se encuentra la casa más embrujada del mundo. Construida por Sarah Winchester (Helen Mirren), heredera de la fortuna de Winchester, es una casa que no tiene fin. Construida en una incesante manía de veinticuatro horas al día, siete días a la semana durante décadas, tiene siete pisos de altura y contiene cientos de habitaciones. Para el extraño, parece un monstruoso monumento a la locura de una mujer perturbada. Pero Sarah no está construyendo para si misma, ni para su sobrina, ni para el brillante doctor Erick Price (Jason Clarke) a quien ha llamado a la casa. Está construyendo una prisión, un asilo par cientos de fantasmas vengativos, y los más aterradores entre ellos tienen una cuenta pendiente con los Winchesters…."
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:09",
+      "end_time": "08:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La carta secreta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:39",
+      "end_time": "10:28",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:28",
+      "end_time": "10:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amigos por siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:59",
+      "end_time": "12:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:48",
+      "end_time": "13:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Dónde Está Bernadette?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:19",
+      "end_time": "15:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ataque a la casa blanca",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:12",
+      "end_time": "17:13",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bajo el mismo cielo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:13",
+      "end_time": "19:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amsterdam",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:04",
+      "end_time": "21:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Condor",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/condor.jpg",
+      "show_category": "Suspenso",
+      "start_time": "21:23",
+      "end_time": "00:48",
+      "episode_description": "Joe Turner (Max Irons) siempre ha estado en conflicto sobre su trabajo para la CIA. Pero cuando algo que descubrió hace que maten a toda su oficina, dejando a Joe como el único superviviente y obligándolo a huir, las reservas teóricas que siempre alberga se convierten en dilemas morales demasiados reales. Bajo presión de vida o muerte, Joe se verá obligado a redefinir quién es y de lo que es capaz para descubrir quien está detrás de esta conspiración de largo alcance, y evitar que completen su objetivo mortal que amenaza la vida de millones."
     }
   ]
 }

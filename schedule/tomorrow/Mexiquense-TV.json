@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "schedule": [
     {
-      "show_name": "Nuevo Mundo",
+      "show_name": "Mexiquense Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "100% grupero",
+      "show_name": "Los colores de mi tierra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:05",
@@ -43,31 +43,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo deporte",
+      "show_name": "Cápsulas Edomex",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:10",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noticiero DW",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
       "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Atrévete x ti",
+      "show_name": "AMX metropolitano",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De Nuestra Videoteca",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Chaski, el investigador",
+      "show_name": "Lo que nos une",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La guarida de los libros",
+      "show_name": "Atrévete x ti",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -83,39 +83,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Exploramundos",
+      "show_name": "Emociónate",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Arki, el guardacuentos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La posta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ver y creer",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Bionatura",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "#EnHoraBuena con Gina Serrano",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -123,111 +107,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Destino Verde",
+      "show_name": "Porque soy mujer",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enjambre universitario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reflexiones Cristovisión",
+      "show_name": "Película",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zoológicos en Acción",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "¿Y tú, tú que vas a hacer?",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mitos culinarios",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Senderos y destinos",
+      "show_name": "AMX con Marisol Ordoñez",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De puesto en puesto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Tiendita de la Esquina",
+      "show_name": "Cultura AMX",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Súper Concierto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Reporte mexiquense",
+      "show_name": "Bim Bam Bum",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reinventándonos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "R3t",
+      "show_name": "Genio y Figura",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cinescape",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Balance Dominical",
+      "show_name": "Otro Stylo para Cocinar",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -235,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ritmo Deportivo",
+      "show_name": "Cóncavo y Consexo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -243,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los colores de mi tierra",
+      "show_name": "AMX con Carlos González",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -251,18 +187,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lola",
+      "show_name": "En la cima con Roa",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:30",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mexiquense Noticias",
+      "show_name": "Historias del Más Allá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:30",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

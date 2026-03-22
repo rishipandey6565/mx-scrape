@@ -1,126 +1,22 @@
 {
   "channel": "Cinema Platino",
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "schedule": [
-    {
-      "show_name": "Vivarium",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/vivarium.webp",
-      "show_category": "Misterio",
-      "start_time": "00:00",
-      "end_time": "00:52",
-      "episode_description": "Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico."
-    },
-    {
-      "show_name": "Un Final Diferente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:52",
-      "end_time": "02:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aprendices Fuera de Línea",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/aprendices-fuera-de-línea.webp",
-      "show_category": "Comedia",
-      "start_time": "02:56",
-      "end_time": "05:00",
-      "episode_description": "(The Internship) Nick (Owen Wilson) y Billy (Vince Vaughn) son dos vencedores que por décadas han trabajado sin tener que preocuparse por saber de tecnología e internet, todo esto está por cambiar cuando se dan cuenta que la empresa para la cual han trabajado por años, se da a la quiebra. Sin trabajo, no les queda más que intentar conseguir trabajo en google, pero la tarea no es fácil ya que la competencia está repleta de jóvenes con gran talento que al igual que ellos desean trabajar para el gigante motor de búsqueda de internet."
-    },
-    {
-      "show_name": "El Mayordomo de la Casa Blanca",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "07:13",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:13",
-      "end_time": "07:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Reporte Clasificado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/reporte-clasificado.webp",
-      "show_category": "Biografía",
-      "start_time": "07:44",
-      "end_time": "09:43",
-      "episode_description": "Al miembro idealista Daniel J. Jones (Adam Driver), la senadora Dianne Feinstein (Annette Bening), su jefa, le ha asignado la tarea de liderar una investigación sobre el Programa de Detención e Interrogatorio de la CIA, creado a raíz del atentado del 11 de septiembre. La incesante búsqueda de la verdad por parte de Jones conduce a asombrosos hallazgos que descubren hasta qué punto la principal agencia de inteligencia del país destruyó evidencia, subvirtió la ley y ocultó un secreto monstruoso al público estadounidense."
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:43",
-      "end_time": "10:14",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Como la vida misma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:14",
-      "end_time": "12:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Televenta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:10",
-      "end_time": "12:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Pasajero",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:41",
-      "end_time": "14:29",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Redención",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/redención.webp",
-      "show_category": "Acción",
-      "start_time": "14:29",
-      "end_time": "16:38",
-      "episode_description": "Después de presenciar la caída de su unidad por culpa de fuego enemigo en Afganistán, Joey Jones (Jason Statham) ha estado viviendo en las calles de Londres, tratando de olvidar su pasado y evitar problemas. Mientras huye de una banda despiadada, entra en el apartamento de un hombre rico, y asume la identidad de un hombre de clase alta. Justo cuando Joey está en camino para encontrarse con su amiga y patrocinadora, la Hermana Cristina (Agata Buzek), su novia embarazada es encontrada muerta en el río. Ahora, Joey deberá usar sus contactos en la mafia china para encontrar al hombre responsable, sin detenerse hasta que se haga justicia."
-    },
-    {
-      "show_name": "Guy Ritchie: El Pacto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:38",
-      "end_time": "18:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los caballeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:44",
-      "end_time": "20:44",
-      "episode_description": ""
-    },
-    {
-      "show_name": "AIR: La Historia Detrás del Logo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/air-la-historia-detrás-del-logo.webp",
-      "show_category": "",
-      "start_time": "20:44",
-      "end_time": "22:36",
-      "episode_description": "AIR: La Historia Detrás del Logo revela la increíble asociación revolucionaria entre el entonces novato Michael Jordan y la incipiente división de baloncesto de Nike, que revolucionó el mundo de los deportes y la cultura contemporánea con la marca Air Jordán.Una historia conmovedora que sigue la apuesta que define la carrera de un equipo poco convencional con todo en juego, la visión intransigente de una madre que sabe el valor del inmenso talento de su hijo y el fenómeno del baloncesto que se convertirá en el más grande de todos los tiempos."
-    },
     {
       "show_name": "Justicia implacable",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:36",
+      "start_time": "00:00",
       "end_time": "00:33",
       "episode_description": ""
+    },
+    {
+      "show_name": "Mi ex es un Espía",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_ex_es_un_espia.jpg",
+      "show_category": "Acción",
+      "start_time": "22:37",
+      "end_time": "00:41",
+      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
     }
   ]
 }

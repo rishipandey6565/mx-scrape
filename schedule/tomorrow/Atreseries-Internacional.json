@@ -1,44 +1,36 @@
 {
   "channel": "Atreseries (Internacional)",
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "schedule": [
     {
       "show_name": "Pop up: aquí no hay quien viva",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bajo sospecha",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:09",
-      "end_time": "02:41",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Honor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:41",
-      "end_time": "03:41",
+      "end_time": "01:04",
       "episode_description": ""
     },
     {
       "show_name": "Señor, dame paciencia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:41",
-      "end_time": "04:54",
+      "start_time": "01:04",
+      "end_time": "02:03",
       "episode_description": ""
     },
     {
       "show_name": "Tiempos de guerra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:54",
+      "start_time": "02:03",
+      "end_time": "03:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Allí abajo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:34",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -47,6 +39,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Beguinas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:21",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -63,22 +63,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "11:00",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
-      "show_name": "A tortas con la vida",
+      "show_name": "Travesía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:45",
+      "start_time": "10:30",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "Mujeres Ambiciosas",
+      "show_name": "El tiempo entre costuras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:45",
+      "start_time": "11:45",
+      "end_time": "13:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dulce ambición",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:15",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amar es para siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sueños de libertad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -91,43 +115,51 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cuerpo de élite",
+      "show_name": "Travesía",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:45",
-      "end_time": "19:00",
+      "end_time": "18:45",
       "episode_description": ""
     },
     {
-      "show_name": "Ciudad prohibida",
+      "show_name": "Amar es para siempre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
+      "start_time": "18:45",
       "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UPA Next",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dulce ambición",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "22:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sueños de libertad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:15",
+      "end_time": "23:15",
       "episode_description": ""
     },
     {
       "show_name": "El tiempo entre costuras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Velvet",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pop up: aquí no hay quien viva",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "01:00",
+      "start_time": "23:15",
+      "end_time": "00:45",
       "episode_description": ""
     }
   ]
