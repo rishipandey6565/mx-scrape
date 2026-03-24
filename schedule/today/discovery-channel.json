@@ -1,238 +1,214 @@
 {
   "channel": "Discovery Channel",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
-      "show_name": "Los ojos de la ley",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/los-ojos-de-la-ley.webp",
-      "show_category": "Temporada 2 Episodio 5 - Desacuerdos y persecuciones",
-      "start_time": "00:13",
-      "end_time": "00:40",
-      "episode_description": "Se llama a GATE para ayudar con un hombre que porta un cuchillo y se niega a hablar con los equipos. Una disputa en un motel requiere la presencia policial. La búsqueda de sospechosos de robo recibe apoyo en tiempo real del COPOM."
-    },
-    {
-      "show_name": "Los ojos de la ley",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 6 - Accidente, invasión y negociación",
-      "start_time": "00:40",
-      "end_time": "01:07",
-      "episode_description": "ROTA rodea una mansión asaltada, donde sospechosos mantienen como rehén al dueño. También se llama a GATE para negociar la rendición. Un accidente de tráfico con un hombre armado es supervisado por la policía y los bomberos."
-    },
-    {
-      "show_name": "Joyas sobre ruedas: por el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 5 - España: SEAT 600",
-      "start_time": "01:07",
-      "end_time": "01:57",
-      "episode_description": "Mike y Elvis van a España, donde el SEAT 600 fabricado en Barcelona provocó una revolución automovilística en los años 60. Los chicos localizan un ejemplar muy querido, pero cuando se estropea de inmediato empiezan a pensar que se han equiv"
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/mexicánicos.webp",
-      "show_category": "Temporada 9 Episodio 1 - Barril bus y el dragster de Isabel",
-      "start_time": "01:57",
-      "end_time": "02:46",
-      "episode_description": "Martín y su equipo deberán construir un barril bus, con capacidad para 28 pasajeros, para una importante destilería de Jalisco. Además, Isabel demostrará que lleva sangre Vaca subiréndose por primera vez en un Dragster hecho a su medida."
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/mexicánicos.webp",
-      "show_category": "Temporada 10 Episodio 4 - Trenecito & Combi Panamericana",
-      "start_time": "02:46",
-      "end_time": "03:35",
-      "episode_description": "Martín enfrenta dos desafíos: transformar un camión de carga en un tren antiguo para apoyar la labor altruista de Mauricio García, y modificar una Volkswagen Combi de 1975"
-    },
-    {
-      "show_name": "Benito Juárez, la derrota de un imperio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/benito-juárez-la-derrota-de-un-imperio.webp",
-      "show_category": "Documental / 2017",
-      "start_time": "03:35",
-      "end_time": "04:24",
-      "episode_description": "Conoce lo que transcurrió durante los cuatro años, un mes y quince días que Benito Juárez gobernó de manera itinerante desde los caminos de México desde un carruaje, enfrentando con éxito una invasión extranjera y restaurando la República."
-    },
-    {
-      "show_name": "Máxima seguridad: cárceles extremas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/máxima-seguridad-cárceles-extremas.webp",
-      "show_category": "Temporada 5 Episodio 3 - Sistema Penitenciario de Guatemala - Renovación 1",
-      "start_time": "04:24",
-      "end_time": "05:12",
-      "episode_description": "Conoce la prisión más dura de Guatemala: el centro de detención de máxima seguridad Renovación 1. Guatemala es uno de los países más peligrosos del continente americano. Allí la extorsión, el secuestro y el robo son sucesos comunes."
-    },
-    {
-      "show_name": "Debanhi: ¿quién mató a nuestra hija?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - El chofer y las amigas",
-      "start_time": "05:12",
-      "end_time": "06:00",
-      "episode_description": "Un nuevo peritaje independiente contradice la versión oficial de la fiscalía. Las discrepancias entre los testimonios del chofer y las amigas de Debanhi exponen grietas en la investigación y dejan en duda lo que realmente ocurrió esa noche."
-    },
-    {
-      "show_name": "Pequeños gigantes de la naturaleza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/pequeños-gigantes-de-la-naturaleza.webp",
-      "show_category": "Temporada 1 Episodio 17 - Terror con patas",
-      "start_time": "06:00",
-      "end_time": "06:27",
-      "episode_description": "El equipo recorre el desierto de Nevada en busca de la araña camello, uno de los arácnidos más temidos del mundo debido a sus diez patas y su doble mandíbula."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/operación-alaska.webp",
-      "show_category": "Temporada 5 Episodio 13 - La naturaleza de Alaska",
-      "start_time": "06:27",
-      "end_time": "07:13",
-      "episode_description": "Los constructores deben tomar acción. Las mareas son decisivas para Dave, Hans y Steve, y mandan a Steve al taller. Para el constructor Adam y su familia, el clima no es un obstáculo."
-    },
-    {
-      "show_name": "100 días a lo salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/100-días-a-lo-salvaje.webp",
-      "show_category": "Temporada 1 Episodio 3 - Arresto domiciliario",
-      "start_time": "07:13",
-      "end_time": "08:04",
-      "episode_description": "Andrew y Gerrid vuelven victoriosos de la caza de alces y unen a todos. Pero una repentina ola de frío los obliga a construir refugios. Oliver se niega a seguir el plan del grupo y lleva a una confrontación explosiva."
-    },
-    {
-      "show_name": "Cazadora de serpientes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 9 - Alarma: bebé",
-      "start_time": "08:04",
-      "end_time": "08:56",
-      "episode_description": "Julia y su marido, John, se enfrentan a una serpiente escondida en la entrada de una casa. Una familia con un bebé vio una pequeña serpiente en su aspiradora."
-    },
-    {
-      "show_name": "Expedición X",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 6 Episodio 3 - La bestia del pantano",
-      "start_time": "08:56",
-      "end_time": "09:46",
-      "episode_description": "Se dice que un monstruo asesino acecha en los vastos pantanos cerca de Nueva Orleans. Phil y Jess investigan un antiguo misterio cajún que rodea a una bestia parecida a un hombre lobo sedienta de sangre que aterroriza el pantano."
-    },
-    {
-      "show_name": "Expedición: Pie Grande",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 13 - Un gran descubrimiento",
-      "start_time": "09:46",
-      "end_time": "10:36",
-      "episode_description": "El equipo redobla sus esfuerzos para encontrar a Pie Grande. Mireya sale a caballo en busca de pruebas, mientras Ronny convoca a un médium para acercarse a la criatura."
-    },
-    {
-      "show_name": "Monstruos de río: aguas desconocidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/monstruos-de-río-aguas-desconocidas.webp",
-      "show_category": "Temporada 1 Episodio 3 - El regreso de la bestia",
-      "start_time": "10:36",
-      "end_time": "11:26",
-      "episode_description": "Jeremy se dirige a Australia para investigar un terrible ataque submarino, provocado por una bestia de dos metros, en un río remoto."
-    },
-    {
-      "show_name": "Norteamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/norteamérica.webp",
-      "show_category": "Temporada 1 Episodio 2 - Sin salida",
-      "start_time": "11:26",
-      "end_time": "12:17",
-      "episode_description": "Las tormentas y las ventiscas extremas de estas tierras ponen a prueba a todos sus habitantes. Desde los perros de la pradera hasta los animales terrestres más veloces, la lucha por sobrevivir transforma a todos los que viven aquí."
-    },
-    {
-      "show_name": "Legado salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Praderas",
-      "start_time": "12:17",
-      "end_time": "13:08",
-      "episode_description": "Los padres deben equilibrar constantemente el riesgo y la recompensa al criar en praderas abiertas. La abundancia de pasto promete una gran cantidad de alimento y refugio. Pero esto no garantiza el éxito, ya que enfrentan grandes cambios."
-    },
-    {
-      "show_name": "Race to Survive: Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7 - The Hunger Trap",
-      "start_time": "13:08",
-      "end_time": "13:59",
-      "episode_description": "Un equipo se arriesga a quedarse sin raciones y se aventura en las frías aguas para pescar comida, mientras que Alaska envía a otro equipo a hacer las maletas."
-    },
-    {
-      "show_name": "Race to Survive: Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - A sangre fría",
-      "start_time": "13:59",
-      "end_time": "14:49",
-      "episode_description": "Atrapados en una tormenta bíblica, los equipos se enfrentan a la hipotermia durante una fría noche en el bosque."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 11 Episodio 123 - Devastados en Illinois",
-      "start_time": "14:49",
-      "end_time": "15:40",
-      "episode_description": "Un aguerrido biólogo marino mexicano y un pescador vikingo noruego intentan sobrevivir 21 días en la naturaleza estadounidense. Luchan contra las lluvias torrenciales, la escasez de alimentos y un incendio catastrófico en su campamento."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 10 Episodio 12 - Desnudos y Amish",
-      "start_time": "15:40",
-      "end_time": "16:31",
-      "episode_description": "Un exmiembro de los Amish y una preparadora física australiana intentan sobrevivir veintiún días juntos en la dura selva colombiana."
-    },
-    {
-      "show_name": "Survival Mode",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - La supertormenta Sandy",
-      "start_time": "16:31",
-      "end_time": "17:21",
-      "episode_description": "Una pareja cuyo frágil recién nacido se ve obligado a evacuar la UCI de un hospital. Además, dos socorristas atrapados en vehículos aplastados por un árbol caído y una comunidad devastada por el fuego en medio de una inundación histórica."
-    },
-    {
-      "show_name": "En medio del desastre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 6 - Tornados gemelos",
-      "start_time": "17:21",
-      "end_time": "18:10",
-      "episode_description": "En mayo de 2024, decenas de testigos presenciales capturan dos tornados gemelos poco comunes que trazan un camino paralelo de destrucción a través de Iowa."
-    },
-    {
-      "show_name": "Adicciones salvajes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Hipopótamos adictos a la cocaína",
-      "start_time": "18:10",
-      "end_time": "19:01",
-      "episode_description": "Los agresivos hipopótamos criados por el infame capo de la cocaína Pablo Escobar han escapado de su recinto abandonado en Colombia, convirtiéndose en una especie invasora peligrosa y mortal."
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 9 - Desaparición",
+      "start_time": "00:33",
+      "end_time": "02:14",
+      "episode_description": "Una caja misteriosa genera tensión entre las familias, ya que conservan o intercambian los objetos que contiene. El Cuartel General tiene una ventaja oculta que será poderosa para quien la encuentre primero y perjudicial para otra familia."
     },
     {
       "show_name": "Shark Week: narco tiburones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
-      "start_time": "19:01",
-      "end_time": "19:53",
+      "start_time": "02:14",
+      "end_time": "03:05",
       "episode_description": "Durante décadas, en toda la comunidad pesquera se escucharon rumores sobre tiburones alimentados con cocaína. Tom Hird viaja a los Cayos de Florida para investigar qué sucede con los tiburones que entran en contacto con la droga."
     },
     {
       "show_name": "The Hunt",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 7 - La vida con los depredadores",
-      "start_time": "19:53",
-      "end_time": "20:50",
+      "start_time": "03:05",
+      "end_time": "04:01",
       "episode_description": "El episodio final presenta a los científicos que luchan por salvar a los mejores depredadores del mundo. Tres cuartos de los carnívoros del planeta están desapareciendo."
     },
     {
       "show_name": "Supervivencia al desnudo: Brasil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Episodio 1 - Sabana de las sombras",
-      "start_time": "20:50",
-      "end_time": "22:00",
+      "start_time": "04:01",
+      "end_time": "05:09",
       "episode_description": "En la sabana africana, los veteranos de Supervivencia al desnudo Brasil se dividen en tribus. Se acerca la noche y necesitan fuego, agua y refugio. La tensión aumenta. ¿Podrán todos resistir hasta el 30?"
     },
     {
       "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/today/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 10 Episodio 10 - Tribus",
-      "start_time": "22:00",
-      "end_time": "23:43",
-      "episode_description": "En el desafío de esta tribu femenina, dos supervivientes regresan para guiar a dos recién llegadas con los peligros de San José del Guaviare, Colombia, durante 21 días. Pero la poca comida y las tormentas tropicales pasan factura."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s10e03-es-mas-duro-de-lo-que-parece_l_m.jpg",
+      "show_category": "Temporada 10 Episodio 3 - Es más duro de lo que parece",
+      "start_time": "05:09",
+      "end_time": "06:00",
+      "episode_description": "Una fotógrafa y un ingeniero creen que tienen lo necesario para sobrevivir 14 días en Limpopo, Sudáfrica. Pero luego de 10 días sin comida, se cuestionan sus habilidades para llegar al final."
+    },
+    {
+      "show_name": "Pequeños gigantes de la naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e18-superheroe-de-la-succion_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 18 - Superhéroe de la succión",
+      "start_time": "06:00",
+      "end_time": "06:27",
+      "episode_description": "El equipo recorre un bosque pluvial de Tailandia para encontrar al increíble gecko tokay. Las pruebas revelan que la mordedura de este gecko y su velocidad son increíbles y que sus habilidades de adhesión desafían la lógica y la gravedad."
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s05e10-noruega-al-borde-de-la-supervivencia_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 10 - Noruega: al borde de la supervivencia",
+      "start_time": "06:27",
+      "end_time": "07:18",
+      "episode_description": "Bear y su equipo están en Noruega y, armados con la última tecnología, crearán las más duras condiciones mientras los sensores monitorean cómo él trata de sobrevivir en uno de los países más hermosos y húmedos del planeta."
+    },
+    {
+      "show_name": "Desafío x2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desafio-x2-s05e08-catastrofe-costera_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 8 - Empapados",
+      "start_time": "07:18",
+      "end_time": "08:09",
+      "episode_description": "Anegados en la selva de Costa Rica, Matt y Joe luchan contra lluvias torrenciales e insectos mortales. Luego de perder la oportunidad de ser rescatados, combinan el ingenio de la supervivencia y las habilidades indígenas para sobrevivir."
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s05e10-la-casa-movil-de-alaska_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 10 - La casa móvil de Alaska",
+      "start_time": "08:09",
+      "end_time": "08:57",
+      "episode_description": "El constructor Mike Williams se retrasa debido al clima húmedo y los obstáculos imprevistos en Eagle Song. En Shelter Island, los constructores Dave Bartlett y Hans Moser reciben una visita sorpresa."
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-del-artico-s04e02-el-lobo-negro_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 2 - El lobo negro",
+      "start_time": "08:57",
+      "end_time": "09:48",
+      "episode_description": "La manada de lobos continúa acercándose y la única opción de Charlie es ir tras el líder. Joey enfrenta las consecuencias del clima cálido inusual en Alaska y pide ayuda a su padre."
+    },
+    {
+      "show_name": "Fiebre del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fiebre-del-oro-s12e04-el-error-de-los-nueve-millones_l_m.jpg",
+      "show_category": "Temporada 12 Episodio 4 - El error de los nueve millones",
+      "start_time": "09:48",
+      "end_time": "10:38",
+      "episode_description": "Tony se enfrenta a una noticia que le hace caer en picada. Fred consigue su primer oro de la temporada. El equipo de Parker se estanca."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s02e14-contaminacion_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 14 - Contaminación",
+      "start_time": "10:38",
+      "end_time": "11:28",
+      "episode_description": "Una madre y un camionero testarudo se enfrentan a los bosques de Filipinas. Pero un tifón provoca destrozos en la isla y los obliga a redoblar los esfuerzos por sobrevivir."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s02e15-cuando-todo-se-derrumba_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 15 - Cuando todo se derrumba",
+      "start_time": "11:28",
+      "end_time": "12:19",
+      "episode_description": ".Un atleta experto en resistencia y un padre demasiado sensible intentan congeniar en la selva de Belice, donde los jaguares, las serpientes venenosas, los árboles que caen y las tormentas intensas amenazan con afectar su unión incipiente."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s01e01-borneo_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Borneo",
+      "start_time": "12:19",
+      "end_time": "13:10",
+      "episode_description": "Ed Stafford se adentra en las selvas de Borneo. Está completamente solo, sin comida ni agua, ni siquiera un cuchillo. ¿Cómo sobrevivirá en este entorno durante 10 días?"
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s02e04-patagonia_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 4 - Rumania",
+      "start_time": "13:10",
+      "end_time": "14:01",
+      "episode_description": "Ed queda varado en los montes Cárpatos. Está completamente solo, sin comida ni agua, ni siquiera un cuchillo. ¿Cómo sobrevivirá en este entorno durante diez días?"
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s01e03-australia_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Australia",
+      "start_time": "14:01",
+      "end_time": "14:51",
+      "episode_description": "Ed queda abandonado en la implacable costa de Australia Occidental, completamente solo y sin nada: ni alimentos, ni agua, ni siquiera un cuchillo. ¿Cómo sobrevivirá durante diez días?"
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Quemar antes de leer",
+      "start_time": "14:51",
+      "end_time": "15:42",
+      "episode_description": "A medida que los supervivientes continúan adaptándose a su entorno, las emociones en la sede central estallan de formas inesperadas. Además, los miembros de las familias tienen la oportunidad de escribirle a su superviviente."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - El juego ha cambiado",
+      "start_time": "15:42",
+      "end_time": "16:34",
+      "episode_description": "Los supervivientes cazan comida usando las armas y herramientas que sus seres queridos seleccionaron para ellos."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Familia contra familia",
+      "start_time": "16:34",
+      "end_time": "17:25",
+      "episode_description": "Los supervivientes se enfrentan en una carrera de natación para recuperar una bolsa de suministros ubicada en el centro del lago; la batalla continúa en el cuartel general mientras las familias se enfrentan entre sí."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - La caja misteriosa",
+      "start_time": "17:25",
+      "end_time": "18:17",
+      "episode_description": "Con cuatro competidores, las familias se centran en sus estrategias para mantener a su superviviente en la competición. Una caja misteriosa genera tensión entre las familias, ya que conservan o intercambian los artículos dentro de la caja."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 9 - Desaparición",
+      "start_time": "18:17",
+      "end_time": "19:57",
+      "episode_description": "Una caja misteriosa genera tensión entre las familias, ya que conservan o intercambian los objetos que contiene. El Cuartel General tiene una ventaja oculta que será poderosa para quien la encuentre primero y perjudicial para otra familia."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 10 - La entrega final",
+      "start_time": "19:57",
+      "end_time": "20:49",
+      "episode_description": "Los supervivientes deben adivinar correctamente una palabra de cinco letras elegida por su familia en el cuartel general para abrir el último lanzamiento de suministros. Luego, deben descifrar un rompecabezas de código Morse."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - Solos en la naturaleza",
+      "start_time": "20:49",
+      "end_time": "21:41",
+      "episode_description": "Once concursantes sin entrenamiento se lanzan a la implacable naturaleza canadiense."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Namibia",
+      "start_time": "21:41",
+      "end_time": "22:33",
+      "episode_description": "Ed pone a prueba sus habilidades en los desiertos de Namibia. La temporada de sequía llega a su fin y Ed debe fortalecerse en el calor para cazar al jabalí."
     },
     {
       "show_name": "Race to Survive: Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 9 - En el laberinto",
-      "start_time": "23:43",
-      "end_time": "00:33",
-      "episode_description": "Un equipo se pierde remando en un laberinto helado, mientras que otro sale, revelando los tres finalistas."
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Meet the Monster",
+      "start_time": "22:33",
+      "end_time": "23:24",
+      "episode_description": "Un concursante es evacuado apenas unas horas después de comenzar una agotadora carrera por el duro paisaje de Alaska."
+    },
+    {
+      "show_name": "Race to Survive: Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Fiesta o hambruna",
+      "start_time": "23:24",
+      "end_time": "00:14",
+      "episode_description": "Durante una brutal introducción a Survivor Camp, los corredores deben vivir de la tierra para seguir compitiendo."
     }
   ]
 }

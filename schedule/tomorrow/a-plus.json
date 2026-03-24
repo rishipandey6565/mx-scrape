@@ -1,18 +1,26 @@
 {
   "channel": "A+",
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "schedule": [
     {
-      "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
-      "show_category": "Publicidad",
+      "show_name": "Himno nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "00:00",
+      "end_time": "00:02",
+      "episode_description": "Himno nacional mexicano."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:02",
       "end_time": "00:30",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -76,15 +84,23 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
-      "end_time": "05:00",
+      "end_time": "04:58",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
+      "show_name": "Barras de ajuste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "04:58",
+      "end_time": "05:00",
+      "episode_description": "Barra de ajuste."
+    },
+    {
       "show_name": "RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/rtc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
       "show_category": "Variedades",
       "start_time": "05:00",
       "end_time": "05:15",
@@ -92,7 +108,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:15",
       "end_time": "05:30",
@@ -100,7 +116,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -108,7 +124,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:00",
       "end_time": "06:30",
@@ -116,7 +132,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -124,7 +140,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -132,7 +148,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -148,7 +164,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -156,23 +172,23 @@
     },
     {
       "show_name": "Naturista naturalmente",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/naturista-naturalmente.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_naturista-naturalmente_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "09:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Las tres Elenas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/las-tres-elenas.webp",
-      "show_category": "Drama / 1954",
+      "show_name": "Medianoche",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_medianoche-1949_l_m.jpg",
+      "show_category": "Drama / 1949",
       "start_time": "10:00",
       "end_time": "12:00",
-      "episode_description": "Luis vive con su esposa, su suegra y su ahijado Pablo, novio de su hija. Su mujer se opone a esta relación ya que está enamorada de Pablo, razón por la que quiere divorciarse de Luis. Un secreto familiar la hará cambiar de parecer."
+      "episode_description": "Un villano envía a sus hombres a secuestrar a un maestro de escuela, para luego tomar su lugar de docente en un pueblo escondido."
     },
     {
       "show_name": "Los Rey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Telenovela",
       "start_time": "12:00",
       "end_time": "13:00",
@@ -180,59 +196,59 @@
     },
     {
       "show_name": "Los Rey",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Telenovela",
       "start_time": "13:00",
       "end_time": "14:00",
       "episode_description": "Historia de amor y traición en la que Matías Rey y Lorenza Malvido forman una pareja de recién casados que verá peligrosamente amenazada su felicidad debido a la rivalidad que identifica a sus dos familias."
     },
     {
-      "show_name": "El Diablo no es tan Diablo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/el-diablo-no-es-tan-diablo.webp",
-      "show_category": "Comedia / 1949 /6.1",
+      "show_name": "Una aventura en la noche",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_una-aventura-en-la-noche-1948_l_m.jpg",
+      "show_category": "Terror / 1948",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "Una pareja que vive peleando es sorprendida por la aparición del diablo, quien les sugiere que hagan un cambio de roles para descubrir si es fácil o difícil hacer lo que hace el otro. Ahora, él se quedará en casa y ella irá a la oficina."
+      "episode_description": "Un par amigos pasan una noche maravillosa junto a dos bellas muchachas. Cuando regresan a buscarlas al otro día, una vecina les anuncia que ambas damas han fallecido tiempo atrás, por lo que uno de ellos comienza a investigar el misterio."
     },
     {
-      "show_name": "La muerte es puntual",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/la-muerte-es-puntual.webp",
-      "show_category": "Drama / 1967 /6.6",
+      "show_name": "Mi vida es una canción",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mi-vida-es-una-cancion-1963_l_m.jpg",
+      "show_category": "Musical / 1963 /4.2",
       "start_time": "16:00",
       "end_time": "17:45",
-      "episode_description": "Esta historia entrelaza varias vidas, la de un grupo de vándalos, una narcómana y una muchacha que trabaja de mesera en un restaurante donde su madre cocina."
+      "episode_description": "Dos jóvenes, siguiendo su instinto, comienzan su vida artística en programas mediocres de radio. Ambos sueñan con, en algún momento, llegar a la televisión y tener sus propios programas."
     },
     {
-      "show_name": "Bonitas las tapatías",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/bonitas-las-tapatías.webp",
-      "show_category": "C.Ficción / 1961",
+      "show_name": "Te vi en TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_te-vi-en-tv-1958_l_m.jpg",
+      "show_category": "Comedia / 1958",
       "start_time": "17:45",
       "end_time": "19:45",
-      "episode_description": "Graciela, una mujer que sabe karate, judo y jiu-jitsu, es enviada a una misión secreta para desmantelar un contrabando de drogas en un pueblo, donde irá corrigiendo las irregularidades con la ayuda de las agentes Aurora y Angelina."
+      "episode_description": "Por error, un ingeniero deja abierta la señal de canal televisivo 23, apareciendo en escena una de las ayudantes generales, quien, inspirada por la música, realiza un baile impactante que deja sorprendidos a los televidentes."
     },
     {
-      "show_name": "Una horca para el texano",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/una-horca-para-el-texano.webp",
-      "show_category": "Western / 1969",
+      "show_name": "Nunca digas...¡Cuba jamás!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_nunca-digas-cuba-jamas-2001_l_m.jpg",
+      "show_category": "Comedia / 2001",
       "start_time": "19:45",
       "end_time": "21:30",
-      "episode_description": "Un representante de la ley intenta resolver el asesinato del presidente de un banco."
+      "episode_description": "A tan solo unos días de casarse, Javier es víctima de su abuelo, quien a base de engaños lo sube en un avión rumbo a Cuba. En la isla, conoce a una joven que pone en duda sus sentimientos."
     },
     {
       "show_name": "Ahora más noticias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/a-plus/tomorrow/ahora-más-noticias.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ahora-mas-noticias_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "21:30",
       "end_time": "22:30",
       "episode_description": "El noticiero mas exitoso de la ciudad de México, conduce Uriel Estrada."
     },
     {
-      "show_name": "Siete Evas para Adán",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Comedia / 1969",
+      "show_name": "El fuego de mi ahijada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-fuego-de-mi-ahijada-1979_l_m.jpg",
+      "show_category": "Comedia / 1979",
       "start_time": "22:30",
       "end_time": "",
-      "episode_description": "Un joven mujeriego se aísla en un lugar desértico donde hay siete mujeres muy diferentes entre sí que lo tratan como un esclavo. A cada una le cuenta mentiras acerca de su vida con la intención de conquistarlas y que lo traten bien."
+      "episode_description": "El joven Raúl busca a su ex novia Alicia para reanudar sus relaciones pero ella responde que no lo quiere. Ella vive con su padrino en un hotel de su propiedad."
     }
   ]
 }

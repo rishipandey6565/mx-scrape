@@ -1,58 +1,74 @@
 {
   "channel": "Canal Once",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/himno-nacional.webp",
-      "show_category": "Temporada 1 Episodio 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "El misterio de la nana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Chanson douce",
+      "show_name": "Ayer, hoy y mañana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ayer-hoy-y-manana-1963_l_m.jpg",
+      "show_category": "Ieri, oggi, domani",
       "start_time": "00:02",
-      "end_time": "00:45",
-      "episode_description": "Myriam, madre de dos hijos, decide volver a trabajar por lo que busca una niñera. Finalmente encuentra a Louise, pero a medida que se vuelve indispensable, comienza a revelar su verdadera personalidad."
+      "end_time": "01:00",
+      "episode_description": "Tres historias de diferentes parejas en 3 contextos sociales distintos. En cada caso, los protagonistas son Sophia Loren y Marcello Mastroianni."
     },
     {
-      "show_name": "Noche, boleros y son",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/noche-boleros-y-son.webp",
-      "show_category": "Temporada 13 Episodio 1 - Paraguay: Guarania y Bolero",
-      "start_time": "00:45",
-      "end_time": "01:45",
-      "episode_description": "Disfruta de un homenaje a la música popular y a sus creadores, cantantes, compositores y arreglistas, quienes marcaron un estilo que, luego de varias generaciones, sigue estando vigente gracias a su autenticidad y calidad."
+      "show_name": "La hora nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 12",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Un programa que aborda una amplia gama de temas, desde asuntos gubernamentales y sociales hasta deportes, cultura, arte, música y salud. Los presentadores reciben a diversos expertos y personalidades para debatir."
+    },
+    {
+      "show_name": "El libro rojo, especies amenazadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-libro-rojo-especies-amenazadas-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Cóndor, regresa a la sierra",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "La labor de la comunidad de la sierra de San Pedro Mártir para evitar la extinción del Cóndor de California."
+    },
+    {
+      "show_name": "Diálogos en confianza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dialogos-en-confianza-s24e123-salud-cancer-de-ovario-su-deteccion-y-tratamiento_l_m.jpg",
+      "show_category": "Temporada 24 Episodio 123 - Salud: Cáncer de ovario, su detección y tratamiento",
+      "start_time": "02:30",
+      "end_time": "04:15",
+      "episode_description": "Talk Show donde los especialistas y el público generan un espacio de interacción rico en propuestas sobre diversos aspectos de interés de la vida diaria."
     },
     {
       "show_name": "Big Cities",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/big-cities.webp",
-      "show_category": "Temporada 1 Episodio 4",
-      "start_time": "01:45",
-      "end_time": "02:00",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_big-cities-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6",
+      "start_time": "04:15",
+      "end_time": "04:30",
       "episode_description": "Un espacio que presenta las nuevas cooperativas de vivienda. En este segmento se señala cómo estas son una nueva forma de vida que se instala como tendencia en varios países del mundo."
     },
     {
       "show_name": "La aventura de México - Desconocido",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/la-aventura-de-méxico-desconocido.webp",
-      "show_category": "Temporada 1 Episodio 5 - Esperando el tren",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Documental con aire de nostalgia sobre el tiempo circular del ferrocarril en México."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-aventura-de-mexico-desconocido-s01e08-mar-de-cortes-huellas-del-pasado_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - Mar de Cortés. Huellas del pasado",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Contrastes entre el azul del mar, el rojo de sus montañas, y el dorado y verde de sus desiertosContrastes entre el azul del mar, el rojo de sus montañas, y el dorado y verde de sus desiertos."
     },
     {
       "show_name": "Aprender a envejecer",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 17 Episodio 52 - Los nuevos retos de la longevidad",
-      "start_time": "02:30",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 17 Episodio 53 - La televisión a color: un invento mexicano",
+      "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": "Programa en vivo y con público presente conducido por Patricia Kelly, quien a través de de especialistas, explora las formas que hay para lograr una larga y placentera vida ayudando a fomentar la cultura del envejecimiento activo."
     },
     {
-      "show_name": "Entrenamiento en casa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/entrenamiento-en-casa.webp",
+      "show_name": "Actívate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aerobic-activate_l_m.jpg",
       "show_category": "Actívate",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -60,227 +76,235 @@
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/himno-nacional.webp",
-      "show_category": "Temporada 1 Episodio 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
       "start_time": "06:00",
-      "end_time": "06:07",
+      "end_time": "06:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Daniel Tigre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/daniel-tigre.webp",
-      "show_category": "Temporada 1 Episodio 56 - Seguridad en la playa",
-      "start_time": "06:07",
-      "end_time": "06:15",
-      "episode_description": "Daniel y Katerina juegan en la playa con Mamá Tigre. Los niños se entusiasman jugando a buscar tesoros y se alejan demasiado de Mamá. Aprenden que, para estar seguros cerca del agua, tienen que pararse y prestar atención."
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 19",
-      "start_time": "06:15",
-      "end_time": "06:45",
-      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 20",
-      "start_time": "06:45",
-      "end_time": "07:15",
-      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/escuela-de-rugidos.webp",
-      "show_category": "Temporada 1 Episodio 33 - Deja de copiarme",
-      "start_time": "07:15",
-      "end_time": "07:22",
-      "episode_description": "Edye presenta: Rinoberto se molesta cuando Minibú empieza a copiar todo lo que él hace. ¿Podrá ella componer su amistad y explicarle por qué le encanta copiarle? Seguro que Minibú no tiene malas intenciones."
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/escuela-de-rugidos.webp",
-      "show_category": "Temporada 1 Episodio 34 - Me quito el sombrero por Yombón",
-      "start_time": "07:22",
-      "end_time": "07:30",
-      "episode_description": "Es la competencia de sombreros de la escuela y todos los monstruos tienen que hacer su propio sombrero."
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 59 - Doctora Julia",
-      "start_time": "07:30",
-      "end_time": "07:37",
-      "episode_description": "Sam y Julia juegan a ser doctoras y atienden a los muñecos y peluches de sus amigos. Pero hora, la doctora Julia tiene que ayudar a Sam a quitarle el hipo."
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 60 - El ratón enmascarado",
-      "start_time": "07:37",
-      "end_time": "07:45",
-      "episode_description": "Sam, Julia y los demás niños leen sobre las aventuras de Magic Mouse, ¡un superhéroe! ¿Podrán descubrir su verdadera identidad?"
-    },
-    {
-      "show_name": "Juani y Gatón",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/juani-y-gatón.webp",
-      "show_category": "Temporada 1 Episodio 3 - La casa de cera de las abejas",
-      "start_time": "07:45",
-      "end_time": "07:52",
-      "episode_description": "La gripa le ha dado a Gatón un nuevo talento: la estornu-transportación. Con este divertido don, Juani y Gatón viajan al bosque en busca de la casa de las abejas y se preguntan si será una casa hecha de cera, de madera o de piedra."
-    },
-    {
-      "show_name": "La oveja Shaun",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/la-oveja-shaun.webp",
-      "show_category": "Temporada 6 Episodio 16 - Box Fresh",
-      "start_time": "07:52",
-      "end_time": "08:00",
-      "episode_description": "El Granjero recibe un paquete con lo más imprescindible de la moda del año: unas zapatillas de diseño. Aunque mantenerlas limpias mientras realiza las tareas diarias en la granja, resulta ser un desafío."
-    },
-    {
-      "show_name": "La orquestita",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Master Miau",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": "Master Miau busca un reemplazo para su estrella principal y es una oportunidad para Uma, la gata de Toto. Pero necesitará preparación y la Orquestita decide visitar al Sensei Felino, un experto en entrenamiento de gatos."
-    },
-    {
-      "show_name": "Mi hermano el Monstruo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 5",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": "Petunia creía que iba pasar un verano aburrido sin sus amigos, pero desde que llegó Mombou del espacio exterior, todo cambió de la noche a la mañana y ahora es hermana de un extraterrestre con quien tiene una relación muy especial."
-    },
-    {
-      "show_name": "Academia de superhéroes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4",
-      "start_time": "08:30",
-      "end_time": "08:45",
-      "episode_description": "En los salones de clase de esta escuela, Raymond, Alfa, Uno, Tele e Ignis llevan materias especiales y aprenden a dominar sus poderes para cumplir su sueño de ser superhéroes."
-    },
-    {
-      "show_name": "Prueba total",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Equilibrio",
-      "start_time": "08:45",
-      "end_time": "09:00",
-      "episode_description": "La ciencia se sale de los libros para ponerse en práctica en forma de experimentos hechos por niñas y niños de todo el mundo. Conoce más sobre distintos experimentos y efectos de la física."
-    },
-    {
-      "show_name": "Un día en Once niños",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/un-día-en-once-niños.webp",
-      "show_category": "Temporada 9 Episodio 2 - El torneo de los juegos de mesa",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "¿Qué hacen Alan, Staff y Lucy cuando no están conduciendo Once Niños? Acompáñalos en sus aventuras y descubre cómo fue que Staff llegó al espacio exterior, qué es lo que más le molesta a Lucy y qué pasó el día que Alan perdió la magia."
-    },
-    {
-      "show_name": "80 millones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/80-millones.webp",
-      "show_category": "Temporada 18 Episodio 11 - Síndrome de down: acompañar la vida en cada etapa",
-      "start_time": "09:30",
-      "end_time": "11:00",
-      "episode_description": "La discapacidad es un concepto que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno. En el programa se abordan los modos de relación entre las personas y la sociedad."
-    },
-    {
-      "show_name": "Aprender a envejecer",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 17 Episodio 57 - Testigos con raíces: un acercamiento a nuestros árboles",
-      "start_time": "11:00",
-      "end_time": "14:00",
-      "episode_description": "Programa en vivo y con público presente conducido por Patricia Kelly, quien a través de de especialistas, explora las formas que hay para lograr una larga y placentera vida ayudando a fomentar la cultura del envejecimiento activo."
-    },
-    {
-      "show_name": "Foro Once",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/foro-once.webp",
-      "show_category": "Temporada 15 Episodio 3 - Tren a Marte",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": "Espacio donde todas las posibilidades de entretenimiento tienen su lugar, siendo la mejor opción para las audiencias que buscan un enfoque inteligente sobre diversos temas del mundo del espectáculo correspondientes a distintas épocas."
-    },
-    {
-      "show_name": "México - Cuba, una historia fraterna de delicada honestidad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "Historiadores, políticos, artistas y pueblo en general expresan su saber y su sentir sobre la entrañable relación entre Cuba y México. Se pone el foco en que el vínculo se asienta en personas que lucharon en su momento por su independencia."
-    },
-    {
-      "show_name": "Conmemoraciones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/conmemoraciones.webp",
-      "show_category": "Temporada 2 Episodio 8 - Benito Juárez, un legado que perdura",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "Conmemoraciones es una serie que, durante el año en curso presenta, en cada capítulo, un programa sobre fechas emblemáticas de los acontecimientos históricos más relevantes ocurridos en México."
-    },
-    {
-      "show_name": "El fantasma del convento",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/el-fantasma-del-convento.webp",
-      "show_category": "Drama / 1934",
-      "start_time": "16:30",
-      "end_time": "18:00",
-      "episode_description": "Dos hombres y una mujer tienen un accidente y se encuentran perdidos en la noche. Un misterioso sujeto les señala que pueden refugiarse en un convento de las cercanías. Una terrorífica velada espera a los visitantes."
-    },
-    {
-      "show_name": "Los periodistas en Canal Once",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 12",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Un espacio plural con público en vivo para analizar temas relevantes de la coyuntura actual."
-    },
-    {
-      "show_name": "Once noticias - Dominical",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/once-noticias-dominical.webp",
-      "show_category": "Temporada 17 Episodio 12",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Toda la información del fin de semana para entender lo que pasa en Honduras y el mundo."
-    },
-    {
-      "show_name": "Identidad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/identidad.webp",
-      "show_category": "Temporada 1 Episodio 7 - Zapata y Villa",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "show_name": "RTC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "06:02",
+      "end_time": "06:07",
       "episode_description": ""
     },
     {
-      "show_name": "Se define la serie de la reina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "El once inicial",
+      "show_name": "Once noticias a las seis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "06:07",
+      "end_time": "09:30",
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Junto a Angélica Rivera y Guadalupe Contreras, el público podrá informarse al completo sobre la realidad."
+    },
+    {
+      "show_name": "Diálogos en confianza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dialogos-en-confianza-s25e54-hablemos-del-sindrome-de-down_l_m.jpg",
+      "show_category": "Temporada 25 Episodio 54 - Hablemos del síndrome de down",
+      "start_time": "09:30",
+      "end_time": "11:30",
+      "episode_description": "Talk Show donde los especialistas y el público generan un espacio de interacción rico en propuestas sobre diversos aspectos de interés de la vida diaria."
+    },
+    {
+      "show_name": "Aprender a envejecer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 17 Episodio 58 - Carnavales en México: historia y tradición",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Programa en vivo y con público presente conducido por Patricia Kelly, quien a través de de especialistas, explora las formas que hay para lograr una larga y placentera vida ayudando a fomentar la cultura del envejecimiento activo."
+    },
+    {
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "12:00",
+      "end_time": "12:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
+    },
+    {
+      "show_name": "El fantasma del convento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-fantasma-del-convento-1934_l_m.jpg",
+      "show_category": "Drama / 1934",
+      "start_time": "12:03",
+      "end_time": "13:30",
+      "episode_description": "Dos hombres y una mujer tienen un accidente y se encuentran perdidos en la noche. Un misterioso sujeto les señala que pueden refugiarse en un convento de las cercanías. Una terrorífica velada espera a los visitantes."
+    },
+    {
+      "show_name": "Conmemoraciones",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_conmemoraciones-s03e21-zacatlan-de-las-manzanas-donde-se-resguarda-el-tiempo_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 21 - Zacatlán de las manzanas, donde se resguarda el tiempo",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Conmemoraciones es una serie que, durante el año en curso presenta, en cada capítulo, un programa sobre fechas emblemáticas de los acontecimientos históricos más relevantes ocurridos en México."
+    },
+    {
+      "show_name": "Once noticias a las dos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "El análisis de las noticias más destacadas de la jornada."
+    },
+    {
+      "show_name": "A + A, Amor y Amistad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 49 - Adopta conmigo",
+      "start_time": "15:00",
+      "end_time": "15:55",
+      "episode_description": "Programa que busca concienciar y sensibilizar sobre la responsabilidad que significa tener animales, su cuidado, alimentación, adiestramiento y todo lo necesario para mantenerlos sanos y felices."
+    },
+    {
+      "show_name": "RTC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc_l_m.jpg",
+      "show_category": "Variedades",
+      "start_time": "15:55",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Escuela de rugidos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_escuela-de-rugidos-s01e36-ay-voladro_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 36 - Ay Voladro",
+      "start_time": "16:00",
+      "end_time": "16:07",
+      "episode_description": "Voladro no puede evitar ser un sabelotodo en clase y accidentalmente molesta a la tímia Minibú. ¿Podrá arreglar las cosas con ella a tiempo para la hora dorada?"
+    },
+    {
+      "show_name": "Sam y Julia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 62 - Demasiadas veces",
+      "start_time": "16:07",
+      "end_time": "16:30",
+      "episode_description": "Tonio no puede dejar de hacer bromas una vez más. Sam y Julia están hartos, hasta que un día empiezan a preguntarse si es solo otra broma o si Tonio realmente tiene problemas."
+    },
+    {
+      "show_name": "Alma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 22",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
+    },
+    {
+      "show_name": "Juani y Gatón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_juani-y-gaton-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - El Show de Talentos de Juani y Gatón",
+      "start_time": "17:00",
+      "end_time": "17:07",
+      "episode_description": "El abuelo no encuentra la foto del increíble animal acuático que relaja con su canto. Así que para encontrarlo Juani y Gatón conducen el primer show de talentos bajo el mar."
+    },
+    {
+      "show_name": "Amigas/os on",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 25",
+      "start_time": "17:07",
+      "end_time": "17:15",
+      "episode_description": "Serie de cápsulas sobre lo que les interesa y les gusta hacer a niñas y niños; cocina, naturaleza, palabras, inventos, arte y misterios. Descubre junto a ellos cosas sorprendentes."
+    },
+    {
+      "show_name": "La orquestita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - La clonación",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Vale quiere ser una gran directora coral. Pero el coro no parece estar a la altura, faltan integrantes. Un accidente con una máquina clonadora les dará los cantantes que precisan. Pero estos cantantes no parecen estar del todo preparados."
+    },
+    {
+      "show_name": "Extraño escuadrón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 30 - El curioso caso de la piratitis / Oscar, el sofá",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Otto y Oscar tratan de evitar que Olive se convierta en pirata. / Por accidente, Oscar se convierte en un sofá."
+    },
+    {
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "18:00",
+      "end_time": "18:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
+    },
+    {
+      "show_name": "Historias de vida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_historias-de-vida-eraclio-zepeda_l_m.jpg",
+      "show_category": "- Eraclio Zepeda",
+      "start_time": "18:03",
+      "end_time": "18:30",
+      "episode_description": "Una serie que muestra la vida y trayectoria de hombres y mujeres que han trascendido por su obra en el ámbito de la cultura mexicana, y han logrado el reconocimiento nacional e internacional."
+    },
+    {
+      "show_name": "Aprender en comunidad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aprender-en-comunidad-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - San Luis Potosí. Miguela Vite",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Con la lideresa Miguela Vite Sandoval, se descubre la comunidad de Barrio El Tamarindo, en San Luis Potosí, así como la labor de las comunidades del campo y la importancia que tiene para ellos la educación de sus hijos."
+    },
+    {
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "19:00",
+      "end_time": "19:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
+    },
+    {
+      "show_name": "Relatos de mujeres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Lola Álvarez Bravo",
+      "start_time": "19:03",
+      "end_time": "19:30",
+      "episode_description": "Las historias de mujeres apasionadas e inspiradoras, fuera de todo estereotipo, cuyas acciones fueron determinantes en su época y trascendieron en el tiempo."
+    },
+    {
+      "show_name": "Lugares secretos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_lugares-secretos-s03e08-ficheras-y-sexicomedia_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 8 - Ficheras y sexicomedia",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Una mezcla de viajes, elementos de la cultura pop, revelaciones de destinos turísticos y personajes que trascienden en distintos ámbitos de México y el mundo."
+    },
+    {
+      "show_name": "Perspectivas históricas Once",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 12 - La nueva escuela mexicana",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Serie que buscar generar reflexiones amplias y diversas sobre temas de actualidad desde una perspectiva histórica. De la mano de historiadores, se ofrecen herramientas para comprender el presente en base a hechos del pasado."
+    },
+    {
+      "show_name": "Ciudad infinita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 7 - La vida es un juego, carnal:...",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "La serie \"Ciudad infinita\" es una invitación a reflexionar sobre la Ciudad de México."
+    },
+    {
+      "show_name": "Punto de referencia - Tu noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Un espacio dedicado a lo mejor del fútbol mundial."
-    },
-    {
-      "show_name": "La historia en el Once",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 7 - Réquiem por Leona Vicario... . 1",
-      "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": "Retrata el juicio después de la muerte de Leona Vicario con el propósito de que sea nombrada \"Benemérita y Dulcísima Madre de la Patria\"."
+      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
     },
     {
-      "show_name": "Operación mamut",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/operación-mamut.webp",
-      "show_category": "Temporada 8 Episodio 10",
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 40",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "Programa de humor político en el que las noticias de cada día son la materia prima de una puesta en escena crítica y divertida sobre el acontecer nacional e internacional."
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "Ayer, hoy y mañana",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xeipn-canal-11/today/ayer-hoy-y-mañana.webp",
-      "show_category": "Ieri, oggi, domani",
+      "show_name": "El niño y la niebla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-nino-y-la-niebla-1953_l_m.jpg",
+      "show_category": "Drama / 1953",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Tres historias de diferentes parejas en 3 contextos sociales distintos. En cada caso, los protagonistas son Sophia Loren y Marcello Mastroianni."
+      "episode_description": "Martha es una mujer con familiares esquizofrénicos y se niega a tener descendencia para evitar transmitir la enfermedad a sus hijos. Cuando su novio le propone matrimonio, huye de la ciudad de México con un ingeniero de Pemex."
     }
   ]
 }
