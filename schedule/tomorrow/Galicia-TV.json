@@ -1,9 +1,9 @@
 {
   "channel": "Galicia TV",
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "schedule": [
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Conexión Galicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -23,14 +23,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "03:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pulso activo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:45",
       "end_time": "03:55",
       "episode_description": ""
     },
@@ -55,22 +47,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "06:50",
+      "end_time": "06:46",
       "episode_description": ""
     },
     {
-      "show_name": "Galicia Noticias Mañá",
+      "show_name": "Mira ti",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:50",
-      "end_time": "07:25",
+      "start_time": "06:46",
+      "end_time": "06:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia Noticias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:54",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal mediodía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:25",
+      "start_time": "07:30",
       "end_time": "08:15",
       "episode_description": ""
     },
@@ -179,18 +179,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Galegos no mundo",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
-      "end_time": "22:11",
+      "end_time": "20:45",
       "episode_description": ""
     },
     {
-      "show_name": "Conexión Galicia",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:11",
+      "start_time": "20:45",
+      "end_time": "21:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor na rede",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:20",
       "end_time": "00:00",
       "episode_description": ""
     }

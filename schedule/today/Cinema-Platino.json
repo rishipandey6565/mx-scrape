@@ -1,22 +1,134 @@
 {
   "channel": "Cinema Platino",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
-      "show_name": "Justicia implacable",
+      "show_name": "Condor",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/condor.jpg",
+      "show_category": "Suspenso",
+      "start_time": "00:00",
+      "end_time": "00:48",
+      "episode_description": "Joe Turner (Max Irons) siempre ha estado en conflicto sobre su trabajo para la CIA. Pero cuando algo que descubrió hace que maten a toda su oficina, dejando a Joe como el único superviviente y obligándolo a huir, las reservas teóricas que siempre alberga se convierten en dilemas morales demasiados reales. Bajo presión de vida o muerte, Joe se verá obligado a redefinir quién es y de lo que es capaz para descubrir quien está detrás de esta conspiración de largo alcance, y evitar que completen su objetivo mortal que amenaza la vida de millones."
+    },
+    {
+      "show_name": "El hijo del diablo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:33",
+      "start_time": "00:48",
+      "end_time": "02:25",
       "episode_description": ""
     },
     {
-      "show_name": "Mi ex es un Espía",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Cinema-Platino/today/mi-ex-es-un-espía.webp",
-      "show_category": "Acción",
-      "start_time": "22:37",
-      "end_time": "00:41",
-      "episode_description": "Audrey (Mila Kunis) y Morgan (Kate McKinnon), dos mejores amigas de treinta años en Los Ángeles, se ven envueltas inesperadamente en una conspiración internacional cuando el ex novio de Audrey aparece en su departamento con un equipo de asesinos mortales persiguiéndolo. Sorprendidas incluso para ellas, el dúo se pone en acción, huyendo de los asesinos en toda Europa y de un agente británico sospechoso pero encantador, mientras elaboran un plan para salvar al mundo."
+      "show_name": "El captor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:25",
+      "end_time": "04:02",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Luchando con mi Familia",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/luchando_con_mi_familia.jpg",
+      "show_category": "Biografía",
+      "start_time": "04:02",
+      "end_time": "05:56",
+      "episode_description": "Basada en la increíble historia real de la estrella de la WWE, Paige (Florence Pugh). Nacida de una familia muy unida de luchadores, Paige y su hermano Zak (Jack Lowden) se quedan sorprendidos cuando tienen la oportunidad única en la vida de intentar entrar en la WWE. Pero cuando solo Paige se gana un lugar en el programa de entrenamiento competitivo, debe dejar a su familia y enfrentarse a este nuevo mundo despiadado. El Viaje de Paige la empuja a profundizar, luchar por su familia y, finalmente, demostrarle al mundo que lo que la hace diferente es lo que la puede convertir en una estrella."
+    },
+    {
+      "show_name": "Un holograma para el rey",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:56",
+      "end_time": "07:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:33",
+      "end_time": "08:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "En la playa de Chesil",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:04",
+      "end_time": "09:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:47",
+      "end_time": "10:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mientras Estés Conmigo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:18",
+      "end_time": "12:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:15",
+      "end_time": "12:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Familia Addams",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:46",
+      "end_time": "14:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Familia Addams 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:16",
+      "end_time": "15:52",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paddington",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:52",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El triunfo del espíritu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "19:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor a la Italiana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:46",
+      "end_time": "21:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Condor",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/condor.jpg",
+      "show_category": "Suspenso",
+      "start_time": "21:23",
+      "end_time": "00:43",
+      "episode_description": "Joe Turner (Max Irons) siempre ha estado en conflicto sobre su trabajo para la CIA. Pero cuando algo que descubrió hace que maten a toda su oficina, dejando a Joe como el único superviviente y obligándolo a huir, las reservas teóricas que siempre alberga se convierten en dilemas morales demasiados reales. Bajo presión de vida o muerte, Joe se verá obligado a redefinir quién es y de lo que es capaz para descubrir quien está detrás de esta conspiración de largo alcance, y evitar que completen su objetivo mortal que amenaza la vida de millones."
     }
   ]
 }

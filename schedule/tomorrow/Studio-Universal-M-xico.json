@@ -1,36 +1,44 @@
 {
   "channel": "Studio Universal (México)",
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "schedule": [
     {
-      "show_name": "Sangre, sudor y gloria",
+      "show_name": "Los Infiltrados",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:40",
+      "end_time": "01:15",
       "episode_description": ""
     },
     {
-      "show_name": "Amigos por siempre",
+      "show_name": "Criaturas de la noche",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:40",
-      "end_time": "02:45",
+      "start_time": "01:15",
+      "end_time": "03:15",
       "episode_description": ""
     },
     {
-      "show_name": "Mack & Rita",
+      "show_name": "El príncipe y yo II",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:45",
-      "end_time": "04:20",
+      "start_time": "03:15",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "#Xmas",
+      "show_name": "Hollywood On Set",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:20",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood on Set",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -43,83 +51,75 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood on Set",
+      "show_name": "Los Boxtrolls",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "07:00",
+      "end_time": "08:10",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood On Set",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Mejor de mis Bodas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "09:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Anaconda",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:15",
-      "end_time": "10:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Misión imposible 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:55",
-      "end_time": "13:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mission: Impossible -- Ghost Protocol",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:10",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mission: Impossible Rogue Nation",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "RoboCop",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/tomorrow/robocop.webp",
+      "show_name": "Spider-Man: Sin Camino a Casa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_sin_camino_a_casa.jpg",
       "show_category": "Acción",
-      "start_time": "17:50",
-      "end_time": "20:00",
-      "episode_description": "En un futuro no muy lejano un policía de la ciudad de Detroit llamado Alex J. Murphy (Peter Weller) persigue a una banda de delincuentes pero es atrapado y acribillado a balazos al punto que es dado por muerto pero una compañía llamada OCP, que es la encargada de mostrar un producto para combatir el crimen lleva a cabo la tarea de utilizar a este hombre para convertirlo en un ciborg que ayude a combatir el crimen."
+      "start_time": "08:10",
+      "end_time": "10:50",
+      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
     },
     {
-      "show_name": "El origen",
+      "show_name": "Uncharted: Fuera del Mapa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/uncharted_fuera_del_mapa.jpg",
+      "show_category": "Acción",
+      "start_time": "10:50",
+      "end_time": "13:00",
+      "episode_description": "El astuto Nathan Drake (Tom Holland) es reclutado por el experimentado cazador de tesoros Victor \"Sully\" Sullivan (Mark Wahlberg) para recuperar una fortuna amasada por Ferdinand Magellan y perdida hace 500 años por la Casa de Moncada. Lo que comienza como un trabajo de atraco para el dúo se convierte en una carrera de trotamundos y nudillos blancos para alcanzar el premio antes que el despiadado Santiago Moncada (Antonio Banderas), quien cree que él y su familia son los herederos legítimos. Si Nate y Sully pueden descifrar las pistas y resolver uno de los misterios más antiguos del mundo, podrán encontrar $5 mil millones en tesoros y tal vez incluso al hermano perdido de Nate... pero solo si pueden aprender a trabajar juntos."
+    },
+    {
+      "show_name": "Batman inicia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "15:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Batman El caballero de la noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:25",
+      "end_time": "18:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rápido y Furioso",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/rapido_y_furioso.jpg",
+      "show_category": "Acción",
+      "start_time": "18:05",
+      "end_time": "20:00",
+      "episode_description": "Tienen la adrenalina y las máquinas malas, pero, sobre todo, tienen una necesidad extrema de velocidad. En las calles cargadas de turbo de Los Ángeles, cada noche es una carrera de campeonato. Con la furia potenciada por el nitro, Dominic Toretto (Vin Diesel), gobierna el camino convirtiendo a todos sus rivales en polvo. Él y su rival, Johnny Tran (Rick Yune) son los más audaces, los más malos y los mejores. Pero ahora, hay nueva rabia en el camino. Saben que es duro, saben que es rápido, pero lo que no saben es que es un detective demoníaco de la velocidad (Paul Walker) con suficiente empuje y determinación para salir victorioso. Con una intensa acción a toda velocidad, increíbles acrobacias a alta velocidad y pedal a fondo hasta la máxima intensidad, este asalto rápido y furioso te pone en el asiento del conductor y te desafía a superar todos los límites."
+    },
+    {
+      "show_name": "+Rápido +Furioso",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "22:35",
+      "end_time": "21:55",
       "episode_description": ""
     },
     {
-      "show_name": "Los Infiltrados",
+      "show_name": "Limitless",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:35",
-      "end_time": "01:15",
+      "start_time": "21:55",
+      "end_time": "23:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tirador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:50",
+      "end_time": "02:05",
       "episode_description": ""
     }
   ]

@@ -1,36 +1,52 @@
 {
   "channel": "TCM (México)",
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "schedule": [
     {
       "show_name": "Operación Mar Rojo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:05",
+      "end_time": "00:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noche infernal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:24",
+      "end_time": "01:48",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:05",
-      "end_time": "02:39",
+      "start_time": "01:48",
+      "end_time": "02:25",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:39",
-      "end_time": "02:49",
+      "start_time": "02:25",
+      "end_time": "02:38",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:49",
+      "start_time": "02:38",
+      "end_time": "02:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:48",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -47,95 +63,135 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:37",
-      "end_time": "03:50",
+      "end_time": "04:14",
       "episode_description": ""
     },
     {
-      "show_name": "El Árbol de la Vida",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:50",
-      "end_time": "06:43",
+      "start_time": "04:14",
+      "end_time": "04:24",
       "episode_description": ""
     },
     {
-      "show_name": "Scary girl",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:43",
-      "end_time": "08:16",
+      "start_time": "04:24",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
-      "show_name": "Hombres de presa",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:16",
-      "end_time": "10:34",
+      "start_time": "04:33",
+      "end_time": "04:43",
       "episode_description": ""
     },
     {
-      "show_name": "El Valle de la Venganza",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:34",
-      "end_time": "12:02",
+      "start_time": "04:43",
+      "end_time": "04:53",
       "episode_description": ""
     },
     {
       "show_name": "Meet Me in St. Louis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:02",
-      "end_time": "14:01",
+      "start_time": "04:53",
+      "end_time": "06:51",
       "episode_description": ""
     },
     {
       "show_name": "El Misterio de la Felicidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:01",
-      "end_time": "15:40",
+      "start_time": "06:51",
+      "end_time": "08:27",
       "episode_description": ""
     },
     {
       "show_name": "El precio de un hombre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:40",
-      "end_time": "17:18",
+      "start_time": "08:27",
+      "end_time": "10:05",
       "episode_description": ""
     },
     {
       "show_name": "Esperando la Carroza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:18",
-      "end_time": "19:00",
+      "start_time": "10:05",
+      "end_time": "11:47",
       "episode_description": ""
     },
     {
-      "show_name": "El rey del once",
+      "show_name": "El día que robaron el Banco de Inglaterra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:22",
+      "start_time": "11:47",
+      "end_time": "13:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ben-hur",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:16",
+      "end_time": "16:58",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Historias de Filadelfia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:58",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "4x4",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:22",
-      "end_time": "21:59",
+      "start_time": "19:00",
+      "end_time": "20:36",
       "episode_description": ""
     },
     {
-      "show_name": "Operación Mar Rojo",
+      "show_name": "El Lobista",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:59",
-      "end_time": "00:24",
+      "start_time": "20:36",
+      "end_time": "21:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Lobista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:34",
+      "end_time": "22:31",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Noche infernal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:31",
+      "end_time": "23:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Cartero llama dos veces",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:55",
+      "end_time": "01:54",
       "episode_description": ""
     }
   ]

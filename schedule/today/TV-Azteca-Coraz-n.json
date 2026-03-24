@@ -1,68 +1,52 @@
 {
   "channel": "TV Azteca Corazón",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
-      "show_name": "Maratón Todo por amor",
+      "show_name": "La loba",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:12",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Maratón Todo por amor",
+      "show_name": "Cambio de vida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:12",
+      "start_time": "00:00",
       "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un día cualquiera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujeres rompiendo el silencio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
       "show_name": "Cosas de la vida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maratón La otra cara del alma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:15",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maratón La otra cara del alma",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:45",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Maratón La otra cara del alma",
+      "show_name": "Lo que la gente cuenta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:45",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maratón La otra cara del alma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Maratón La otra cara del alma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:15",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -152,6 +136,54 @@
       "show_category": "",
       "start_time": "17:00",
       "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La otra cara del alma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Todo por amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Así en el barrio como en el cielo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quererte así",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Huérfanas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La loba",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

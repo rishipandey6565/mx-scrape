@@ -1,9 +1,9 @@
 {
   "channel": "TVC Deportes",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
-      "show_name": "Especial LMB",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto CIBACOPA",
+      "show_name": "Liga Mexicana de Softbol",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,10 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "RPM",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -35,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto CIBACOPA",
+      "show_name": "Baloncesto Liga ACB",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -43,55 +59,71 @@
       "episode_description": ""
     },
     {
-      "show_name": "Voleibol Liga Mexicana",
+      "show_name": "Tvc Deportes Total",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
-      "end_time": "10:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Voleibol Liga Mexicana",
+      "show_name": "Baloncesto CIBACOPA",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "12:00",
+      "start_time": "09:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Fútbol: Previa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
-      "end_time": "15:00",
+      "start_time": "11:00",
+      "end_time": "11:45",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Al Día",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
+      "start_time": "11:45",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Tvc Deportes Al Día",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
+      "start_time": "14:00",
       "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Béisbol sin fronteras",
+      "show_name": "Fútbol: Post",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tvc Deportes Al Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Quinto cuarto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Todo Deporte DW",
+      "show_name": "Tvc Deportes Al Día",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -99,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Baloncesto Liga ACB",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -131,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Liga Mexicana de Softbol",
+      "show_name": "Fútbol Femenino UEFA Champions League",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:15",

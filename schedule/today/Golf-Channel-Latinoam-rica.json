@@ -1,20 +1,36 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour Champions",
+      "show_name": "Golf LPGA",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf Central",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -23,14 +39,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golf Central",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -39,91 +47,83 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:30",
+      "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "5 Clubs with Gary Williams",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "09:30",
+      "start_time": "07:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "5 Clubs with Gary Williams",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Golf Today",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
-      "end_time": "14:30",
+      "start_time": "09:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
       "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:30",
-      "end_time": "16:30",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Golf fix",
+      "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
+      "start_time": "12:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Argentina Golf Destination",
+      "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:30",
+      "start_time": "13:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "International Golf",
+      "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "Golf Central",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:00",
+      "start_time": "15:00",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "International Golf",
+      "show_name": "Golf Today",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "International Golf",
+      "show_name": "Golf LPGA",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
+      "start_time": "17:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Paco Aleman Confidencial",
+      "show_name": "Studio golftv",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Golf fix",
+      "show_name": "Studio golftv",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -139,11 +139,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "The Big Swing with Jimmy Roberts",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "00:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf PGA Tour",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "03:00",
       "episode_description": ""
     }
   ]
