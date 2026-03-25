@@ -1,117 +1,109 @@
 {
   "channel": "HBO Mundi",
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "schedule": [
     {
-      "show_name": "La Llegada (2016)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/la-llegada-2016.webp",
-      "show_category": "Ciencia Ficción",
-      "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": "Una nave extraña aterriza en el planeta, el Coronel Weber (Forest Whitaker), llega a la universidad donde trabaja la experta en lingüística Louise Banks (Amy Adams) para que le ayude a descifrar un mensaje que ha dejado esta nave. Louise junto con un equipo de élite comandados por Ian Donnelly (Jeremy Renner) deberán descifrar lo que ellos quieren y porque están allí, y evitar que se desate una guerra mundial. Tendrán que poner en peligro sus vidas y seguramente, las de toda la humanidad."
-    },
-    {
-      "show_name": "Sed de Mal",
+      "show_name": "HBO Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:20",
+      "start_time": "00:00",
+      "end_time": "00:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Francotirador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:45",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Unas vacaciones forzadas",
+      "show_name": "The Color Purple",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:50",
+      "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Daddio",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Mundi/today/daddio.webp",
+      "show_name": "La Chica Danesa",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_chica_danesa.jpg",
+      "show_category": "Biografía",
+      "start_time": "05:30",
+      "end_time": "07:35",
+      "episode_description": "Un amor ficticio inspirado en las vidas de los artistas Daneses Lili Elbe (Eddie Redmayne) y Gerda Wegener (Alicia Vikander). El matrimonio entre Lili y Gerda y el trabajo evoluciona mientras se aventura en la primera transformación de género del mundo."
+    },
+    {
+      "show_name": "Orgullo y prejuicio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:35",
+      "end_time": "09:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Dos Reinas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_dos_reinas.jpg",
+      "show_category": "Biografía",
+      "start_time": "09:50",
+      "end_time": "12:00",
+      "episode_description": "Explora la turbulenta vida de la carismática María Estuardo (Saoirse Ronan). Reina de Francia a los 16 y viuda a los 18, Mary desafía la presión para volver a casarse. En cambio, ella regresa a su Escocia natal para reclamar su trono legítimo. Pero Escocia e Inglaterra están bajo el dominio de la convincente Isabel I (Margot Robbie). Cada joven reina contempla a su \"hermana\" con miedo y fascinación. Rivales en el poder y en el amor, y las mujeres regentes en un mundo masculino, las dos deben decidir cómo jugar el juego del matrimonio contra la independencia. Determinada a gobernar como mucho más que una figura decorativa, María I afirma su reclamo al trono inglés, amenazando la soberanía de Isabel I. La traición, la rebelión y las conspiraciones dentro de cada corte ponen en peligro ambos tronos – y el cambio del curso de la historia."
+    },
+    {
+      "show_name": "Priscilla",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/priscilla.jpg",
+      "show_category": "Biografía",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": "Cuando la adolescente Priscila Beaulieu (Cailee Spaeny) conoce a Elvis Presley (Jacob Elordi) en una fiesta, el hombre que ya es una superestrella meteórica del rock and roll se convierte en alguien completamente inesperado en los momentos privados: un enamoramiento emocionante, un aliado en la soledad, un mejor amigo vulnerable. A través de los ojos de Priscilla, Sofia Coppola cuenta el lado invisible de un gran mito americano en el largo noviazgo y el turbulento matrimonio de Elvis y Priscilla, desde una base militar alemana hasta su finca de ensueño en Graceland, en este retrato de amor, fantasía y fama profundamente sentido y detallado."
+    },
+    {
+      "show_name": "On Swift Horses",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "16:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Damned",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:05",
+      "end_time": "17:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nosferatu",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:40",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Shaman",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Animales Nocturnos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/animales_nocturnos.jpg",
       "show_category": "Drama",
-      "start_time": "04:50",
-      "end_time": "06:35",
-      "episode_description": "Ciudad de Nueva York. Aeropuerto JFK. Una mujer joven se sube al asiento trasero de un taxi amarillo, el taxista pone el vehículo en marcha y ambos se adentran en la noche hacia Manhattan, entablando una conversación de lo más inesperada que desemboca en un viaje único, épico y extraordinario."
+      "start_time": "21:40",
+      "end_time": "23:40",
+      "episode_description": "Susan Morrow (Amy Adams) es una galerista con mucho éxito en ventas de arte, pero una noche todo cambia cuando recibe un paquete, que cuando lo abre se da cuenta que es un libro escrito por su ex esposo Edward Sheffield (Jake Gyllenhaal). Además del libro el paquete contiene una carta donde Edward le dice que cuando ella termine de leer el libro él la llamará."
     },
     {
-      "show_name": "Prófugo por accidente",
+      "show_name": "El exorcismo de Emily Rose",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:35",
-      "end_time": "08:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rey Richard Una familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:25",
-      "end_time": "10:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Intrusos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:55",
-      "end_time": "12:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las chicas de Wall",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:40",
-      "end_time": "14:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Leyenda del Caballero Verde",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:25",
-      "end_time": "16:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Gattaca experimento genético",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:40",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La sustancia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El esquema fenicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:55",
-      "end_time": "23:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "HBO Movies",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:45",
-      "end_time": "00:45",
+      "start_time": "23:40",
+      "end_time": "01:45",
       "episode_description": ""
     }
   ]

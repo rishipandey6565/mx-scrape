@@ -1,44 +1,60 @@
 {
   "channel": "Film & Arts",
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "schedule": [
     {
-      "show_name": "Wallander",
+      "show_name": "Mi vieja y querida dama",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "La librería",
+      "show_name": "Il Volo en Agrigento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
-      "end_time": "03:00",
+      "start_time": "00:05",
+      "end_time": "02:15",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "Film&Arts Desde El West End T",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:55",
+      "start_time": "02:15",
+      "end_time": "03:05",
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "John Wayne - América a toda co",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:55",
-      "end_time": "04:50",
+      "start_time": "03:05",
+      "end_time": "04:05",
       "episode_description": ""
     },
     {
-      "show_name": "Wallander",
+      "show_name": "La vida en el paso Bugatti",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:50",
+      "start_time": "04:05",
+      "end_time": "05:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "All Creatures Great & Small T",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Revelaciones",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -51,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La librería",
+      "show_name": "Mi vieja y querida dama",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -59,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "In C un ballet de Sasha Walt",
+      "show_name": "Kafka El Proceso - Ballet Nac",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -75,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "All Creatures Great & Small T",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -83,47 +99,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "El síndrome Helsinki",
+      "show_name": "El amor de Yves Saint Laurent",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "14:00",
+      "end_time": "14:55",
       "episode_description": ""
     },
     {
-      "show_name": "Wallander",
+      "show_name": "Mi vieja y querida dama",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La librería",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:45",
-      "end_time": "17:50",
+      "start_time": "14:55",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
       "show_name": "The Graham Norton Show",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:50",
-      "end_time": "18:50",
+      "start_time": "17:00",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "Il Volo en Agrigento",
+      "show_name": "Los payasos de Hofesh Shechter",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:50",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La imparable Shirley Maclaine",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "All Creatures Great & Small T",
+      "show_name": "Patience",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -131,11 +147,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mi vieja y querida dama",
+      "show_name": "Patience",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:05",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "McDonald & Dodds",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "00:40",
       "episode_description": ""
     }
   ]

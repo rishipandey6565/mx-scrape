@@ -1,52 +1,44 @@
 {
   "channel": "AMC (México)",
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "schedule": [
+    {
+      "show_name": "Misión Imposible 5",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:25",
+      "episode_description": ""
+    },
     {
       "show_name": "Juegos del Hambre Sinsajo, 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:10",
+      "start_time": "00:25",
+      "end_time": "02:50",
       "episode_description": ""
     },
     {
       "show_name": "Drive acción máxima velocidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:10",
-      "end_time": "02:00",
+      "start_time": "02:50",
+      "end_time": "04:40",
       "episode_description": ""
     },
     {
-      "show_name": "El Vengador Del Futuro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Triple identidad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:55",
-      "episode_description": ""
+      "show_name": "Rambo",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/rambo_primera_sangre.jpg",
+      "show_category": "Acción",
+      "start_time": "04:40",
+      "end_time": "06:25",
+      "episode_description": "Un veterano de Vietnam de voz suave se desplaza a un pequeño pueblo pacíficamente sin buscar problemas, pero los encuentra en la forma de un alguacil local psicótico que encuentra placer en odiarlo sin razón alguna. Después de ser encerrado en la cárcel local, se escapa al bosque cercano donde se convierte en un ejército de un solo hombre empeñado en vengarse. Cuando las cosas se salen de control, el ex coronel del veterinario entra con el ejército para convencerlo de que abandone el enfrentamiento."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:55",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:25",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -115,51 +107,59 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Diario de Bridget Jones",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "12:55",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Bridget jones",
+      "show_name": "Planet Action",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:55",
-      "end_time": "14:50",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los tres mosqueteros Milady",
+      "show_name": "El bebé de Bridget Jones",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:50",
-      "end_time": "17:10",
+      "start_time": "12:00",
+      "end_time": "14:10",
       "episode_description": ""
     },
     {
-      "show_name": "Jumanji: El Siguiente Nivel",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/jumanji-el-siguiente-nivel.webp",
-      "show_category": "Acción",
-      "start_time": "17:10",
-      "end_time": "19:20",
-      "episode_description": "La pandilla ha vuelto pero el juego ha cambiado. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas e inexploradas, desde los áridos desiertos hasta las montañas nevadas, para escapar del juego más peligroso del mundo."
+      "show_name": "El Conde de Montecristo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:10",
+      "end_time": "17:15",
+      "episode_description": ""
     },
     {
       "show_name": "Transformers 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/transformers-2.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_2.jpg",
       "show_category": "Acción",
-      "start_time": "19:20",
-      "end_time": "22:00",
+      "start_time": "17:15",
+      "end_time": "19:55",
       "episode_description": "Sam (Shia LaBeouf) y Mikaela (Megan Fox) trataran de mantener su relación a distancia cuando él ingresa a la universidad. Pero todo está por cambiar cuando su mente empieza a percibir símbolos criptográficos en su mente. Ahora los Decepticons lo buscan para sacar la información valiosa que estos símbolos poseen. Los Autobots deberán proteger a Sam e impedir que los Decepticons se apoderen de los símbolos de su mente."
     },
     {
-      "show_name": "Misión Imposible 5",
+      "show_name": "RoboCop",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/robocop.jpg",
+      "show_category": "Acción",
+      "start_time": "19:55",
+      "end_time": "22:00",
+      "episode_description": "En un futuro no muy lejano un policía de la ciudad de Detroit llamado Alex J. Murphy (Peter Weller) persigue a una banda de delincuentes pero es atrapado y acribillado a balazos al punto que es dado por muerto pero una compañía llamada OCP, que es la encargada de mostrar un producto para combatir el crimen lleva a cabo la tarea de utilizar a este hombre para convertirlo en un ciborg que ayude a combatir el crimen."
+    },
+    {
+      "show_name": "Vértigo",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:25",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
