@@ -1,98 +1,90 @@
 {
   "channel": "Canal 44 - udgtv",
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "schedule": [
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "00:00",
       "end_time": "00:02",
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Fuerza latina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 389",
+      "show_name": "Rompe el alba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rompe-el-alba-1988_l_m.jpg",
+      "show_category": "Biográfico / 1988",
       "start_time": "00:02",
-      "end_time": "00:30",
-      "episode_description": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan."
-    },
-    {
-      "show_name": "Los juicios de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 6 - El proceso contra Filomeno Mata",
-      "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "El establecimiento y desarrollo de las primeras fundidoras de hierro en Durango, así como la historia de la industria minera en la región dio lugar a diversas pugnas por la explotación de los recursos minerales."
+      "episode_description": "Pedro González fue el primer presentador mexicano de un programa de radio de habla hispana en California donde, por defender los derechos de los inmigrantes, fue víctima del racismo y falsas acusaciones que lo llevaron a la cárcel."
     },
     {
-      "show_name": "Arte vivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 6 - Krysia González y Marco Zamudio",
+      "show_name": "¿Cómo te afecta?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 81",
       "start_time": "01:00",
       "end_time": "01:30",
-      "episode_description": "Un espacio en el que artistas visuales de distintas diciplinas, comparten cuáles son sus intereses, pasiones y fuentes de inspiración. El público podrá descubrir a las personas detrás de la obra y profundizar sobre los procesos creativos."
+      "episode_description": "Ernesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de jóvenes."
     },
     {
-      "show_name": "Enamórate de Oaxaca",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 2 - San Antonio Cuajimoloyas",
+      "show_name": "Calles con historia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_calles-con-historia-s02e03-chapultepec_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 3 - Chapultepec",
       "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Realizaremos un viaje con David a San Antonio Cuajimoloyas, prepara a tu familia o amigos para pasar unos días en las cabañas dentro de la población o en el bosque, pasear por los diferentes miradores del lugar, caminar sobre el puente..."
+      "episode_description": "Historia desde que Chapultepec era considerado un lugar sagrado hasta la actualidad. Lugar donde se creo un acuedúcto prehispánico para abastecer de agua a Tenochtitlan y hoy es un espacio que salvarguarda a la Ciudad de México."
     },
     {
       "show_name": "Cartas sobre la mesa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Episodio 391 - Paraguay: el peso de la represa de Itaipú",
       "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": "La represa binacional más importante de Paraguay vuelve al centro del debate. Itaipú no solo representa una fuente estratégica de energía, sino también una discusión de fondo sobre soberanía, desarrollo y relación con Brasil."
     },
     {
-      "show_name": "Eco Latinoamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/eco-latinoamérica.webp",
-      "show_category": "Episodio 152",
+      "show_name": "NCC Salud",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ncc-salud-s00e294_l_m.jpg",
+      "show_category": "Episodio 294",
       "start_time": "02:30",
       "end_time": "03:00",
-      "episode_description": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región."
+      "episode_description": "El Noticiero Científico y Cultural Iberoamericano asume el reto de llevar a sus pantallas una tercera emisión semanal con contenido específico para el cuidado de lo más importante: la salud de las personas."
     },
     {
-      "show_name": "Minuto 44",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/minuto-44.webp",
-      "show_category": "Minuto 44",
+      "show_name": "La tribunera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-la-tribunera_l_m.jpg",
+      "show_category": "La tribunera",
       "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "Acércate a las actividades de los atletas poniendo bajo la lupa todas las disciplinas deportivas en este espacio, donde distintos personajes exponen sus puntos de vista sobre diferentes temas relacionados con la vida en este mundo."
+      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
     },
     {
-      "show_name": "Para tomarlo en cuenta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/para-tomarlo-en-cuenta.webp",
-      "show_category": "Temporada 2 Episodio 132 - Mundial 2026: golazo a la crisis social, política y de justicia en Jalisco",
+      "show_name": "Vidas y bebidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vidas-y-bebidas-s03e11-ponche-de-granada_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 11 - Ponche de granada",
       "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Los únicos indicadores que difunden los gobiernos para la realización del mundial en México son los económicos que benefician al turismo ¿Peor y lo social?"
+      "episode_description": "El ponche es la bebida típica representativa del Pueblo Mágico de Comala y uno de los secretos culinarios más queridos y populares de la entidad."
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/desde-el-zoológico.webp",
-      "show_category": "Episodio 67 - Emergencia orangután",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico-s00e671-pesaje-de-pequenas-especies_l_m.jpg",
+      "show_category": "Episodio 671 - Pesaje de pequeñas especies",
       "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "El día a día dentro del Zoológico Guadalajara, no está exento a situaciones que rompen con la tranquilidad del parque y que en ocasiones pone a prueba a los médicos veterinarios tanto de CIMBA como de los que están de encargados de las..."
+      "episode_description": "Seguimos conociendo las formas en que los médicos veterinarios del zoológico Guadalajara pesan a sus ejemplares, una actividad que pareciera sencilla, pero, cada individuo de cada especie implica un reto."
     },
     {
-      "show_name": "Con todo respeto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/con-todo-respeto.webp",
-      "show_category": "Episodio 283",
+      "show_name": "Territorio reportaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 282 - Transporte público, un servicio incompleto - Parte IV",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "Este es el México de lo posible. Sí, en el que todo ocurre. En un país tan contrastante, las noticias tienen muchas aristas. Abrimos el diálogo con un toque mordaz e irónico."
+      "episode_description": "Cerca de 20,000 hectáreas de la ciudad careciendo un servicio formal de transporte público, si nos atenemos a las cifras oficiales de 24% de la urbe sin la presencia de camiones o trenes."
     },
     {
       "show_name": "Himno nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/himno-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
       "show_category": "Cultural",
       "start_time": "06:00",
       "end_time": "06:02",
@@ -100,23 +92,23 @@
     },
     {
       "show_name": "44 en el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "06:02",
       "end_time": "06:15",
       "episode_description": "Reportajes, ciencia, tecnología y más. Toda la actualidad internacional desde un punto de vista novedoso, crítico y veraz."
     },
     {
-      "show_name": "NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/ncc.webp",
-      "show_category": "Noticiero",
+      "show_name": "Iberoamérica en órbita - Noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "06:15",
       "end_time": "06:30",
-      "episode_description": "El NCC es una ventana para el conocimiento, el progreso y el trabajo que las comunidades de investigación, artísticas y científicas realizan día a día, en su propio campo de acción, para beneficio de las poblaciones iberoamericanas."
+      "episode_description": "Un informativo que visibiliza las actividades de innovación y difusión tecnológica en Iberoamérica. La conductora Ana Cristina Olvera presenta diversos reportajes que acercan los últimos avances al público."
     },
     {
       "show_name": "Noticiero NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/noticiero-ncc.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-ncc_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "06:30",
       "end_time": "07:00",
@@ -124,7 +116,7 @@
     },
     {
       "show_name": "UDG Noticias - Emisión matutina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "07:00",
       "end_time": "09:00",
@@ -132,71 +124,71 @@
     },
     {
       "show_name": "DW noticias",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/dw-noticias.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dw-noticias_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": "El noticiero de la DW prioriza el desarrollo de las historias de América Latina desde una perspectiva europea. Muestra los temas que afectan a las personas en todo el mundo con más profundidad y análisis de primera mano."
     },
     {
-      "show_name": "Fil de bolsillo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 11",
+      "show_name": "Dosis de ciencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 18 - Botox",
       "start_time": "09:30",
       "end_time": "09:33",
-      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
+      "episode_description": ""
     },
     {
-      "show_name": "Iberoamérica en órbita - Noticiero",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Periodístico",
+      "show_name": "Entresitio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 5 - Narradoras latinoamericanas del siglo XXI",
       "start_time": "09:33",
       "end_time": "10:00",
-      "episode_description": "Un informativo que visibiliza las actividades de innovación y difusión tecnológica en Iberoamérica. La conductora Ana Cristina Olvera presenta diversos reportajes que acercan los últimos avances al público."
+      "episode_description": "En el siglo XXI, la narrativa latinoamericana escrita por mujeres ha ganado una presencia decisiva al cuestionar un canon históricamente configurado desde perspectivas masculinas."
     },
     {
-      "show_name": "¿Cómo te afecta?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 81",
+      "show_name": "Enlaces",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 399",
       "start_time": "10:00",
       "end_time": "10:30",
-      "episode_description": "Ernesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de jóvenes."
+      "episode_description": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política."
     },
     {
-      "show_name": "Calles con historia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/calles-con-historia.webp",
-      "show_category": "Temporada 2 Episodio 3 - Chapultepec",
+      "show_name": "La oveja eléctrica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-electrica-s18e12-neurociencia-salud-mental-y-adicciones_l_m.jpg",
+      "show_category": "Temporada 18 Episodio 12 - Neurociencia, salud mental y adicciones",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Historia desde que Chapultepec era considerado un lugar sagrado hasta la actualidad. Lugar donde se creo un acuedúcto prehispánico para abastecer de agua a Tenochtitlan y hoy es un espacio que salvarguarda a la Ciudad de México."
+      "episode_description": "Es una revista científica que presenta una manera dinámica y profunda de acercase a la ciencia. Aborda temas de interés general apoyado con entrevistas a personalidades del ramo de talla mundial que se destacan por su trabajo..."
     },
     {
-      "show_name": "Al máximo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/al-máximo.webp",
-      "show_category": "Al máximo",
+      "show_name": "La tribunera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-la-tribunera_l_m.jpg",
+      "show_category": "La tribunera",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
+      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
     },
     {
-      "show_name": "Cartas sobre la mesa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 391 - Paraguay: el peso de la represa de Itaipú",
+      "show_name": "Sótanos del joder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 214 - La ZMG contra el agua de tamarindo",
       "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "La represa binacional más importante de Paraguay vuelve al centro del debate. Itaipú no solo representa una fuente estratégica de energía, sino también una discusión de fondo sobre soberanía, desarrollo y relación con Brasil."
+      "episode_description": "Pasó que sabíamos que iba a pasar: no hay agua y cuando hay, llega sucia y maloliente."
     },
     {
-      "show_name": "Sabroso y saludable",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/sabroso-y-saludable.webp",
-      "show_category": "Temporada 1 Episodio 9 - Lomito de cerdo con pipián",
+      "show_name": "La cocina de mi abuela",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-cocina-de-mi-abuela-s01e07-mute_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 7 - Mute",
       "start_time": "12:30",
       "end_time": "13:00",
-      "episode_description": "A través del episodio, el público podrá descubrir cómo preparar un Lomito de cerdo con pipián. El arte culinario y sabor de la cocina mexicana se hacen presente en este menú mientras el cocinero le ofrece al público diversos consejos."
+      "episode_description": "Un deleite al paladar con los mejores platos de los 40 municipios de Norte de Santander"
     },
     {
       "show_name": "UDG Noticias - Emisión vespertina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "13:00",
       "end_time": "15:00",
@@ -204,7 +196,7 @@
     },
     {
       "show_name": "En directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/en-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_en-directo_l_m.jpg",
       "show_category": "Entrevista",
       "start_time": "15:00",
       "end_time": "16:30",
@@ -212,83 +204,83 @@
     },
     {
       "show_name": "Desde el zoológico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/desde-el-zoológico.webp",
-      "show_category": "Episodio 671 - Pesaje de pequeñas especies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desde-el-zoologico-s00e645-nacimiento-de-casquito_l_m.jpg",
+      "show_category": "Episodio 645 - Nacimiento de Casquito",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Seguimos conociendo las formas en que los médicos veterinarios del zoológico Guadalajara pesan a sus ejemplares, una actividad que pareciera sencilla, pero, cada individuo de cada especie implica un reto."
+      "episode_description": "Por primera vez bajo cuidado profesional en un zoológico mexicano, nació un ejemplar de la tortuga más pequeña del mundo y que es micro endémica: la tortuga casquito de Vallarta, y es así como el Zoológico Guadalajara y el equipo de..."
     },
     {
-      "show_name": "Fil de bolsillo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 11",
+      "show_name": "Dosis de ciencia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 18 - Botox",
       "start_time": "17:00",
       "end_time": "17:03",
-      "episode_description": "Un espacio donde compartimos una breve recomendación literaria y hablamos sobre diversos autores."
-    },
-    {
-      "show_name": "Noticiero NCC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/noticiero-ncc.webp",
-      "show_category": "Noticiero",
-      "start_time": "17:03",
-      "end_time": "17:30",
-      "episode_description": "Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias."
-    },
-    {
-      "show_name": "Arte vivo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 6 - Krysia González y Marco Zamudio",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Un espacio en el que artistas visuales de distintas diciplinas, comparten cuáles son sus intereses, pasiones y fuentes de inspiración. El público podrá descubrir a las personas detrás de la obra y profundizar sobre los procesos creativos."
-    },
-    {
-      "show_name": "RT reporta",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- México: rituales controvertidos",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "\"Hacer más con menos\" es hoy en Cuba un lema más vigente que nunca. La reestructuración de la economía es actualmente uno de los proyectos fundamentales en la Isla."
-    },
-    {
-      "show_name": "En camino",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Vive al extremo",
-      "start_time": "18:30",
-      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "La tribunera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/la-tribunera.webp",
-      "show_category": "La tribunera",
+      "show_name": "NCC Reporte climático",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 242 - Economía circular: la segunda vida de la tecnología",
+      "start_time": "17:03",
+      "end_time": "17:30",
+      "episode_description": "Vivimos en una era digital. Nuestros dispositivos tecnológicos nos conectan, nos informan y nos entretienen, pero este progreso tiene un costo oculto y creciente: montañas de basura electrónica."
+    },
+    {
+      "show_name": "¿Cómo te afecta?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 81",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Ernesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de jóvenes."
+    },
+    {
+      "show_name": "Al máximo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_magazine-al-maximo_l_m.jpg",
+      "show_category": "Al máximo",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Programa de revista enfocado en la gente para que conozca, interactúe y se informe de todos los deportes que se practican en el ámbito local."
+    },
+    {
+      "show_name": "Perspectivas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_perspectivas_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Transmisión en la que están incluidos tanto el deporte nacional como los eventos de gran impacto a nivel global; lo relevante y lo menos llamativo de todas las disciplinas bajo la mirada de sus anfitriones."
+      "episode_description": "Ciudadanos y analistas plantean la política desde sus propias perspectivas. La mesa y el espacio están abiertos para el debate y la reflexión sobre diversos temas en donde la audiencia es el primer invitado."
     },
     {
       "show_name": "UDG Noticias - Emisión nocturna",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "20:00",
       "end_time": "22:00",
       "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad."
     },
     {
-      "show_name": "Territorio reportaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 282 - Transporte público, un servicio incompleto - Parte IV",
+      "show_name": "Sótanos del joder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 215 - La psicosis del código rojo tras la caída de \"El Mencho\"",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Cerca de 20,000 hectáreas de la ciudad careciendo un servicio formal de transporte público, si nos atenemos a las cifras oficiales de 24% de la urbe sin la presencia de camiones o trenes."
+      "end_time": "22:30",
+      "episode_description": "Francisco Jiménez Reynoso baja al sótano para recordarle a las autoridades que han pasado más de 15 años desde los primeros bloqueos en la ciudad por hechos del crimen organizado, y desde entonces, no han existido."
     },
     {
-      "show_name": "Rompe el alba",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-44-udgtv/tomorrow/rompe-el-alba.webp",
-      "show_category": "Biográfico / 1988",
-      "start_time": "23:00",
+      "show_name": "Signos vitales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Cirugía fetal",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Un grupo de médicos mexicanos salvan la vida de un bebé mediante una cirugía practicada cuando aún estaba en el vientre de su madre."
+    },
+    {
+      "show_name": "UDG Noticias deportivas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Pedro González fue el primer presentador mexicano de un programa de radio de habla hispana en California donde, por defender los derechos de los inmigrantes, fue víctima del racismo y falsas acusaciones que lo llevaron a la cárcel."
+      "episode_description": "Manténgase informado sobre toda la actualida deportiva."
     }
   ]
 }
