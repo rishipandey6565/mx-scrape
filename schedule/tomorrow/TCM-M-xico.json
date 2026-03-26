@@ -1,36 +1,28 @@
 {
   "channel": "TCM (México)",
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "schedule": [
+    {
+      "show_name": "Mutiny on the Bounty",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:04",
+      "episode_description": ""
+    },
     {
       "show_name": "El Cartero llama dos veces",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:54",
+      "start_time": "00:04",
+      "end_time": "02:03",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:54",
-      "end_time": "02:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:31",
-      "end_time": "02:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:45",
+      "start_time": "02:03",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -39,87 +31,95 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:06",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Day They Robbed the Bank of England",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:06",
-      "end_time": "05:37",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ben-hur",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:37",
-      "end_time": "09:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Philadelphia Story",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:25",
-      "end_time": "11:26",
-      "episode_description": ""
-    },
-    {
-      "show_name": "She Wore a Yellow Ribbon",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:26",
-      "end_time": "13:17",
+      "end_time": "04:33",
       "episode_description": ""
     },
     {
       "show_name": "King Solomon's Mines",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:17",
-      "end_time": "15:06",
+      "start_time": "04:33",
+      "end_time": "06:23",
       "episode_description": ""
     },
     {
       "show_name": "The Treasure of the Sierra Madre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:06",
-      "end_time": "17:25",
+      "start_time": "06:23",
+      "end_time": "08:39",
       "episode_description": ""
     },
     {
       "show_name": "Nocturne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:25",
+      "start_time": "08:39",
+      "end_time": "10:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daughter of the Bride",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:14",
+      "end_time": "11:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Julius Caesar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:55",
+      "end_time": "14:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Mating Game",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:04",
+      "end_time": "15:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Quo Vadis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:50",
       "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Lobista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:58",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Lobista",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:58",
-      "end_time": "20:56",
       "episode_description": ""
     },
     {
       "show_name": "Mutiny on the Bounty",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:56",
-      "end_time": "00:04",
+      "start_time": "19:00",
+      "end_time": "22:11",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La fragilidad de los cuerpos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:11",
+      "end_time": "23:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La fragilidad de los cuerpos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:04",
+      "end_time": "23:57",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Delivered",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:57",
+      "end_time": "01:19",
       "episode_description": ""
     }
   ]

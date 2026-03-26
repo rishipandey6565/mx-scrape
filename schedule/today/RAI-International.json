@@ -1,6 +1,6 @@
 {
   "channel": "RAI International",
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "schedule": [
     {
       "show_name": "TG Rai News",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "TG1 + Cinque minuti",
+      "show_name": "TG1",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -139,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Udienza Papale",
+      "show_name": "GEN Z",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -163,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Il meglio di Geo",
+      "show_name": "TGR Leonardo",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il meglio di Geo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
       "end_time": "16:15",
       "episode_description": ""
     },
@@ -203,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Montalbano L'etá del dubbio",
+      "show_name": "Le libere donne",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -211,18 +219,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Porta a Porta",
+      "show_name": "Il confronto",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
-      "end_time": "22:15",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Porta a Porta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "22:45",
       "episode_description": ""
     },
     {
       "show_name": "TG Rai News",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:15",
+      "start_time": "22:45",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,52 +1,36 @@
 {
   "channel": "TCM (México)",
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "schedule": [
     {
-      "show_name": "Operación Mar Rojo",
+      "show_name": "El Cartero llama dos veces",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noche infernal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:24",
-      "end_time": "01:48",
+      "end_time": "01:54",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:48",
-      "end_time": "02:25",
+      "start_time": "01:54",
+      "end_time": "02:31",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:25",
-      "end_time": "02:38",
+      "start_time": "02:31",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:38",
-      "end_time": "02:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:48",
+      "start_time": "02:45",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -55,143 +39,87 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:37",
+      "end_time": "04:06",
       "episode_description": ""
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "The Day They Robbed the Bank of England",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:37",
-      "end_time": "04:14",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:14",
-      "end_time": "04:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:24",
-      "end_time": "04:33",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:33",
-      "end_time": "04:43",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:43",
-      "end_time": "04:53",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Meet Me in St. Louis",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:53",
-      "end_time": "06:51",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Misterio de la Felicidad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:51",
-      "end_time": "08:27",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El precio de un hombre",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:27",
-      "end_time": "10:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Esperando la Carroza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:05",
-      "end_time": "11:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El día que robaron el Banco de Inglaterra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:47",
-      "end_time": "13:16",
+      "start_time": "04:06",
+      "end_time": "05:37",
       "episode_description": ""
     },
     {
       "show_name": "Ben-hur",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:16",
-      "end_time": "16:58",
+      "start_time": "05:37",
+      "end_time": "09:25",
       "episode_description": ""
     },
     {
-      "show_name": "Historias de Filadelfia",
+      "show_name": "The Philadelphia Story",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:58",
+      "start_time": "09:25",
+      "end_time": "11:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "She Wore a Yellow Ribbon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:26",
+      "end_time": "13:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "King Solomon's Mines",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:17",
+      "end_time": "15:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Treasure of the Sierra Madre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:06",
+      "end_time": "17:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nocturne",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:25",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "4x4",
+      "show_name": "El Lobista",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:36",
+      "end_time": "19:58",
       "episode_description": ""
     },
     {
       "show_name": "El Lobista",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:36",
-      "end_time": "21:34",
+      "start_time": "19:58",
+      "end_time": "20:56",
       "episode_description": ""
     },
     {
-      "show_name": "El Lobista",
+      "show_name": "Mutiny on the Bounty",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:34",
-      "end_time": "22:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noche infernal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:31",
-      "end_time": "23:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Cartero llama dos veces",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:55",
-      "end_time": "01:54",
+      "start_time": "20:56",
+      "end_time": "00:04",
       "episode_description": ""
     }
   ]

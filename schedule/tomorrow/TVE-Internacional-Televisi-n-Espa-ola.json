@@ -1,12 +1,28 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "schedule": [
     {
-      "show_name": "Víctimas del misterio",
+      "show_name": "Cine",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Viaje al centro de la tele",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:10",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Telediario matinal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
       "end_time": "00:50",
       "episode_description": ""
     },
@@ -63,30 +79,38 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:40",
-      "end_time": "12:35",
+      "end_time": "12:45",
       "episode_description": ""
     },
     {
       "show_name": "Malas Lenguas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:35",
-      "end_time": "13:30",
+      "start_time": "12:45",
+      "end_time": "13:35",
       "episode_description": ""
     },
     {
       "show_name": "Aqui la tierra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:55",
+      "start_time": "13:35",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Telediario 2",
+      "show_name": "Noticias 24 H",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:55",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Reportaje informe semanal 24h",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
       "end_time": "14:45",
       "episode_description": ""
     },
@@ -127,14 +151,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:35",
-      "end_time": "18:25",
+      "end_time": "18:35",
       "episode_description": ""
     },
     {
       "show_name": "Aqui la tierra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:25",
+      "start_time": "18:35",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -143,23 +167,47 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "19:30",
+      "end_time": "19:35",
       "episode_description": ""
     },
     {
-      "show_name": "La revuelta",
+      "show_name": "Al cielo con ella",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "22:00",
+      "start_time": "19:35",
+      "end_time": "20:35",
       "episode_description": ""
     },
     {
-      "show_name": "Cine",
+      "show_name": "Cachitos de hierro y cromo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "00:10",
+      "start_time": "20:35",
+      "end_time": "21:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cachitos de hierro y cromo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:35",
+      "end_time": "22:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cachitos de hierro y cromo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:35",
+      "end_time": "23:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Españoles en el mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:35",
+      "end_time": "00:25",
       "episode_description": ""
     }
   ]
