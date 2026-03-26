@@ -3,36 +3,28 @@
   "date": "26/03/2026",
   "schedule": [
     {
-      "show_name": "Factor Fintec",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_factor-fintec_l_m.jpg",
-      "show_category": "Economía",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Es el primer programa que abarca el futuro de las finanzas y la tecnologia en Mexico y el mundo. Nos muestra las oportiunidades de que ofrece el sector y medios de pago alternativos"
-    },
-    {
-      "show_name": "A ke no sabías",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Turismo",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Un programa que explora destinos únicos, sabores extraordinarios y reflexiones sobre viajar, redefiniendo el consumo de contenido en México, y creando inspiración en los que tienen ganas de vivir experiencias sorprendentes y memorables."
-    },
-    {
       "show_name": "Al cierre",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
     },
     {
       "show_name": "Con Ortega a las diez",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
+    },
+    {
+      "show_name": "Bloomberg The Opening Trade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
+      "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
     },
     {
       "show_name": "Bloomberg Brief",
@@ -75,12 +67,12 @@
       "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
     },
     {
-      "show_name": "Bloomberg Deals",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_name": "Bloomberg Markets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-markets_l_m.jpg",
       "show_category": "Negocios",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Conoce las últimas novedades sobre fusiones y adquisiciones, IPO, SPAC, inversores activistas y mucho más."
+      "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
     },
     {
       "show_name": "Bloomberg Balance of Power",
@@ -171,12 +163,12 @@
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Gabinete de seguridad",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gabinete-de-seguridad_l_m.jpg",
-      "show_category": "Periodístico",
+      "show_name": "Al cierre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Programa dedicado a analizar la problemática de seguridad nacional y seguridad pública en México y el mundo así como su impacto en el país."
+      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
     }
   ]
 }

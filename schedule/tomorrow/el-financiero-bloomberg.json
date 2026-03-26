@@ -3,26 +3,18 @@
   "date": "27/03/2026",
   "schedule": [
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
-      "show_category": "Noticiero",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
-    },
-    {
       "show_name": "Con Ortega a las diez",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
       "show_name": "Bloomberg The Opening Trade",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
-      "start_time": "02:00",
+      "start_time": "01:00",
       "end_time": "03:00",
       "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
     },
@@ -67,12 +59,12 @@
       "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
     },
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-markets_l_m.jpg",
-      "show_category": "Negocios",
+      "show_name": "Bloomberg Real Yield",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-real-yield_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
+      "episode_description": "Edición que muestra un enfoque analítico de los más relevantes temas globales y eventos que afectan directamente los mercados de deuda, a nivel nacional e internacional, con un toque informativo y veraz."
     },
     {
       "show_name": "Bloomberg Balance of Power",
@@ -147,12 +139,12 @@
       "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
     },
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
-      "show_category": "Noticiero",
+      "show_name": "Aldea global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
     },
     {
       "show_name": "Con Ortega a las diez",
@@ -163,12 +155,12 @@
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
-      "show_category": "Noticiero",
+      "show_name": "Aldea global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
     }
   ]
 }
