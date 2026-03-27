@@ -1,141 +1,205 @@
 {
   "channel": "HBO Signature Latinoamérica",
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "schedule": [
-    {
-      "show_name": "Robin Williams Entre en mi",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mary Tyler Moore La dama",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:55",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Faye Entre luces y sombras",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fiebre del Espacio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:40",
-      "end_time": "06:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fahrenheit 451",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Signature-Latinoam-rica/tomorrow/fahrenheit-451.webp",
-      "show_category": "Drama",
-      "start_time": "06:20",
-      "end_time": "08:05",
-      "episode_description": "Guy Montag (Michael B. Jordan), un joven bombero que lucha con su puesto de policía mientras pelea con su mentor, el capitán de bomberos Beatty (Michael Shannon). Clarisse (Sofia Boutella), una informante atrapada entre los intereses contrapuestos entre Montag y Beatty. Raven (Lilly Singh), una periodista sensacionalista, encargada de difundir la propaganda y transmitir las incursiones incendiarias de los bomberos."
-    },
-    {
-      "show_name": "Mary Tyler Moore La dama",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:05",
-      "end_time": "10:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hijo nativo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:10",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:05",
-      "end_time": "14:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:10",
-      "end_time": "15:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:15",
-      "end_time": "16:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:20",
-      "end_time": "17:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:25",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The White Lotus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un Corazón Normal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:20",
-      "episode_description": ""
-    },
     {
       "show_name": "Taylor Mac 24 décadas de",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
+      "start_time": "00:00",
       "end_time": "01:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Love to Love You, Donna Summer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:10",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El diablo no descansa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:41",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La vida y obra de Ralph Lauren",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:41",
+      "end_time": "05:36",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Siempre, Luis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:36",
+      "end_time": "06:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De la escuela a la prisión",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:35",
+      "end_time": "07:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Confirmación",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:17",
+      "end_time": "09:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:12",
+      "end_time": "09:56",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:56",
+      "end_time": "10:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:32",
+      "end_time": "11:06",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:06",
+      "end_time": "11:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:46",
+      "end_time": "12:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:26",
+      "end_time": "13:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Palacio De Joe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:05",
+      "end_time": "15:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:05",
+      "end_time": "15:51",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:51",
+      "end_time": "16:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:26",
+      "end_time": "17:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:01",
+      "end_time": "17:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:40",
+      "end_time": "18:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caballero de los Siete Reinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:20",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como agua para chocolate",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "DTF St. Louis",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rooster",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:54",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The Comeback",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Oslo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:05",
+      "end_time": "00:08",
       "episode_description": ""
     }
   ]

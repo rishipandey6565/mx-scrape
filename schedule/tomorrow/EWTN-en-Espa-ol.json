@@ -1,49 +1,57 @@
 {
   "channel": "EWTN en Español",
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "schedule": [
     {
-      "show_name": "Norte",
+      "show_name": "Sabeth:Beata Isabel de la Trinidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Si lo hubiera sabido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
+      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "Razón y fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "01:50",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a la preciosísima sangre de Jesús",
+      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:50",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas, Navegamos en Cristo",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Iglesia en Camino Panamá",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al Sagrado Corazón de Jesús",
+      "show_name": "Letanía a la bendita Virgen María",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:50",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santo Rosario en el aniversario del tránsito de la madre Angélica",
+      "show_name": "Mi Ratito con Jesús",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Norte",
+      "show_name": "Mis Angelitos",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas, Navegamos en Cristo",
+      "show_name": "La Quinta Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -131,26 +139,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Misa por la madre Angélica",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:15",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Letanía al santísimo sacramento",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:15",
-      "end_time": "10:30",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "Iglesia en Camino Panamá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
+      "start_time": "10:00",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -179,31 +187,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Via Crucis en el aniversario del tránsito de Madre Angélica",
+      "show_name": "Letanía a la bendita Virgen María",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Adoración eucarística desde la capilla de EWTN",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:20",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Explora con El cazador de milagros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Sabeth:Beata Isabel de la Trinidad",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Norte",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas, Navegamos en Cristo",
+      "show_name": "Si lo hubiera sabido",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -211,15 +227,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -227,7 +251,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Explora con El cazador de milagros",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -235,23 +259,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Informe provida",
+      "show_name": "Iglesia en Camino Panamá",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De Dos en Dos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Norte",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -259,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cristonautas, Navegamos en Cristo",
+      "show_name": "Yo decido: Fundamentos de la ética",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
@@ -267,15 +283,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Lo Mejor de la Madre Angélica",
+      "show_name": "Clásicos Católicos: Madre Angélica Presenta",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clásicos Católicos: Viviendo las Escrituras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -283,7 +307,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Kerigma de Amor",
+      "show_name": "Razón y fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -291,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Reforma",
+      "show_name": "Hacer familia: Cómo educar a los hijos según San Pablo",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -307,11 +331,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sabeth:Beata Isabel de la Trinidad",
+      "show_name": "Tertulias de fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
