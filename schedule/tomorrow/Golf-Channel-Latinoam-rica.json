@@ -1,20 +1,28 @@
 {
   "channel": "Golf Channel (Latinoamérica)",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Golf PGA Tour",
+      "show_name": "Golf PGA Korn Ferry Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "03:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PGA TOUR: The CUT",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
       "show_name": "Golf DP World Tour",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
+      "start_time": "01:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -23,14 +31,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "07:30",
+      "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Golf DP World Tour",
+      "show_name": "Golf PGA Tour Champions",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
+      "start_time": "06:30",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Golf PGA Tour",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -43,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "PGA tour",
+      "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -51,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Smylie Show",
+      "show_name": "Vanity Index Podcast",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -83,11 +99,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Golf PGA Korn Ferry Tour",
+      "show_name": "Golf PGA Tour",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "04:00",
       "episode_description": ""
     }
   ]

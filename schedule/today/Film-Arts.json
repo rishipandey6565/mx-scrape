@@ -1,141 +1,109 @@
 {
   "channel": "Film & Arts",
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "schedule": [
     {
-      "show_name": "McDonald & Dodds",
+      "show_name": "El oso brigsby",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:40",
+      "end_time": "01:50",
       "episode_description": ""
     },
     {
-      "show_name": "En el camino",
+      "show_name": "Steven Spielberg, el prodigio",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:40",
-      "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La imparable Shirley Maclaine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "McDonald & Dodds",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Revelaciones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Graham Norton Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Kafka El Proceso - Ballet Nac",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "09:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ute Lemper Canciones para la",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:10",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La imparable Shirley Maclaine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patience",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Patience",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La imparable Shirley Maclaine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:55",
-      "end_time": "14:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En el camino",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:55",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Graham Norton Show",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:20",
+      "start_time": "01:50",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Teatro Real W.A. Mozart Cosi",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:20",
-      "end_time": "22:00",
+      "start_time": "02:45",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
-      "show_name": "Invierno profundo",
+      "show_name": "Vivaldi y Mozart en el Louvre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:55",
+      "start_time": "06:25",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Teatro Real W.A. Mozart Cosi",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Il Volo en Agrigento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:10",
       "episode_description": ""
     },
     {
       "show_name": "El oso brigsby",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:55",
-      "end_time": "01:50",
+      "start_time": "13:10",
+      "end_time": "15:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Invierno profundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:05",
+      "end_time": "17:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Steven Spielberg, el prodigio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:05",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los payasos de Hofesh Shechter",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "18:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "McDonald & Dodds",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:35",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vera",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Grandes amigos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

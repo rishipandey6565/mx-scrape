@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "El club del deseo",
+      "show_name": "Nuevo Mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,30 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
+      "end_time": "00:05",
       "episode_description": ""
     },
     {
-      "show_name": "Noches en vela",
+      "show_name": "100% grupero",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De pata de perro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "00:05",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Himno del Estado de México",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Patrimonio mundial",
+      "show_name": "Todo deporte",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:10",
@@ -67,23 +59,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Salud en Casa",
+      "show_name": "De Nuestra Videoteca",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Chaski, el investigador",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Ver y creer",
+      "show_name": "La guarida de los libros",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Exploramundos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fuerza TV",
+      "show_name": "Arki, el guardacuentos",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -91,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "A la conquista del sabor",
+      "show_name": "La posta",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -99,18 +107,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Enjambre universitario",
+      "show_name": "Ver y creer",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Acento mexiquense",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": ""
     },
@@ -119,59 +119,131 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
-      "end_time": "11:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Huellas",
+      "show_name": "Destino Verde",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:30",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Voces sociales mexiquenses",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zoológicos en Acción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Secretos familiares",
+      "show_name": "¿Y tú, tú que vas a hacer?",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mitos culinarios",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Música Para Mirar",
+      "show_name": "Senderos y destinos",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De puesto en puesto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Tiendita de la Esquina",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Súper Concierto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Su casa EDOMEX",
+      "show_name": "Reporte mexiquense",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Reinventándonos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "100% grupero",
+      "show_name": "R3t",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cinescape",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Su casa EDOMEX",
+      "show_name": "Balance Dominical",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ritmo Deportivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Una historia de vasconia",
+      "show_name": "Los colores de mi tierra",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -179,34 +251,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "El club del deseo",
+      "show_name": "Tap: Taller De Actores Profesionales",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hilo Negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mexiquense Noticias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nuevo Mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }

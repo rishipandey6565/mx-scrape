@@ -1,150 +1,126 @@
 {
   "channel": "HBO Pop",
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "schedule": [
     {
-      "show_name": "¿Quién *&$%! son los Miller?",
+      "show_name": "Como agua para chocolate",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:50",
+      "end_time": "00:54",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un viaje de sobriedad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:54",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Detective por error",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "04:26",
       "episode_description": ""
     },
     {
       "show_name": "Last week tonight",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "01:30",
+      "start_time": "04:26",
+      "end_time": "05:06",
       "episode_description": ""
     },
     {
-      "show_name": "Los trapos sucios se lavan",
+      "show_name": "La Tierra Perdida",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "03:00",
+      "start_time": "05:06",
+      "end_time": "06:49",
       "episode_description": ""
     },
     {
-      "show_name": "Jerrod Carmichael Don't be",
+      "show_name": "Casi el Paraíso",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/casi_el_paraiso.jpg",
+      "show_category": "Drama",
+      "start_time": "06:49",
+      "end_time": "08:46",
+      "episode_description": "Al llegar a México, el Conde Italiano Ugo Conti (Andrea Arcangeli) supo que había encontrado el paraíso: un lugar donde la alta sociedad mexicana se rindió a los pies del joven aristócrata. Alonso Rondia (Miguel Rodarte), – político con sueños de grandeza – ve en Conti su pasaporte al poder ofreciéndole lujos, dinero ilimitado y el corazón de su hija Teresa (Karol Sevilla). Mientras el conde aprovecha su relación con Alonso, se reencontrará con Frida Becker (Esmeralda Pimentel), el amor de su vida, y la única persona que conoce toda la verdad sobre el oscuro pasado que lo persigue."
+    },
+    {
+      "show_name": "Quiero matar a mi jefe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:55",
+      "start_time": "08:46",
+      "end_time": "10:24",
       "episode_description": ""
     },
     {
-      "show_name": "Hasta que la Muerte los Juntó",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/hasta-que-la-muerte-los-juntó.webp",
-      "show_category": "Comedia",
-      "start_time": "03:55",
-      "end_time": "05:40",
-      "episode_description": "Cuando su padre de los Altman pasa a mejor vida, cuatro hermanos adultos – con problemas en sus vidas de mayores – se ven obligados a regresar a la casa donde vivieron de pequeños y vivir bajo el mismo techo junto a su madre durante una semana."
-    },
-    {
-      "show_name": "El maestro luchador",
+      "show_name": "Quiero matar a mi jefe 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:40",
-      "end_time": "07:27",
+      "start_time": "10:24",
+      "end_time": "12:15",
       "episode_description": ""
     },
     {
-      "show_name": "Policias de repuesto",
+      "show_name": "Aves de presa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:27",
-      "end_time": "09:16",
+      "start_time": "12:15",
+      "end_time": "14:05",
       "episode_description": ""
     },
     {
-      "show_name": "Pelea de Maestros",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/today/pelea-de-maestros.webp",
-      "show_category": "Comedia",
-      "start_time": "09:16",
-      "end_time": "10:50",
-      "episode_description": "Andy Campbell (Charlie Day) es un maestro especialista en bromas pesadas y como siempre en el último día del año tiene pensado hacerlo una vez mas, pero las cosas no sadrán del todo bien cuando por accidente se mete con el duro y temido maestro Ron Strickland (Ice Cube), que desafía a Campbell a una pelea cuando se termine el año escolar."
-    },
-    {
-      "show_name": "Malas enseñanzas",
+      "show_name": "DTF St. Louis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:50",
-      "end_time": "12:25",
+      "start_time": "14:05",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Click perdiendo el control",
+      "show_name": "Barbie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:25",
-      "end_time": "14:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "H.Potter y la Piedra Filosofal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:15",
+      "start_time": "15:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "H.Potter y la cámara secreta",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Una Esposa de Mentira",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg",
+      "show_category": "Comedia",
       "start_time": "17:00",
-      "end_time": "20:00",
+      "end_time": "19:00",
+      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
+    },
+    {
+      "show_name": "Loco y estupido amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "21:05",
       "episode_description": ""
     },
     {
-      "show_name": "Rooster",
+      "show_name": "Aves de presa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:30",
+      "start_time": "21:05",
+      "end_time": "22:59",
       "episode_description": ""
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Policias de repuesto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rooster",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:50",
-      "end_time": "23:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:20",
-      "end_time": "23:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Como agua para chocolate",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:55",
-      "end_time": "00:54",
-      "episode_description": ""
+      "show_name": "Noche de Juegos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/noche_de_juegos.jpg",
+      "show_category": "Crimen",
+      "start_time": "22:59",
+      "end_time": "00:49",
+      "episode_description": "Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este \"juego\" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego."
     }
   ]
 }

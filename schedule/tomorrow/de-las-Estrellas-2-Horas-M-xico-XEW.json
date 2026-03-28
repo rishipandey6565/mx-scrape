@@ -1,25 +1,17 @@
 {
   "channel": "de las Estrellas -2 Horas - México (XEW)",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Doménica Montero",
+      "show_name": "La Rosa de Guadalupe",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "En Punto Enrique Acevedo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Código de Investigación",
+      "show_name": "Sin miedo a la verdad",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Iglesia Universal",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "02:30",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Paid Programing",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -59,71 +59,95 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Chapulín Colorado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/de-las-Estrellas-2-Horas-M-xico-XEW/tomorrow/el-chapulín-colorado.webp",
-      "show_category": "Acción",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "El Chapulín Colorado, serie creada por Roberto Gómez Bolaños (Chespirito) que relata las aventuras de un Superhéroe. Transmitida por primera vez en México en 1970 y aceptada por las familias mexicanas y toda Latino América.Reconocido por su Chipote Chillón y por sus divertidas frases como \"Síganme los buenos\" y \"No contaban con mi astucia\"."
-    },
-    {
-      "show_name": "La novicia soñadora",
+      "show_name": "Santo v Los jinetes del terro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:30",
-      "end_time": "10:45",
+      "start_time": "08:00",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Seguiré tus pasos",
+      "show_name": "La niña de la mochila azul",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Carrera Kardias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cuéntamelo Ya...Al Fin!",
+      "show_name": "Más Deporte\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "15:00",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Matar o morir",
+      "show_name": "El hermano capulina",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Acción",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "María la del Barrio",
+      "show_name": "Cash El Peso del Dinero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Piensa rápido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Juego de Voces",
+      "show_name": "Tal para cual",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "21:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Como dice el dicho",
+      "show_name": "Una familia de diez",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
+      "start_time": "20:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vecinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Rosa de Guadalupe",
+      "show_name": "Juego de Voces",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

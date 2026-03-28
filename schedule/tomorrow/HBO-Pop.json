@@ -1,126 +1,118 @@
 {
   "channel": "HBO Pop",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Como agua para chocolate",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Noche de Juegos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/noche_de_juegos.jpg",
+      "show_category": "Crimen",
       "start_time": "00:00",
-      "end_time": "00:54",
-      "episode_description": ""
+      "end_time": "00:49",
+      "episode_description": "Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este \"juego\" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego."
     },
     {
-      "show_name": "Un viaje de sobriedad",
+      "show_name": "Pasante de moda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:54",
+      "start_time": "00:49",
       "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Detective por error",
+      "show_name": "La Delatora",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:26",
+      "end_time": "04:45",
       "episode_description": ""
     },
     {
-      "show_name": "Last week tonight",
+      "show_name": "Bonus Track",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:26",
-      "end_time": "05:06",
+      "start_time": "04:45",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
-      "show_name": "La Tierra Perdida",
+      "show_name": "Y2K",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:06",
-      "end_time": "06:49",
+      "start_time": "06:25",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Casi el Paraíso",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/casi-el-paraíso.webp",
+      "show_name": "Ritmo perfecto",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "09:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Una suegra de cuidado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:55",
+      "end_time": "11:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Quién *&$%! son los Miller?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:40",
+      "end_time": "13:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujer Maravilla 1984",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg",
+      "show_category": "Acción",
+      "start_time": "13:35",
+      "end_time": "16:10",
+      "episode_description": "Sinopsis no disponible."
+    },
+    {
+      "show_name": "Shrek Tercero",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg",
+      "show_category": "Animación",
+      "start_time": "16:10",
+      "end_time": "17:45",
+      "episode_description": "El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”."
+    },
+    {
+      "show_name": "After amor infinito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:45",
+      "end_time": "19:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "After Para siempre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:25",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujer Maravilla 1984",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg",
+      "show_category": "Acción",
+      "start_time": "21:00",
+      "end_time": "23:33",
+      "episode_description": "Sinopsis no disponible."
+    },
+    {
+      "show_name": "Cincuenta Sombras Liberadas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_liberadas.jpg",
       "show_category": "Drama",
-      "start_time": "06:49",
-      "end_time": "08:46",
-      "episode_description": "Al llegar a México, el Conde Italiano Ugo Conti (Andrea Arcangeli) supo que había encontrado el paraíso: un lugar donde la alta sociedad mexicana se rindió a los pies del joven aristócrata. Alonso Rondia (Miguel Rodarte), – político con sueños de grandeza – ve en Conti su pasaporte al poder ofreciéndole lujos, dinero ilimitado y el corazón de su hija Teresa (Karol Sevilla). Mientras el conde aprovecha su relación con Alonso, se reencontrará con Frida Becker (Esmeralda Pimentel), el amor de su vida, y la única persona que conoce toda la verdad sobre el oscuro pasado que lo persigue."
-    },
-    {
-      "show_name": "Quiero matar a mi jefe",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:46",
-      "end_time": "10:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Quiero matar a mi jefe 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:24",
-      "end_time": "12:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aves de presa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:15",
-      "end_time": "14:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "DTF St. Louis",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:05",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Barbie",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una Esposa de Mentira",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/una-esposa-de-mentira.webp",
-      "show_category": "Comedia",
-      "start_time": "17:00",
-      "end_time": "19:00",
-      "episode_description": "Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos."
-    },
-    {
-      "show_name": "Loco y estupido amor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aves de presa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:05",
-      "end_time": "22:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Noche de Juegos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-Pop/tomorrow/noche-de-juegos.webp",
-      "show_category": "Crimen",
-      "start_time": "22:59",
-      "end_time": "00:49",
-      "episode_description": "Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este \"juego\" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego."
+      "start_time": "23:33",
+      "end_time": "01:20",
+      "episode_description": "Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey."
     }
   ]
 }

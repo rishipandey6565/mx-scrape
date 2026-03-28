@@ -1,44 +1,52 @@
 {
   "channel": "22 de México",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Agentes del tiempo",
+      "show_name": "Arroz Amargo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_name": "Shorts México",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:30",
+      "start_time": "00:00",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "La piel de la ciudad",
+      "show_name": "Una de Amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:30",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Honores Policiales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Arroz Amargo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Arquetipas",
+      "show_name": "La Dichosa Palabra",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Inclusión",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hainan, Perla de China",
+      "show_name": "Una historia de vasconia",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La piel de la ciudad",
+      "show_name": "Personajes y escenarios",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -67,79 +75,63 @@
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Clic-Clac!",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
-      "end_time": "09:30",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Hora Nacional",
+      "show_name": "OFUNAM",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:30",
+      "start_time": "12:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Tamayo 40",
+      "show_name": "¡Qué lindo es mi México!",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
+      "start_time": "14:30",
+      "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "Clic-Clac!",
+      "show_name": "Música Hecha en México",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "13:00",
+      "start_time": "15:30",
+      "end_time": "16:30",
       "episode_description": ""
     },
     {
-      "show_name": "Clic-Clac!",
+      "show_name": "Resonante",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
+      "start_time": "16:30",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Clic-Clac!",
+      "show_name": "Jazz, boleros y algo más",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "16:00",
+      "start_time": "17:00",
+      "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Escenarios",
+      "show_name": "El Cancionero y sus Amigos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "17:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tamayo 40",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Una de Amor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
+      "start_time": "18:00",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Léemelo",
+      "show_name": "El Sol a mi Lado",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -147,26 +139,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Dichosa Palabra",
+      "show_name": "Hay un grupo que dice",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Honores Policiales",
+      "show_name": "Grandes Figuras del Arte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "21:30",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Arroz Amargo",
+      "show_name": "Resonante",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Cancionero y sus Amigos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,6 +1,6 @@
 {
   "channel": "PX Sports",
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "schedule": [
     {
       "show_name": "Conexión Surfing",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Morocco Desert Challenge",
+      "show_name": "The Challenge",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Sports Rundown",
+      "show_name": "The Greatest of All Time",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Especial - Fórmula Drift New Jersey 2025",
+      "show_name": "PX News",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Heroines",
+      "show_name": "Locals",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -51,15 +51,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mundo PX",
+      "show_name": "ERS 2024 Rally Serras de Fafe",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Total Combat",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "PX News - Nuevo León",
+      "show_name": "All Blacks Collection",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Week 14",
+      "show_name": "Sport Stars Uncovered",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "400 Thunder",
+      "show_name": "Mundo PX",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -91,15 +99,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sudor y gloria",
+      "show_name": "Abriendo pista",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Africa Eco Race",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:30",
       "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Especial - Nitro Circus Guadalajara 2025",
+      "show_name": "ERS 2024 Rally Serras de Fafe",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -107,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Week 14",
+      "show_name": "Locals",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -115,15 +131,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la bestia",
+      "show_name": "Total Combat",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "PX News",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Especial - Fórmula Drift New Jersey 2025",
+      "show_name": "The Challenge",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -131,15 +155,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "400 Thunder",
+      "show_name": "The Greatest of All Time",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "All Blacks Collection",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
       "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "The Sports Rundown",
+      "show_name": "Sport Stars Uncovered",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -147,23 +179,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Heroines",
+      "show_name": "Mundo PX",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PX News - Nuevo León",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:30",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Sudor y gloria",
+      "show_name": "Conexión Surfing",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -171,99 +195,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fórmula Drift",
+      "show_name": "Abriendo pista",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "16:00",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la bestia",
+      "show_name": "Africa Eco Race",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "17:00",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "GP Macau",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
       "show_name": "Mundo PX",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Morocco Desert Challenge",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
+      "start_time": "17:30",
       "end_time": "18:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "PX News - Nuevo León",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "The Sports Rundown",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Heroines",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Week 31",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Especial - Fórmula Drift New Jersey 2025",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sudor y gloria",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "400 Thunder",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Conexión Surfing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
       "episode_description": ""
     }
   ]

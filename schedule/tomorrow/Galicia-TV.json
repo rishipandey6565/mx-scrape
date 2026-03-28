@@ -1,28 +1,44 @@
 {
   "channel": "Galicia TV",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
-    {
-      "show_name": "Luar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:00",
-      "episode_description": ""
-    },
     {
       "show_name": "O Termómetro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:15",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Parlamento",
+      "show_name": "Vivír o mar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:15",
+      "start_time": "01:00",
+      "end_time": "01:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:35",
+      "end_time": "01:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Polo camiño da fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:40",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La santa misa",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "02:30",
       "episode_description": ""
     },
@@ -31,191 +47,223 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Os nosos maiores",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "03:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Labranza",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "03:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zigzag Diario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:45",
-      "end_time": "04:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Divino Tesouro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:15",
-      "end_time": "04:45",
       "episode_description": ""
     },
     {
       "show_name": "Gaña a Túa Aldea",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
-      "end_time": "05:30",
+      "start_time": "03:15",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Luar",
+      "show_name": "¿Bailamos?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:55",
+      "start_time": "04:00",
+      "end_time": "05:55",
       "episode_description": ""
     },
     {
       "show_name": "Galicia noticias fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:55",
-      "end_time": "07:25",
+      "start_time": "05:55",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal mediodía Fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:25",
-      "end_time": "08:06",
+      "start_time": "06:25",
+      "end_time": "07:06",
       "episode_description": ""
     },
     {
       "show_name": "Deportes Mediodía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:06",
-      "end_time": "08:20",
+      "start_time": "07:06",
+      "end_time": "07:15",
       "episode_description": ""
     },
     {
       "show_name": "No foco",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:20",
-      "end_time": "08:34",
+      "start_time": "07:15",
+      "end_time": "07:34",
       "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:34",
-      "end_time": "08:45",
+      "start_time": "07:34",
+      "end_time": "07:35",
       "episode_description": ""
     },
     {
-      "show_name": "Somos animais",
+      "show_name": "La santa misa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:45",
-      "end_time": "09:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia bonita",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:40",
-      "end_time": "09:55",
+      "start_time": "07:35",
+      "end_time": "07:40",
       "episode_description": ""
     },
     {
       "show_name": "Galicia bonita",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:55",
-      "end_time": "12:30",
+      "start_time": "07:40",
+      "end_time": "08:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Polo camiño da fe",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:05",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Nacer de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "08:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Galicia bonita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:40",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Mira ti",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:58",
+      "start_time": "11:30",
+      "end_time": "12:58",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal serán fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:58",
-      "end_time": "14:50",
+      "start_time": "12:58",
+      "end_time": "13:50",
       "episode_description": ""
     },
     {
       "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:50",
+      "start_time": "13:50",
       "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Somos animais",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:30",
+      "end_time": "15:55",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Expediente oculto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Latitude galega",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:56",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galegos no mundo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:56",
-      "end_time": "18:30",
+      "start_time": "15:55",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal serán fin de semana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:30",
+      "start_time": "17:30",
+      "end_time": "18:20",
       "episode_description": ""
     },
     {
-      "show_name": "Heicho cantar queridina",
+      "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
+      "start_time": "18:20",
+      "end_time": "18:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mira ti",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:23",
+      "end_time": "18:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cos pés na terra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:25",
+      "end_time": "19:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cos pés na terra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:10",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cos pés na terra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "¿Bailamos?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:05",
+      "end_time": "21:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Traballo feito",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:20",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "O Termómetro",
+      "show_name": "Galicia por Diante",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]
