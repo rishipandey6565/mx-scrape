@@ -1,44 +1,60 @@
 {
   "channel": "AMC (México)",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Transformers El Lado Oscuro",
+      "show_name": "Pandorum",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:50",
+      "end_time": "00:00",
       "episode_description": ""
+    },
+    {
+      "show_name": "Caught",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caught",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:35",
+      "end_time": "01:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Rambo II",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/rambo_primera_sangre_parte_ii.jpg",
+      "show_category": "Acción",
+      "start_time": "01:10",
+      "end_time": "02:55",
+      "episode_description": "El ex veterano de guerra es enviado de vuelta al sudeste asiático para probar que aún hay El ex Boina Verde y veterano de Vietnam, John Rambo (Sylvester Stallone), es enviado de vuelta al sudeste asiático para probar de que aún hay prisioneros de guerra, y termina con las manos llenas cuando se enfrenta a los soldados vietnamitas que aún custodian los campos, el ejército ruso que los supervisa, y los funcionarios del Departamento de Estado de los Estados Unidos que aparentemente lo enviaron allí sabiendo que estaría asumiendo una misión condenada."
     },
     {
       "show_name": "Sicario",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "03:00",
+      "start_time": "02:55",
+      "end_time": "05:05",
       "episode_description": ""
     },
     {
-      "show_name": "Sicario: El Día del Soldado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/sicario-el-día-del-soldado.webp",
-      "show_category": "Acción",
-      "start_time": "03:00",
-      "end_time": "05:10",
-      "episode_description": "La guerra contra las drogas en la frontera entre Estados Unidos – México se ha intensificado a medida que los cárteles comenzaron a traficar con terroristas en la frontera con Estados Unidos. Para luchar en la guerra, el agente federal Matt Graver (Josh Brolin) vuelve hacer equipo con el volátil Alejandro (Benicio del Toro)."
-    },
-    {
       "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/tales-of-the-walking-dead.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/tales_of_the_walking_dead.jpg",
       "show_category": "Drama",
-      "start_time": "05:10",
-      "end_time": "06:00",
+      "start_time": "05:05",
+      "end_time": "05:55",
       "episode_description": "Esta esperada expansión del universo de The Walking Dead es un drama episódico que cuenta seis historias independientes y originales centradas en personajes nuevos y establecidos dentro del apocalipsis de los caminantes."
     },
     {
       "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
+      "start_time": "05:55",
       "end_time": "06:30",
       "episode_description": ""
     },
@@ -99,60 +115,76 @@
       "episode_description": ""
     },
     {
-      "show_name": "Siempre a tu lado",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "11:50",
+      "end_time": "10:30",
       "episode_description": ""
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hombres de Negro 3",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro_iii.jpg",
+      "show_category": "Acción",
+      "start_time": "11:35",
+      "end_time": "13:55",
+      "episode_description": "Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad."
     },
     {
       "show_name": "Hércules",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:50",
-      "end_time": "13:40",
+      "start_time": "13:55",
+      "end_time": "15:45",
       "episode_description": ""
     },
     {
-      "show_name": "Hombres de Negro 3",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/today/hombres-de-negro-3.webp",
+      "show_name": "Los tres mosqueteros Milady",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:45",
+      "end_time": "18:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Último Cazador de Brujas",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_ultimo_cazador_de_brujas.jpg",
       "show_category": "Acción",
-      "start_time": "13:40",
-      "end_time": "15:40",
-      "episode_description": "Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad."
-    },
-    {
-      "show_name": "Los tres mosqueteros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:40",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Vértigo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
+      "start_time": "18:05",
       "end_time": "19:55",
-      "episode_description": ""
+      "episode_description": "El último cazador de brujas Kaulder (Vin Diesel), es todo lo que se interpone entre la humanidad y las fuerzas combinadas de las brujas más horripilantes de la historia de la humanidad."
     },
     {
-      "show_name": "Rocky Balboa",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Transformers",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers.jpg",
+      "show_category": "Acción",
       "start_time": "19:55",
       "end_time": "22:00",
-      "episode_description": ""
+      "episode_description": "Una guerra que data de mucho tiempo atrás entre dos razas del planeta Cybertron, Autobots y Decepticons para tomar control de un místico talismán que daría poder ilimitado a quien lo posea. Los Autobots envían el artefacto hacia nuestro planeta, Megatron logra detectar la localización del amuleto y se dirige hacia este. En su llegada al planeta llega al ártico lo que lo hace quedar en estado paralizado hasta que su cuerpo es encontrado por el Capitán Witwicky en una exploración en el polo norte que al descubrir los restos de Megatron este deja grabada su localización en los anteojos del Capitán que pasarán a ser propiedad de su nieto el cual será la clave para salvar al planeta de los planes de los Decepticons."
     },
     {
-      "show_name": "Pandorum",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Transformers 5",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_el_ultimo_caballero.jpg",
+      "show_category": "Ciencia Ficción",
       "start_time": "22:00",
-      "end_time": "00:00",
-      "episode_description": ""
+      "end_time": "00:50",
+      "episode_description": "En la ausencia de Optimus Prime, una batalla por la supervivencia entre Transformers y humanos a comenzado en el planeta tierra. Bumblebee forma una alianza con Cade Yeager (Mark Wahlberg), para descubrir porque los Transformers siguen llegando al planeta. La clave para salvar nuestro futuro está enterrada en los secretos del pasado, la historia oculta de los Transformers en la tierra."
     }
   ]
 }

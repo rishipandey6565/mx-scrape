@@ -1,9 +1,9 @@
 {
   "channel": "Clic",
-  "date": "29/03/2026",
+  "date": "30/03/2026",
   "schedule": [
     {
-      "show_name": "La entrevista de 24: Ficción",
+      "show_name": "La entrevista de 24: Deportes",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "FIA: Carolina Rocha",
+      "show_name": "Mundo metro",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Amor X México",
+      "show_name": "FIA: Carolina Rocha",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Talpa",
+      "show_name": "El gavilán pollero",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hoyo 19",
+      "show_name": "Mostro Garage",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
@@ -83,15 +83,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Ficción",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conecta con Clic",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Caza misterios",
+      "show_name": "Viajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -99,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Caza misterios",
+      "show_name": "Aire",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -107,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Yoga y tu",
+      "show_name": "Mantra",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -115,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Yoga y tu",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Azteca fit",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -131,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Azteca fit",
+      "show_name": "Mamás y Papás",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -139,15 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Estilo",
+      "show_name": "Tecno life",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Coaching",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:00",
       "end_time": "11:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cocinísima",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
@@ -155,23 +171,47 @@
       "episode_description": ""
     },
     {
-      "show_name": "El gavilán pollero",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mundo Venus",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:30",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
       "show_name": "Mesa y cuchara",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mostro Garage",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gastronomía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conecta con Clic",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Viajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -179,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Hoyo 19",
+      "show_name": "Aire",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -187,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pase de abordar",
+      "show_name": "Mantra",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -195,47 +235,95 @@
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Deportes",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gastronomía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rutas de la Vida",
+      "show_name": "Mamás y Papás",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tecno life",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rutas de la Vida",
+      "show_name": "Coaching",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Moda",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "El gavilán pollero",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mesa y cuchara",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mostro Garage",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
       "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mundo Venus",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Conecta con Clic",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
       "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "Sexo, amor y cachondeo",
+      "show_name": "Viajes",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -243,15 +331,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "La revolución de la libertad",
+      "show_name": "Aire",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mantra",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "La galera",
+      "show_name": "Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -259,11 +355,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "La entrevista de 24: Deportes",
+      "show_name": "Gastronomía",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

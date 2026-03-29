@@ -1,52 +1,20 @@
 {
   "channel": "Caracol Internacional",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "El cartel de los sapos El origen",
+      "show_name": "La red",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:45",
       "episode_description": ""
     },
     {
-      "show_name": "Mariana & Scarlett",
+      "show_name": "Sábados Felices",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "De Moda con Ericka",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Random 360",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tu voz estéreo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Diario de Diana",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
+      "start_time": "01:45",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -67,66 +35,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Testigo Directo",
+      "show_name": "Random 360",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:00",
+      "end_time": "06:15",
       "episode_description": ""
     },
     {
-      "show_name": "La Finca de Hoy",
+      "show_name": "Santa misa de Domingo de Ramos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sábados Felices",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Deportes 360",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las mujeres de mi tierra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "start_time": "06:15",
+      "end_time": "08:45",
       "episode_description": ""
     },
     {
       "show_name": "El Diario de Diana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "08:45",
+      "end_time": "09:15",
       "episode_description": ""
     },
     {
-      "show_name": "De Moda con Ericka",
+      "show_name": "Deportes 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:00",
+      "start_time": "09:15",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
-      "show_name": "La Dolce Vita",
+      "show_name": "Random 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
+      "start_time": "09:45",
       "end_time": "10:30",
       "episode_description": ""
     },
@@ -151,19 +95,51 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Deportes 360",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De Moda con Ericka",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Dolce Vita",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Random 360",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
       "show_name": "La red",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
+      "start_time": "15:00",
       "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Se dice de mi",
+      "show_name": "Expediente Final",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -175,63 +151,55 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:45",
+      "end_time": "19:30",
       "episode_description": ""
     },
     {
-      "show_name": "América 360",
+      "show_name": "Los Informantes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:45",
-      "end_time": "19:15",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Séptimo Día",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:30",
       "episode_description": ""
     },
     {
       "show_name": "Una mirada al mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:15",
-      "end_time": "19:45",
+      "start_time": "21:30",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Deportes 360",
+      "show_name": "Las mujeres de mi tierra",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:45",
-      "end_time": "20:15",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Sartén por el Mango",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
       "episode_description": ""
     },
     {
       "show_name": "Random 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sábados Felices",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Se dice de mi",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La red",
-      "show_logo": "",
-      "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:45",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

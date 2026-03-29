@@ -1,9 +1,9 @@
 {
   "channel": "DW (Latinoamérica)",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "DocFilm",
+      "show_name": "Aquí estoy",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,39 +11,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Cómo te afecta?",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Visión futuro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Economía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:15",
+      "start_time": "00:00",
+      "end_time": "00:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Plaza Fráncfort",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:15",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
       "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
+      "start_time": "00:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "RPM",
+      "show_name": "En Forma",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
@@ -51,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cultura.21",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
@@ -59,15 +51,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Forma",
+      "show_name": "Actualidad en análisis",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El reportero",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:15",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Enfoque Europa: Países, gente, destinos",
+      "show_name": "¡Escápate!",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -75,39 +75,31 @@
       "episode_description": ""
     },
     {
-      "show_name": "Visión futuro",
+      "show_name": "DW analiza",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "04:30",
+      "end_time": "04:15",
       "episode_description": ""
     },
     {
-      "show_name": "Aquí estoy",
+      "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
+      "start_time": "04:15",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "En Forma",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
-      "end_time": "05:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Plaza Fráncfort",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:15",
       "end_time": "05:30",
       "episode_description": ""
     },
     {
-      "show_name": "Euromaxx",
+      "show_name": "¿Cómo te afecta?",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:30",
@@ -115,15 +107,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "RPM",
+      "show_name": "Todo deporte",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "DW analiza",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:15",
       "end_time": "06:30",
       "episode_description": ""
     },
     {
-      "show_name": "Enfoque Europa: Países, gente, destinos",
+      "show_name": "Enlaces: Ventana Abierta Al Mundo Digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -131,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El reportero",
+      "show_name": "Actualidad en análisis",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -147,15 +147,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Global es",
+      "show_name": "Economía",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Plaza Fráncfort",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:15",
       "end_time": "08:30",
       "episode_description": ""
     },
     {
-      "show_name": "Euromaxx",
+      "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -163,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "Todo deporte",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Plaza Fráncfort",
+      "show_name": "El reportero",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:15",
@@ -179,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Eco Latinoamérica",
+      "show_name": "Cultura.21",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -187,7 +195,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aquí estoy",
+      "show_name": "¿Cómo te afecta?",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -195,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cultura.21",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:30",
@@ -203,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "DW analiza",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -227,7 +235,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Actualidad en análisis",
+      "show_name": "Plaza Fráncfort",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:15",
@@ -235,7 +243,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Enfoque Europa: Países, gente, destinos",
+      "show_name": "Enlaces: Ventana Abierta Al Mundo Digital",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -243,18 +251,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:15",
-      "episode_description": ""
-    },
-    {
       "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:15",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Eco Latinoamérica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -267,7 +275,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Todo deporte",
+      "show_name": "Actualidad en análisis",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:15",
@@ -275,7 +283,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Cómo te afecta?",
+      "show_name": "Cultura.21",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
@@ -283,23 +291,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "Visión futuro",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "15:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Plaza Fráncfort",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:15",
       "end_time": "15:30",
       "episode_description": ""
     },
     {
-      "show_name": "DocFilm",
+      "show_name": "Euromaxx",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -315,7 +315,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El reportero",
+      "show_name": "Actualidad en análisis",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:15",
@@ -323,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Enlaces: Ventana Abierta Al Mundo Digital",
+      "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -339,7 +339,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "DW analiza",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
@@ -347,7 +347,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¡Escápate!",
+      "show_name": "Visión futuro",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -363,7 +363,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW analiza",
+      "show_name": "Plaza Fráncfort",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:15",
@@ -371,7 +371,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Cultura.21",
+      "show_name": "¿Cómo te afecta?",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -387,7 +387,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "DW analiza",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
@@ -395,31 +395,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Forma",
+      "show_name": "RPM",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Global es",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Enfoque Europa: Países, gente, destinos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Economía",
+      "show_name": "Visión futuro",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Plaza Fráncfort",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:15",
       "end_time": "21:30",
       "episode_description": ""
     },
     {
-      "show_name": "¡Escápate!",
+      "show_name": "Cultura.21",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",
@@ -427,7 +435,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Forma",
+      "show_name": "Global es",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -435,7 +443,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RPM",
+      "show_name": "¿Cómo te afecta?",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:30",
@@ -443,7 +451,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "DW analiza",
+      "show_name": "El reportero",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -451,18 +459,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "El reportero",
+      "show_name": "DocFilm",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:15",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aquí estoy",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
       "end_time": "00:00",
       "episode_description": ""
     }
