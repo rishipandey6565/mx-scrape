@@ -1,182 +1,150 @@
 {
   "channel": "Sony",
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "schedule": [
     {
-      "show_name": "Mar abierto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/mar-abierto.webp",
-      "show_category": "Open Water",
-      "start_time": "01:14",
-      "end_time": "02:44",
-      "episode_description": "Una pareja había decidido tomarse un tiempo de relajación y pasar unos días buceando. Sin embargo, la lancha que los lleva los abandona en medio de un mar, a la deriva y lejos de la costa, en unas aguas infestadas de tiburones."
-    },
-    {
       "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/la-niñera.webp",
-      "show_category": "Temporada 2 Episodio 9 - Consejo de valores",
-      "start_time": "02:44",
-      "end_time": "03:14",
-      "episode_description": "Fran descubre que su nuevo novio tiene un secreto que podría costarle una fortuna a Maxwell."
-    },
-    {
-      "show_name": "Bettys Diagnose",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 7 Episodio 4 - Auf herz und nieren",
-      "start_time": "03:14",
-      "end_time": "04:05",
-      "episode_description": "Una mujer de la oficina de bienestar juvenil se presenta en la estación. Tiene un mensaje para el Dr. Stern que lo impacta."
-    },
-    {
-      "show_name": "Bettys Diagnose",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 7 Episodio 5 - Hitzewelle",
-      "start_time": "04:05",
-      "end_time": "05:00",
-      "episode_description": "Una ola de calor está causando problemas al equipo de la clínica."
-    },
-    {
-      "show_name": "The Night Shift",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/the-night-shift.webp",
-      "show_category": "Temporada 3 Episodio 2 - Siempre hay una esperanza",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "TC y Scott trabajan con ahínco para salvar a un niño y su madre heridos en un accidente de tránsito. La vida del niño pende de un hilo y el equipo se da cuenta de que hay algo extraño en la dinámica familiar."
-    },
-    {
-      "show_name": "Chicas con clase",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 10 - Mr. Bailey",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "El acaudalado cliente de las mujeres muere antes de que comience su trabajo y su heredero, un gato, asume el control. Mientras el estado de Georgia planea impugnar el testamento."
-    },
-    {
-      "show_name": "Chicas con clase",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 11 - The Naked Truth",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Una antigua amiga de la universidad de Julia, con quien salió, la llama para solicitar sus servicios, y Charlene y Mary Jo descubren inesperadamente que la casa forma parte de una colonia nudista."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 3 Episodio 7 - La mamá se impone, el papá se esconde",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Michael y Janet están supe entusiasmados y se ofrecen para organizar la obra de teatro en la escuela de Kady. Janet tiene buenas intenciones pero se muestra agresiva al dirigir a los niños y la maestra jardinera se preocupa."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 3 Episodio 8 - Los Kyle pelean",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Michael y Jay conspiran y hacen que sus hijos prueben su propia medicina al actuar igual de molestos y negativos entre ellos. Ahora, Junior, Claire y Kady temen que sus padres se separen."
-    },
-    {
-      "show_name": "Mi esposa y mis hijos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/mi-esposa-y-mis-hijos.webp",
-      "show_category": "Temporada 3 Episodio 9 - La historia de la hermana",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Kelly, la hermana de Michael, viene de visita y todos se emocionan menos Jay, que siempre tiene encontronazos con la cuñada. La rivalidad continúa cuando compiten por ver quién cocina los mejores waffles y quién canta mejor."
-    },
-    {
-      "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/la-niñera.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s02e10-whine-cellar_l_m.jpg",
       "show_category": "Temporada 2 Episodio 10 - La bodega de vinos",
-      "start_time": "08:30",
-      "end_time": "09:00",
+      "start_time": "02:04",
+      "end_time": "02:34",
       "episode_description": "Fran y C.C. quedan atrapadas en la bodega de Maxwell."
     },
     {
       "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/la-niñera.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-ninera-s02e13-the-strike_l_m.jpg",
       "show_category": "Temporada 2 Episodio 13 - La huelga",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "02:34",
+      "end_time": "03:04",
       "episode_description": "El desacuerdo de Fran y Maxwell sobre pasar una protesta se vuelve un asunto muy público."
     },
     {
-      "show_name": "La niñera",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/la-niñera.webp",
-      "show_category": "Temporada 2 Episodio 15 - Kindervelt Días",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Fran recibe una sorpresa cuando los chicos envían un viejo formulario de participación para el concurso \"Gana una cita con Erik Estrada\"."
+      "show_name": "Bettys Diagnose",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 6 - Glaube und unglaube",
+      "start_time": "03:04",
+      "end_time": "04:00",
+      "episode_description": "Emily está abrumada por la nueva situación de vida y preocupada por su madre, que está en coma. Stern quiere apoyarla y ser un buen padre. ¿Qué puede hacer para ayudarla? Dr. Stern apenas encuentra acceso a Emily."
     },
     {
-      "show_name": "Viaje a las estrellas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/viaje-a-las-estrellas.webp",
-      "show_category": "Star Trek",
-      "start_time": "10:00",
-      "end_time": "12:20",
-      "episode_description": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero."
+      "show_name": "Bettys Diagnose",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 7 - Einsichten",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "La vida de Stern y Emily juntos sigue siendo difícil. Sus reacciones impredecibles lo dejan perdido, pero no quiere darse por vencido. Emily inicialmente se aleja de Stern una y otra vez, pero se familiariza cada vez más con Betty."
     },
     {
-      "show_name": "Star Trek: Sin límites",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/star-trek-sin-límites.webp",
-      "show_category": "Star Trek Beyond",
-      "start_time": "12:20",
-      "end_time": "14:35",
-      "episode_description": "El equipo de la USS Enterprise explora los confines más alejados del espacio desconocido, donde se encuentran con un nuevo enemigo despiadado que los pone todos a prueba."
+      "show_name": "The Night Shift",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-night-shift-s03e03-el-regreso_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 3 - El regreso",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Drew regresa de Afganistán, pero le cuesta mucho desprenderse del estrés que ha vivido. Junto con Jordan y Kenny, atiende a una novia y sus invitados, que han sido heridos durante la celebración."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/vecinos.webp",
-      "show_category": "Temporada 9 Episodio 4 - El colchón viejo",
-      "start_time": "14:35",
-      "end_time": "15:05",
-      "episode_description": "Roco y Magdalena tiran a la calle el colchón viejo de Arturo. Averigua si Luis estará de acuerdo en que Pedro le rente un cuarto a Vanessa, al mismo tiempo que Cris se mude a vivir con él."
+      "show_name": "Casados con hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s01e01-pilot_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Poncho muere por ir al futbol y logra conseguir boletos, pero Angie tiene otros planes y obliga a Poncho a quedarse en casa con la molesta visita de sus vecinos recién casados."
     },
     {
-      "show_name": "Vecinos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/vecinos.webp",
-      "show_category": "Temporada 9 Episodio 5 - Los quince años",
-      "start_time": "15:05",
-      "end_time": "15:30",
-      "episode_description": "Se cumplen quince años de que de que Luis y Silvia se conocieron y también de que Germán es conserje del edificio."
+      "show_name": "Casados con hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s01e02-thinnergy_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Esteban y Marilú planean remodelar su casa. Las modificaciones se vuelven la manzana de la discordia mientras Angie y Poncho buscan diseñar la casa de sus vecinos a su antojo."
     },
     {
-      "show_name": "Mar abierto",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/mar-abierto.webp",
-      "show_category": "Open Water",
-      "start_time": "15:30",
-      "end_time": "17:00",
-      "episode_description": "Una pareja había decidido tomarse un tiempo de relajación y pasar unos días buceando. Sin embargo, la lancha que los lleva los abandona en medio de un mar, a la deriva y lejos de la costa, en unas aguas infestadas de tiburones."
+      "show_name": "Casados con hijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s01e03-but-i-didn-t-shoot-the-deputy_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Un plan de Angie la llevará a hacer lo que jamás consideró: ¡trabajar! La familia padece la decisión de Angie y todos terminan, sin saberlo, confabulados para que ella renuncie."
     },
     {
-      "show_name": "El depredador",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/el-depredador.webp",
-      "show_category": "The Predator",
-      "start_time": "17:00",
-      "end_time": "19:00",
-      "episode_description": "Cuando un niño desencadena accidentalmente el regreso de los cazadores más letales del universo a la Tierra, solo un grupo de ex soldados y un científico descontento pueden impedir el fin de la raza humana."
+      "show_name": "Monster Pets: A Hotel Transylvania Short Film",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Comedia / 2021 /6.6",
+      "start_time": "07:30",
+      "end_time": "07:40",
+      "episode_description": "Tinkles, el adorable cachorro del tamaño de un monstruo de Drac, tiene más energía que nunca y solo quiere jugar a la pelota. Desafortunadamente, Drac está demasiado ocupado haciendo malabares con sus deberes en el hotel."
     },
     {
-      "show_name": "El código Da Vinci",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/el-código-da-vinci.webp",
-      "show_category": "The Da Vinci Code",
-      "start_time": "19:00",
-      "end_time": "21:44",
-      "episode_description": "El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad."
+      "show_name": "Persecución de media noche de Boog y Elliot",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_persecucion-de-media-noche-de-boog-y-elliot-2007_l_m.jpg",
+      "show_category": "Boog & Elliot's Midnight Bun Run",
+      "start_time": "07:40",
+      "end_time": "07:45",
+      "episode_description": "Boog y Elliot intentan atacar a los campistas para robarles sus bollos recién horneados."
     },
     {
-      "show_name": "El justiciero 2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/el-justiciero-2.webp",
-      "show_category": "The Equalizer 2",
-      "start_time": "21:44",
-      "end_time": "23:59",
-      "episode_description": "Robert McCall se entera de que una de sus amigas, Susan, ha sido asesinada. McCall decide volver a sus viejos métodos y buscar, encontrar y castigar a los perpetradores."
+      "show_name": "Hombres de negro: Internacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-de-negro-internacional-2019_l_m.jpg",
+      "show_category": "Men in Black: International",
+      "start_time": "07:45",
+      "end_time": "09:50",
+      "episode_description": "Los Hombres de Negro siempre han protegido a la Tierra de la escoria del universo. En esta nueva aventura, abordan su mayor amenaza hasta la fecha: un topo en la organización Men in Black."
+    },
+    {
+      "show_name": "Hotel Transylvania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hotel-transylvania-2012_l_m.jpg",
+      "show_category": "Animación / 2012 /7.1",
+      "start_time": "09:50",
+      "end_time": "11:30",
+      "episode_description": "Drácula es el anfitrión del Hotel Transylvania, un complejo de alta calidad donde los monstruos pueden vivir tranquilamente, sin molestar a los seres humanos. Pero su universo corre peligro cuando un chico ordinario tropieza con el lugar."
+    },
+    {
+      "show_name": "Indiana Jones y el reino de la Calavera de Cristal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_indiana-jones-y-el-reino-de-la-calavera-de-cristal-2008_l_m.jpg",
+      "show_category": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "start_time": "11:30",
+      "end_time": "13:45",
+      "episode_description": "Indiana Jones tiene el objetivo de encontrar un cráneo de cristal, que también es buscado por agentes de la Unión Soviética. Indy debe evitar que los soviéticos encuentren la reliquia y la utilicen para fines siniestros."
+    },
+    {
+      "show_name": "El demoledor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-demoledor-1993_l_m.jpg",
+      "show_category": "Demolition Man",
+      "start_time": "13:45",
+      "end_time": "15:55",
+      "episode_description": "En 1996, John Spartan, uno de los más eficaces y drásticos policías de Los Ángeles, conocido como Demoliton Man, trata de capturar a Simon Phoenix, un psicópata asesino que está sembrando el terror."
     },
     {
       "show_name": "Riesgo total",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/sony/today/riesgo-total.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_riesgo-total-1993_l_m.jpg",
       "show_category": "Cliffhanger",
-      "start_time": "23:59",
-      "end_time": "02:04",
+      "start_time": "15:55",
+      "end_time": "18:00",
       "episode_description": "Tras un accidente que lo separó del servicio de Rescate de Montaña, Gabe Walker vuelve a la acción cuando un grupo de personas, perdidas en lo alto de Rocky Mountain a causa de un supuesto accidente, piden auxilio por radio."
+    },
+    {
+      "show_name": "El justiciero 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-justiciero-2-2018_l_m.jpg",
+      "show_category": "The Equalizer 2",
+      "start_time": "18:00",
+      "end_time": "20:15",
+      "episode_description": "Robert McCall se entera de que una de sus amigas, Susan, ha sido asesinada. McCall decide volver a sus viejos métodos y buscar, encontrar y castigar a los perpetradores."
+    },
+    {
+      "show_name": "Rápidos y furiosos 6",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rapidos-y-furiosos-6-2013-1_l_m.jpg",
+      "show_category": "Fast & Furious 6",
+      "start_time": "20:15",
+      "end_time": "22:40",
+      "episode_description": "Desde que Dom y Brian le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido, y no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs le pide a Dom que reúna a su equipo en Londres."
+    },
+    {
+      "show_name": "Búsqueda implacable 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_busqueda-implacable-2-2012_l_m.jpg",
+      "show_category": "Taken 2",
+      "start_time": "22:40",
+      "end_time": "00:20",
+      "episode_description": "Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia."
     }
   ]
 }
