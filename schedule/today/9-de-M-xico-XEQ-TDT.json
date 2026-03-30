@@ -1,9 +1,17 @@
 {
   "channel": "9 de México (XEQ-TDT)",
-  "date": "29/03/2026",
+  "date": "30/03/2026",
   "schedule": [
     {
-      "show_name": "La vida difícil de una mujer",
+      "show_name": "Xoxontla tierra que arde",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "Sognare",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
-      "end_time": "01:30",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sognare",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -39,62 +55,94 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:30",
-      "end_time": "07:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Iglesia de Dios Internacional",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:30",
-      "end_time": "09:00",
+      "start_time": "06:00",
+      "end_time": "09:30",
       "episode_description": ""
     },
     {
-      "show_name": "Misa dominical",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:00",
-      "end_time": "10:00",
+      "start_time": "09:30",
+      "end_time": "10:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:00",
-      "end_time": "14:00",
+      "start_time": "10:30",
+      "end_time": "12:30",
       "episode_description": ""
     },
     {
-      "show_name": "MLB",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "17:30",
+      "start_time": "12:30",
+      "end_time": "14:30",
       "episode_description": ""
     },
     {
-      "show_name": "Caravana de la muerte",
+      "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:30",
+      "start_time": "14:30",
+      "end_time": "15:00",
       "episode_description": ""
     },
     {
-      "show_name": "Viento salvaje",
+      "show_name": "Piel canela",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:45",
+      "start_time": "15:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Xoxontla tierra que arde",
+      "show_name": "Hijazo de mi vidaza",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:45",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Esto ya es personal",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Caso cerrado Edición estelar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bahar Esencia de Mujer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:00",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,6 +1,6 @@
 {
   "channel": "Galicia TV",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
       "show_name": "Galicia por Diante",
@@ -15,14 +15,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:50",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:50",
+      "start_time": "02:45",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,14 +31,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O Termómetro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:30",
       "end_time": "05:46",
       "episode_description": ""
     },
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Atrápame se podes",
+      "show_name": "O tempo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -119,14 +111,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "13:45",
-      "end_time": "16:25",
+      "end_time": "16:15",
       "episode_description": ""
     },
     {
       "show_name": "Atrápame se podes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:25",
+      "start_time": "16:15",
+      "end_time": "17:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:05",
       "end_time": "17:30",
       "episode_description": ""
     },
@@ -143,22 +143,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:02",
-      "end_time": "18:10",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
       "show_name": "Land rober",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:10",
-      "end_time": "19:20",
+      "start_time": "18:15",
+      "end_time": "19:15",
       "episode_description": ""
     },
     {
-      "show_name": "Expediente oculto",
+      "show_name": "Latitude galega",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:20",
+      "start_time": "19:15",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Xente de mundo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:10",
       "end_time": "23:00",
       "episode_description": ""
     },

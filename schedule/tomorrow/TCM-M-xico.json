@@ -1,20 +1,28 @@
 {
   "channel": "TCM (México)",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
-    {
-      "show_name": "El Ataque De Los Zombies En La Nieve",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:33",
-      "episode_description": ""
-    },
     {
       "show_name": "Río bravo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:33",
+      "start_time": "00:00",
+      "end_time": "01:44",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:44",
+      "end_time": "02:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood one on one",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:24",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,79 +31,111 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:27",
+      "end_time": "03:09",
       "episode_description": ""
     },
     {
-      "show_name": "Historias extraordinarias",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:27",
-      "end_time": "08:58",
+      "start_time": "03:09",
+      "end_time": "03:21",
       "episode_description": ""
     },
     {
-      "show_name": "Derecho de familia",
+      "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:58",
-      "end_time": "10:49",
+      "start_time": "03:21",
+      "end_time": "03:31",
       "episode_description": ""
     },
     {
       "show_name": "Cautivos del mal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:49",
-      "end_time": "12:55",
+      "start_time": "03:31",
+      "end_time": "05:31",
       "episode_description": ""
     },
     {
       "show_name": "Feliz novedad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:55",
-      "end_time": "14:40",
+      "start_time": "05:31",
+      "end_time": "07:14",
       "episode_description": ""
     },
     {
-      "show_name": "The Teahouse of the August Moon",
+      "show_name": "La casa de té de la luna de agosto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:40",
-      "end_time": "16:55",
+      "start_time": "07:14",
+      "end_time": "09:27",
       "episode_description": ""
     },
     {
       "show_name": "East of Eden",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:55",
-      "end_time": "19:00",
+      "start_time": "09:27",
+      "end_time": "11:28",
       "episode_description": ""
     },
     {
-      "show_name": "Little Women",
+      "show_name": "El abrazo partido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:11",
+      "start_time": "11:28",
+      "end_time": "13:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Máquina del tiempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:15",
+      "end_time": "15:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El ciclista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:05",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los tres mosqueteros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:45",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "El ciudadano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:11",
-      "end_time": "23:20",
+      "start_time": "19:00",
+      "end_time": "21:06",
       "episode_description": ""
     },
     {
-      "show_name": "Río bravo",
+      "show_name": "Derecho de familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
-      "end_time": "01:49",
+      "start_time": "21:06",
+      "end_time": "22:46",
+      "episode_description": ""
+    },
+    {
+      "show_name": "4x4",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:46",
+      "end_time": "00:17",
       "episode_description": ""
     }
   ]

@@ -1,28 +1,20 @@
 {
   "channel": "Europa Europa",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "Una simple formalidad",
+      "show_name": "El huevo de la serpiente",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:40",
+      "end_time": "01:15",
       "episode_description": ""
     },
     {
-      "show_name": "Mi semana con Marilyn",
+      "show_name": "Ojos bien abiertos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:40",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias de la ducha",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:30",
+      "start_time": "01:15",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -43,58 +35,58 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los bastardos de Pizzofalcone",
+      "show_name": "Un día más",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:50",
-      "end_time": "06:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Carla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:40",
-      "end_time": "08:35",
+      "end_time": "06:45",
       "episode_description": ""
     },
     {
       "show_name": "Muerte en el Congo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:35",
-      "end_time": "10:50",
+      "start_time": "06:45",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mi semana con Marilyn",
+      "show_name": "Mi familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:50",
-      "end_time": "12:40",
+      "start_time": "09:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Anna Karenina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Europa-Europa/tomorrow/anna-karenina.webp",
-      "show_category": "Drama",
-      "start_time": "12:40",
-      "end_time": "14:25",
-      "episode_description": "Anna Karenina (Keira Knightley) es una mujer de la Rusia de finales del siglo XIX que vive un romance con un joven y buen mozo oficial Alexi Vronsky (Aaron Taylor-Johnson) y termina siéndole infiel a su respetado esposo Karenin (Jude Law) y debido a esta traición ella sufre por el resto de su vida."
-    },
-    {
-      "show_name": "Anna Karenina",
+      "show_name": "Carla",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:25",
-      "end_time": "16:15",
+      "start_time": "11:00",
+      "end_time": "12:55",
       "episode_description": ""
     },
     {
-      "show_name": "Los bastardos de Pizzofalcone",
+      "show_name": "Barcelona, noche de verano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
+      "start_time": "12:55",
+      "end_time": "14:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La conferencia",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:40",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El intercambio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -107,27 +99,35 @@
       "episode_description": ""
     },
     {
-      "show_name": "Montalbano",
+      "show_name": "Charité",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "21:00",
+      "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Declaradme culpable",
+      "show_name": "El dinero de otros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "23:10",
+      "start_time": "20:00",
+      "end_time": "20:50",
       "episode_description": ""
     },
     {
-      "show_name": "El huevo de la serpiente",
+      "show_name": "Ojos bien abiertos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:10",
-      "end_time": "01:15",
+      "start_time": "20:50",
+      "end_time": "22:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barcelona, noche de verano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:40",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

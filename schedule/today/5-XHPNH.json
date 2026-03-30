@@ -1,18 +1,26 @@
 {
   "channel": "5 (XHPNH)",
-  "date": "29/03/2026",
+  "date": "30/03/2026",
   "schedule": [
     {
-      "show_name": "Live: Box Televisa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/live-box-televisa.webp",
-      "show_category": "Sports",
+      "show_name": "Calabozos y Dragones",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p26702_p_v8_ac.jpg",
+      "show_category": "Movies",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Gabriela \"la Bonita\" Sánchez cruza puños con Tamara \"la Rebelde\" Demarco en un duelo por el Campeonato Mundial Interino de peso mosca del CMB. Desde el Auditorio GNP, en Puebla, México."
+      "end_time": "00:00",
+      "episode_description": "El popular juego sirve como base para este recuento acerca de un joven héroe que debe combatir a un malvado monarca."
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
+      "show_category": "Paid Program",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Programa pagado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/programa-pagado.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg",
       "show_category": "Paid Program",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/inova.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/crónicas.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28785242_b_v7_aa.jpg",
       "show_category": "News",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg",
       "show_category": "Paid Program",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -76,99 +84,155 @@
     },
     {
       "show_name": "Especial de R.T.C.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/especial-de-rtc.webp",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg",
       "show_category": "Instructional",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/crónicas.webp",
-      "show_category": "News",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
+      "show_category": "Paid Program",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas."
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg",
       "show_category": "Paid Program",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Venta de productos de todo tipo."
+      "episode_description": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar."
     },
     {
-      "show_name": "Rugrats, aventuras en pañales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/rugrats-aventuras-en-pañales.webp",
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p274928_b_v12_aa.jpg",
       "show_category": "Animated",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Unos bebés tienen grandes aventuras en el mundo de los adultos, donde todo lo que les rodea es más grande y misterioso."
+      "end_time": "06:30",
+      "episode_description": "Peppa, su familia y amigos encarnan valores que sirven de ejemplo a los más pequeños como el amor, la solidaridad, el diálogo familiar entre otros. Unos personajes simpáticos llenos de energía y actividad donde predomina el compañerismo."
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/tuff-puppy.webp",
+      "show_name": "Cleo y Cuquín",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p14556233_b_v8_ab.jpg",
+      "show_category": "Animated",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "La familia Telerín vivirá grandes aventuras cuando Cuquín, con sus travesuras, meta en problemas a Cleo y sus hermanos. La mejor manera de resolverlos será jugando."
+    },
+    {
+      "show_name": "La casa de muñecas de Gabby",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p18945247_b_v11_am.jpg",
       "show_category": "Animated",
       "start_time": "07:00",
-      "end_time": "08:15",
-      "episode_description": "El cachorro Dudley es reclutado para proteger su ciudad natal y derrotar a unos agentes de una malvada organización animal."
+      "end_time": "08:00",
+      "episode_description": "Gabby y sus múltiples amigos felinos se abren camino a través de su espectacular casa de muñecas, con minimundos y sorpresas interminables."
     },
     {
-      "show_name": "La princesa encantada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/la-princesa-encantada.webp",
-      "show_category": "Movies",
-      "start_time": "08:15",
-      "end_time": "10:00",
-      "episode_description": "Un mago vengativo hechiza a una princesa para que se transforme en cisne hasta que un príncipe le declare su amor infinito."
+      "show_name": "Kamp Koral: ¡Los primeros años de Bob Esponja!",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p18083649_b_v12_av.jpg",
+      "show_category": "Animated",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "En Campamento Coral, el campamento más loco del bosque de algas, Bob Esponja, de 10 años, y sus amigos pasan el verano construyendo fogatas bajo el agua, atrapando medusas salvajes y nadando en el lago Yuckymuck."
     },
     {
-      "show_name": "El cascanueces",
-      "show_logo": "",
-      "show_category": "Movies",
-      "start_time": "10:00",
+      "show_name": "El show de Tom y Jerry",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p10478306_b_v8_ab.jpg",
+      "show_category": "Animated",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "episode_description": "El gato Tom y el ratón Jerry, el dúo más famoso, regresa para experimentar nuevas aventuras y enfrentarse en nuevas batallas."
+    },
+    {
+      "show_name": "Los pingüinos de Madagascar",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p195303_b_v8_bb.jpg",
+      "show_category": "Animated",
+      "start_time": "10:30",
       "end_time": "12:00",
-      "episode_description": "Clara quiere una llave que abre un regalo de su difunta madre. La llave desaparece en un mundo paralelo y allí conoce a Philip, un soldado que le explica que si recuperan esa llave, ahora en posesión de una mujer perversa, habrá paz en su mundo."
+      "episode_description": "Un grupo de pingüinos con un estilo muy peculiar se embarcan en realizar misiones secretas en un zoológico de Nueva York."
     },
     {
-      "show_name": "Lilly y la Navidad embrujada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/lilly-y-la-navidad-embrujada.webp",
-      "show_category": "Movies",
+      "show_name": "iCarly",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p185707_b_v12_ai.jpg",
+      "show_category": "Sitcom",
       "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Carly Shay descubre cómo su anterior \"vida ordinaria\" da un giro cuando su programa de Internet, \"iCarly\", se vuelve un éxito."
+    },
+    {
+      "show_name": "La CQ: Nuevo ingreso",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p28947088_b_v12_ac.jpg",
+      "show_category": "Sitcom",
+      "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "Kika lanza un conjuro a Ruprecht, el ayudante de Santa Claus, quien comienza a causar estragos en la ciudad. Entonces, Kika tendrá que volver a la Edad Media para salvar la Navidad y a todos los niños del mundo."
+      "episode_description": "Luego de doce años, la escuela secundaria Constantino Quijano abre sus puertas a nuevos estudiantes. Ahora, una nueva generación está lista para iniciar las clases."
     },
     {
-      "show_name": "Stardust: El misterio de la estrella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/stardust-el-misterio-de-la-estrella.webp",
-      "show_category": "Movies",
+      "show_name": "Miraculous",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p12274735_b_v8_ab.jpg",
+      "show_category": "Animated",
       "start_time": "14:00",
-      "end_time": "16:45",
-      "episode_description": "Para poder conquistar a una chica, Tristán le promete traerle una estrella fugaz. Pronto descubre que la estrella es una belleza celestial llamada Yvaine. Cuando la vieja bruja Lamia intenta robar la juventud de Yvaine, Tristán deberá protegerla."
+      "end_time": "15:30",
+      "episode_description": "En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal."
     },
     {
-      "show_name": "La bella y la bestia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/la-bella-y-la-bestia.webp",
-      "show_category": "Movies",
-      "start_time": "16:45",
-      "end_time": "19:00",
-      "episode_description": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, Bella irá dándose cuenta de que la bestia tiene, en realidad, un gran corazón. Entre ellos, surge un amor verdadero."
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p184854_b_v11_be.jpg",
+      "show_category": "Animated",
+      "start_time": "15:30",
+      "end_time": "17:00",
+      "episode_description": "Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar."
     },
     {
-      "show_name": "El regreso de la nana mágica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/el-regreso-de-la-nana-mágica.webp",
-      "show_category": "Movies",
-      "start_time": "19:00",
-      "end_time": "21:15",
-      "episode_description": "Nanny McPhee se presenta a la puerta de una joven, la Sra. Isabel Green, que lleva la granja familiar mientras su marido está en la guerra. Al poco tiempo descubre que los hijos de la Sra. Green libran su propia batalla contra dos primos malcriados."
+      "show_name": "El Chavo Animado",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p230487_b_v12_an.jpg",
+      "show_category": "Animated",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "episode_description": "Después de más de 30 años de entretenimiento para grandes y pequeños con la serie \"El Chavo del 8,\" Roberto Gómez Bolaños (mejor conocido como \"Chespirito\"), trae la versión animada de este famoso programa."
     },
     {
-      "show_name": "Calabozos y Dragones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-XHPNH/today/calabozos-y-dragones.webp",
+      "show_name": "Fun Size: Un pequeño gran problema",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p9211311_p_v8_ai.jpg",
       "show_category": "Movies",
-      "start_time": "21:15",
+      "start_time": "18:30",
+      "end_time": "20:15",
+      "episode_description": "Una adolescente (Victoria Justice) y sus amigas se embarcan en una búsqueda frenética por su hermano pequeño después de que él desaparece durante la noche de Halloween."
+    },
+    {
+      "show_name": "Cuenta Regresiva",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p23847_b_v8_aa.jpg",
+      "show_category": "Movies",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": "Un agente de la CIA, un veterano y otras personas deben detener a una computadora que cree que los Estados Unidos están bajo ataque nuclear."
+    },
+    {
+      "show_name": "Casados con hijos México",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p27047586_b_v8_aa.jpg",
+      "show_category": "Sitcom",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Un exjugador de fútbol americano, hoy gerente de una zapatería, vive una aventura tras otra junto a su esposa, hijos y vecinos. ¡Amor, amistad y mucho humor con esta una familia chilanga de Villa Coapa!"
+    },
+    {
+      "show_name": "Chicago P.D.",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p9972948_b_v12_cb.jpg",
+      "show_category": "Drama",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "La Unidad de Inteligencia del Departamento de Policía de Chicago, liderada por el sargento Hank Voight, se ocupa de investigar los delitos más graves. En la búsqueda de la verdad, Voight deberá adaptarse a un sistema penal en constante cambio."
+    },
+    {
+      "show_name": "Live: Contacto deportivo",
+      "show_logo": "https://cdn.tvpassport.com/image/show/960x540/v2/p11530834_b_v12_ae.jpg",
+      "show_category": "Sports",
+      "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": "El popular juego sirve como base para este recuento acerca de un joven héroe que debe combatir a un malvado monarca."
+      "episode_description": "El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes."
     }
   ]
 }
