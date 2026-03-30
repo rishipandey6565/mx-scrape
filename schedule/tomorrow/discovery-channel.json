@@ -1,222 +1,214 @@
 {
   "channel": "Discovery Channel",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "Los ojos de la ley",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 7 - Acciones policiales",
-      "start_time": "00:13",
-      "end_time": "00:40",
-      "episode_description": "Un sospechoso de robo de motocicleta se niega a acudir a la comisaría, y la comunidad está indignada por la actuación policial."
-    },
-    {
-      "show_name": "Los ojos de la ley",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 8 - Riesgos calculados",
-      "start_time": "00:40",
-      "end_time": "01:07",
-      "episode_description": "GATE está respondiendo al caso de un hombre furioso que, portando un cuchillo, se niega a salir de su auto. Un accidente doméstico y otro de tránsito requieren la intervención del departamento de bomberos."
-    },
-    {
-      "show_name": "Joyas sobre ruedas: por el mundo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 2 Episodio 6 - Turquía: Anadol STC16",
-      "start_time": "01:07",
-      "end_time": "01:57",
-      "episode_description": "Mike y Elvis viajan a Turquía en busca de uno de los coches más raros que han comprado, el Anadol STC16. Pero tras adquirir uno que parece más un cacharro destartalado que una valiosa pieza de colección, tienen mucho trabajo por delante."
-    },
-    {
-      "show_name": "Mexicánicos",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/mexicánicos.webp",
-      "show_category": "Temporada 9 Episodio 2 - Camión limonero y Hummer doble eje",
-      "start_time": "01:57",
-      "end_time": "02:46",
-      "episode_description": "El equipo de Mexicánicos deberá fabricar un enorme Cajón de limones rodante para ser estrenado en el tradicional Tianguis limonero de Apatzingán."
-    },
-    {
-      "show_name": "Mexicánicos: Estado de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - Miguel Rodarte & Chevrolet 49/Carlos Ayala & Morris 55",
-      "start_time": "02:46",
-      "end_time": "03:35",
-      "episode_description": "Miguel Rodarte llega al taller para aprender todos los secretos del oficio. Mientras tanto, Carlos Ayala se presenta sin avisar con una pick up Chevrolet 1949 y una historia de amor."
-    },
-    {
-      "show_name": "Mexicánicos: Estado de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - Ford 1956 Juan Cantú + Jeep Mojave 2022 chica superpoderosa + Cumple Effi...",
-      "start_time": "03:35",
-      "end_time": "04:24",
-      "episode_description": "Juan Cantú llega desde Monterrey para pedirles a Effi y Fernanda que accedan a restaurar un Ford 1956 Biw Windows que se encuentra en pésimas condiciones. Se trata de la camioneta preferida de su padre y quiere regalársela en su cumpleaños."
-    },
-    {
-      "show_name": "Máxima seguridad: cárceles extremas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/máxima-seguridad-cárceles-extremas.webp",
-      "show_category": "Temporada 5 Episodio 5 - Prisión de Litla-Hraun",
-      "start_time": "04:24",
-      "end_time": "05:12",
-      "episode_description": "Islandia es uno de los países más seguros, pero el consumo de drogas ha aumentado, sobre todo en Reikiavik, junto con los crímenes violentos. Quienes son detenidos por la policía terminan en la prisión de máxima seguridad Litla-Hraun."
-    },
-    {
-      "show_name": "Debanhi: ¿quién mató a nuestra hija?",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Justicia terrenal",
-      "start_time": "05:12",
-      "end_time": "06:00",
-      "episode_description": "Mientras Mario y Dolores Escobar enfrentan teorías y rumores, Debanhi se convierte en bandera en la lucha contra la violencia de género. A dos años de su muerte, la impunidad persiste y el expediente sigue lleno de vacíos."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/operación-alaska.webp",
-      "show_category": "Temporada 6 Episodio 3 - Las cosas equivocadas",
-      "start_time": "06:00",
-      "end_time": "06:48",
-      "episode_description": "La peor pesadilla de un constructor se hace realidad cuando se rompe el generador. Además, a otro equipo le falta uno de sus miembros y un constructor trabaja solo a pesar de los riesgos de hacerlo en un lugar remoto."
-    },
-    {
-      "show_name": "100 días a lo salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/100-días-a-lo-salvaje.webp",
-      "show_category": "Temporada 1 Episodio 4 - Apocalipsis de peces zombies",
-      "start_time": "06:48",
-      "end_time": "07:39",
-      "episode_description": "Lo resultados de la pesca no son buenos y peligra el suministro de comida. Con la intención de construir un segundo puesto, Adam avanza río abajo, pero su canoa se da vuelta y corre riesgo de sufrir hipotermia."
-    },
-    {
-      "show_name": "Cazadora de serpientes",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - Todo lo que puedas comer",
-      "start_time": "07:39",
-      "end_time": "08:31",
-      "episode_description": "Julia ayuda a un cliente a lidiar con una pitón en su jardín con una barriga grande. Una serpiente se ha atrincherado detrás del inodoro y Julia tiene que ser creativa para sacarla."
-    },
-    {
-      "show_name": "Expedición X",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 4 Episodio 6 - Fantasmas de la guerra civil en la bahía",
-      "start_time": "08:31",
-      "end_time": "09:23",
-      "episode_description": "Jess y Phil profundizan en la trágica historia del fuerte Morgan. Los sonidos de campanas más allá de los muros del fuerte desencadenan una peligrosa búsqueda en las aguas de la costa de Alabama."
-    },
-    {
-      "show_name": "Expedición: Pie Grande",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 5 Episodio 1 - Breeding Ground",
-      "start_time": "09:23",
-      "end_time": "10:15",
-      "episode_description": "Bryce Johnson, la Dra. Mireya Mayor y Russell Acord recorren América del Norte en busca de Pie Grande. regresan al norte de California para explorar evidencia convincente y desvelar este misterio de siglos de antigüedad."
-    },
-    {
-      "show_name": "Monstruos de río: aguas desconocidas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/monstruos-de-río-aguas-desconocidas.webp",
-      "show_category": "Temporada 1 Episodio 8 - Dusky Kob",
-      "start_time": "10:15",
-      "end_time": "11:06",
-      "episode_description": "Un avistamiento reciente en Sudáfrica de una extraña bestia, mitad humana, mitad pez, arrastra a Jeremy Wade a la historia de una criatura con orígenes antiguos y una reputación temible."
-    },
-    {
-      "show_name": "Norteamérica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/norteamérica.webp",
-      "show_category": "Temporada 1 Episodio 3 - Lección de vida",
-      "start_time": "11:06",
-      "end_time": "11:57",
-      "episode_description": "Desde osos pardos hasta cabras de grandes cuernos, desde osos que bucean hasta coyotes astutos, sea testigo de las maravillas que ofrecen las montañas y los bosques de Norteamérica."
-    },
-    {
-      "show_name": "Legado salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - Agua dulce",
-      "start_time": "11:57",
-      "end_time": "12:48",
-      "episode_description": "El agua es esencial para toda la vida en la Tierra, pero su exceso o su escasez pueden ser desastrosos. Los padres deben saber gestionar el tiempo para superar el cambio constante del agua dulce y criar con éxito a la siguiente generación."
-    },
-    {
-      "show_name": "Carrera por Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - A sangre fría",
-      "start_time": "12:48",
-      "end_time": "13:39",
-      "episode_description": "Atrapados en una tormenta bíblica, los equipos se enfrentan a la hipotermia durante una fría noche en el bosque."
-    },
-    {
-      "show_name": "Carrera por Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 9 - En el laberinto",
-      "start_time": "13:39",
-      "end_time": "14:30",
-      "episode_description": "Un equipo se pierde remando en un laberinto helado, mientras que otro sale, revelando los tres finalistas."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 10 Episodio 10 - Tribus",
-      "start_time": "14:30",
-      "end_time": "16:14",
-      "episode_description": "En el desafío de esta tribu femenina, dos supervivientes regresan para guiar a dos recién llegadas con los peligros de San José del Guaviare, Colombia, durante 21 días. Pero la poca comida y las tormentas tropicales pasan factura."
-    },
-    {
-      "show_name": "Modo desastres",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 9 - El hundimiento del Costa Concordia",
-      "start_time": "16:14",
-      "end_time": "17:03",
-      "episode_description": "Mientras un crucero se hunde, una familia intenta huir, una pareja cae al mar en un bote salvavidas y dos artistas navegan el caos en busca de sobrevivir."
-    },
-    {
-      "show_name": "En medio del desastre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 3 Episodio 3 - La bestia de Mayfield",
-      "start_time": "17:03",
-      "end_time": "17:52",
-      "episode_description": "Una rara supercelda invernal azota Kentucky y las cámaras capturan el desastre. Un tornado EF-4 devasta Mayfield y arrasa con el ayuntamiento, la comisaría y la cárcel."
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 10 - La entrega final",
+      "start_time": "00:27",
+      "end_time": "01:18",
+      "episode_description": "Los supervivientes deben adivinar correctamente una palabra de cinco letras elegida por su familia en el cuartel general para abrir el último lanzamiento de suministros. Luego, deben descifrar un rompecabezas de código Morse."
     },
     {
       "show_name": "México salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/méxico-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-salvaje-s01e01-mundos-montanosos_l_m.jpg",
       "show_category": "Temporada 1 Episodio 1 - Mundos montañosos",
-      "start_time": "17:52",
-      "end_time": "18:50",
+      "start_time": "01:18",
+      "end_time": "02:16",
       "episode_description": "Este episodio es un viaje por las fascinantes montañas de México, un país repleto de riquezas históricas, antropológicas y naturales. Conozca al pueblo rarámuri, de Barrancas Del Cobre, y el espectáculo de las mariposas monarca."
     },
     {
       "show_name": "México salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/méxico-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-salvaje-s01e02-bosques-mayas_l_m.jpg",
       "show_category": "Temporada 1 Episodio 2 - Bosques mayas",
-      "start_time": "18:50",
-      "end_time": "19:50",
+      "start_time": "02:16",
+      "end_time": "03:14",
       "episode_description": "México es una tierra majestuosa, con una biodiversidad impresionante. Una mirada a la lucha por la supervivencia en el bosque que cubre la Península de Yucatán y las piscinas naturales que permitieron el florecimiento de los mayas."
     },
     {
       "show_name": "México salvaje",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/méxico-salvaje.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_mexico-salvaje-s01e03-norte-ardiente_l_m.jpg",
       "show_category": "Temporada 1 Episodio 3 - Norte ardiente",
-      "start_time": "19:50",
-      "end_time": "20:50",
+      "start_time": "03:14",
+      "end_time": "04:12",
       "episode_description": "Al sur de la frontera con Estados Unidos, se encuentra un mundo poco conocido: las praderas mexicanas. Su exuberante naturaleza da paso al desierto de Chihuahua, escenario de una de las mayores maravillas naturales de México."
     },
     {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s18e05-la-cueva-de-las-serpientes_l_m.jpg",
+      "show_category": "Temporada 18 Episodio 5 - La cueva de las serpientes",
+      "start_time": "04:12",
+      "end_time": "05:00",
+      "episode_description": "Un veterano militar con un miedo insoportable a las serpientes y una ganadera canadiense intentan sobrevivir 21 días en la implacable selva filipina. Un misterioso visitante los atormenta cada noche; hambrientos, intentan atraparlo."
+    },
+    {
       "show_name": "Supervivencia al desnudo Brasil: la tribu",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 2 - Quien no arriesga no gana",
-      "start_time": "20:50",
-      "end_time": "21:54",
+      "start_time": "05:00",
+      "end_time": "06:00",
       "episode_description": "Una ola de calor azota a las tribus. Y la falta de alimentos obliga a los supervivientes a asumir riesgos aún mayores para continuar el desafío."
     },
     {
+      "show_name": "Pequeños gigantes de la naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e05-el-terminator-del-desierto_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - El Terminator del desierto",
+      "start_time": "06:00",
+      "end_time": "06:27",
+      "episode_description": "El equipo se somete al extremo calor de los montes de Nuevo México para rastrear el ciempiés gigante de Sonora. Luego de una serie de pruebas increíbles, se dan cuenta de que es una máquina asesina de 46 pies."
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s06e05-isla-sur-de-nueva-zelandia_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 5 - Isla Sur de Nueva Zelandia",
+      "start_time": "06:27",
+      "end_time": "07:18",
+      "episode_description": "Bear Grylls salta en paracaídas sobre una región aislada de la Isla Sur de Nueva Zelandia. Atravesar la cadena de montañas más alta del país y hacer una fogata en un bosque anegado son algunos de los desafíos imprevisibles."
+    },
+    {
+      "show_name": "Desafío x2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desafio-x2-s05e12-desafio-en-los-himalayas_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 12 - Desafío en los Himalayas",
+      "start_time": "07:18",
+      "end_time": "08:09",
+      "episode_description": "En el Himalaya, Joe busca que lo rescaten de los terrenos rocosos, el bosque denso y las amenazas de animales, mientras que Matt parece más interesado en la iluminación espiritual que en salir vivo de allí."
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s04e02-la-bestia-murio_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 2 - La bestia murió",
+      "start_time": "08:09",
+      "end_time": "08:56",
+      "episode_description": "Los problemas del motor paralizan la construcción de Tom. Además, un soldador lucha contra el viento en el paseo marítimo en el retiro de la isla de Rich y Creig lleva el calor a su cabaña para osos."
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-del-artico-s04e07-dias-de-caza_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 7 - Días de caza",
+      "start_time": "08:56",
+      "end_time": "09:48",
+      "episode_description": "Luego de una temporada pobre, Charlie Wright se une a Stan Zuray para atrapar castores. Además, Stan y Joe Zuray descubren a un depredador que ha estado robando de sus tramperas. Y James Roberts enseña a sus hijos la importancia de cazar."
+    },
+    {
+      "show_name": "Fiebre del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fiebre-del-oro-s12e09-salvando-a-rick_l_m.jpg",
+      "show_category": "Temporada 12 Episodio 9 - Salvando a Rick",
+      "start_time": "09:48",
+      "end_time": "10:38",
+      "episode_description": "Parker explota Big Red para duplicar su oro y alimentar la apuesta de Mud. Luego, la planta de lavado de Rick, Rocky, se desintegra frente a sus propios ojos y Fred está listo para escapar cuando recibe malas noticias de Freddy y Juan."
+    },
+    {
       "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 11 Episodio 125 - Llega la reina",
-      "start_time": "21:54",
-      "end_time": "23:37",
-      "episode_description": "La leyenda Laura Zerra regresa para ser mentora de un herrero y un exluchador de MMA mientras intentan sobrevivir 21 días en Yucatán, México."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s02e24-lucha-contra-los-preconceptos_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 24 - Lucha contra los preconceptos",
+      "start_time": "10:38",
+      "end_time": "11:28",
+      "episode_description": "En las montañas de Croacia, un veterano del Ejército y un hombre que acaba de casarse luchan contra los preconceptos relacionados con el género. Luego, una tormenta feroz amenaza con separarlos y deberán unirse para sobrevivir."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: Apocalípsis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Empezando en el final de los días",
+      "start_time": "11:28",
+      "end_time": "13:10",
+      "episode_description": "En un desierto africano, doce veteranos luchan por sobrevivir. Los campamentos convierten neumáticos viejos en zapatos y usan alambre de púas como protección. Un elefante obliga al campamento de Steven a construir un refugio."
+    },
+    {
+      "show_name": "Supervivencia al desnudo: Apocalípsis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - No hay furia como la de una mujer herida",
+      "start_time": "13:10",
+      "end_time": "14:51",
+      "episode_description": "Impulsados por su victoria en la pesca, Waz y Teal rebuscan entre las ruinas para construir un refugio. Wes se enfrenta a un cocodrilo territorial. Amber lucha contra una infección ocular. Dos supervivientes se ven obligados a abandonar el"
     },
     {
       "show_name": "Carrera por Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 10 - El último medallón",
-      "start_time": "23:37",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1 - Meet the Monster",
+      "start_time": "14:51",
+      "end_time": "15:42",
+      "episode_description": "Un concursante es evacuado apenas unas horas después de comenzar una agotadora carrera por el duro paisaje de Alaska."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Fiesta o hambruna",
+      "start_time": "15:42",
+      "end_time": "16:33",
+      "episode_description": "Durante una brutal introducción a Survivor Camp, los corredores deben vivir de la tierra para seguir compitiendo."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - The Wall",
+      "start_time": "16:33",
+      "end_time": "17:25",
+      "episode_description": "Un corredor se pone enfermo después de una subida empinada. Mientras tanto, otro se enreda entre las cuerdas, durante un descenso en rappel por un acantilado."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Más allá del punto de ruptura",
+      "start_time": "17:25",
+      "end_time": "18:16",
+      "episode_description": "Alaska se cobra otra víctima, cuando un corredor sufre una caída en la selva tropical y se lesiona gravemente. De todas formas, debe tomar fuerzas para seguir adelante en la competición."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - ¡Vamos, Grizzly, o vete a casa!",
+      "start_time": "18:16",
+      "end_time": "19:06",
+      "episode_description": "Tras un peligroso encuentro con un oso y una caída por un acantilado, Alaska envía a otro equipo a casa."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Terror sobre la línea forestal",
+      "start_time": "19:06",
+      "end_time": "19:57",
+      "episode_description": "Los osos obligan a un equipo a salirse del camino. Una decisión crucial podría impulsar a otro al primer puesto o al precipicio."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - Solos en la naturaleza",
+      "start_time": "19:57",
+      "end_time": "20:50",
+      "episode_description": "Once concursantes sin entrenamiento se lanzan a la implacable naturaleza canadiense."
+    },
+    {
+      "show_name": "Extraídos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Un juego de engaños",
+      "start_time": "20:50",
+      "end_time": "21:42",
+      "episode_description": "Quedan diez familias mientras la supervivencia en la naturaleza se vuelve más brutal y el juego en el cuartel general se vuelve más despiadado."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s04e04-patagonia_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 4 - Patagonia",
+      "start_time": "21:42",
+      "end_time": "22:34",
+      "episode_description": "Dejan a Ed en las laderas de los Andes, en la Patagonia argentina, y se enfrenta a la exposición extrema al sol excesivo y las temperaturas heladas mientras come renacuajos y huevos de hormiga."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - The Wall",
+      "start_time": "22:34",
+      "end_time": "23:25",
+      "episode_description": "Un corredor se pone enfermo después de una subida empinada. Mientras tanto, otro se enreda entre las cuerdas, durante un descenso en rappel por un acantilado."
+    },
+    {
+      "show_name": "Carrera por Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Más allá del punto de ruptura",
+      "start_time": "23:25",
       "end_time": "",
-      "episode_description": "Los tres equipos finalistas compiten en una brutal y emocionante carrera por el premio de 500 000 dólares."
+      "episode_description": "Alaska se cobra otra víctima, cuando un corredor sufre una caída en la selva tropical y se lesiona gravemente. De todas formas, debe tomar fuerzas para seguir adelante en la competición."
     }
   ]
 }

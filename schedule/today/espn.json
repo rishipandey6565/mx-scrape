@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "29/03/2026",
+  "date": "30/03/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,131 +20,139 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Brasil vs. Francia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Gillette Stadium",
+      "show_name": "Detroit Pistons vs. Minnesota Timberwolves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Target Center",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "Fútbol picante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
+      "show_category": "Fútbol picante",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
-      "show_category": "SportsCenter",
+      "show_name": "The Dutch Masters",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "The Dutch Masters",
       "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Caballeros y jinetes de todo el mundo participan en este prestigioso torneo en el mundo de la hípica."
     },
     {
-      "show_name": "Hungry Dogs Run Faster",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "NWSL: The Final Third",
+      "show_name": "Acción de la NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-accion-de-la-nba_l_m.jpg",
+      "show_category": "Acción de la NBA",
       "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA."
+    },
+    {
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Una serie que sigue a la deportista Trinity Rodman y a su temporada 2025 en el Washington Spirit. A su vez, se ofrece una mirada íntima a las intensas rivalidades y las inolvidables personalidades de la NWSL en EE. UU."
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
     },
     {
-      "show_name": "No Free Picnics",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "NWSL: The Final Third",
+      "show_name": "Capitanes de Ciudad de México vs. Austin Spurs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_basquet-capitanes-de-ciudad-de-mexico-vs-austin-spurs-h-e-b-center-at-cedar-park-austin-tx-texas_l_m.jpg",
+      "show_category": "H-E-B Center at Cedar Park, Austin, TX, Texas",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Una serie que sigue a la deportista Trinity Rodman y a su temporada 2025 en el Washington Spirit. A su vez, se ofrece una mirada íntima a las intensas rivalidades y las inolvidables personalidades de la NWSL en EE. UU."
+      "end_time": "11:00",
+      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
     },
     {
-      "show_name": "Boston Legacy vs. Utah Royals",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/boston-legacy-vs-utah-royals.webp",
-      "show_category": "Temporada regular, America First Field",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Vive los partidos de la 14º edición de la National Women's Soccer League, la máxima categoría del fútbol femenino en Estados Unidos."
-    },
-    {
-      "show_name": "No Underdogs Allowed",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "NWSL: The Final Third",
-      "start_time": "12:00",
+      "show_name": "Elite 8",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "NCAA Women's Basketball Championship",
+      "start_time": "11:00",
       "end_time": "13:00",
-      "episode_description": "Una serie que sigue a la deportista Trinity Rodman y a su temporada 2025 en el Washington Spirit. A su vez, se ofrece una mirada íntima a las intensas rivalidades y las inolvidables personalidades de la NWSL en EE. UU."
+      "episode_description": "Vive las emociones del campeonato de básquetbol femenino organizado por la NCAA."
     },
     {
-      "show_name": "Aryna Sabalenka (Blr) vs. Coco Gauff (USA)",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Final femenina, Hard Rock Stadium, Miami, FL, USA",
+      "show_name": "Final, Hard Rock Stadium, Miami, FL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Miami Open",
       "start_time": "13:00",
       "end_time": "15:00",
       "episode_description": "Disfruta las emociones de este torneo que se disputa en canchas duras en el Hard Rock Stadium de Miami Gardens, Florida. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados."
     },
     {
-      "show_name": "Oklahoma vs. South Carolina",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Sweet 16, Golden 1 Center, Sacramento, CA, USA",
+      "show_name": "The Dutch Masters",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "The Dutch Masters",
       "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": "Un programa con la mejor acción de baloncesto del Campeonato de Baloncesto Femenino de la NCAA. Los amantes del deporte podrán disfrutar de una competición que enfrenta a los equipos femeninos más destacados."
-    },
-    {
-      "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
-      "show_category": "Fútbol picante",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano."
-    },
-    {
-      "show_name": "Sebastián Fundora vs. Keith Thurman",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ESPN Knockout",
-      "start_time": "18:00",
-      "end_time": "21:30",
-      "episode_description": "Los mejores combates de boxeo y MMA."
+      "end_time": "16:00",
+      "episode_description": "Caballeros y jinetes de todo el mundo participan en este prestigioso torneo en el mundo de la hípica."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "21:30",
-      "end_time": "22:00",
+      "start_time": "16:00",
+      "end_time": "16:30",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "World Baseball Classic",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/world-baseball-classic.webp",
-      "show_category": "Especial de SportsCenter",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Un especial en el que podrás ver las mejores jugadas, resultados de los partidos, así como análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas."
+      "show_name": "Béisbol esta noche",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_beisbol-beisbol-esta-noche-1_l_m.jpg",
+      "show_category": "Béisbol esta noche",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "\"Béisbol esta noche\" ofrece a los amantes de este deporte las mejores jugadas, reportajes, invitados especiales y entrevistas."
     },
     {
-      "show_name": "30 for 30",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/30-for-30.webp",
-      "show_category": "- The Philly Special",
-      "start_time": "23:00",
+      "show_name": "Cleveland Guardians vs. Seattle Mariners",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_beisbol-cleveland-guardians-vs-seattle-mariners-temporada-regular-t-mobile-park_l_m.jpg",
+      "show_category": "Temporada regular, T-Mobile Park",
+      "start_time": "17:00",
+      "end_time": "20:00",
+      "episode_description": "Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+    },
+    {
+      "show_name": "The Dutch Masters",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "The Dutch Masters",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Caballeros y jinetes de todo el mundo participan en este prestigioso torneo en el mundo de la hípica."
+    },
+    {
+      "show_name": "Estados Unidos vs. Bélgica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Amistoso internacional",
+      "start_time": "22:00",
       "end_time": "00:00",
-      "episode_description": "Explora cómo una jugada audaz durante el Super Bowl LII se convirtió en un símbolo cultural que capturó el espíritu, la resiliencia y la identidad de desvalidos de los Philadelphia Eagles y su ciudad."
+      "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
     }
   ]
 }

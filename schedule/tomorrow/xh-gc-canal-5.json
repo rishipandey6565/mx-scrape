@@ -1,10 +1,18 @@
 {
   "channel": "Canal 5",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "00:30",
       "end_time": "01:00",
@@ -12,7 +20,7 @@
     },
     {
       "show_name": "Sognare",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/sognare.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_sognare_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -20,7 +28,7 @@
     },
     {
       "show_name": "Inova",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/inova.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -28,7 +36,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -36,7 +44,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -44,7 +52,7 @@
     },
     {
       "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cronicas_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "03:00",
       "end_time": "03:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -68,99 +76,131 @@
     },
     {
       "show_name": "Especial de RTC",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "04:30",
       "end_time": "05:00",
       "episode_description": "Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más."
     },
     {
-      "show_name": "Crónicas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/crónicas.webp",
-      "show_category": "Periodístico",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Un espacio que indaga e investiga sobre algunos hechos que son noticia, mostrando a los televidentes las historias completas y sin perder ningún detalle. En cada edición, se combinan los sucesos reales con el periodismo de investigación."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/cv-directo.webp",
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
-      "show_name": "Rugrats",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/rugrats.webp",
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_peppa-pig_l_m.jpg",
       "show_category": "Infantil",
       "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A ella le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa!"
+    },
+    {
+      "show_name": "Cleo y Cuquín: familia Telerín",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cleo-y-cuquin-familia-telerin-1_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Ve la vida desde el punto de vista de los bebés, del suelo hacia arriba. Tommy, Carlitos, Angélica, Phil, Lil y el bebé Dil viven interminables aventuras en el mundo de los adultos."
+      "episode_description": "Cleo, Cuquín y sus hermanos vivirán increíbles aventuras y se enfrentarán a pequeños conflictos cotidianos que resolverán a través del cambio de roles, convirtiéndose en jardineros, periodistas, capitanes de barco y otros oficios."
     },
     {
-      "show_name": "T.U.F.F. Puppy",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/tuff-puppy.webp",
-      "show_category": "Entretenimientos",
+      "show_name": "La casa de muñecas de Gabby",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Infantil",
       "start_time": "07:00",
-      "end_time": "08:15",
-      "episode_description": "La historia se centra principalmente en torno a una ciudad llamada \"Petrópolis\", donde todos los habitantes son animales antropomórficos. Significa que no hay seres humanos presentes o al menos ninguno que se mencione todavía."
+      "end_time": "08:00",
+      "episode_description": "¡Gatos lindos, manualidades divertidas y magia colorida! Únete a Gabby y a Pandy Patas en esta serie de aventuras animadas."
     },
     {
-      "show_name": "La princesa encantada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Familiar",
-      "start_time": "08:15",
-      "end_time": "10:00",
-      "episode_description": ""
+      "show_name": "Kamp Koral: Bob Esponja, primeros años",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_kamp-koral-bob-esponja-primeros-anos-2_l_m.jpg",
+      "show_category": "Animación",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Bob Esponja y sus amigos pasan el verano atrapando medusas, construyendo fogatas y nadando en el lago Yuckymuck, ubicado en el Bosque Kelp."
     },
     {
-      "show_name": "El cascanueces",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "D.Animados",
-      "start_time": "10:00",
+      "show_name": "El show de Tom y Jerry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-show-de-tom-y-jerry_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "episode_description": "¡Acompaña a Tom y Jerry en el show en el que vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio! Este travieso dúo está listo para volver a la acción con nuevas diabluras. ¿Los atraparán esta vez?"
+    },
+    {
+      "show_name": "Los pingüinos de Madagascar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-pinguinos-de-madagascar_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "10:30",
       "end_time": "12:00",
-      "episode_description": ""
+      "episode_description": "Cuatro muy confundidos pingüinos llamados Skipper, Kowalski, Private y Rico continúan con su travesía épica y se enrollan en nuevas aventuras. Ellos van en misiones secretas por el Zoológico del Central Park."
     },
     {
-      "show_name": "Lilly y la Navidad embrujada",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Familiar / 2017",
+      "show_name": "iCarly",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_icarly_l_m.jpg",
+      "show_category": "Infantil",
       "start_time": "12:00",
       "end_time": "14:00",
-      "episode_description": "Kika lanza un hechizo a Ruprecht, el ayudante de Santa, para enseñarle una lección. Sin embargo, las cosas salen mal y Kika viaja en el tiempo a la Edad Media para salvar la Navidad."
+      "episode_description": "Carly es una chica de 13 años que por accidente se convierte en una súper estrella al presentar su propio show en Internet. Esta chica es webcast de su propia web."
     },
     {
-      "show_name": "Stardust, el misterio de la estrella",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/stardust-el-misterio-de-la-estrella.webp",
-      "show_category": "Stardust",
+      "show_name": "Prodigiosa: las aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_prodigiosa-las-aventuras-de-ladybug-1_l_m.jpg",
+      "show_category": "Infantil",
       "start_time": "14:00",
-      "end_time": "16:45",
-      "episode_description": "Tristán hace una alocada promesa a la chica de sus sueños con la esperanza de ganarse su corazón: le traerá una estrella caída del cielo. Para ello, Tristán deberá entrar en el misterioso reino habitado por una magia sin fin."
+      "end_time": "15:30",
+      "episode_description": "Marinette conoce al guardián de los Miraculous, y descubre la existencia de otros accesorios de poder y superhéroes que le pueden ser de ayuda en misiones particularmente difíciles."
     },
     {
-      "show_name": "La bella y la bestia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/la-bella-y-la-bestia.webp",
-      "show_category": "Beauty and the Beast",
-      "start_time": "16:45",
-      "end_time": "19:00",
-      "episode_description": ""
+      "show_name": "Bob Esponja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bob-esponja_l_m.jpg",
+      "show_category": "Infantil",
+      "start_time": "15:30",
+      "end_time": "17:00",
+      "episode_description": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional."
     },
     {
-      "show_name": "El regreso de la nana mágica",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/el-regreso-de-la-nana-mágica.webp",
-      "show_category": "Nanny McPhee and the Big Bang",
-      "start_time": "19:00",
-      "end_time": "21:15",
-      "episode_description": "La niñera McPhee llega para ayudar a una madre joven que está tratando de cuidar una granja y criar a su familia mientras su marido combate en la guerra. Pero esta nana usa su magia para enseñarle a los niños varias lecciones de vida."
+      "show_name": "El Chavo animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo-animado_l_m.jpg",
+      "show_category": "D.Animados",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "episode_description": "Chavo vive en una vecindad mexicana, junto a sus amigos Popis, Ñoño, Patty y Quico, y vivirá situaciones alocadas en cada episodio."
     },
     {
-      "show_name": "Calabozos y dragones",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/xh-gc-canal-5/tomorrow/calabozos-y-dragones.webp",
-      "show_category": "Dungeons and Dragons",
-      "start_time": "21:15",
+      "show_name": "Fun Size: un pequeño gran problema",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fun-size-un-pequeno-gran-problema-2012_l_m.jpg",
+      "show_category": "Fun Size",
+      "start_time": "18:30",
+      "end_time": "20:15",
+      "episode_description": "Los planes de Wren para acudir a la fiesta de Halloween que celebra el chico que le gusta salen mal cuando queda a cargo de su excéntrico hermano pequeño, que pronto desaparece entre la multitud de disfraces."
+    },
+    {
+      "show_name": "Cuenta regresiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cuenta-regresiva-2016_l_m.jpg",
+      "show_category": "Countdown",
+      "start_time": "20:15",
+      "end_time": "23:30",
+      "episode_description": "Después de que una redada sale mal, Ray es suspendido de la fuerza policiaca. De pronto, un paquete misterioso dirigido a él llega a la estación."
+    },
+    {
+      "show_name": "Contacto deportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_deportivo-contacto-deportivo_l_m.jpg",
+      "show_category": "Contacto deportivo",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "La joven emperatriz Savina ha heredado el trono tras el asesinato de su padre. Apenas tiene veinte años, pero debe ser fuerte para defender su territorio, amenazado por un golpe de estado que planean algunos de sus habitantes."
+      "episode_description": "Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional."
     }
   ]
 }

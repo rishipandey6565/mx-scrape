@@ -1,42 +1,50 @@
 {
   "channel": "Canal 22",
-  "date": "29/03/2026",
+  "date": "30/03/2026",
   "schedule": [
     {
-      "show_name": "Cultura 22",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
-      "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": "Un espacio donde se reciben invitados pertenecientes a la cultura y las artes. En el programa se presenta lo más importante del acontecer cultural, político, económico, científico y social nacional e internacional."
+      "show_name": "Shorts México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_shorts-mexico-lolo-photomaton-identificacion-perdida-fantasia-los-desterrados-hijos-de-eva_l_m.jpg",
+      "show_category": "- Lolo / Photomaton / Identificación perdida / Fantasía / Los desterrados hijos de Eva",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Dentro de la campaña Contigo en la distancia de la Secretaría de Cultura, Canal 22 presenta una selección de cortometrajes pertenecientes al Shorts México, Festival Internacional de Cortometrajes de México."
     },
     {
-      "show_name": "La piel de la ciudad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-piel-de-la-ciudad.webp",
-      "show_category": "Documental",
-      "start_time": "02:30",
+      "show_name": "Una de amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Episodio 8 - Uli y Luis",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Un programa sobre adultos mayores que se encuentren viviendo una historia de amor. Cada capítulo relata la historia de distintas parejas que, recientes o de toda la vida, muestran las distintas posibilidades del amor y el erotismo."
+    },
+    {
+      "show_name": "Honores policiales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Primera vez que salen a trabajar como policías",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Sigue la vida y el trabajo de los oficiales de la comisaría de Balihe. Con la ayuda de los ancianos de la comisaría, aprenderán a gestionar su vida y su trabajo y, con el tiempo, se convertirán en policías destacados."
+    },
+    {
+      "show_name": "Arroz amargo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_arroz-amargo-1948_l_m.jpg",
+      "show_category": "Riso amaro",
+      "start_time": "02:00",
       "end_time": "03:30",
-      "episode_description": "En cada episodio se plantea pequeñas historias sobre grandes temas, experiencias de vida y reflexiones que nos hablan del amor, la muerte y la felicidad; de la mano de Diego González."
+      "episode_description": "La cómplice de un ladrón se une a un grupo de mujeres que se dirige a las plantaciones de arroz del valle del Po. Una vez allí, su amante se reunirá con ella y, con la ayuda de sus amigos, proyectará apoderarse de toda la cosecha."
     },
     {
-      "show_name": "Arquetipas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Interés general",
+      "show_name": "La dichosa palabra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-dichosa-palabra_l_m.jpg",
+      "show_category": "Talk Show",
       "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": "Un espacio que celebra la diversidad de la mujer, donde dialogamos con protagonistas que comparten sus historias. Conversamos con mujeres que rompen con estereotipos y condicionamientos sociales y que muestran la verdadera fuerza femenina."
-    },
-    {
-      "show_name": "Inclusión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/inclusión.webp",
-      "show_category": "Interés general",
-      "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "Emisión que retrata la postura del feminismo desde sus orígenes y manifestaciones contemporáneas. El público podrá revalorizar el desarrollo histórico del movimiento y sus objetivos para lograr una mayor equidad entre hombres y mujeres."
+      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
     },
     {
       "show_name": "CV directo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/cv-directo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,107 +52,115 @@
     },
     {
       "show_name": "Fin de transmisión",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/fin-de-transmisión.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fin-de-transmision_l_m.jpg",
       "show_category": "Interés general",
       "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "Fin de transmisión."
     },
     {
-      "show_name": "Hainan, perla de China",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Documental",
+      "show_name": "Una historia de Vasconia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_una-historia-de-vasconia-s01e03-las-aguilas-de-roma_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - Las águilas de Roma",
       "start_time": "06:30",
       "end_time": "07:30",
-      "episode_description": "Una producción que recorre la isla de Hainan, la perla del Mar del Sur de China, la segunda isla más grande de China, después de Taiwán. Hainan también es la provincia con menos superficie terrestre, pero con más superficie marítima."
+      "episode_description": "Recorre la historia de vasconia hacia la era de la romanización, donde los soldados eran catalogados como águilas debido a las alas y a las garras."
     },
     {
-      "show_name": "La piel de la ciudad",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-piel-de-la-ciudad.webp",
-      "show_category": "Episodio 11 - El deporte",
+      "show_name": "Personajes y escenarios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Especial Jaime Sabines",
       "start_time": "07:30",
-      "end_time": "08:30",
-      "episode_description": "Diego les hablará sobre el deporte con sus diferentes disciplina, donde se realizará una serie de entrevista a varios deportistas cada uno comparte su experiencia y a su vez llegando a la conclusión que el deporte es educativo."
+      "end_time": "10:00",
+      "episode_description": "'Especial dedicado a Jaime Sabines. Entrevista íntima con el poetadonde lee poemas inéditos. Este programa ofrece un retrato profundo de su vida y obra, enfocado en su cotidianidad y su relación con la muerte y el amor."
     },
     {
-      "show_name": "Consulta directa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/consulta-directa.webp",
-      "show_category": "Salud",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": "Un espacio en donde especialistas médicos responden de manera directa las dudas de la población entorno al COVID-19 a través de una consulta directa vía telefónica o mensaje de WhatsApp."
-    },
-    {
-      "show_name": "La hora nacional",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Cultural",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": "La hora nacional es un programa que busca fortalecer la integración nacional a través del idioma, la cultura, las tradiciones y la creación artística. Los conductores reciben a diversas personalidades destacadas para reflexionar."
-    },
-    {
-      "show_name": "Tamayo 40",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Una cápsula de tiempo",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Serie que ofrece situaciones reflexivas y de aprendizaje colectivo de la mano de curadores, artistas, ex directores y otros personajes alrededor de situaciones críticas, anecdóticas y humorísticas desde el surgimiento del Museo Tamayo."
-    },
-    {
-      "show_name": "¡Clic clac!",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/clic-clac.webp",
-      "show_category": "Infantil",
-      "start_time": "11:00",
-      "end_time": "16:00",
-      "episode_description": "Espacio que propone un equilibrio entre formación y entretenimiento para niños, abarcando temas como ciencia, literatura, naturaleza, arte, tradiciones mexicanas e historia, presentados de una forma muy creativa."
-    },
-    {
-      "show_name": "Escenarios",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/escenarios.webp",
-      "show_category": "- El corazón de la materia - Teilhard, el jesuita",
-      "start_time": "16:00",
-      "end_time": "18:30",
+      "show_name": "Bicentenario del Natalicio de Margarita Maza de Juárez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Especial",
+      "start_time": "10:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Una de amor",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Episodio 8 - Uli y Luis",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Un programa sobre adultos mayores que se encuentren viviendo una historia de amor. Cada capítulo relata la historia de distintas parejas que, recientes o de toda la vida, muestran las distintas posibilidades del amor y el erotismo."
+      "show_name": "OFUNAM",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ofunam-1_l_m.jpg",
+      "show_category": "Musical",
+      "start_time": "12:00",
+      "end_time": "14:30",
+      "episode_description": "Segmento especial que difunde los detalles de la Orquesta Filarmónica de la UNAM, el conjunto sinfónico más antiguo de la Ciudad de México, así como también sus memorables presentaciones realizadas en su sede, la sala Nezahualcóyotl."
     },
     {
-      "show_name": "Leémelo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/leémelo.webp",
-      "show_category": "- Conduce: Víctor Hugo Martín - Invitado: Rafael Barajas el \"Fisgón",
+      "show_name": "Qué lindo es mi México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Musical",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": "Programa que hace un recorrido por México a través de sus canciones. La conductora Mary Sánchez recorre diferentes regiones del país y en cada una presenta a los músicos, artistas y bailarines más destacados."
+    },
+    {
+      "show_name": "Música hecha en México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Olivia Gorra y Claudia Sierra",
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": "Canal 22 estrena un espacio dedicado en su totalidad al talento musical de México, mezclando boleros, jazz latino y voces únicas como Las Billies o Majo Cornejo, entre muchas otras."
+    },
+    {
+      "show_name": "Resonante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Fusionamos la energía de la música en vivo con experiencias inmersivas, y llevamos a la audiencia a descubrir a artistas emergentes e independientes. Nos transportamos a nuevos lugares para conocer nuestra siguiente canción favorita."
+    },
+    {
+      "show_name": "Jazz, boleros y algo más...",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- JazzBook",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "La ciudad de Guanajuato abre sus puertas para dar inicio a la fiesta cultural más grande de América Latina, que este año tiene como invitados de honor a Sonora y Estados Unidos de América."
+    },
+    {
+      "show_name": "El cancionero y sus amigos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Una celebracion del patrimonio musical mexicano a través de conversaciones e interpretaciones exclusivas acompañadas por músicos invitados."
+    },
+    {
+      "show_name": "Un rayo de sol a mi lado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Drama",
       "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Léemelo es una serie en la que figuras públicas nos comparten su pasión por las lecturas que han marcado su vida. Un espacio para compartir el amor a los libros, provocar en el público el deseo de leer."
+      "episode_description": "Sheng Yang es un diseñador novato y trabajador cuya vida cambia cuando conoce a la reconocida y experimentada directora de publicidad Jian Bing."
     },
     {
-      "show_name": "La dichosa palabra",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/la-dichosa-palabra.webp",
-      "show_category": "Talk Show",
+      "show_name": "Hay un grupo que dice",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Documental / 2013",
       "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": "A través de una conversación sencilla y amable, se retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras, siempre con el objetivo de culturizar y entretener a los televidentes."
+      "end_time": "21:30",
+      "episode_description": "La historia del Grupo de Experimentación Sonora del ICAIC, fundado por Alfredo Guevara, junto al análisis crítico de los acontecimientos fundamentales y los errores institucionales en la aplicación de la política cultural cubana."
     },
     {
-      "show_name": "Honores policiales",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "- Primera vez que salen a trabajar como policías",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Sigue la vida y el trabajo de los oficiales de la comisaría de Balihe. Con la ayuda de los ancianos de la comisaría, aprenderán a gestionar su vida y su trabajo y, con el tiempo, se convertirán en policías destacados."
+      "show_name": "Hay un grupo que dice",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "Documental / 2013",
+      "start_time": "21:30",
+      "end_time": "23:00",
+      "episode_description": "La historia del Grupo de Experimentación Sonora del ICAIC, fundado por Alfredo Guevara, junto al análisis crítico de los acontecimientos fundamentales y los errores institucionales en la aplicación de la política cultural cubana."
     },
     {
-      "show_name": "Arroz amargo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/canal-22-conaculta/today/arroz-amargo.webp",
-      "show_category": "Riso amaro",
-      "start_time": "22:00",
+      "show_name": "Grandes figuras del arte mexicano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_grandes-figuras-del-arte-mexicano-s00e02-diego-rivera-un-artista-en-la-encrucijada_l_m.jpg",
+      "show_category": "Episodio 2 - Diego Rivera. Un artista en la encrucijada",
+      "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "La cómplice de un ladrón se une a un grupo de mujeres que se dirige a las plantaciones de arroz del valle del Po. Una vez allí, su amante se reunirá con ella y, con la ayuda de sus amigos, proyectará apoderarse de toda la cosecha."
+      "episode_description": "Inspirado por el socialismo y la libertad, el trabajo de Diego Rivera es una propuesta de diálogo con el pueblo."
     }
   ]
 }
