@@ -3,20 +3,20 @@
   "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "Bloomberg Wall Street Week",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-wall-street-week_l_m.jpg",
-      "show_category": "Economía",
+      "show_name": "Al cierre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Un diálogo con los principales nombres en finanzas sobre los problemas más importantes de la semana en Wall Street."
+      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
     },
     {
-      "show_name": "Bloomberg The Opening Trade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Interés general",
+      "show_name": "Con Ortega a las diez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
+      "show_category": "Político",
       "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "La operación de apertura tiene todo lo que necesita saber a medida que se abren los mercados en toda Europa. Con un análisis profundo, se desglosan las historias más importantes del día y se dan conversaciones con importantes invitados."
+      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
       "show_name": "The Pulse",
@@ -67,12 +67,12 @@
       "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
     },
     {
-      "show_name": "Bloomberg ETF IQ",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-etf-iq_l_m.jpg",
+      "show_name": "Bloomberg Crypto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-crypto_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Primer y único show que se centra en las oportunidades, los riesgos y los acontecimientos actuales de la industria de fondos cotizados en bolsa (ETF), que ahora representan el 30% de todas las patentes de EE.UU. negociación de acciones."
+      "episode_description": "Las nuevas tecnologías están remodelando el mundo que conocíamos antiguamente. Entre ellas destacamos a las criptomonedas, una moneda completamente digital y blockchain."
     },
     {
       "show_name": "Bloomberg Balance of Power",
@@ -163,12 +163,12 @@
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Silla roja",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_silla-roja_l_m.jpg",
-      "show_category": "Entrevista",
+      "show_name": "Entre dichos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Entrevistas realizadas por los más destacados periodistas a los personajes del momento."
+      "episode_description": "Un programa de entrevistas que recibe a diversos invitados para debatir temas de actualdiad en profundidad de la mano del conductor René Delgado."
     }
   ]
 }

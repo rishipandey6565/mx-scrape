@@ -3,20 +3,28 @@
   "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "Los mejores músicos.com",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_los-mejores-musicos-com_l_m.jpg",
-      "show_category": "Entretenimientos",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Programa producido por el Sindicato Único de Trabajadores de la Música, que le brinda un espacio a los grandes músicos Mexicanos."
-    },
-    {
       "show_name": "CV directo",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
       "show_category": "Publicidad",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Inova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
+      "show_category": "Publicidad",
       "start_time": "01:00",
       "end_time": "01:30",
-      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
+      "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
     {
       "show_name": "CV directo",

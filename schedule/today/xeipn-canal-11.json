@@ -11,40 +11,64 @@
       "episode_description": "Himno nacional mexicano."
     },
     {
-      "show_name": "Amigos intocables",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_amigos-intocables-2011_l_m.jpg",
-      "show_category": "The Intouchables",
+      "show_name": "El hombre del brazo de oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-del-brazo-de-oro-1955_l_m.jpg",
+      "show_category": "The Man with the Golden Arm",
       "start_time": "00:02",
       "end_time": "01:00",
-      "episode_description": "Philippe, un aristócrata que se ha quedado tetrapléjico a causa de un accidente de parapente, contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel."
+      "episode_description": "Frankie Machine es un habilidoso jugador de cartas y fue alguna vez un adicto a la heroína. Cuando regresa de la prisión, lucha por conseguir una nueva forma de vivir que le permita no caer nuevamente en su adicción."
     },
     {
-      "show_name": "Noche, boleros y son",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noche-boleros-y-son-s13e02-veracruz-es-un-bolero-katya-ruiz-roberto-hernan-y-doris_l_m.jpg",
-      "show_category": "Temporada 13 Episodio 2 - Veracruz es un bolero: Katya Ruiz, Roberto Hernán y Doris",
+      "show_name": "La hora nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 13",
       "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "Disfruta de un homenaje a la música popular y a sus creadores, cantantes, compositores y arreglistas, quienes marcaron un estilo que, luego de varias generaciones, sigue estando vigente gracias a su autenticidad y calidad."
+      "episode_description": "Un programa que aborda una amplia gama de temas, desde asuntos gubernamentales y sociales hasta deportes, cultura, arte, música y salud. Los presentadores reciben a diversos expertos y personalidades para debatir."
+    },
+    {
+      "show_name": "El libro rojo, especies amenazadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-libro-rojo-especies-amenazadas-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - Especies amenazadas",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "El miedo a los inofensivos murciélagos, así como la destrucción de sus hábitats, los han puesto en peligro de extinción."
+    },
+    {
+      "show_name": "Diálogos en confianza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dialogos-en-confianza-s25e54-hablemos-del-sindrome-de-down_l_m.jpg",
+      "show_category": "Temporada 25 Episodio 54 - Hablemos del síndrome de down",
+      "start_time": "02:30",
+      "end_time": "04:00",
+      "episode_description": "Talk Show donde los especialistas y el público generan un espacio de interacción rico en propuestas sobre diversos aspectos de interés de la vida diaria."
+    },
+    {
+      "show_name": "Detrás de un click",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Isla tiburón, Sonora",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Ubicada en Hermosillo, Sonora; la Isla Tiburón es catalogada como reserva ecológica: es la más grande de México, conformada por kilómetros de territorio donde el cielo, el mar y la tierra resguardan especies que surcan los cielos, y donde t"
     },
     {
       "show_name": "La aventura de México - Desconocido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-aventura-de-mexico-desconocido-s01e10_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 10",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Descubre la identidad oculta de México y recorre sus montañas, carreteras y caminos poco concurridos que esconden grandes y maravillosos destinos que sólo pocos tiene la dicha de conocer."
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-aventura-de-mexico-desconocido-s01e13_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 13 - Desconocido",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Conocemos los misterios del Mar de Cortés, con la formación de la península que luego creó un nuevo y excepcional escenario marítimo en la región."
     },
     {
       "show_name": "Aprender a envejecer",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 17 Episodio 57 - Testigos con raíces: un acercamiento a nuestros árboles",
-      "start_time": "02:30",
+      "show_category": "Temporada 17 Episodio 58 - Carnavales en México: historia y tradición",
+      "start_time": "05:00",
       "end_time": "05:30",
       "episode_description": "Programa en vivo y con público presente conducido por Patricia Kelly, quien a través de de especialistas, explora las formas que hay para lograr una larga y placentera vida ayudando a fomentar la cultura del envejecimiento activo."
     },
     {
-      "show_name": "Entrenamiento en casa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aerobic-entrenamiento-en-casa_l_m.jpg",
+      "show_name": "Movimiento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aerobic-movimiento_l_m.jpg",
       "show_category": "Actívate",
       "start_time": "05:30",
       "end_time": "06:00",
@@ -67,220 +91,212 @@
       "episode_description": ""
     },
     {
-      "show_name": "Daniel Tigre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_daniel-tigre-s01e58_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 58 - El día del vecino - Parte 2",
+      "show_name": "Once noticias a las seis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "06:07",
-      "end_time": "06:15",
-      "episode_description": "Daniel aprende a hacer algo bonito para los vecinos. Empieza una reacción en cadena de actos de bondad por todo el vecindario que culmina en la celebración del Día del vecino."
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 24",
-      "start_time": "06:15",
-      "end_time": "06:45",
-      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
-    },
-    {
-      "show_name": "Alma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 25",
-      "start_time": "06:45",
-      "end_time": "07:15",
-      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_escuela-de-rugidos-s01e38-broma-monstruosa_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 38 - Broma monstruosa",
-      "start_time": "07:15",
-      "end_time": "07:22",
-      "episode_description": "Cuando Rinoberto lleva el hueso juguete de Growlbert a la escuela, él y Yombón deciden hacerles bromas a sus monstruo amigos."
-    },
-    {
-      "show_name": "Escuela de rugidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_escuela-de-rugidos-s01e39-glog_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 39 - Glog",
-      "start_time": "07:22",
-      "end_time": "07:30",
-      "episode_description": "El primo de Minibú, Glog, la visita de la tierra alrevesada y sus extrañas costumbres provocan caos en el salón. ¿podrán los monstruos descubrir por qué hace esas cosas tan diferente?"
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 65 - Juegos de la mega estrella del queso",
-      "start_time": "07:30",
-      "end_time": "07:37",
-      "episode_description": "El repartidor de estrellas de queso se lastimó la pierna, así que Sam y Julia se ofrecen a ayudar a repartir los pedidos en el piso de arriba."
-    },
-    {
-      "show_name": "Sam y Julia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 66 - Camaradas",
-      "start_time": "07:37",
-      "end_time": "07:45",
-      "episode_description": "Julia, una ratoncita, se muda a la Mansión del Ratón, hecha de cartón y tela. Allí conoce a Sam, un ratón astuto, y se hacen muy buenos amigos. A pesar de sus diferencias, su amistad con Sam hace sentir a Julia como en casa."
-    },
-    {
-      "show_name": "Juani y Gatón",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_juani-y-gaton-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 6 - El huevo más grande",
-      "start_time": "07:45",
-      "end_time": "07:52",
-      "episode_description": "El abuelo le enseña a Juani una foto del huevo más grande del planeta, pero no recuerda el nombre del ave que lo empolló. Así que los amigos viajan a África para fotografiar el maravilloso huevo."
-    },
-    {
-      "show_name": "La oveja Shaun",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-oveja-shaun-s06e18-oveja-oveja-ganso_l_m.jpg",
-      "show_category": "Temporada 6 Episodio 18 - Oveja, oveja, ganso",
-      "start_time": "07:52",
-      "end_time": "08:00",
-      "episode_description": "Goz, un gansito recién nacido, pierde el último vuelo a casa desde Mossy Bottom, pero pronto es recibido por Shaun y la manda. Goz disfruta de la vida en la granja, aunque no todos sus ocupantes comparten su sentido del humor."
-    },
-    {
-      "show_name": "La orquestita",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 5 - Master Cats",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": "Nuestro programa de gatitos favorito necesita un reemplazo para su estrella principal. Es una chance para que Mew brille. Solo necesita un poquito de trabajo, pero nada que el encantador de gatitos no pueda lograr."
-    },
-    {
-      "show_name": "Mi hermano el Monstruo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 7",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": "Petunia creía que iba pasar un verano aburrido sin sus amigos, pero desde que llegó Mombou del espacio exterior, todo cambió de la noche a la mañana y ahora es hermana de un extraterrestre con quien tiene una relación muy especial."
-    },
-    {
-      "show_name": "Academia de superhéroes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 6",
-      "start_time": "08:30",
-      "end_time": "08:45",
-      "episode_description": "En los salones de clase de esta escuela, Raymond, Alfa, Uno, Tele e Ignis llevan materias especiales y aprenden a dominar sus poderes para cumplir su sueño de ser superhéroes."
-    },
-    {
-      "show_name": "Prueba total",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 6",
-      "start_time": "08:45",
-      "end_time": "09:00",
-      "episode_description": "La ciencia se sale de los libros para ponerse en práctica en forma de experimentos hechos por niñas y niños de todo el mundo. Conoce más sobre distintos experimentos y efectos de la física."
-    },
-    {
-      "show_name": "Un día en Once niños",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-dia-en-once-ninos-s09e03_l_m.jpg",
-      "show_category": "Temporada 9 Episodio 3 - Pánico escénico",
-      "start_time": "09:00",
       "end_time": "09:30",
-      "episode_description": "¿Qué hacen Alan, Staff y Lucy cuando no están conduciendo Once Niños? Acompáñalos en sus aventuras y descubre cómo fue que Staff llegó al espacio exterior, qué es lo que más le molesta a Lucy y qué pasó el día que Alan perdió la magia."
+      "episode_description": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Junto a Angélica Rivera y Guadalupe Contreras, el público podrá informarse al completo sobre la realidad."
     },
     {
-      "show_name": "80 millones",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_80-millones-s18e12-asi-se-vive-en-el-espectro-autista_l_m.jpg",
-      "show_category": "Temporada 18 Episodio 12 - Así se vive en el espectro autista",
+      "show_name": "Diálogos en confianza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dialogos-en-confianza-s25e07-salud-y-prevencion-salud-muscular-despues-de-los-40_l_m.jpg",
+      "show_category": "Temporada 25 Episodio 7 - Salud y prevención: salud muscular después de los 40",
       "start_time": "09:30",
-      "end_time": "11:00",
-      "episode_description": "La discapacidad es un concepto que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno. En el programa se abordan los modos de relación entre las personas y la sociedad."
+      "end_time": "11:30",
+      "episode_description": "Talk Show donde los especialistas y el público generan un espacio de interacción rico en propuestas sobre diversos aspectos de interés de la vida diaria."
     },
     {
       "show_name": "Aprender a envejecer",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 17 Episodio 62 - Estrategias financieras para una vejez autónoma",
-      "start_time": "11:00",
-      "end_time": "14:00",
+      "show_category": "Temporada 17 Episodio 63 - El legado de Margarita Maza",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Programa en vivo y con público presente conducido por Patricia Kelly, quien a través de de especialistas, explora las formas que hay para lograr una larga y placentera vida ayudando a fomentar la cultura del envejecimiento activo."
     },
     {
-      "show_name": "Lugares secretos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_lugares-secretos-s01e05-el-principe_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 5 - El príncipe",
-      "start_time": "14:00",
-      "end_time": "14:25",
-      "episode_description": "Una mezcla de viajes, elementos de la cultura pop, revelaciones de destinos turísticos y personajes que trascienden en distintos ámbitos de México y el mundo."
-    },
-    {
-      "show_name": "RTC",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc-s26e11_l_m.jpg",
-      "show_category": "Temporada 26 Episodio 11",
-      "start_time": "14:25",
-      "end_time": "14:30",
-      "episode_description": ""
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "12:00",
+      "end_time": "12:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
     },
     {
       "show_name": "Un par a todo dar",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_un-par-a-todo-dar-1960_l_m.jpg",
       "show_category": "Comedia / 1960",
-      "start_time": "14:30",
-      "end_time": "16:00",
+      "start_time": "12:03",
+      "end_time": "13:40",
       "episode_description": "Viruta y Capulina llegan a Tepalcate de las Jarras, el pueblo natal de Capulina, con la intención de comprar un terreno. El cantinero les vende uno muy grande, pero resulta ser el cementerio."
     },
     {
-      "show_name": "Amigos intocables",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_amigos-intocables-2011_l_m.jpg",
-      "show_category": "The Intouchables",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": "Philippe, un aristócrata que se ha quedado tetrapléjico a causa de un accidente de parapente, contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel."
-    },
-    {
-      "show_name": "Los periodistas en Canal Once",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 2 Episodio 13",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Un espacio plural con público en vivo para analizar temas relevantes de la coyuntura actual."
-    },
-    {
-      "show_name": "Once noticias - Dominical",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias-dominical_l_m.jpg",
-      "show_category": "Noticiero",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Toda la información del fin de semana para entender lo que pasa en Honduras y el mundo."
-    },
-    {
-      "show_name": "Identidad",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_identidad-s01e08-panteon-de-san-fernando_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 8 - Panteón de San Fernando",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "show_name": "RTC",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_rtc-s26e11_l_m.jpg",
+      "show_category": "Temporada 26 Episodio 11",
+      "start_time": "13:40",
+      "end_time": "13:45",
       "episode_description": ""
     },
     {
-      "show_name": "El azteca está de vuelta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
-      "show_category": "El once inicial",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Un espacio dedicado a lo mejor del fútbol mundial."
+      "show_name": "Big Cities",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_big-cities-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 11",
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": "Un espacio que presenta las nuevas cooperativas de vivienda. En este segmento se señala cómo estas son una nueva forma de vida que se instala como tendencia en varios países del mundo."
     },
     {
-      "show_name": "La historia en el Once",
+      "show_name": "Once noticias a las dos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "El análisis de las noticias más destacadas de la jornada."
+    },
+    {
+      "show_name": "A + A, Amor y Amistad",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 2 Episodio 110 - Réquiem por Leona Vicario",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "La serie La Historia en el Once aborda los grandes acontecimientos y personajes de la historia de México en un periodo que abarca de 1813 a 1914. E l publico podrá rememorar los hechos que moldearon el futuro del pais."
+      "show_category": "Temporada 4 Episodio 50 - Festikatmex",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Programa que busca concienciar y sensibilizar sobre la responsabilidad que significa tener animales, su cuidado, alimentación, adiestramiento y todo lo necesario para mantenerlos sanos y felices."
     },
     {
-      "show_name": "Operación mamut",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-mamut-s08e11_l_m.jpg",
-      "show_category": "Temporada 8 Episodio 11",
+      "show_name": "Escuela de rugidos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_escuela-de-rugidos-s01e41-la-inspectora-escolar_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 41 - La inspectora escolar",
+      "start_time": "16:00",
+      "end_time": "16:07",
+      "episode_description": "La clase está ansiosa por impresionar cuando la escuela recibe la visita de la inspectora escolar."
+    },
+    {
+      "show_name": "Sam y Julia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 68 - Un auténtico príncipe",
+      "start_time": "16:07",
+      "end_time": "16:30",
+      "episode_description": "Julia, una ratoncita, se muda a la Mansión del Ratón, hecha de cartón y tela. Allí conoce a Sam, un ratón astuto, y se hacen muy buenos amigos. A pesar de sus diferencias, su amistad con Sam hace sentir a Julia como en casa."
+    },
+    {
+      "show_name": "Alma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 27",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Tras perder la memoria en un extraño accidente que acabó con la vida de casi todos sus compañeros, Alma intenta descubrir qué sucedió ese día y recuperar su identidad."
+    },
+    {
+      "show_name": "Juani y Gatón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_juani-y-gaton-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 8 - ¿Qué es un rollo fotográfico?",
+      "start_time": "17:00",
+      "end_time": "17:07",
+      "episode_description": "Juani y Gatón viajan en el tiempo tras la pista de un curioso cilindro en el que el abuelo guardaba sus fotografías."
+    },
+    {
+      "show_name": "Amigas/os on",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 19",
+      "start_time": "17:07",
+      "end_time": "17:15",
+      "episode_description": "Serie de cápsulas sobre lo que les interesa y les gusta hacer a niñas y niños; cocina, naturaleza, palabras, inventos, arte y misterios. Descubre junto a ellos cosas sorprendentes."
+    },
+    {
+      "show_name": "La orquestita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - La flauta de hueso",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Durante un ensayo, la banda recibe una visita inesperada: Pipo, pero no el de siempre, sino un Pipo del futuro que viaja a través del tiempo en una nave que, aparentemente, \"tomó prestada\"."
+    },
+    {
+      "show_name": "Extraño escuadrón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 31 - No queremos más Óscarbots / El peor primer día de todos",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Uno de los Oscarbots funciona mal y causa muchos problemas. / Es el primer día de trabajo del agente Ori y todo le sale mal, entonces los demás agentes para consolarlo le cuentan cosas terribles que les pasaron en su primer día de trabajo."
+    },
+    {
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "18:00",
+      "end_time": "18:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
+    },
+    {
+      "show_name": "Historias de vida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_historias-de-vida-s04e08-juan-jose-arreola_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 8 - Juan José Arreola",
+      "start_time": "18:03",
+      "end_time": "18:30",
+      "episode_description": "Vida y obra de Alfonso García Robles, diplomático mexicano, premio Nobel de la Paz en 1982."
+    },
+    {
+      "show_name": "Aprender en comunidad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_aprender-en-comunidad-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Colima, Alejandra González",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Acompañamos a Alejandra González, Educadora Comunitaria en la comunidad de El Cóbano, en el estado de Colima, donde se encuentra un campamento migrante con una escuela."
+    },
+    {
+      "show_name": "Once Noticias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_once-noticias_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "19:00",
+      "end_time": "19:03",
+      "episode_description": "El noticiero que te ofrece un panorama completo del acontecer de México y el mundo, con información objetiva y confiable."
+    },
+    {
+      "show_name": "Semana Santa en Iztapalapa. Historia de una promesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 1",
+      "start_time": "19:03",
+      "end_time": "20:00",
+      "episode_description": "Conoce la historia detrás de la representación de la Semana Santa en Iztapalapa y a los personajes que mantienen viva la tradición y su promesa, no sólo con el Señor de la Cuevita, sino con su comunidad y consigo mismos."
+    },
+    {
+      "show_name": "Perspectivas históricas Once",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 113 - La guerra en Irán",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Serie que buscar generar reflexiones amplias y diversas sobre temas de actualidad desde una perspectiva histórica. De la mano de historiadores, se ofrecen herramientas para comprender el presente en base a hechos del pasado."
+    },
+    {
+      "show_name": "Ciudad infinita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 8 - Los tres alegres cronistas: crónicas y relatos por la Ciudad de México",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "La serie \"Ciudad infinita\" es una invitación a reflexionar sobre la Ciudad de México."
+    },
+    {
+      "show_name": "Punto de referencia - Tu noticiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Un espacio noticiosos que aborda los hechos más destacados de la agenda de noticias nacional. El espacio está conducido por los periodistas Azul Alzaga y Alberto Nájar y busca informar al público sobre los acontecimientos diarios."
+    },
+    {
+      "show_name": "Masiosare",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 45 - El fin de las pensiones doradas",
       "start_time": "22:00",
       "end_time": "23:00",
-      "episode_description": "Programa de humor político en el que las noticias de cada día son la materia prima de una puesta en escena crítica y divertida sobre el acontecer nacional e internacional."
+      "episode_description": "Un espacio de debate donde se discutirán los temas que más importan al país."
     },
     {
-      "show_name": "El hombre del brazo de oro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-hombre-del-brazo-de-oro-1955_l_m.jpg",
-      "show_category": "The Man with the Golden Arm",
+      "show_name": "La hija de la otra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_la-hija-de-la-otra-1951_l_m.jpg",
+      "show_category": "Drama / 1951",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Frankie Machine es un habilidoso jugador de cartas y fue alguna vez un adicto a la heroína. Cuando regresa de la prisión, lucha por conseguir una nueva forma de vivir que le permita no caer nuevamente en su adicción."
+      "episode_description": "Una mujer de la alta sociedad tiene una aventura amorosa con un hombre pobre. Todo empeora cuando descubre que está embarazada y decide huir."
     }
   ]
 }
