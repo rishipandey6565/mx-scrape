@@ -3,12 +3,20 @@
   "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "Clío TV",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_clio-tv_l_m.jpg",
-      "show_category": "Documental",
+      "show_name": "Iglesia universal del Reino de Dios - Oración fuerte al Espiritu Santo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Religioso",
       "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CV directo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg",
+      "show_category": "Publicidad",
+      "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Emisión que relata los más grandes e importantes sucesos que han marcado la historia de México."
+      "episode_description": "Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal."
     },
     {
       "show_name": "Sognare",
@@ -143,8 +151,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-chavo_l_m.jpg",
       "show_category": "Comedia",
       "start_time": "14:30",
-      "end_time": "16:30",
+      "end_time": "15:30",
       "episode_description": "La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño."
+    },
+    {
+      "show_name": "Lo tomas o lo dejas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_lo-tomas-o-lo-dejas_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": "Un concurso en el que participan 24 jugadores y cada uno tendrá un maletín con diferentes cantidades que van de los 10 centavos hasta los 100 mil dólares. La ruleta definirá quién pasará a jugar en cada episodio."
     },
     {
       "show_name": "Una familia con suerte",
@@ -203,12 +219,12 @@
       "episode_description": "Entérate de los sucesos más relevantes de la actualidad en este segmento especial que te brinda un resumen general sobre los últimos acontecimientos ocurridos en México y el mundo."
     },
     {
-      "show_name": "Tercer grado deportivo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
-      "show_category": "Tercer grado deportivo",
+      "show_name": "CDI Código de investigación",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documental",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Un grupo de especialistas y participantes, de la mano de una moderadora, analiza y debate los hechos más relevantes del mundo deportivo en la actualidad."
+      "episode_description": "Una producción dedicada al true crime donde exploramos las historias detrás de los crímenes más impactantes. Ofrecemos investigaciones a fondo, análisis de expertos, testimonios y tecnología de vanguardia para acercarte a la verdad."
     }
   ]
 }

@@ -3,10 +3,18 @@
   "date": "31/03/2026",
   "schedule": [
     {
+      "show_name": "Himno nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg",
+      "show_category": "Cultural",
+      "start_time": "00:00",
+      "end_time": "00:02",
+      "episode_description": "Himno nacional mexicano."
+    },
+    {
       "show_name": "Inova",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
-      "start_time": "00:00",
+      "start_time": "00:02",
       "end_time": "00:30",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
     },
@@ -79,8 +87,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg",
       "show_category": "Publicidad",
       "start_time": "04:30",
-      "end_time": "05:00",
+      "end_time": "04:58",
       "episode_description": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar."
+    },
+    {
+      "show_name": "Barras de ajuste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg",
+      "show_category": "Entretenimientos",
+      "start_time": "04:58",
+      "end_time": "05:00",
+      "episode_description": "Barra de ajuste."
     },
     {
       "show_name": "RTC",
@@ -163,12 +179,12 @@
       "episode_description": ""
     },
     {
-      "show_name": "Chucho, el roto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_chucho-el-roto-1954-1_l_m.jpg",
-      "show_category": "Comedia / 1954",
+      "show_name": "Las interesadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_las-interesadas-1952_l_m.jpg",
+      "show_category": "Comedia / 1952",
       "start_time": "10:00",
       "end_time": "12:00",
-      "episode_description": "Jesús Arriaga fue un noble y humilde obrero que fue encarcelado por seducir a la hija de un hombre rico. En la cárcel conoció a una serie de maleantes diversos pero divertidos con quienes formó una banda de ladrones buenos."
+      "episode_description": "Julia, Marta y Gloria son tres muchachas respondonas que tratan de vengarse de la sociedad machista. Las tres jóvenes, que deciden vivir juntas, atropellan con su auto a Raúl, causándole amnesia."
     },
     {
       "show_name": "Los Rey",
@@ -187,28 +203,28 @@
       "episode_description": "Historia de amor y traición en la que Matías Rey y Lorenza Malvido forman una pareja de recién casados que verá peligrosamente amenazada su felicidad debido a la rivalidad que identifica a sus dos familias."
     },
     {
-      "show_name": "Doña Clarines",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_dona-clarines-1951_l_m.jpg",
-      "show_category": "Drama / 1951",
+      "show_name": "El gran autor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-gran-autor-1954_l_m.jpg",
+      "show_category": "Drama / 1954 /5.4",
       "start_time": "14:00",
       "end_time": "16:00",
-      "episode_description": "El padre de Marcela muere, dejándole en herencia una fábrica de mosaicos casi en quiebra. Esto la obliga a vivir en un pueblo con su tía Clara, conocida como Clarines."
+      "episode_description": "Historia construida a base de pasión y engaño, en donde el amor se sobrepone a todo tipo de situaciones desdichadas, triunfando en todos los casos."
     },
     {
-      "show_name": "Me importa poco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_me-importa-poco-1960_l_m.jpg",
-      "show_category": "Musical / 1960",
+      "show_name": "El niño perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-nino-perdido-1947_l_m.jpg",
+      "show_category": "Comedia / 1947",
       "start_time": "16:00",
       "end_time": "17:45",
-      "episode_description": "Una joven y su novio se adentran en una aventura, viajan a un pueblo a estudiar las características del machismo en los hombres. Sin embargo, todo se complica cuando ella se enamore de uno de esos \"machos\"."
+      "episode_description": "Criado como un niño por sus tías Pura y Pita, el joven Agustín sufre de doble identidad y cada día, a las siete de la noche en punto, se convierte en un \"lobo\" aullador que persigue a toda mujer que se le acerca."
     },
     {
-      "show_name": "El mariachi canta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mariachi-canta-1963_l_m.jpg",
-      "show_category": "Comedia / 1963",
+      "show_name": "Serenata en México",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_serenata-en-mexico-1956_l_m.jpg",
+      "show_category": "Comedia / 1956",
       "start_time": "17:45",
       "end_time": "19:30",
-      "episode_description": "Lucas abandona su pueblo para irse a la capital, donde organiza un grupo de mariachi que tiene mucho éxito. Por su parte Lupe hace lo propio con sus amigas. Entre ambas bandas se creará una rivalidad entremezclada con un profundo amor."
+      "episode_description": "Dos cantantes rancheros se enamoran, pero se separan cuando uno de ellos es contratado como solista."
     },
     {
       "show_name": "Los elegidos",
@@ -235,12 +251,12 @@
       "episode_description": "El noticiero mas exitoso de la ciudad de México, conduce Uriel Estrada."
     },
     {
-      "show_name": "Vuelo 701",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_vuelo-701-1971_l_m.jpg",
-      "show_category": "Drama / 1971 /3.6",
+      "show_name": "Sí quiero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_si-quiero-1967_l_m.jpg",
+      "show_category": "Comedia / 1967",
       "start_time": "22:30",
       "end_time": "00:00",
-      "episode_description": "Mientras esperan abordar su avión hacia sus distintas obligaciones, los pasajeros del vuelo 701 comparten sus historias y sus planes para el futuro."
+      "episode_description": "Unos recién casados enfrentan juntos varios problemas: los suegros, un embarazo prematuro, el triunfo profesional de ella y la tentación del adulterio."
     }
   ]
 }
