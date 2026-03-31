@@ -1,20 +1,28 @@
 {
   "channel": "Europa Europa",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
-      "show_name": "El huevo de la serpiente",
+      "show_name": "Barcelona, noche de verano",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:15",
+      "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Ojos bien abiertos",
+      "show_name": "La conferencia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:15",
+      "start_time": "00:30",
+      "end_time": "02:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dos palabras",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -23,111 +31,111 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
-      "end_time": "04:00",
+      "end_time": "04:10",
       "episode_description": ""
     },
     {
       "show_name": "Nolly",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:50",
+      "start_time": "04:10",
+      "end_time": "05:05",
       "episode_description": ""
     },
     {
-      "show_name": "Un día más",
+      "show_name": "El pacto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:50",
-      "end_time": "06:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Muerte en el Congo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:45",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi familia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Carla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "12:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Barcelona, noche de verano",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:55",
-      "end_time": "14:40",
+      "start_time": "05:05",
+      "end_time": "07:10",
       "episode_description": ""
     },
     {
       "show_name": "La conferencia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:40",
-      "end_time": "16:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El intercambio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Un profesor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Charité",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El dinero de otros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ojos bien abiertos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:50",
-      "end_time": "22:40",
+      "start_time": "07:10",
+      "end_time": "09:10",
       "episode_description": ""
     },
     {
       "show_name": "Barcelona, noche de verano",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:40",
-      "end_time": "00:30",
+      "start_time": "09:10",
+      "end_time": "10:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Puede besar al novio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:55",
+      "end_time": "12:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un día más",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:35",
+      "end_time": "14:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El intercambio",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "16:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi semana con Marilyn",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:05",
+      "end_time": "17:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un profesor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:55",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El dinero de otros",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kostas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:55",
+      "end_time": "20:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mujeres Apasionadas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:55",
+      "end_time": "23:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El gran sueño",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:20",
+      "end_time": "01:15",
       "episode_description": ""
     }
   ]

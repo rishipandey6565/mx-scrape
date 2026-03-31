@@ -1,44 +1,36 @@
 {
   "channel": "Antena 3",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
       "show_name": "El chiringuito internacional",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:31",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias de la mañana",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:31",
-      "end_time": "00:55",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/tomorrow/espejo-público.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
       "show_category": "",
-      "start_time": "00:55",
-      "end_time": "02:55",
-      "episode_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
-    },
-    {
-      "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/tomorrow/espejo-público.webp",
-      "show_category": "",
-      "start_time": "02:55",
-      "end_time": "05:15",
+      "start_time": "01:00",
+      "end_time": "05:00",
       "episode_description": "Susanna Griso se destaca cómo una de las mejores presentadoras de informativos y noticias en España. Ella presenta la renovación del magacín (magazine) semanal en el cual se desarrollan temas tales cómo actualidad de la sociedad, salud y nutrición con entrevistas y reportajes."
     },
     {
       "show_name": "Cocina abierta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:15",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -60,7 +52,7 @@
     },
     {
       "show_name": "Espejo público",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/tomorrow/espejo-público.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg",
       "show_category": "",
       "start_time": "07:45",
       "end_time": "10:45",
@@ -116,7 +108,7 @@
     },
     {
       "show_name": "La ruleta de la suerte",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Antena-3/tomorrow/la-ruleta-de-la-suerte.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg",
       "show_category": "Concursos",
       "start_time": "17:30",
       "end_time": "18:30",
@@ -139,10 +131,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Equipo de investigación",
+      "show_name": "El capitán en Japón",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:15",
+      "end_time": "21:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Lo de Évole",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:45",
       "end_time": "23:00",
       "episode_description": ""
     },

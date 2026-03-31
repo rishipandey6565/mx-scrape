@@ -1,28 +1,44 @@
 {
   "channel": "Studio Universal (México)",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "El origen",
+      "show_name": "Limitless",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:10",
+      "end_time": "01:10",
       "episode_description": ""
     },
     {
-      "show_name": "Los siete magníficos",
+      "show_name": "RoboCop",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/robocop.jpg",
+      "show_category": "Acción",
+      "start_time": "01:10",
+      "end_time": "03:20",
+      "episode_description": "En un futuro no muy lejano un policía de la ciudad de Detroit llamado Alex J. Murphy (Peter Weller) persigue a una banda de delincuentes pero es atrapado y acribillado a balazos al punto que es dado por muerto pero una compañía llamada OCP, que es la encargada de mostrar un producto para combatir el crimen lleva a cabo la tarea de utilizar a este hombre para convertirlo en un ciborg que ayude a combatir el crimen."
+    },
+    {
+      "show_name": "El príncipe y yo II",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:10",
-      "end_time": "04:30",
+      "start_time": "03:20",
+      "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Jorge el Curioso: Mono real",
+      "show_name": "Hollywood on Set",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:30",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hollywood on Set",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -35,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "100% lobo",
+      "show_name": "Los Boxtrolls",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
@@ -43,75 +59,83 @@
       "episode_description": ""
     },
     {
-      "show_name": "Parque mágico",
+      "show_name": "Chimpancés espaciales",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:10",
-      "end_time": "09:40",
+      "end_time": "09:45",
       "episode_description": ""
     },
     {
-      "show_name": "Spider-Man: a través del Spider-Verso",
+      "show_name": "Kubo y la búsqueda samurái",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:40",
-      "end_time": "12:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sonic 2: La Película",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/today/sonic-2-la-película.webp",
-      "show_category": "Animación",
-      "start_time": "12:15",
-      "end_time": "14:25",
-      "episode_description": "El erizo azul favorito del mundo está de vuelta para una aventura de otro nivel en Sonic 2: La Película. Después de establecerse en Green Hills, Sonic (Ben Schwartz) está ansioso por demostrar que tiene lo que se necesita para ser un verdadero héroe. Su prueba llega cuando el Dr. Robotnik (Jim Carrey) regresa, esta vez con un nuevo cómplice, Knuckles (Idris Elba), en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic se une a su propio compañero, Tails (Colleen O'Shaughnessey) y juntos se embarcan en un viaje por el mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas."
-    },
-    {
-      "show_name": "Dora y la Ciudad Perdida",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/Studio-Universal-M-xico/today/dora-y-la-ciudad-perdida.webp",
-      "show_category": "Aventura",
-      "start_time": "14:25",
-      "end_time": "16:20",
-      "episode_description": "Después de haber pasado la mayor parte de su vida explorando la jungla con sus padres, nada podía preparar a Dora (Isabela Moner) para su aventura más peligrosa: la escuela secundaria. Siempre como exploradora, Dora rápidamente se encuentra liderando a Boots – su mejor amigo, un mono –, Diego (Jeffrey Wahlberg), un misterioso habitante de la jungla, Alejandro (Eugenio Derbez), un grupo de adolescentes en una aventura de acción para salvar a los padres de Dora y resolver el misterio imposible detrás de una ciudad de oro perdida."
-    },
-    {
-      "show_name": "Hotel Transylvania",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:20",
-      "end_time": "18:10",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hotel Transylvania 3: Monstruos de vacaciones",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:10",
-      "end_time": "20:00",
+      "start_time": "09:45",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Los Locos Addams",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "21:35",
+      "start_time": "11:30",
+      "end_time": "13:05",
       "episode_description": ""
     },
     {
       "show_name": "Los locos Addams 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:35",
-      "end_time": "23:15",
+      "start_time": "13:05",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
-      "show_name": "Limitless",
+      "show_name": "ParaNorman",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:15",
-      "end_time": "01:10",
+      "start_time": "14:45",
+      "end_time": "16:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Coraline y la puerta secreta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:25",
+      "end_time": "18:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mi Villano Favorito 3",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/mi_villano_favorito_3.jpg",
+      "show_category": "Animación",
+      "start_time": "18:20",
+      "end_time": "20:00",
+      "episode_description": "Balthazar Bratt (Trey Parker), una estrella infantil olvidada de los años 80, obsesionada con el personaje que interpretó en esa época. Su obsesión con el papel que representaba hace que se convierta en un criminal robando un diamante. Mientras tanto, Gru (Steve Carell) y Lucy (Kristen Wiig), tratan de detener a Balthazar pero al fallar su captura son despedidos de la agencia de super espías. Una noticia inesperada llega a los oídos de Gru, Lucy y sus tres adorables hijas Margo (Miranda Cosgrove), Edith (Dana Gaier) y Agnes (Nev Scharrel), Gru conoce a su hermano gemelo Dru (Steve Carell), quien le propone que regrese a ser un villano y le ayude a robar el diamante que Bratt posee."
+    },
+    {
+      "show_name": "Sonic: La Película",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sonic_la_pelicula.jpg",
+      "show_category": "Animación",
+      "start_time": "20:00",
+      "end_time": "21:50",
+      "episode_description": "Sigue a las aventuras de Sonic (Ben Schwartz) mientras navega por las complejidades de la vida en la Tierra con su recién descubierto, el mejor amigo, Tom Wachowski (James Marsden). Sonic y Tom se unen para tratar de detener al villano Dr. Robotnik (Jim Carrey) de capturar a Sonic y usar sus inmensos poderes para dominar el mundo."
+    },
+    {
+      "show_name": "Sonic 2: La Película",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/sonic_2_la_pelicula.jpg",
+      "show_category": "Animación",
+      "start_time": "21:50",
+      "end_time": "23:55",
+      "episode_description": "El erizo azul favorito del mundo está de vuelta para una aventura de otro nivel en Sonic 2: La Película. Después de establecerse en Green Hills, Sonic (Ben Schwartz) está ansioso por demostrar que tiene lo que se necesita para ser un verdadero héroe. Su prueba llega cuando el Dr. Robotnik (Jim Carrey) regresa, esta vez con un nuevo cómplice, Knuckles (Idris Elba), en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic se une a su propio compañero, Tails (Colleen O'Shaughnessey) y juntos se embarcan en un viaje por el mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas."
+    },
+    {
+      "show_name": "Analízame",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:55",
+      "end_time": "01:50",
       "episode_description": ""
     }
   ]

@@ -1,44 +1,52 @@
 {
   "channel": "14 de México",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
-      "show_name": "¡Ay, Jalisco no te rajes!",
+      "show_name": "Un éclat d'amour incompréhensi",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:50",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los tres García",
+      "show_name": "La choca",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:50",
-      "end_time": "02:45",
+      "start_time": "00:00",
+      "end_time": "01:35",
       "episode_description": ""
     },
     {
       "show_name": "Altas Horas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:45",
-      "end_time": "04:45",
+      "start_time": "01:35",
+      "end_time": "03:35",
       "episode_description": ""
     },
     {
-      "show_name": "Consulta directa",
+      "show_name": "Diálogos por la democracia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:45",
-      "end_time": "05:45",
+      "start_time": "03:35",
+      "end_time": "04:35",
       "episode_description": ""
     },
     {
-      "show_name": "México bajo reserva",
+      "show_name": "Tv Médica",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:45",
+      "start_time": "04:35",
+      "end_time": "05:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Maestros olvidados",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:35",
       "end_time": "06:10",
       "episode_description": ""
     },
@@ -75,50 +83,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "TV Migrante Informa",
+      "show_name": "Ama de Casa",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:15",
-      "end_time": "10:45",
+      "end_time": "11:05",
       "episode_description": ""
     },
     {
-      "show_name": "Ventana al Mundo",
+      "show_name": "Los Nuestros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:45",
-      "end_time": "11:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historia es Presente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:50",
+      "start_time": "11:05",
+      "end_time": "12:05",
       "episode_description": ""
     },
     {
       "show_name": "Noticiario France 24",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:50",
-      "end_time": "12:40",
+      "start_time": "12:05",
+      "end_time": "12:50",
       "episode_description": ""
     },
     {
-      "show_name": "Tv Médica",
+      "show_name": "Identidad",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:40",
-      "end_time": "13:30",
+      "start_time": "12:50",
+      "end_time": "13:20",
       "episode_description": ""
     },
     {
-      "show_name": "MUCHO+Q2",
+      "show_name": "La independencia inconclusa",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
+      "start_time": "13:20",
       "end_time": "14:30",
       "episode_description": ""
     },
@@ -127,22 +127,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "15:35",
+      "end_time": "16:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los tres García",
+      "show_name": "Los Nuestros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:35",
-      "end_time": "17:35",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
-      "show_name": "Un éclat d'amour incompréhensi",
+      "show_name": "Músicos en directo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:35",
+      "start_time": "17:00",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -179,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Debate Público",
+      "show_name": "Versiones Públicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -187,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Identidad",
+      "show_name": "Los Secretos de la Corrupción",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
@@ -195,11 +195,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un éclat d'amour incompréhensi",
+      "show_name": "Fuego en el mar",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:00",
+      "end_time": "01:20",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "11 de México",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "El hombre del brazo de oro",
+      "show_name": "La Hija de la Otra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,18 +19,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "El hombre del brazo de oro",
+      "show_name": "La Hija de la Otra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:02",
-      "end_time": "01:00",
+      "end_time": "00:45",
       "episode_description": ""
     },
     {
-      "show_name": "La Hora Nacional",
+      "show_name": "Mañanera 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
+      "start_time": "00:45",
+      "end_time": "01:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Big Cities",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:45",
       "end_time": "02:00",
       "episode_description": ""
     },
@@ -47,14 +55,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "02:30",
-      "end_time": "04:00",
+      "end_time": "04:15",
       "episode_description": ""
     },
     {
-      "show_name": "Detrás de un click",
+      "show_name": "Big Cities",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
+      "start_time": "04:15",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -131,26 +139,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Un par a todo dar",
+      "show_name": "La Hija de la Otra",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
-      "end_time": "13:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Radio, Televisión, y Cinematografía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:40",
-      "end_time": "13:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Big Cities",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:45",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -163,10 +155,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "A+A",
+      "show_name": "Detrás de un click",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
+      "end_time": "15:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Radio, Televisión, y Cinematografía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:25",
+      "end_time": "15:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El libro rojo: Especies amenazadas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": ""
     },
@@ -183,6 +191,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:07",
+      "end_time": "16:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Daniel Tigre y su Vecindad",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": ""
     },
@@ -195,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Juani y Gatón",
+      "show_name": "Zander",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -203,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Amigas/os ONN",
+      "show_name": "Shaun, el cordero",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:07",
@@ -211,7 +227,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La orquestita",
+      "show_name": "Mi hermano el monstruo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:15",
@@ -219,10 +235,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "El escuadrón de lo increíble",
+      "show_name": "Academia de superhéroes",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
+      "end_time": "17:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Prueba total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:45",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -235,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Historias de vida",
+      "show_name": "Crónicas de barrio",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:03",
@@ -243,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Aprender en comunidad",
+      "show_name": "¿Quién era David Alfaro Siqueiros?",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:30",
@@ -267,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectivas históricas",
+      "show_name": "Memoria y olvido",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -275,7 +299,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ciudad Infinita",
+      "show_name": "Tríptico",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:30",
@@ -299,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La Hija de la Otra",
+      "show_name": "Los invisibles",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",

@@ -1,117 +1,109 @@
 {
   "channel": "HBO Mundi",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
-    {
-      "show_name": "Shaman",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alimañas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lazos de vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "04:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Boyhood momentos de una vida",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:55",
-      "end_time": "07:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Crimen del Padre Amaro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:45",
-      "end_time": "09:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El seductor",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:50",
-      "end_time": "11:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Elizabeth",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:35",
-      "end_time": "13:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Código negro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:40",
-      "end_time": "15:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Ex Machina",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:20",
-      "end_time": "17:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El esquema fenicio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:15",
-      "end_time": "19:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Portobello",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Nosferatu",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Portobello",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:15",
-      "end_time": "23:15",
-      "episode_description": ""
-    },
     {
       "show_name": "La niña del mar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:15",
+      "start_time": "00:00",
       "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Habitación (2015)",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_habitacion_2015.jpg",
+      "show_category": "Drama",
+      "start_time": "01:00",
+      "end_time": "03:00",
+      "episode_description": "Joy (Brie Larson) junto a Jack (Jacob Tremblay), un niño de 5 años viven atrapados en un cuarto sin ventanas que mide tres metros cuadrados al que le llaman “La Habitación”. Joy ha creado todo un universo para Jack en “La Habitación” asegurándose que no le falte nada a Jack en este pequeño lugar. A medida que la curiosidad de Jack crece acerca del lugar donde vive y la resistencia su madre toca fondo, ellos comienzan a tramar un arriesgado plan para escapar a algo que les creará un miedo aún mayor: el mundo real."
+    },
+    {
+      "show_name": "Eclipse total",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "05:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "No nos dejes caer esta noche",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:15",
+      "end_time": "07:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Empezar de nuevo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:00",
+      "end_time": "08:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las chicas de Wall",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:50",
+      "end_time": "10:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Intrusos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:35",
+      "end_time": "12:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "On Swift Horses",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:20",
+      "end_time": "14:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gangster americano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:25",
+      "end_time": "17:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Día de entrenamiento",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:05",
+      "end_time": "19:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Kneecap",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:10",
+      "end_time": "21:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "HBO Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:55",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Anora",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:55",
+      "end_time": "00:20",
       "episode_description": ""
     }
   ]

@@ -1,141 +1,125 @@
 {
   "channel": "TCM (México)",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
-      "show_name": "Río bravo",
+      "show_name": "4x4",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:44",
+      "end_time": "00:17",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Caballeros del Rey Arturo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:17",
+      "end_time": "02:18",
       "episode_description": ""
     },
     {
       "show_name": "Hollywood one on one",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:44",
-      "end_time": "02:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:24",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:09",
-      "end_time": "03:21",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:21",
-      "end_time": "03:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cautivos del mal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:31",
-      "end_time": "05:31",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Feliz novedad",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:31",
-      "end_time": "07:14",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La casa de té de la luna de agosto",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:14",
-      "end_time": "09:27",
-      "episode_description": ""
-    },
-    {
-      "show_name": "East of Eden",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:27",
-      "end_time": "11:28",
+      "start_time": "02:18",
+      "end_time": "04:27",
       "episode_description": ""
     },
     {
       "show_name": "El abrazo partido",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:28",
-      "end_time": "13:15",
+      "start_time": "04:27",
+      "end_time": "06:14",
       "episode_description": ""
     },
     {
-      "show_name": "La Máquina del tiempo",
+      "show_name": "The Time machine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:15",
-      "end_time": "15:05",
+      "start_time": "06:14",
+      "end_time": "08:03",
       "episode_description": ""
     },
     {
-      "show_name": "El ciclista",
+      "show_name": "The racer",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:05",
-      "end_time": "16:45",
+      "start_time": "08:03",
+      "end_time": "09:42",
       "episode_description": ""
     },
     {
       "show_name": "Los tres mosqueteros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:45",
-      "end_time": "19:00",
+      "start_time": "09:42",
+      "end_time": "11:57",
       "episode_description": ""
     },
     {
-      "show_name": "El ciudadano",
+      "show_name": "Nocturne",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "21:06",
+      "start_time": "11:57",
+      "end_time": "13:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Words on Bathroom Walls",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "15:29",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Estafa telefónica",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "15:29",
+      "end_time": "17:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La edición navideña",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:26",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
       "show_name": "Derecho de familia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:06",
-      "end_time": "22:46",
+      "start_time": "19:00",
+      "end_time": "20:39",
       "episode_description": ""
     },
     {
-      "show_name": "4x4",
+      "show_name": "El Lobista",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:46",
-      "end_time": "00:17",
+      "start_time": "20:39",
+      "end_time": "21:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Lobista",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:27",
+      "end_time": "22:21",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Knights of the Round Table",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:21",
+      "end_time": "00:22",
       "episode_description": ""
     }
   ]

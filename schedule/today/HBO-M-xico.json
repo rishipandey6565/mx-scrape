@@ -1,142 +1,126 @@
 {
   "channel": "HBO (México)",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
-      "show_name": "DTF St. Louis",
+      "show_name": "Last Week Tonight With John Oliver",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:41",
       "episode_description": ""
     },
     {
-      "show_name": "Rooster",
+      "show_name": "Cincuenta Sombras de Grey",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg",
+      "show_category": "Drama",
+      "start_time": "00:41",
+      "end_time": "02:54",
+      "episode_description": "Cuando Anastasia Steele (Dakota Johnson) – una estudiante de literatura – logra entrevistar al exitoso y multimillonario Christian Grey (Jamie Dornan), ella encuentra a un hombre brillante, buenmozo e intimidante hombre. La inocente joven empieza a darse cuenta que desea a este hombre a pesar de ser reservada y cada vez se siente desesperada por estar cerca de él. Por otra parte Christian es incapaz de resistir la belleza de Anastasia y admite que el la desea también, pero con sus propios términos."
+    },
+    {
+      "show_name": "La mujer de las sombras",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
+      "start_time": "02:54",
+      "end_time": "04:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Irrupcion",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un papá genial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "07:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Last Week Tonight With John Oliver",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:38",
+      "end_time": "08:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
+      "show_category": "Acción",
+      "start_time": "08:23",
+      "end_time": "10:43",
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
+    },
+    {
+      "show_name": "¿Y dónde están las rubias?",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:43",
+      "end_time": "12:40",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destino Final: Lazos de Sangre",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/destino_final_lazos_de_sangre.jpg",
+      "show_category": "Terror",
+      "start_time": "12:40",
+      "end_time": "14:38",
+      "episode_description": "Atormentada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie (Kaitlyn Santa Juana) regresa a casa para buscar a la única persona que podría romper el ciclo y salvar a su familia de la espantosa muerte que inevitablemente les espera a todos."
+    },
+    {
+      "show_name": "Eso",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:38",
+      "end_time": "17:00",
       "episode_description": ""
     },
     {
       "show_name": "The Comeback",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:00",
+      "start_time": "17:00",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "El payaso del maizal",
+      "show_name": "Tornados",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:44",
+      "start_time": "17:30",
+      "end_time": "19:40",
       "episode_description": ""
     },
     {
-      "show_name": "De noche con el diablo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:44",
-      "end_time": "04:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Posesión Infernal",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:24",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Fuerza antigánster",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:59",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Everest",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:59",
-      "end_time": "10:08",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los tipos malos 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:08",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Black Adam",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/black-adam.webp",
+      "show_name": "Jurassic World: Renace",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg",
       "show_category": "Acción",
-      "start_time": "12:00",
-      "end_time": "14:13",
-      "episode_description": "Casi 5000 años después de que los dioses antiguos le confirieran los poderes todopoderosos y lo encarcelaran con la misma rapidez – Black Adam (Dwayne Johnson) es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno."
-    },
-    {
-      "show_name": "La secta",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:13",
-      "end_time": "15:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pasajeros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:55",
-      "end_time": "17:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los tipos malos 2",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:55",
-      "end_time": "19:47",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rooster",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:47",
-      "end_time": "20:17",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Asesino del Juego de Citas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/el-asesino-del-juego-de-citas.webp",
-      "show_category": "Crimen",
-      "start_time": "20:17",
+      "start_time": "19:40",
       "end_time": "22:00",
-      "episode_description": "El debut como directora de Anna Kendrick, El Asesino del Juego de Citas, está ambientada en Los Ángeles de 1970, cuando una aspirante a actriz se cruza con un asesino en serie en el set del popular programa, The Dating Game."
+      "episode_description": "Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad."
     },
     {
-      "show_name": "Venom: El Último Baile",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/HBO-M-xico/today/venom-el-último-baile.webp",
-      "show_category": "Acción",
-      "start_time": "22:00",
-      "end_time": "23:56",
-      "episode_description": "En Venom: El Último Baile, Tom Hardy regresa como Venom, uno de los personajes más grandiosos y complejos de Marvel, para la última película de la trilogía. Eddie y Venom están huyendo. Perseguidos por sus dos mundos y con la red cerrándose, el dúo se ve obligado a tomar una decisión devastadora que hará que el último baile de Venom y Eddie termine."
-    },
-    {
-      "show_name": "Last Week Tonight With John Oliver",
+      "show_name": "Anaconda",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:56",
-      "end_time": "00:41",
+      "start_time": "22:00",
+      "end_time": "23:47",
       "episode_description": ""
+    },
+    {
+      "show_name": "Beekeeper: Sentencia de Muerte",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/beekeeper_sentencia_de_muerte.jpg",
+      "show_category": "Acción",
+      "start_time": "23:47",
+      "end_time": "01:40",
+      "episode_description": "En Beekeeper: Sentencia de muerte, la brutal campaña de venganza de un hombre adquiere un interés nacional después de que se revelara que es un ex agente de una organización poderosa y clandestina conocida como \"Beekeepers\"."
     }
   ]
 }

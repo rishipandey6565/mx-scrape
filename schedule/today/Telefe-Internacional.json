@@ -1,12 +1,52 @@
 {
   "channel": "Telefe Internacional",
-  "date": "30/03/2026",
+  "date": "31/03/2026",
   "schedule": [
     {
       "show_name": "Vidas robadas",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La ley del amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El Regreso de Lucas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Descubrir America",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vinos y placeres",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Plano x plano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:25",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -83,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Telefe Noticias",
+      "show_name": "Por el Mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -91,18 +131,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Check-in",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "18:40",
-      "episode_description": ""
-    },
-    {
       "show_name": "La ley del amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:40",
+      "start_time": "18:30",
       "end_time": "19:45",
       "episode_description": ""
     },
@@ -115,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Check-in",
+      "show_name": "#Viajeros",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:45",
@@ -139,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Staff",
+      "show_name": "Qué comen los que saben",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:30",

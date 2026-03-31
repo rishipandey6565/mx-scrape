@@ -1,9 +1,9 @@
 {
   "channel": "Mexiquense TV",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
-      "show_name": "R3t",
+      "show_name": "Entre el ruido",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,19 +15,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bionatura",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:05",
       "end_time": "00:30",
       "episode_description": ""
     },
     {
-      "show_name": "Experiencia EdoMex",
+      "show_name": "Los colores de mi tierra",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -35,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "¿Y tú, tú que vas a hacer?",
+      "show_name": "Voz canina",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Memoria Histórica",
+      "show_name": "El detector de mentiras",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -107,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Senderos y sabores",
+      "show_name": "De puesto en puesto",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
@@ -123,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Arki, el guardacuentos",
+      "show_name": "Huellas",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -155,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Voz canina",
+      "show_name": "Las mil y una notas",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:30",
@@ -171,10 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "La zona",
+      "show_name": "Sombras en los juegos",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Supernova",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
       "episode_description": ""
     },
@@ -187,18 +187,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mirada Global",
+      "show_name": "Claves",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Acento mexiquense",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
       "end_time": "21:00",
       "episode_description": ""
     },
@@ -211,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los colores de mi tierra",
+      "show_name": "La zona",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -227,7 +219,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Entre el ruido",
+      "show_name": "Acento mexiquense",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
