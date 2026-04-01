@@ -1,6 +1,6 @@
 {
   "channel": "Galicia TV",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
       "show_name": "Galicia por Diante",
@@ -15,22 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O agro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:55",
-      "end_time": "03:00",
+      "end_time": "02:45",
       "episode_description": ""
     },
     {
       "show_name": "Pulso activo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
+      "start_time": "02:45",
+      "end_time": "03:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pulso activo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:05",
       "end_time": "03:30",
       "episode_description": ""
     },
@@ -39,30 +39,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "05:46",
+      "end_time": "05:50",
       "episode_description": ""
     },
     {
-      "show_name": "Mira ti",
+      "show_name": "Galicia Noticias Mañá",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:46",
-      "end_time": "05:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Galicia Noticias",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:54",
-      "end_time": "06:30",
+      "start_time": "05:50",
+      "end_time": "06:25",
       "episode_description": ""
     },
     {
       "show_name": "Telexornal mediodía",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:30",
+      "start_time": "06:25",
       "end_time": "07:15",
       "episode_description": ""
     },
@@ -87,14 +79,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:39",
-      "end_time": "08:15",
+      "end_time": "08:30",
       "episode_description": ""
     },
     {
       "show_name": "Quen anda aí?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:15",
+      "start_time": "08:30",
       "end_time": "11:30",
       "episode_description": ""
     },
@@ -135,6 +127,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:15",
+      "end_time": "17:05",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Zigzag Diario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:05",
       "end_time": "17:30",
       "episode_description": ""
     },
@@ -159,22 +159,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:15",
-      "end_time": "19:15",
+      "end_time": "20:25",
       "episode_description": ""
     },
     {
-      "show_name": "O amor está en galicia",
+      "show_name": "Non Lle chames amor",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:15",
-      "end_time": "19:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "O amor está en galicia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:45",
+      "start_time": "20:25",
       "end_time": "23:00",
       "episode_description": ""
     },

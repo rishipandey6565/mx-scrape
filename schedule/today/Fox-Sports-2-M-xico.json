@@ -1,6 +1,6 @@
 {
   "channel": "Fox Sports 2 (México)",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
       "show_name": "Fox Sports",
@@ -47,15 +47,39 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AEW DYNAMITE",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:00",
       "end_time": "20:00",
       "episode_description": ""
     },
     {
-      "show_name": "Fox Sports",
+      "show_name": "SoCal arena women_s cup",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "00:00",
+      "end_time": "22:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Women_s football weekly",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "AEW DYNAMITE",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:00",
+      "end_time": "01:00",
       "episode_description": ""
     }
   ]

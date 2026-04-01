@@ -1,6 +1,6 @@
 {
   "channel": "Galicia TV",
-  "date": "31/03/2026",
+  "date": "01/04/2026",
   "schedule": [
     {
       "show_name": "Galicia por Diante",
@@ -15,14 +15,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:45",
+      "end_time": "02:55",
       "episode_description": ""
     },
     {
-      "show_name": "Pulso activo",
+      "show_name": "O agro",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:45",
+      "start_time": "02:55",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -31,6 +31,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "O Termómetro",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "05:46",
       "episode_description": ""
     },
@@ -71,6 +79,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
+      "end_time": "07:39",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Atrápame se podes",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:39",
       "end_time": "08:15",
       "episode_description": ""
     },
@@ -119,14 +135,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:15",
-      "end_time": "17:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Zigzag Diario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:05",
       "end_time": "17:30",
       "episode_description": ""
     },
@@ -155,18 +163,18 @@
       "episode_description": ""
     },
     {
-      "show_name": "Latitude galega",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:15",
-      "end_time": "20:10",
+      "end_time": "19:45",
       "episode_description": ""
     },
     {
-      "show_name": "Xente de mundo",
+      "show_name": "O amor está en galicia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:10",
+      "start_time": "19:45",
       "end_time": "23:00",
       "episode_description": ""
     },

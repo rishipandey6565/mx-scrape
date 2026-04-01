@@ -1,20 +1,20 @@
 {
   "channel": "TV5MONDE",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
       "show_name": "C dans l'air",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:45",
+      "end_time": "00:38",
       "episode_description": ""
     },
     {
-      "show_name": "Meurtres á amiens",
+      "show_name": "Laëtitia",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:45",
+      "start_time": "00:38",
       "end_time": "02:35",
       "episode_description": ""
     },
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pistes vertes",
+      "show_name": "C'est du belge",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:33",
@@ -51,15 +51,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le Point",
+      "show_name": "Geopolitis",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:27",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Objectif monde l'hebdo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:27",
       "end_time": "05:54",
       "episode_description": ""
     },
     {
-      "show_name": "Le Goút des Rencontres en Nouv",
+      "show_name": "Outremer gourmand",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:54",
@@ -83,42 +91,42 @@
       "episode_description": ""
     },
     {
-      "show_name": "Le jardin extraordinaire",
+      "show_name": "Partis skier",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:51",
-      "end_time": "08:21",
+      "end_time": "08:17",
       "episode_description": ""
     },
     {
-      "show_name": "Génération F",
+      "show_name": "Pistes vertes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:21",
-      "end_time": "08:49",
+      "start_time": "08:17",
+      "end_time": "08:44",
       "episode_description": ""
     },
     {
-      "show_name": "Tendance XXI",
+      "show_name": "Territoires de France",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:49",
-      "end_time": "09:15",
+      "start_time": "08:44",
+      "end_time": "09:11",
       "episode_description": ""
     },
     {
-      "show_name": "A travers champs",
+      "show_name": "Le Goút des Rencontres en Nouv",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:15",
-      "end_time": "09:46",
+      "start_time": "09:11",
+      "end_time": "09:44",
       "episode_description": ""
     },
     {
       "show_name": "Tout le monde veut prendre",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:46",
+      "start_time": "09:44",
       "end_time": "10:37",
       "episode_description": ""
     },
@@ -147,18 +155,26 @@
       "episode_description": ""
     },
     {
-      "show_name": "L'air de la mer rend libre",
+      "show_name": "L'empereur",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:03",
-      "end_time": "13:32",
+      "end_time": "12:47",
       "episode_description": ""
     },
     {
-      "show_name": "2 ou 3 choses que je ne sais",
+      "show_name": "L'empereur",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:32",
+      "start_time": "12:47",
+      "end_time": "13:33",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Football - Ligue 1 McDonald's",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:33",
       "end_time": "14:00",
       "episode_description": ""
     },
@@ -187,7 +203,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Une brique dans le ventre",
+      "show_name": "Maghreb-orient express",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -195,7 +211,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infrarouge, le débat rts",
+      "show_name": "Enquêtes de région",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
@@ -207,14 +223,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
-      "end_time": "17:31",
+      "end_time": "17:30",
       "episode_description": ""
     },
     {
-      "show_name": "Le code",
+      "show_name": "Envoyé spécial",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:31",
+      "start_time": "17:30",
       "end_time": "19:30",
       "episode_description": ""
     },
@@ -227,18 +243,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Trentenaires",
+      "show_name": "Elles",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:01",
-      "end_time": "21:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Meurtres en champagne",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:35",
       "end_time": "23:06",
       "episode_description": ""
     },
