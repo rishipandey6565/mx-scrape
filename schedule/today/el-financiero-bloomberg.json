@@ -3,28 +3,36 @@
   "date": "01/04/2026",
   "schedule": [
     {
+      "show_name": "Factor Fintec",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_factor-fintec_l_m.jpg",
+      "show_category": "Economía",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Es el primer programa que abarca el futuro de las finanzas y la tecnologia en Mexico y el mundo. Nos muestra las oportiunidades de que ofrece el sector y medios de pago alternativos"
+    },
+    {
+      "show_name": "A ke no sabías",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Turismo",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Un programa que explora destinos únicos, sabores extraordinarios y reflexiones sobre viajar, redefiniendo el consumo de contenido en México, y creando inspiración en los que tienen ganas de vivir experiencias sorprendentes y memorables."
+    },
+    {
       "show_name": "Al cierre",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_al-cierre_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
     },
     {
       "show_name": "Con Ortega a las diez",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
-    },
-    {
-      "show_name": "The Pulse",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_the-pulse_l_m.jpg",
-      "show_category": "Economía",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Francine Lacqua te presenta las informaciones y noticias más relevantes, así como también sus comentarios y análisis, sobre el acontecer relacionado al complejo mundo de los negocios en Europa."
+      "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
       "show_name": "Bloomberg Brief",
@@ -67,12 +75,12 @@
       "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
     },
     {
-      "show_name": "Bloomberg Crypto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_bloomberg-crypto_l_m.jpg",
-      "show_category": "Periodístico",
+      "show_name": "Bloomberg Deals",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Negocios",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Las nuevas tecnologías están remodelando el mundo que conocíamos antiguamente. Entre ellas destacamos a las criptomonedas, una moneda completamente digital y blockchain."
+      "episode_description": "Conoce las últimas novedades sobre fusiones y adquisiciones, IPO, SPAC, inversores activistas y mucho más."
     },
     {
       "show_name": "Bloomberg Balance of Power",
@@ -99,36 +107,36 @@
       "episode_description": "Bloomberg Markets: The Close. El programa acelerado es el espectáculo cercano al mercado por excelencia que lleva a los últimos minutos y segundos antes de la campana de cierre en Wall Street con las últimas noticias."
     },
     {
-      "show_name": "Al Sonar la Campanar con Raquel López-Portillo Maltos",
+      "show_name": "El Financiero Noticias 15 Hrs",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Interés general",
+      "show_category": "Noticiero",
       "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Un programa que aborda lo más destacado de la información económica y financiera actual. Junto a Raquel López-Portillo Maltos, el público podrá informarse al completo a la hora de invertir y evaluar el mercado."
+      "episode_description": "Un programa que lleva las novedades exclusivas sobre la economía y cuestiones relacionadas a los negocios, a nivel nacional e internacional. El público podrá informarse a través de los informes de analistas de primer nivel."
     },
     {
-      "show_name": "Ganadores y perdedores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_ganadores-y-perdedores_l_m.jpg",
-      "show_category": "Economía",
+      "show_name": "El Financiero Noticias 15 Hrs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "En el mundo de las finanzas y los negocios se juega cada día el futuro de la economía. ¿Quién ganó y quién perdió en la jornada?"
+      "episode_description": "Un programa que lleva las novedades exclusivas sobre la economía y cuestiones relacionadas a los negocios, a nivel nacional e internacional. El público podrá informarse a través de los informes de analistas de primer nivel."
     },
     {
-      "show_name": "El Financiero a las 17hs.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-17hs_l_m.jpg",
+      "show_name": "El Financiero Noticias 17 Hrs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
+      "episode_description": "Un programa que lleva las novedades exclusivas sobre la economía y cuestiones relacionadas a los negocios, a nivel nacional e internacional. El público podrá informarse a través de los informes de analistas de primer nivel."
     },
     {
-      "show_name": "El Financiero a las 18hs.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-18hs_l_m.jpg",
+      "show_name": "El Financiero Noticias 17 Hrs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "En este espacio te llevamos lo más cerca del corazón de México y el mundo, a través de los hechos sociales, políticos, económicos y de los personajes que definen el curso de la historia, la ciencia y la tecnología."
+      "episode_description": "Un programa que lleva las novedades exclusivas sobre la economía y cuestiones relacionadas a los negocios, a nivel nacional e internacional. El público podrá informarse a través de los informes de analistas de primer nivel."
     },
     {
       "show_name": "El Financiero a las 19hs.",
@@ -139,9 +147,9 @@
       "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
     },
     {
-      "show_name": "El Financiero a las 20hs.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-20hs_l_m.jpg",
-      "show_category": "Noticiero",
+      "show_name": "El Financiero a las 19hs.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-19hs_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
@@ -163,12 +171,12 @@
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Entre dichos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_name": "Gabinete de seguridad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_gabinete-de-seguridad_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Un programa de entrevistas que recibe a diversos invitados para debatir temas de actualdiad en profundidad de la mano del conductor René Delgado."
+      "episode_description": "Programa dedicado a analizar la problemática de seguridad nacional y seguridad pública en México y el mundo así como su impacto en el país."
     }
   ]
 }
