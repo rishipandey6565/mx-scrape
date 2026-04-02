@@ -1,6 +1,6 @@
 {
   "channel": "EWTN en Español",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
       "show_name": "La pascua eterna",
@@ -19,18 +19,34 @@
       "episode_description": ""
     },
     {
-      "show_name": "Señor, ¿Quién Eres Tú?",
+      "show_name": "Via crucis",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "01:30",
+      "end_time": "01:50",
       "episode_description": ""
     },
     {
-      "show_name": "Misa Crismal con el papa León XIV",
+      "show_name": "Letanía a la preciosísima sangre de Jesús",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
+      "start_time": "01:50",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Eucaristía",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Caminos de Jesús",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "03:30",
       "episode_description": ""
     },
@@ -39,110 +55,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "04:00",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Meditaciones de Semana Santa",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
+      "start_time": "09:00",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Santo Rosario",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "10:00",
+      "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "Coronilla de la Divina Misericordia - Latinoamérica",
+      "show_name": "Letanía a la preciosísima sangre de Jesús",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las iglesias ocultas de Roma: un peregrinaje de Cuaresma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:50",
-      "end_time": "06:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Eucaristía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mi familia católica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Rosario de los Niños",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La pascua eterna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Caminos de Jesús",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Santa Misa de la Cena del Señor desde Roma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Semana Santa en Sevilla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rezando con Jesús en el Huerto de los Olivos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:00",
-      "end_time": "13:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Las iglesias ocultas de Roma: un peregrinaje de Cuaresma",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:15",
+      "start_time": "13:00",
       "end_time": "13:30",
       "episode_description": ""
     },
@@ -155,34 +91,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Meditaciones de Semana Santa",
+      "show_name": "Perspectiva católica",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La pascua eterna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Meditaciones corales de la eucaristía",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Especial de EWTN",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:00",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -195,39 +107,23 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Informe provida",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:00",
+      "end_time": "18:30",
       "episode_description": ""
     },
     {
-      "show_name": "La pascua eterna",
+      "show_name": "De Dos en Dos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Meditaciones de Semana Santa",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Semana Santa en Sevilla",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:30",
+      "start_time": "18:30",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "El Triduo Pascual",
+      "show_name": "EWTN Noticias",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -235,35 +131,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "Via crucis",
+      "show_name": "Si quieres paz, defiende la vida",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Santo Rosario",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Caminos de Jesús",
+      "show_name": "Santos y Beatos",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La pascua eterna",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
-      "end_time": "00:00",
+      "end_time": "01:30",
       "episode_description": ""
     }
   ]

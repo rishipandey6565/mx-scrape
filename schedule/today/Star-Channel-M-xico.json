@@ -1,60 +1,52 @@
 {
   "channel": "Star Channel (México)",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
-      "show_name": "El plan perfecto el impostor",
+      "show_name": "Boston Strangler",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:06",
+      "end_time": "00:15",
       "episode_description": ""
     },
     {
-      "show_name": "The spectacular now",
+      "show_name": "Boogie",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:06",
-      "end_time": "02:05",
+      "start_time": "00:15",
+      "end_time": "02:04",
       "episode_description": ""
     },
     {
-      "show_name": "Freaks",
+      "show_name": "Palm Springs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:05",
-      "end_time": "03:53",
+      "start_time": "02:04",
+      "end_time": "03:40",
       "episode_description": ""
     },
     {
-      "show_name": "Scrubs",
+      "show_name": "¿Qué te juegas?",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:53",
-      "end_time": "04:14",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Scrubs",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:14",
-      "end_time": "04:39",
+      "start_time": "03:40",
+      "end_time": "05:24",
       "episode_description": ""
     },
     {
       "show_name": "Scrubs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:39",
-      "end_time": "05:01",
+      "start_time": "05:24",
+      "end_time": "05:49",
       "episode_description": ""
     },
     {
       "show_name": "Scrubs",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:01",
+      "start_time": "05:49",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -71,72 +63,80 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:28",
-      "end_time": "09:08",
+      "end_time": "09:20",
       "episode_description": ""
     },
     {
-      "show_name": "Perdiendo el este",
+      "show_name": "Sin rodeos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:08",
-      "end_time": "11:01",
+      "start_time": "09:20",
+      "end_time": "10:59",
       "episode_description": ""
     },
     {
-      "show_name": "Los 33",
+      "show_name": "Sí, acepto",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:01",
-      "end_time": "13:30",
+      "start_time": "10:59",
+      "end_time": "12:47",
       "episode_description": ""
     },
     {
-      "show_name": "Pearl Harbor",
+      "show_name": "S.O.S: Familia en apuros",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "17:01",
+      "start_time": "12:47",
+      "end_time": "14:48",
       "episode_description": ""
     },
     {
-      "show_name": "Alocada obsesión",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:01",
-      "end_time": "18:57",
-      "episode_description": ""
+      "show_name": "Apollo 11",
+      "show_logo": "https://imagenes.gatotv.com/categorias/documentales/miniatura/apollo_11.jpg",
+      "show_category": "Documental",
+      "start_time": "14:48",
+      "end_time": "16:38",
+      "episode_description": "Hecho a partir de un tesoro recién descubierto con imágenes de 65mm, y más de 11,000 horas de grabaciones de audio sin catalogar, Apollo 11 nos lleva directamente al Corazón de la misión más célebre de la NASA – la primera que puso a los hombres en la luna, y siempre hizo a Neil Armstrong y Buzz Aldrin los hombres que dieron el nombre de la casa en alto. Inmersos en las perspectivas de los astronautas, el equipo en Control de Misión y los millones de espectadores en la tierra, experimentamos vívidamente esos trascendentales días y horas en 1969, cuando la humanidad dio un salto gigante hacia el futuro."
     },
     {
-      "show_name": "Mira cómo corren",
+      "show_name": "Jugada perfecta",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:57",
-      "end_time": "20:54",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Simpson",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:54",
-      "end_time": "21:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Los Simpson",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:25",
-      "end_time": "22:00",
+      "start_time": "16:38",
+      "end_time": "18:38",
       "episode_description": ""
     },
     {
       "show_name": "Boston Strangler",
       "show_logo": "",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "00:15",
+      "start_time": "18:38",
+      "end_time": "20:55",
       "episode_description": ""
+    },
+    {
+      "show_name": "Los Simpson",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:55",
+      "end_time": "21:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Los Simpson",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:26",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Last Christmas: Otra Oportunidad para Amar",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/last_christmas.jpg",
+      "show_category": "Comedia",
+      "start_time": "22:00",
+      "end_time": "00:04",
+      "episode_description": "Kate (Emilia Clarke) deambula por Londres, un manojo de malas decisiones acompañadas por el sonido de las campanas en sus zapatos, otra consecuencia irritante de su trabajo como duende en una tienda que vende artículos navideños durante todo el año. Tom (Henry Golding) parece demasiado bueno para ser verdad cuando entra en su vida y comienza a ver a través de muchas de las barreras de Kate. A medida que Londres se transforma en la época más maravillosa del año, nada debería funcionar para estos dos. Pero a veces, debe dejar que la nieve caiga donde pueda, debes escuchar a tu corazón… y debes tener fe."
     }
   ]
 }

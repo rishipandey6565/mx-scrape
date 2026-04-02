@@ -1,36 +1,36 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
-      "show_name": "Telediario matinal",
+      "show_name": "Procesion de semana santa",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:30",
+      "end_time": "00:00",
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la 1",
+      "show_name": "Noticias 24 H",
       "show_logo": "",
       "show_category": "",
-      "start_time": "01:30",
-      "end_time": "03:30",
+      "start_time": "00:00",
+      "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la 1",
+      "show_name": "Mañaneros 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "05:30",
+      "start_time": "02:00",
+      "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "La hora de la 1",
+      "show_name": "Mañaneros 360",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:30",
+      "start_time": "04:00",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -47,54 +47,54 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:45",
+      "end_time": "07:55",
       "episode_description": ""
     },
     {
       "show_name": "Españoles en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:45",
-      "end_time": "08:32",
+      "start_time": "07:55",
+      "end_time": "08:42",
       "episode_description": ""
     },
     {
       "show_name": "Españoles en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:32",
-      "end_time": "09:35",
+      "start_time": "08:42",
+      "end_time": "09:40",
       "episode_description": ""
     },
     {
       "show_name": "LAS RUTAS DE",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:35",
-      "end_time": "10:30",
+      "start_time": "09:40",
+      "end_time": "10:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "LAS RUTAS DE",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:32",
+      "end_time": "11:30",
       "episode_description": ""
     },
     {
       "show_name": "Saber y ganar",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:20",
+      "start_time": "11:30",
+      "end_time": "12:20",
       "episode_description": ""
     },
     {
-      "show_name": "Malas Lenguas",
+      "show_name": "Turismo rural en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:20",
-      "end_time": "12:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Aqui la tierra",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:25",
+      "start_time": "12:20",
       "end_time": "12:55",
       "episode_description": ""
     },
@@ -127,22 +127,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "14:45",
-      "end_time": "16:10",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
       "show_name": "El Cazador",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:10",
-      "end_time": "17:25",
+      "start_time": "16:05",
+      "end_time": "17:10",
       "episode_description": ""
     },
     {
-      "show_name": "Aqui la tierra",
+      "show_name": "Viaje al centro de la tele",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:25",
+      "start_time": "17:10",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -151,14 +151,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
+      "end_time": "18:35",
       "episode_description": ""
     },
     {
-      "show_name": "DecoMasters",
+      "show_name": "Cine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
+      "start_time": "18:35",
+      "end_time": "20:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Viaje al centro de la tele",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:15",
       "end_time": "21:20",
       "episode_description": ""
     },
@@ -167,7 +175,15 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "21:20",
-      "end_time": "00:00",
+      "end_time": "23:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pasion y Gloria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:20",
+      "end_time": "00:10",
       "episode_description": ""
     }
   ]

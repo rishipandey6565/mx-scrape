@@ -1,12 +1,60 @@
 {
   "channel": "BabyFirst TV",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
-      "show_name": "Noches de ensueño",
+      "show_name": "Programas nocturnos para el bebé",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "00:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programas nocturnos para el bebé",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programas nocturnos para el bebé",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programas nocturnos para el bebé",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programas nocturnos para el bebé",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Floreciendo temprano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Floreciendo temprano",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": ""
     },

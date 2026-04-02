@@ -1,49 +1,41 @@
 {
   "channel": "22 de México",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
-      "show_name": "Shorts México",
+      "show_name": "Contra el silencio todas las",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Memoria viva de ciertos dias",
+      "show_name": "El manatí del caribe",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Culturas Veintidós\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:30",
+      "start_time": "01:00",
       "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Tamayo 40",
+      "show_name": "La guerra de la señorita",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:00",
+      "end_time": "02:30",
       "episode_description": ""
     },
     {
-      "show_name": "Memoria viva de ciertos dias",
+      "show_name": "Cinema 22",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
+      "start_time": "02:30",
       "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Shorts México",
+      "show_name": "Especiales del 22",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:30",
@@ -63,11 +55,19 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "Conferencia del Pueblo",
+      "show_name": "Conferencia del Pueblo\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Detector de Mentiras",
+      "show_name": "Mujeres en la historia",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -99,7 +99,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mañanera 360",
+      "show_name": "Japón y México 400 Años",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -107,7 +107,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El Cancionero y sus Amigos",
+      "show_name": "La constitución de 1917 antes",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
@@ -115,26 +115,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "En Ruta-T",
+      "show_name": "109° Aniversario Promulgación",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Sanamente",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rodando caminos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
       "end_time": "14:30",
       "episode_description": ""
     },
@@ -147,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "El manatí del caribe",
+      "show_name": "Soy Fugitivo Dany Camacho",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -155,7 +139,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Crónica Animal",
+      "show_name": "La magia de los pueblos",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",
@@ -163,7 +147,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Julio Scherer García",
+      "show_name": "Léemelo",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -171,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "La guerra de la señorita",
+      "show_name": "Culturas Veintidós\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -179,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Culturas Veintidós\nEn Vivo",
+      "show_name": "Masiosare\nEn Vivo",
       "show_logo": "",
       "show_category": "",
       "start_time": "20:00",
@@ -187,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Masiosare\nEn Vivo",
+      "show_name": "Punto de referencia",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -195,27 +179,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Noticiero Punto de Referencia",
+      "show_name": "Tratos y retratos",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:00",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Pantalla de cristal",
+      "show_name": "Chalán",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "22:30",
       "end_time": "23:30",
       "episode_description": ""
     },
     {
-      "show_name": "Contra el silencio todas las",
+      "show_name": "La luz de la Memoria",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "01:00",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

@@ -1,52 +1,60 @@
 {
   "channel": "National Geographic (México)",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
+    {
+      "show_name": "Sabores caseros con Antoni Porowski",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:01",
+      "episode_description": ""
+    },
     {
       "show_name": "Gordon Ramsay Sabores extremos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
+      "start_time": "00:01",
       "end_time": "01:00",
       "episode_description": ""
     },
     {
-      "show_name": "Salvajemente famosos el desafío",
+      "show_name": "Salvajemente famosos",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
-      "end_time": "02:00",
+      "end_time": "02:01",
       "episode_description": ""
     },
     {
-      "show_name": "Air Crash Investigation",
+      "show_name": "Mayday: Catástrofes aéreas",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:47",
+      "start_time": "02:01",
+      "end_time": "02:48",
       "episode_description": ""
     },
     {
       "show_name": "Drain the Oceans",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:47",
-      "end_time": "03:37",
+      "start_time": "02:48",
+      "end_time": "03:38",
       "episode_description": ""
     },
     {
       "show_name": "Solo contra el mundo Río Mekong",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:37",
-      "end_time": "04:21",
+      "start_time": "03:38",
+      "end_time": "04:22",
       "episode_description": ""
     },
     {
       "show_name": "Alerta Aeropuerto Madrid",
       "show_logo": "",
       "show_category": "",
-      "start_time": "04:21",
+      "start_time": "04:22",
       "end_time": "05:09",
       "episode_description": ""
     },
@@ -71,46 +79,46 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "07:57",
+      "end_time": "08:03",
       "episode_description": ""
     },
     {
       "show_name": "Drain the Oceans",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:57",
-      "end_time": "08:55",
+      "start_time": "08:03",
+      "end_time": "09:01",
       "episode_description": ""
     },
     {
       "show_name": "Ciudades encontradas con Albert Lin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:55",
-      "end_time": "09:55",
+      "start_time": "09:01",
+      "end_time": "10:01",
       "episode_description": ""
     },
     {
       "show_name": "Air Crash Investigation",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:55",
-      "end_time": "10:54",
+      "start_time": "10:01",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
       "show_name": "Alerta Aeropuerto Madrid",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:54",
-      "end_time": "11:54",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "episode_description": ""
     },
     {
-      "show_name": "Gordon Ramsay: Uncharted Showdown",
+      "show_name": "Gordon Ramsay: Uncharted",
       "show_logo": "",
       "show_category": "",
-      "start_time": "11:54",
+      "start_time": "12:00",
       "end_time": "12:54",
       "episode_description": ""
     },
@@ -123,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Primal Survivor",
+      "show_name": "Solo contra el mundo",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:57",
@@ -147,7 +155,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Ciudades perdidas con Albert Lin",
+      "show_name": "Ciudades encontradas con Albert Lin",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -155,7 +163,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Los tesoros perdidos de Roma",
+      "show_name": "Lost Treasures of Rome",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
@@ -163,7 +171,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alerta Aeropuerto",
+      "show_name": "Alerta aeropuerto Colombia",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:59",
@@ -171,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Alerta aeropuerto Lima",
+      "show_name": "Alerta aeropuerto 6",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:59",
@@ -179,7 +187,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tucci en Italia",
+      "show_name": "Pole to Pole With Will Smith",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -187,19 +195,27 @@
       "episode_description": ""
     },
     {
-      "show_name": "Gordon Ramsay: Sabores extremos",
+      "show_name": "Pole to Pole With Will Smith",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
-      "end_time": "23:00",
+      "end_time": "22:41",
       "episode_description": ""
     },
     {
-      "show_name": "Sabores caseros con Antoni Porowski",
+      "show_name": "Top Guns: The Next Generation",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:01",
+      "start_time": "22:41",
+      "end_time": "23:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Gordon Ramsay: Sabores extremos",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:42",
+      "end_time": "00:41",
       "episode_description": ""
     }
   ]

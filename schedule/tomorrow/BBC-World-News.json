@@ -1,9 +1,9 @@
 {
   "channel": "BBC World News",
-  "date": "30/03/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
-      "show_name": "Tech Now",
+      "show_name": "The Travel Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Business Today",
+      "show_name": "BBC News",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:30",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "The Travel Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:55",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Tech Now",
+      "show_name": "The Travel Show",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:55",
@@ -111,14 +111,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "04:45",
-      "end_time": "04:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tech Now",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:55",
       "end_time": "05:00",
       "episode_description": ""
     },
@@ -151,14 +143,6 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:30",
-      "end_time": "06:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tech Now",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:55",
       "end_time": "07:00",
       "episode_description": ""
     },
@@ -211,26 +195,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "Business Today",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "09:45",
-      "episode_description": ""
-    },
-    {
       "show_name": "Verified Live",
       "show_logo": "",
       "show_category": "",
-      "start_time": "09:45",
-      "end_time": "09:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tech Now",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:55",
+      "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": ""
     },
@@ -279,19 +247,11 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "12:30",
-      "end_time": "12:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tech Now",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:55",
       "end_time": "13:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Context USA",
+      "show_name": "The Context",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -299,7 +259,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Context USA",
+      "show_name": "The Context",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -307,7 +267,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Context",
+      "show_name": "The Context USA",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -315,18 +275,10 @@
       "episode_description": ""
     },
     {
-      "show_name": "The Context",
+      "show_name": "The Context USA",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:30",
-      "end_time": "14:55",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Tech Now",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:55",
       "end_time": "15:00",
       "episode_description": ""
     },
@@ -339,7 +291,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Newsnight with Patrick O'Connell",
+      "show_name": "TBA",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:30",
@@ -351,6 +303,14 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "The President's Path",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": ""
     },
@@ -363,7 +323,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Newscast",
+      "show_name": "Talking Business",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:30",

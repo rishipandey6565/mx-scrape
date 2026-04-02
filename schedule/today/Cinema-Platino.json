@@ -1,13 +1,141 @@
 {
   "channel": "Cinema Platino",
-  "date": "01/04/2026",
+  "date": "02/04/2026",
   "schedule": [
     {
-      "show_name": "Testigo protegido",
+      "show_name": "La carta secreta",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:52",
+      "end_time": "00:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Un viaje extraordinario",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:34",
+      "end_time": "02:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La gran Gilly Hopkins",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:20",
+      "end_time": "04:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sentimientos que curan",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:01",
+      "end_time": "05:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Siempre Alice",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:34",
+      "end_time": "07:16",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:16",
+      "end_time": "07:47",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Locura por el tiempo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "07:47",
+      "end_time": "09:32",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "09:32",
+      "end_time": "10:03",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Remando Como un Solo Hombre",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:03",
+      "end_time": "12:07",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Televenta",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:07",
+      "end_time": "12:37",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paddington",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:37",
+      "end_time": "14:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El libro del amor",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:15",
+      "end_time": "16:04",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amor a la Italiana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:04",
+      "end_time": "17:42",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Buscando a Alguien Muy Especial",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:42",
+      "end_time": "19:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Como la vida misma",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "19:22",
+      "end_time": "21:22",
+      "episode_description": ""
+    },
+    {
+      "show_name": "De madres a hijas",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:22",
+      "end_time": "22:59",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Amar No es Querer",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "22:59",
+      "end_time": "00:40",
       "episode_description": ""
     }
   ]
