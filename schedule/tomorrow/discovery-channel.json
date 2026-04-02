@@ -1,55 +1,7 @@
 {
-  "channel": "Discovery Channel",
+  "channel": null,
   "date": "03/04/2026",
   "schedule": [
-    {
-      "show_name": "Misterios de las profundidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_misterios-de-las-profundidades-s01e05-la-marina-de-los-estados-unidos-contra-los-ovnis_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 5 - La momia en el barco fantasma",
-      "start_time": "00:15",
-      "end_time": "01:04",
-      "episode_description": "Al descubrirse una momia en un barco abandonado, los investigadores luchan por explicar de dónde vino. El investigador Jeremy Wade revela lo que sucedió y las extrañas fuerzas responsables de este misterioso fenómeno de alta mar."
-    },
-    {
-      "show_name": "India salvaje",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_india-salvaje-wild-india-2014_l_m.jpg",
-      "show_category": "- Wild India (2014)",
-      "start_time": "01:04",
-      "end_time": "02:40",
-      "episode_description": "Viva lo extraordinario y lo inolvidable. Siga la mayor migración de elefantes fuera de África, la vida y la muerte en las montañas más altas del mundo, incluso en los bosques lluviosos de la India."
-    },
-    {
-      "show_name": "Norteamérica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_norteamerica-s01e01-vida-salvaje_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 1 - Vida salvaje",
-      "start_time": "02:40",
-      "end_time": "03:28",
-      "episode_description": "Viaje a través de los lugares más salvajes de Norteamérica y conozca su increíble variedad de vida silvestre. Lobos y ballenas, leones y osos, caballos salvajes y cabras de montaña habitan este magnífico paisaje."
-    },
-    {
-      "show_name": "Norteamérica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_norteamerica-s01e02-sin-salida_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 2 - Sin salida",
-      "start_time": "03:28",
-      "end_time": "04:17",
-      "episode_description": "Las tormentas y las ventiscas extremas de estas tierras ponen a prueba a todos sus habitantes. Desde los perros de la pradera hasta los animales terrestres más veloces, la lucha por sobrevivir transforma a todos los que viven aquí."
-    },
-    {
-      "show_name": "Edén: paraísos remotos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 4 - Galápagos: islas encantadas",
-      "start_time": "04:17",
-      "end_time": "05:11",
-      "episode_description": "En un viaje desde las murallas de lava hasta su corazón ardiente, descubriremos cómo las Islas Galápagos se convirtieron en una de las áreas de biodiversidad más importantes del mundo."
-    },
-    {
-      "show_name": "Modo desastres",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
-      "show_category": "Temporada 1 Episodio 1 - Huracán Ian",
-      "start_time": "05:11",
-      "end_time": "06:00",
-      "episode_description": "Tres grupos de residentes que se quedaron en Fort Myers Beach durante el huracán Ian, nos cuentan como fue que enfrentaron las consecuencias más aterradoras."
-    },
     {
       "show_name": "Pequeños gigantes de la naturaleza",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e15-tanque-de-guerra_l_m.jpg",
