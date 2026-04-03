@@ -1,9 +1,9 @@
 {
   "channel": "Discovery Theater (Latinoamérica)",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
-      "show_name": "La maldición del oro",
+      "show_name": "Pioneros de Polonia",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Alaska la última frontera",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:12",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Alaska la última frontera",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del pantano",
+      "show_name": "Alaska peligro en el aire",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:48",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fieras de la Montaña",
+      "show_name": "La peligrosa ruta del café",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:36",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guerreros del Pacífico",
+      "show_name": "Oro salvaje",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:24",
@@ -51,23 +51,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mark Rober la venganza de un nerd",
+      "show_name": "La maldición del oro",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:12",
-      "end_time": "04:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mark Rober la venganza de un nerd",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "04:36",
       "end_time": "05:00",
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Alaska la última frontera",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -75,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición Pie Grande",
+      "show_name": "Alaska la última frontera",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:48",
@@ -83,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guardianes del pantano",
+      "show_name": "Alaska peligro en el aire",
       "show_logo": "",
       "show_category": "",
       "start_time": "06:36",
@@ -91,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Fieras de la Montaña",
+      "show_name": "La peligrosa ruta del café",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:24",
@@ -99,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Guerreros del Pacífico",
+      "show_name": "Oro salvaje",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:12",
@@ -107,23 +99,15 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mark Rober la venganza de un nerd",
+      "show_name": "La maldición del oro",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "09:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mark Rober la venganza de un nerd",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:24",
       "end_time": "09:48",
       "episode_description": ""
     },
     {
-      "show_name": "Pesca mortal",
+      "show_name": "Expedición Pie Grande",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:48",
@@ -131,7 +115,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pesca mortal",
+      "show_name": "Expedición Pie Grande",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:36",
@@ -139,7 +123,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pescadores de langosta",
+      "show_name": "Guardianes del pantano",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:24",
@@ -147,7 +131,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Mega Carga",
+      "show_name": "Fieras de la Montaña",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:12",
@@ -155,31 +139,39 @@
       "episode_description": ""
     },
     {
-      "show_name": "Expedición a lo desconocido",
+      "show_name": "Guerreros del Pacífico",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
+      "end_time": "13:48",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mark Rober la venganza de un nerd",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:48",
+      "end_time": "14:12",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Mark Rober la venganza de un nerd",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "14:12",
       "end_time": "14:36",
       "episode_description": ""
     },
     {
-      "show_name": "Misterios en el museo",
+      "show_name": "Pesca mortal",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:36",
-      "end_time": "15:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Historias Animales",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:24",
       "end_time": "16:12",
       "episode_description": ""
     },
     {
-      "show_name": "Hoteles secretos y leyendas",
+      "show_name": "Pescadores de langosta",
       "show_logo": "",
       "show_category": "",
       "start_time": "16:12",
@@ -187,7 +179,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Pueblo fantasma en Montana",
+      "show_name": "Mega Carga",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -195,67 +187,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "El ferrocarril de Alaska",
+      "show_name": "Hoteles secretos y leyendas",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:48",
       "end_time": "18:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Genios constructores",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "18:36",
-      "end_time": "19:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clandestinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:24",
-      "end_time": "20:12",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Clandestinos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "20:12",
-      "end_time": "21:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Trabajo sucio",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:48",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chatarreros",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "21:48",
-      "end_time": "22:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alaska remota",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:36",
-      "end_time": "23:24",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Pioneros de Polonia",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:24",
-      "end_time": "00:12",
       "episode_description": ""
     }
   ]

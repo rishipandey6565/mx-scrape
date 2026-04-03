@@ -1,49 +1,57 @@
 {
   "channel": "AMC (México)",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Las aventuras de Tintin",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Bloodshot",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bloodshot.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
       "end_time": "00:00",
-      "episode_description": ""
+      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
     },
     {
-      "show_name": "Crepúsculo",
+      "show_name": "Soldado Universal",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:10",
+      "end_time": "01:55",
       "episode_description": ""
     },
     {
-      "show_name": "Hombres de Negro MIB Int",
+      "show_name": "Despedida de soltera",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:10",
-      "end_time": "04:10",
+      "start_time": "01:55",
+      "end_time": "03:30",
       "episode_description": ""
     },
     {
-      "show_name": "Hotel Mumbai: El Atentado",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/hotel-mumbai-el-atentado.webp",
-      "show_category": "Drama",
-      "start_time": "04:10",
-      "end_time": "06:25",
-      "episode_description": "Una apasionante historia sobre humanidad y heroísmo, cuenta vívidamente el calvario de 2008 al Taj Hotel por un grupo de terroristas en Mumbai, india. Entre el personal del hotel se encuentran el renombrado chef Hemant Oberoi (Anupam Kher) y un camarero Arjun (Dev Patel), quienes eligen arriesgar sus vidas para proteger a los huéspedes. Mientras la situación avanza, una pareja desesperada se ve obligada a hacer sacrificios impensables para proteger a su hijo recién nacido."
-    },
-    {
-      "show_name": "Planet Action",
+      "show_name": "Leyendas De Pasión",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:25",
+      "start_time": "03:30",
+      "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -51,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:30",
@@ -59,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:00",
@@ -67,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "08:30",
@@ -75,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -83,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Making the Movies",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:30",
@@ -91,76 +99,68 @@
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Por el honor",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
-      "end_time": "10:30",
+      "end_time": "11:50",
       "episode_description": ""
     },
     {
-      "show_name": "Planet Action",
+      "show_name": "Las aventuras de Tintin",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Lo Imposible",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:25",
-      "end_time": "13:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hombres de Negro MIB Int",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:25",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "La Saga CrepúsculoLuna Nueva",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "17:55",
+      "start_time": "11:50",
+      "end_time": "13:50",
       "episode_description": ""
     },
     {
       "show_name": "La Saga Crepúsculo Eclipse",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:55",
-      "end_time": "20:05",
+      "start_time": "13:50",
+      "end_time": "16:05",
       "episode_description": ""
     },
     {
-      "show_name": "Ghost rider",
+      "show_name": "Crepúsculo Amanecer P.1",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:05",
+      "start_time": "16:05",
+      "end_time": "18:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La Saga Crepúsculo P.2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "18:10",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Venom",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:10",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Bloodshot",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/AMC-M-xico/tomorrow/bloodshot.webp",
+      "show_name": "Venom: Carnage Liberado",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/venom_carnage_liberado.jpg",
       "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:00",
-      "episode_description": "Ray Garrison (Vin Diesel), un soldado recientemente asesinado en acción y revivido como el superhéroe Bloodshot de la corporación RST. Con un ejército de nanotecnología en sus venas, es una fuerza imparable – más fuerte que nunca y capaz de sanar al instante. Pero al controlar su cuerpo, la compañía también ha influido en su mente y sus recuerdos, Ahora, Ray no sabe qué es real y qué no – pero tiene la misión de averiguarlo."
+      "end_time": "23:40",
+      "episode_description": "Eddie Brock (Tom Hardy) debe adaptarse a su nueva vida con el simbionte alienígena Venom. Para recuperar su vida, Eddie se propone hacerle una entrevista al asesino en serie Cletus Kasady (Woody Harrelson) antes que reciba la inyección letal, sin saber que Kasady pronto se convertirá en el nuevo anfitrión del simbionte Carnage."
+    },
+    {
+      "show_name": "Caught",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:40",
+      "end_time": "00:15",
+      "episode_description": ""
     }
   ]
 }

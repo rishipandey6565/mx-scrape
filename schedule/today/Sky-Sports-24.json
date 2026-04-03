@@ -1,9 +1,9 @@
 {
   "channel": "Sky Sports 24",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
-      "show_name": "Hamburger SV vs. 1. FC Köln",
+      "show_name": "1. FC Köln vs. M'gladbach",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -11,7 +11,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Wolfsburg vs. Wertder Bremen",
+      "show_name": "SV Darmstadt 98 vs. 1. FC Magde",
       "show_logo": "",
       "show_category": "",
       "start_time": "01:00",
@@ -19,7 +19,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "FC Heidenheim 1846 vs. Leverkus",
+      "show_name": "Elversberg vs. Arminia",
       "show_logo": "",
       "show_category": "",
       "start_time": "03:00",
@@ -27,7 +27,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "FSV Mainz vs. Frankfurt",
+      "show_name": "RB Leipzig vs. Hoffenheim",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
@@ -35,7 +35,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "St. Pauli vs. Freiburg",
+      "show_name": "Bayern Múnich vs. 1. FC Uni",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
@@ -43,7 +43,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "FC Augsburg vs. Stuttgart",
+      "show_name": "Borussia Dortmund vs. Hamburge",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
@@ -51,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "VfB Stuttgart vs. RB Leipzig",
+      "show_name": "1. FC Köln vs. M'gladbach",
       "show_logo": "",
       "show_category": "",
       "start_time": "11:00",
@@ -59,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "SV Darmstadt 98 vs. 1. FC Magde",
+      "show_name": "Wolfsburg vs. Wertder Bremen",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -67,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Elversberg vs. Arminia",
+      "show_name": "FC Heidenheim 1846 vs. Leverkus",
       "show_logo": "",
       "show_category": "",
       "start_time": "15:00",
@@ -75,7 +75,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "RB Leipzig vs. Hoffenheim",
+      "show_name": "FSV Mainz vs. Frankfurt",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
@@ -83,7 +83,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Bayern Múnich vs. 1. FC Uni",
+      "show_name": "St. Pauli vs. Freiburg",
       "show_logo": "",
       "show_category": "",
       "start_time": "19:00",
@@ -91,7 +91,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Borussia Dortmund vs. Hamburge",
+      "show_name": "FC Augsburg vs. Stuttgart",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
@@ -99,11 +99,19 @@
       "episode_description": ""
     },
     {
-      "show_name": "1. FC Köln vs. M'gladbach",
+      "show_name": "Bundesliga weekly",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:00",
+      "end_time": "23:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bundesliga weekly",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "23:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

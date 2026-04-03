@@ -1,100 +1,108 @@
 {
   "channel": "TVE Internacional (Televisión Española)",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Procesion de semana santa",
+      "show_name": "Pasion y Gloria",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "00:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Pasion y Gloria",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "00:10",
+      "end_time": "01:00",
       "episode_description": ""
     },
     {
       "show_name": "Noticias 24 H",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Mañaneros 360",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
+      "start_time": "01:00",
       "end_time": "04:00",
       "episode_description": ""
     },
     {
-      "show_name": "Mañaneros 360",
+      "show_name": "Flash Moda",
       "show_logo": "",
       "show_category": "",
       "start_time": "04:00",
-      "end_time": "06:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mañaneros 360",
+      "show_name": "Imprescindibles",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:00",
+      "start_time": "04:30",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Tenderete",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:55",
       "episode_description": ""
     },
     {
       "show_name": "Telediario 1",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "07:55",
+      "start_time": "06:55",
+      "end_time": "07:50",
       "episode_description": ""
     },
     {
-      "show_name": "Españoles en el mundo",
+      "show_name": "Pagina dos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:55",
-      "end_time": "08:42",
+      "start_time": "07:50",
+      "end_time": "08:20",
       "episode_description": ""
     },
     {
-      "show_name": "Españoles en el mundo",
+      "show_name": "El escarabajo verde",
       "show_logo": "",
       "show_category": "",
-      "start_time": "08:42",
+      "start_time": "08:20",
+      "end_time": "08:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Canas de viajar",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "08:50",
       "end_time": "09:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "LAS RUTAS DE",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:40",
-      "end_time": "10:32",
-      "episode_description": ""
-    },
-    {
-      "show_name": "LAS RUTAS DE",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "10:32",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Saber y ganar",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "12:20",
       "episode_description": ""
     },
     {
       "show_name": "Turismo rural en el mundo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:20",
+      "start_time": "09:40",
+      "end_time": "10:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "D Corazón",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:15",
+      "end_time": "12:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Saber y ganar fin de semana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "12:10",
       "end_time": "12:55",
       "episode_description": ""
     },
@@ -103,46 +111,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "12:55",
-      "end_time": "13:45",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Cifras y letras",
+      "show_name": "Informe semanal",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:45",
-      "end_time": "14:15",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": ""
     },
     {
-      "show_name": "Cifras y letras",
+      "show_name": "MasterChef",
       "show_logo": "",
       "show_category": "",
-      "start_time": "14:15",
-      "end_time": "14:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cine",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:45",
-      "end_time": "16:05",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Cazador",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "16:05",
-      "end_time": "17:10",
+      "start_time": "14:00",
+      "end_time": "17:25",
       "episode_description": ""
     },
     {
       "show_name": "Viaje al centro de la tele",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:10",
+      "start_time": "17:25",
       "end_time": "18:00",
       "episode_description": ""
     },
@@ -159,30 +151,30 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "18:35",
-      "end_time": "20:15",
+      "end_time": "20:25",
       "episode_description": ""
     },
     {
-      "show_name": "Viaje al centro de la tele",
+      "show_name": "Dias de cine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "21:20",
+      "start_time": "20:25",
+      "end_time": "21:25",
       "episode_description": ""
     },
     {
-      "show_name": "Procesion de semana santa",
+      "show_name": "Documental TVE",
       "show_logo": "",
       "show_category": "",
-      "start_time": "21:20",
-      "end_time": "23:20",
+      "start_time": "21:25",
+      "end_time": "22:30",
       "episode_description": ""
     },
     {
-      "show_name": "Pasion y Gloria",
+      "show_name": "Cine",
       "show_logo": "",
       "show_category": "",
-      "start_time": "23:20",
+      "start_time": "22:30",
       "end_time": "00:10",
       "episode_description": ""
     }

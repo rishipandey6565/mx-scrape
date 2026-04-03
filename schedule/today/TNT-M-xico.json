@@ -1,44 +1,36 @@
 {
   "channel": "TNT (México)",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
-      "show_name": "El hombre araña 3",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Spider-Man: No Way Home",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_sin_camino_a_casa.jpg",
+      "show_category": "Acción",
       "start_time": "00:00",
-      "end_time": "00:32",
-      "episode_description": ""
+      "end_time": "00:34",
+      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
     },
     {
-      "show_name": "El sorprendente hombre araña",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "00:32",
-      "end_time": "02:47",
-      "episode_description": ""
+      "show_name": "Bad Boys Para Siempre",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bad_boys_para_siempre.jpg",
+      "show_category": "Acción",
+      "start_time": "00:34",
+      "end_time": "02:39",
+      "episode_description": "Los Bad Boys: Michael \"Mike\" Lowrey (Will Smith) y Marcus Burnett (Martin Lawrence) vuelven a estar juntos para un último viaje en el muy esperado Bad Boys Para Siempre."
     },
     {
-      "show_name": "El Sorprendente Hombre Araña 2: La venganza de Electro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:47",
-      "end_time": "05:10",
-      "episode_description": ""
+      "show_name": "Bumblebee",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bumblebee.jpg",
+      "show_category": "Acción",
+      "start_time": "02:39",
+      "end_time": "04:35",
+      "episode_description": "En el año de 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad costera de California. Charlie (Hailee Steinfeld), en la cúspide de cumplir 18 años y tratar de encontrar su lugar en el mundo, descubre a Bumblebee, con cicatrices de batalla y dañado. Cuando Charlie lo resucita aprende rápidamente que no se trata de un VW amarillo ordinario."
     },
     {
-      "show_name": "Hollywood one on one",
+      "show_name": "Young Hearts",
       "show_logo": "",
       "show_category": "",
-      "start_time": "05:10",
-      "end_time": "05:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "05:49",
+      "start_time": "04:35",
       "end_time": "06:00",
       "episode_description": ""
     },
@@ -47,72 +39,64 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:38",
+      "end_time": "06:05",
       "episode_description": ""
-    },
-    {
-      "show_name": "Hollywood one on one",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:38",
-      "end_time": "08:18",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Spider-Man: Un nuevo universo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:18",
-      "end_time": "10:15",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Hombre Araña",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/el-hombre-araña.webp",
-      "show_category": "Acción",
-      "start_time": "10:15",
-      "end_time": "12:21",
-      "episode_description": "Siendo un nerd y torpe por naturaleza, la vida de Peter Parker (Tobey Maguire) ha dado un giro inesperado cuando es mordido accidentalmente por una araña radiactiva. De la noche a la mañana Peter se transforma y es capaz de crear telarañas que son disparadas desde sus muñecas, la habilidad de adherirse a las paredes, fuerza increíble y un primordial sentido arácnido. Utilizando un traje hecho en casa, Peter está dispuesto a cambiar la vida que le rodea, sea como sea. Cuando un criminal asesina a su tío Ben, él descubre que “con un gran poder viene una gran responsabilidad”. Peter se convierte en un peleador contra el crimen conocido como El Hombre Araña."
-    },
-    {
-      "show_name": "El hombre araña 3",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "12:21",
-      "end_time": "14:49",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El sorprendente hombre araña",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:49",
-      "end_time": "17:09",
-      "episode_description": ""
-    },
-    {
-      "show_name": "El Sorprendente Hombre Araña 2: La venganza de Electro",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "17:09",
-      "end_time": "19:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Spider-Man: Lejos de Casa",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/spider-man-lejos-de-casa.webp",
-      "show_category": "Acción",
-      "start_time": "19:35",
-      "end_time": "22:00",
-      "episode_description": "Nuestro vecino amigable superhéroe decide unirse a sus mejores amigos Ned (Jacob Batalon), Michelle \"MJ\" Jones (Zendaya) y el resto de la pandilla en unas vacaciones europeas. Sin embargo, el plan de Peter (Tom Holland) para dejar atrás al súper heroico Spider-Man durante unas semanas se desecha rápidamente cuando acepta sin estar de acuerdo a Nick Fury (Samuel L. Jackson) para descubrir el misterio de varios ataques de criaturas elementales, ¡creando estragos en todo el continente!"
     },
     {
       "show_name": "Spider-Man: No Way Home",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/TNT-M-xico/today/spider-man-no-way-home.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_sin_camino_a_casa.jpg",
+      "show_category": "Acción",
+      "start_time": "06:05",
+      "end_time": "08:36",
+      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
+    },
+    {
+      "show_name": "Transformers",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers.jpg",
+      "show_category": "Acción",
+      "start_time": "08:36",
+      "end_time": "11:06",
+      "episode_description": "Una guerra que data de mucho tiempo atrás entre dos razas del planeta Cybertron, Autobots y Decepticons para tomar control de un místico talismán que daría poder ilimitado a quien lo posea. Los Autobots envían el artefacto hacia nuestro planeta, Megatron logra detectar la localización del amuleto y se dirige hacia este. En su llegada al planeta llega al ártico lo que lo hace quedar en estado paralizado hasta que su cuerpo es encontrado por el Capitán Witwicky en una exploración en el polo norte que al descubrir los restos de Megatron este deja grabada su localización en los anteojos del Capitán que pasarán a ser propiedad de su nieto el cual será la clave para salvar al planeta de los planes de los Decepticons."
+    },
+    {
+      "show_name": "Transformers: La Venganza de los Caídos",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_2.jpg",
+      "show_category": "Acción",
+      "start_time": "11:06",
+      "end_time": "13:44",
+      "episode_description": "Sam (Shia LaBeouf) y Mikaela (Megan Fox) trataran de mantener su relación a distancia cuando él ingresa a la universidad. Pero todo está por cambiar cuando su mente empieza a percibir símbolos criptográficos en su mente. Ahora los Decepticons lo buscan para sacar la información valiosa que estos símbolos poseen. Los Autobots deberán proteger a Sam e impedir que los Decepticons se apoderen de los símbolos de su mente."
+    },
+    {
+      "show_name": "Transformers: Dark of the Moon",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "13:44",
+      "end_time": "16:23",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Transformers Age of Extinction",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "16:23",
+      "end_time": "19:18",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Transformers: The Last Knight",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/transformers_el_ultimo_caballero.jpg",
+      "show_category": "Ciencia Ficción",
+      "start_time": "19:18",
+      "end_time": "22:00",
+      "episode_description": "En la ausencia de Optimus Prime, una batalla por la supervivencia entre Transformers y humanos a comenzado en el planeta tierra. Bumblebee forma una alianza con Cade Yeager (Mark Wahlberg), para descubrir porque los Transformers siguen llegando al planeta. La clave para salvar nuestro futuro está enterrada en los secretos del pasado, la historia oculta de los Transformers en la tierra."
+    },
+    {
+      "show_name": "Bumblebee",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/bumblebee.jpg",
       "show_category": "Acción",
       "start_time": "22:00",
-      "end_time": "00:34",
-      "episode_description": "Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro amigable héroe vecino, lo que pone sus responsabilidades de superhéroe en conflicto con su vida normal y pone en riesgo a quienes más le importan. Cuando solicita la ayuda del Doctor Strange (Benedict Cumberbatch) para restaurar su secreto, el hechizo abre un agujero en su mundo, liberando a los villanos más poderosos que jamás hayan luchado contra un Hombre Araña en cualquier universo. Ahora, Peter (Tom Holland) tendrá que superar su mayor desafío hasta el momento, que no solo alterará para siempre su propio futuro, si no el futuro del Multiverso."
+      "end_time": "00:01",
+      "episode_description": "En el año de 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad costera de California. Charlie (Hailee Steinfeld), en la cúspide de cumplir 18 años y tratar de encontrar su lugar en el mundo, descubre a Bumblebee, con cicatrices de batalla y dañado. Cuando Charlie lo resucita aprende rápidamente que no se trata de un VW amarillo ordinario."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
       "show_name": "Contacto deportivo\nEn Vivo",
@@ -15,6 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "México Nuevo Siglo",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Paid Programing",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": ""
     },
@@ -51,130 +67,82 @@
       "episode_description": ""
     },
     {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/peppa-pig.webp",
-      "show_category": "Animación",
+      "show_name": "Abby Hatcher",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Peppa es una cerdita adorable y descarada que vive con su Mamá, Papá y su hermano pequeño George. Las cosas favoritas de Peppa incluyen jugar, vestirse, pasar el día y saltar en charcos de lodo. Sus aventuras siempre terminan felices con fuertes risas."
-    },
-    {
-      "show_name": "Cleo y Cuquin",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:00",
+      "end_time": "07:30",
       "episode_description": ""
     },
     {
-      "show_name": "La casa de muñecas de Gabby",
+      "show_name": "Top Wing",
       "show_logo": "",
       "show_category": "",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Kamp Koral",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "08:00",
+      "start_time": "07:30",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "El show de Tom y Jerry",
+      "show_name": "Kung Fu Panda El Caballero",
       "show_logo": "",
       "show_category": "",
       "start_time": "09:00",
-      "end_time": "10:30",
+      "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "Los Pingüinos de Madagascar",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/los-pingüinos-de-madagascar.webp",
-      "show_category": "Acción",
-      "start_time": "10:30",
+      "show_name": "The Croods: Family Tree",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_croods_family_tree.jpg",
+      "show_category": "Animación",
+      "start_time": "10:00",
       "end_time": "12:00",
-      "episode_description": "Skipper, kowalski, Rico y Cabo – son una fuerza de ataque de élite (y adorable) con habilidades de comando de primer nivel y una sede de clase mundial en el zoológico de Central Park en Nueva York. ¡Lo único que encuentran más desafiante que llevar a cabo divertidas misiones secretas es soportar a su desagradable vecino lémur, el Rey Julien!"
+      "episode_description": "Después de los acontecimientos de Los Croods 2: Una Nueva Era, dos familias muy diferentes unen fuerzas para crear una nueva comunidad, ¡una cooperativa de cavernícolas de nosotros contra el mundo en la granja más asombrosa de la prehistoria!"
     },
     {
-      "show_name": "iCarly",
+      "show_name": "¡Ponte en onda, Scooby Doo!",
       "show_logo": "",
       "show_category": "",
       "start_time": "12:00",
-      "end_time": "13:00",
+      "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "La CQ Nuevo Ingreso",
+      "show_name": "Mundo Miraculous Shanghai",
       "show_logo": "",
       "show_category": "",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Miraculous Ladybug",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "14:00",
-      "end_time": "15:30",
+      "start_time": "13:30",
+      "end_time": "14:45",
       "episode_description": ""
     },
     {
       "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/bob-esponja.webp",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png",
       "show_category": "Animación",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "14:45",
+      "end_time": "16:15",
       "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
     },
     {
-      "show_name": "el chavo animado",
+      "show_name": "María, Madre de Jesús",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "18:00",
+      "start_time": "16:15",
+      "end_time": "18:15",
       "episode_description": ""
     },
     {
-      "show_name": "El regreso del todo poderoso",
+      "show_name": "Jesús el nacimiento",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:00",
-      "end_time": "20:00",
+      "start_time": "18:15",
+      "end_time": "20:30",
       "episode_description": ""
     },
     {
-      "show_name": "Rayas una cebra veloz",
+      "show_name": "Rey de reyes",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Casados con Hijos",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Chicago PD",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/today/chicago-pd.webp",
-      "show_category": "Acción",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Los hombres y mujeres del Distrito 21 del Departamento de Policía de Chicago que pusieron todo en línea para servir y proteger su comunidad. El Distrito 21 está formado por dos grupos claramente diferentes: policías uniformados que patrullan las calles y se enfrentan cara a cara con los crímenes callejeros de la ciudad y la Unidad de Inteligencia que combate los principales delitos de la ciudad: crimen organizado, narcotráfico, asesinatos de alto perfil y más allá de los muros del barrio, a menudo teniendo un costo emocional en la vida personal de estos hombres y mujeres."
-    },
-    {
-      "show_name": "Contacto deportivo\nEn Vivo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "23:30",
+      "start_time": "20:30",
       "end_time": "00:00",
       "episode_description": ""
     }

@@ -1,73 +1,49 @@
 {
   "channel": "EWTN en Español",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "La pascua eterna",
+      "show_name": "Santos y Beatos",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "01:30",
       "episode_description": ""
     },
     {
-      "show_name": "Meditaciones de Semana Santa",
+      "show_name": "Buenas noches, Teo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Via crucis",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:50",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Letanía a la preciosísima sangre de Jesús",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:50",
+      "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": ""
     },
     {
-      "show_name": "La Eucaristía",
+      "show_name": "Vidas con luz",
       "show_logo": "",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
+      "end_time": "04:30",
       "episode_description": ""
     },
     {
-      "show_name": "Los Caminos de Jesús",
+      "show_name": "Para salvarte",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
+      "start_time": "04:30",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
-      "show_name": "Semana Santa en Sevilla",
+      "show_name": "Especiales Para Niños",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
-      "end_time": "09:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Perspectiva católica",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "09:00",
+      "start_time": "08:00",
       "end_time": "10:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Especial de EWTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "10:00",
@@ -75,7 +51,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Letanía a la preciosísima sangre de Jesús",
+      "show_name": "Letanía a San José",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:00",
@@ -83,7 +59,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Cocina franciscana",
       "show_logo": "",
       "show_category": "",
       "start_time": "13:30",
@@ -91,7 +67,7 @@
       "episode_description": ""
     },
     {
-      "show_name": "Perspectiva católica",
+      "show_name": "Santos y Beatos",
       "show_logo": "",
       "show_category": "",
       "start_time": "14:00",
@@ -99,39 +75,55 @@
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Periferias",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "17:30",
       "end_time": "18:00",
       "episode_description": ""
     },
     {
-      "show_name": "Informe provida",
+      "show_name": "Especial de EWTN",
       "show_logo": "",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "18:30",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "De Dos en Dos",
+      "show_name": "Canta y No Llores",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:30",
+      "start_time": "19:00",
       "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "EWTN Noticias",
+      "show_name": "Vaticano",
       "show_logo": "",
       "show_category": "",
       "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cocina franciscana",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Si quieres paz, defiende la vida",
+      "show_name": "Periferias",
       "show_logo": "",
       "show_category": "",
       "start_time": "22:00",
@@ -139,11 +131,11 @@
       "episode_description": ""
     },
     {
-      "show_name": "Santos y Beatos",
+      "show_name": "Nuestra Fe",
       "show_logo": "",
       "show_category": "",
       "start_time": "23:00",
-      "end_time": "01:30",
+      "end_time": "00:00",
       "episode_description": ""
     }
   ]

@@ -1,9 +1,9 @@
 {
   "channel": "5 de México (XHGC)",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Contacto deportivo\nEn Vivo",
+      "show_name": "Rey de reyes",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
@@ -15,38 +15,22 @@
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "México Nuevo Siglo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Paid Programing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Cronicas",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
       "episode_description": ""
     },
     {
       "show_name": "Infomerciales",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:00",
       "end_time": "04:30",
       "episode_description": ""
     },
@@ -59,91 +43,123 @@
       "episode_description": ""
     },
     {
-      "show_name": "Infomerciales",
+      "show_name": "Cronicas",
       "show_logo": "",
       "show_category": "",
       "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Infomerciales",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "05:30",
       "end_time": "06:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Baby Shark El Gran Show",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Las Pistas de Blue",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "08:00",
       "episode_description": ""
     },
     {
       "show_name": "Abby Hatcher",
       "show_logo": "",
       "show_category": "",
-      "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Top Wing",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "07:30",
+      "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Kung Fu Panda El Caballero",
-      "show_logo": "",
-      "show_category": "",
+      "show_name": "Las Tortugas Ninja",
+      "show_logo": "https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg",
+      "show_category": "Animación",
       "start_time": "09:00",
       "end_time": "10:00",
+      "episode_description": "¡Conoce a las tortugas ninja mutantes adolescentes, los reptiles más irreverentes del universo! Leonardo, Michelangelo, Raphael y Donatello. Antes fueron pequeñas tortugas de una tienda de mascotas, que tras un accidente son arrojadas a la alcantarilla de la ciudad, donde una formula las transforma en tortugas mutantes. Luchando por el bien contra el malévolo Shredder y su Technodrome, estos atrevidos temerarios amantes de la pizza son un cuarteto divertido y fenomenal."
+    },
+    {
+      "show_name": "Tomy Zombie",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "The Croods: Family Tree",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/the-croods-family-tree.webp",
-      "show_category": "Animación",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Después de los acontecimientos de Los Croods 2: Una Nueva Era, dos familias muy diferentes unen fuerzas para crear una nueva comunidad, ¡una cooperativa de cavernícolas de nosotros contra el mundo en la granja más asombrosa de la prehistoria!"
-    },
-    {
-      "show_name": "¡Ponte en onda, Scooby Doo!",
+      "show_name": "Drake y Josh",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:00",
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "El camino hacia el dorado",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:45",
       "end_time": "13:30",
       "episode_description": ""
     },
     {
-      "show_name": "Mundo Miraculous Shanghai",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bob Esponja",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/5-de-M-xico-XHGC/tomorrow/bob-esponja.webp",
+      "show_name": "La Estrella de Belén",
+      "show_logo": "https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_estrella_de_belen.jpg",
       "show_category": "Animación",
-      "start_time": "14:45",
-      "end_time": "16:15",
-      "episode_description": "Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de."
+      "start_time": "13:30",
+      "end_time": "15:15",
+      "episode_description": "Un burro pequeño pero valiente llamado Bo (Steven Yeun), anhela una vida más allá de su trabajo diario en el molino del pueblo. Un día encuentra el valor para liberarse y por fin emprender la aventura de sus sueños. En su viaje se reúne con Ruth (Aidy Bryant), una adorable oveja que perdió a su rebaño, y Dave (Keegan-Michael Key), una paloma con aspiraciones elevadas. Junto con tres graciosos camellos y otros excéntricos animales del establo, Bo y sus nuevos amigos siguen a la estrella y se convierten en los héroes improbables de la más grande historia jamás contada – la primer Navidad."
     },
     {
-      "show_name": "María, Madre de Jesús",
+      "show_name": "Simbad La Leyenda, 7 Mares",
       "show_logo": "",
       "show_category": "",
-      "start_time": "16:15",
-      "end_time": "18:15",
+      "start_time": "15:15",
+      "end_time": "16:50",
       "episode_description": ""
     },
     {
-      "show_name": "Jesús el nacimiento",
+      "show_name": "Monterrey vs. Atl San Luis",
       "show_logo": "",
       "show_category": "",
-      "start_time": "18:15",
-      "end_time": "20:30",
+      "start_time": "16:50",
+      "end_time": "19:00",
       "episode_description": ""
     },
     {
-      "show_name": "Rey de reyes",
+      "show_name": "Cruz Azul vs. Pachuca",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/cruz_azul_vs_pachuca.png",
+      "show_category": "Fútbol",
+      "start_time": "19:00",
+      "end_time": "21:05",
+      "episode_description": "Desde el estadio Azul, ubicado en la ciudad de México. Se enfrentan los equipos Cruz Azul Fútbol Club versus Club de Fútbol Pachuca."
+    },
+    {
+      "show_name": "Santos Laguna vs. América",
+      "show_logo": "https://imagenes.gatotv.com/categorias/deportes/miniatura/santos_laguna_vs_america.png",
+      "show_category": "Fútbol",
+      "start_time": "21:05",
+      "end_time": "23:15",
+      "episode_description": "Desde el estadio Corona, ubicado en la ciudad de Torreón, Coahuila, México, se enfrentan los equipos Club Santos Laguna versus Club de Fútbol América."
+    },
+    {
+      "show_name": "Alerta en lo profundo 2",
       "show_logo": "",
       "show_category": "",
-      "start_time": "20:30",
-      "end_time": "00:00",
+      "start_time": "23:15",
+      "end_time": "00:30",
       "episode_description": ""
     }
   ]

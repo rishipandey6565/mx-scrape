@@ -1,85 +1,109 @@
 {
   "channel": "Cinecanal (México)",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Yesterday",
+      "show_name": "Prometeo",
       "show_logo": "",
       "show_category": "",
       "start_time": "00:00",
-      "end_time": "02:02",
+      "end_time": "00:25",
       "episode_description": ""
     },
     {
-      "show_name": "La Noche Mágica",
+      "show_name": "Viejos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "02:02",
-      "end_time": "03:41",
+      "start_time": "00:25",
+      "end_time": "02:32",
       "episode_description": ""
     },
     {
-      "show_name": "La gran aventura de Los Lunnis",
+      "show_name": "1917",
       "show_logo": "",
       "show_category": "",
-      "start_time": "03:41",
+      "start_time": "02:32",
+      "end_time": "04:26",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Miamor perdido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "04:26",
       "end_time": "07:00",
       "episode_description": ""
     },
     {
-      "show_name": "¿Qué te juegas?",
+      "show_name": "Sin rodeos",
       "show_logo": "",
       "show_category": "",
       "start_time": "07:00",
-      "end_time": "10:38",
+      "end_time": "09:00",
       "episode_description": ""
     },
     {
-      "show_name": "Blanca Nieves y los tres Chi",
+      "show_name": "Sin rodeos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "10:38",
-      "end_time": "12:47",
+      "start_time": "09:00",
+      "end_time": "11:00",
       "episode_description": ""
     },
     {
-      "show_name": "Días perrunos",
+      "show_name": "Sin rodeos",
       "show_logo": "",
       "show_category": "",
-      "start_time": "12:47",
-      "end_time": "15:03",
+      "start_time": "11:00",
+      "end_time": "11:19",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Miamor perdido",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "11:19",
+      "end_time": "13:18",
       "episode_description": ""
     },
     {
       "show_name": "Moulin Rouge, amor en rojo",
       "show_logo": "",
       "show_category": "",
-      "start_time": "15:03",
-      "end_time": "17:23",
+      "start_time": "13:18",
+      "end_time": "15:39",
       "episode_description": ""
     },
     {
       "show_name": "Yesterday",
       "show_logo": "",
       "show_category": "",
-      "start_time": "17:23",
-      "end_time": "19:34",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Rey Arturo",
-      "show_logo": "",
-      "show_category": "",
-      "start_time": "19:34",
-      "end_time": "22:00",
+      "start_time": "15:39",
+      "end_time": "17:50",
       "episode_description": ""
     },
     {
       "show_name": "Prometeo",
       "show_logo": "",
       "show_category": "",
+      "start_time": "17:50",
+      "end_time": "20:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "La vida secreta de Mascotas 2",
+      "show_logo": "",
+      "show_category": "",
+      "start_time": "20:10",
+      "end_time": "22:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ofelia",
+      "show_logo": "",
+      "show_category": "",
       "start_time": "22:00",
-      "end_time": "00:25",
+      "end_time": "00:03",
       "episode_description": ""
     }
   ]
