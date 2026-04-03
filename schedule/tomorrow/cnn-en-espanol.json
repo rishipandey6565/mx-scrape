@@ -3,60 +3,60 @@
   "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Panorama mundial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
-      "show_category": "Noticiero",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
-    },
-    {
       "show_name": "Conclusiones",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
-      "start_time": "02:00",
-      "end_time": "03:00",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
     },
     {
       "show_name": "Directo USA",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "start_time": "02:00",
+      "end_time": "03:00",
       "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
       "show_name": "Perspectivas de México",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "04:00",
-      "end_time": "05:00",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": "Un programa que aborda los hechos más relevantes de la agenda de noticias de México. El periodista Mario González informa al público sobre los acontecimientos diarios más relevantes y construyue un análisis crítico de los mismos."
     },
     {
       "show_name": "Panorama mundial",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "05:00",
-      "end_time": "06:00",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
+    },
+    {
+      "show_name": "Café CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
+      "show_category": "Magazine",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
+      "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
     },
     {
       "show_name": "Café CNN",
@@ -67,44 +67,44 @@
       "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
     },
     {
-      "show_name": "Café CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_cafe-cnn_l_m.jpg",
-      "show_category": "Magazine",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Programa de noticias estilo magazine destinado a informar y entretener al público, ofreciendo una mezcla de noticias e historias de interés humano y estilo de vida para mantener a los televidentes al día en el mundo competitivo de hoy."
-    },
-    {
       "show_name": "La historia completa con Anderson Cooper",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documental",
-      "start_time": "09:00",
-      "end_time": "10:00",
+      "start_time": "08:00",
+      "end_time": "09:00",
       "episode_description": "La serie exhibe historias impulsadas por personajes, entrevistas especiales, perfiles e inmersiones profundas de investigación con reportajes de los presentadores y corresponsales de CNN."
     },
     {
       "show_name": "El mundo maravilloso de Quest",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-mundo-maravilloso-de-quest_l_m.jpg",
       "show_category": "Documental",
-      "start_time": "10:00",
-      "end_time": "10:30",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": "Richard Quest irá explorando nuestro increíble planeta de a una ciudad a la vez para cavar profundamente en el ADN de cada lugar. El objetivo de este espacio es encontrar la esencia de cada destino."
     },
     {
       "show_name": "Mercado México",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_mercado-mexico_l_m.jpg",
       "show_category": "Economía",
-      "start_time": "10:30",
-      "end_time": "11:00",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": "Segmento que aborda los temas y tendencias más importantes de México, una de las economías más influyentes de la región latinoamericana. Ofrece entrevistas exclusivas de importantes líderes empresariales, políticos y emprendedores."
     },
     {
       "show_name": "Oppenheimer presenta",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_oppenheimer-presenta_l_m.jpg",
       "show_category": "Político",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social."
+    },
+    {
+      "show_name": "Redacción con Nacho Girón",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social."
+      "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
     },
     {
       "show_name": "Redacción con Nacho Girón",
@@ -115,100 +115,100 @@
       "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
     },
     {
-      "show_name": "Redacción con Nacho Girón",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_redaccion-con-nacho-giron_l_m.jpg",
-      "show_category": "Noticiero",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": "Un espacio que cuenta con las noticias de última hora, temas de actualidad y los titulares de todo el mundo, con énfasis especial en el contenido regional de Sudamérica y México."
-    },
-    {
       "show_name": "Conclusiones",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "13:00",
+      "end_time": "14:00",
       "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
       "show_name": "Deportes CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
       "show_category": "Deportes CNN",
-      "start_time": "15:00",
-      "end_time": "16:00",
+      "start_time": "14:00",
+      "end_time": "15:00",
       "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
     },
     {
       "show_name": "Directo USA",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "16:00",
-      "end_time": "17:00",
+      "start_time": "15:00",
+      "end_time": "16:00",
       "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
       "show_name": "Perspectivas de México",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "17:00",
-      "end_time": "18:00",
+      "start_time": "16:00",
+      "end_time": "17:00",
       "episode_description": "Un programa que aborda los hechos más relevantes de la agenda de noticias de México. El periodista Mario González informa al público sobre los acontecimientos diarios más relevantes y construyue un análisis crítico de los mismos."
     },
     {
       "show_name": "Directo USA",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "18:00",
-      "end_time": "19:00",
+      "start_time": "17:00",
+      "end_time": "18:00",
       "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
     },
     {
       "show_name": "Panorama mundial",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "19:00",
-      "end_time": "20:00",
+      "start_time": "18:00",
+      "end_time": "19:00",
       "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     },
     {
       "show_name": "Conclusiones",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_conclusiones_l_m.jpg",
       "show_category": "Periodístico",
-      "start_time": "20:00",
-      "end_time": "21:00",
+      "start_time": "19:00",
+      "end_time": "20:00",
       "episode_description": "Un programa de análisis vespertino que monitorea los acontecimientos claves del día, combinando análisis profundos con expertos y los protagonistas de los sucesos más destacados de la jornada."
     },
     {
-      "show_name": "Deportes CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-deportes-cnn_l_m.jpg",
-      "show_category": "Deportes CNN",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Experimenta la acción y el dramatismo del mundo de los deportes más populares en la región: los titulares más recientes, las historias, las marcaciones, los resultados acompañados por entrevistas con los atletas, entrenadores y analistas."
+      "show_name": "Showbiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_showbiz-ojo-critico-natalia-reyes-y-edgar-ramierez_l_m.jpg",
+      "show_category": "- Ojo critico: Natalia Reyes y Edgar Ramierez",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Las temáticas LGBTQ+ están viviendo un momento sin precedentes en el cine y el streaming. De la directora de raíces cubanas Aitch Alberto llega ahora la película Aristotle and Ari Discover the Secrets of the Universe."
     },
     {
       "show_name": "Sueños mundialistas",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Episodio 2 - EE.UU",
-      "start_time": "21:30",
-      "end_time": "22:00",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Como coanfitrión, Estados Unidos clasificó automáticamente para su 12 Copa del Mundo. Destacamos el prometedor talento joven del equipo, su misión de superar su actuación de 2022 y completar su mejor participación en el torneo."
     },
     {
       "show_name": "Perspectivas de México",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "21:00",
+      "end_time": "22:00",
       "episode_description": "Un programa que aborda los hechos más relevantes de la agenda de noticias de México. El periodista Mario González informa al público sobre los acontecimientos diarios más relevantes y construyue un análisis crítico de los mismos."
     },
     {
       "show_name": "Directo USA",
       "show_logo": "https://cdn.mitvstatic.com/programs/mx_directo-usa_l_m.jpg",
       "show_category": "Noticiero",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
+    },
+    {
+      "show_name": "Panorama mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_panorama-mundial_l_m.jpg",
+      "show_category": "Noticiero",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias en Estados Unidos."
+      "episode_description": "Un análisis profundo de la actualidad y de las noticias a nivel internacional, de la mano de diversos expertos."
     }
   ]
 }
