@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,119 +20,95 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
-      "end_time": "03:00",
+      "end_time": "02:45",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Barber Motorsports Park, Barber Motorsports Park, Birmingham, AL, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "IndyCar Series",
-      "start_time": "03:00",
-      "end_time": "05:00",
-      "episode_description": "Disfruta las emociones de la IndyCar Series, la principal serie de carreras de ruedas abiertas estadounidense, que se lleva a cabo bajo los auspicios de varios organismos reguladores desde 1920."
+      "show_name": "René Santiago vs. Masataka Taniguchi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "02:45",
+      "end_time": "02:45",
+      "episode_description": "Los mejores combates de boxeo y MMA."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "show_name": "René Santiago vs. Masataka Taniguchi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "02:45",
+      "end_time": "07:50",
+      "episode_description": "Los mejores combates de boxeo y MMA."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "show_name": "Leicester City vs. Preston North End",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 40, King Power Stadium",
+      "start_time": "07:50",
+      "end_time": "10:00",
+      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "Boston Celtics vs. Miami Heat",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Kaseya Center",
-      "start_time": "08:00",
-      "end_time": "09:45",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
-    },
-    {
-      "show_name": "San Antonio Spurs vs. Golden State Warriors",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada regular, Chase Center",
-      "start_time": "09:45",
-      "end_time": "11:30",
-      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
-    },
-    {
-      "show_name": "Champions Retreat Golf Club, Evans, GA, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Augusta National Women's Amateur Championship",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Disfruta las emociones de esta competencia de golf femenino que se lleva a cabo en el en el Augusta National Golf Club de Augusta y en el Champions Retreat Golf Club de la cercana localidad de Evans, en Georgia."
-    },
-    {
-      "show_name": "ATP Tour Uncovered",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "ATP Tour Uncovered",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "La actualidad del circuito profesional masculino de tenis."
-    },
-    {
-      "show_name": "World Baseball Classic",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/world-baseball-classic.webp",
-      "show_category": "Especial de SportsCenter",
-      "start_time": "14:00",
-      "end_time": "15:00",
-      "episode_description": "Un especial en el que podrás ver las mejores jugadas, resultados de los partidos, así como análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas."
-    },
-    {
-      "show_name": "PGA Tour Highlights - Texas Children's Houston Open",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "PGA Tour Highlights - Texas Children's Houston Open",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "Disfruta de lo más destacado del PGA Tour - Abierto Infantil de Houston de Texas."
-    },
-    {
-      "show_name": "Atl. San Luis vs. Cruz Azul",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Fecha 15, Estadio Alfonso Lastras",
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
-    },
-    {
-      "show_name": "Estados Unidos vs. Portugal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Brasil vs. Croacia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Amistoso internacional",
-      "start_time": "18:00",
-      "end_time": "20:00",
+      "start_time": "10:00",
+      "end_time": "12:00",
       "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "20:00",
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
+      "start_time": "12:00",
+      "end_time": "12:25",
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
+    },
+    {
+      "show_name": "Serie A - Preview Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-serie-a-preview-show_l_m.jpg",
+      "show_category": "Serie A - Preview Show",
+      "start_time": "12:25",
+      "end_time": "12:50",
+      "episode_description": "Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. Se lucha en varios frentes: el título, la clasificación a la Champions League, la Copa UEFA y esquivar la zona de descenso."
+    },
+    {
+      "show_name": "Coventry City vs. Derby County",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 40, Coventry Building Society Arena",
+      "start_time": "12:50",
+      "end_time": "15:00",
+      "episode_description": "Vive todos los partidos de la edición 24 de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división."
+    },
+    {
+      "show_name": "René Santiago vs. Masataka Taniguchi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ESPN Knockout",
+      "start_time": "15:00",
+      "end_time": "16:50",
+      "episode_description": "Los mejores combates de boxeo y MMA."
+    },
+    {
+      "show_name": "Tlaxcala FC vs. Dorados de Sinaloa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 13, Estadio Tlahuicole, Tlaxcala, Mexico",
+      "start_time": "16:50",
+      "end_time": "18:55",
+      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
+    },
+    {
+      "show_name": "Irapuato vs. Atl. La Paz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 13, Estadio Sergio León Chavez",
+      "start_time": "18:55",
       "end_time": "21:00",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
+      "episode_description": "Vive los partidos de la 12º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "21:00",
       "end_time": "22:00",
@@ -140,7 +116,7 @@
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -148,17 +124,9 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/tomorrow/sportscenter.webp",
-      "show_category": "SportsCenter",
-      "start_time": "23:30",
       "end_time": "",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     }

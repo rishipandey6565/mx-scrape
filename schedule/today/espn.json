@@ -1,10 +1,10 @@
 {
   "channel": "ESPN",
-  "date": "02/04/2026",
+  "date": "03/04/2026",
   "schedule": [
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Fútbol picante",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/fútbol-picante.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_futbol-futbol-picante_l_m.jpg",
       "show_category": "Fútbol picante",
       "start_time": "01:00",
       "end_time": "02:00",
@@ -20,23 +20,23 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "02:00",
       "end_time": "03:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Gran Premio de las Américas, Circuito de las Américas",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Moto GP",
+      "show_name": "Barber Motorsports Park, Barber Motorsports Park, Birmingham, AL, USA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "IndyCar Series",
       "start_time": "03:00",
       "end_time": "05:00",
-      "episode_description": "Vive las emociones y toda la adrenalina de las carreras de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo."
+      "episode_description": "Disfruta las emociones de la IndyCar Series, la principal serie de carreras de ruedas abiertas estadounidense, que se lleva a cabo bajo los auspicios de varios organismos reguladores desde 1920."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "05:00",
       "end_time": "06:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,87 +52,95 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Escocia vs. Costa de Marfil",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Amistoso internacional",
+      "show_name": "Boston Celtics vs. Miami Heat",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Kaseya Center",
       "start_time": "08:00",
       "end_time": "09:45",
-      "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
-      "show_name": "Brasil vs. Croacia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Amistoso internacional",
+      "show_name": "San Antonio Spurs vs. Golden State Warriors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Temporada regular, Chase Center",
       "start_time": "09:45",
       "end_time": "11:30",
-      "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
+      "episode_description": "Disfruta las emociones de los partidos de la 80º temporada de la historia de la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo."
     },
     {
       "show_name": "Champions Retreat Golf Club, Evans, GA, USA",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Augusta National Women's Amateur Championship",
       "start_time": "11:30",
       "end_time": "13:30",
       "episode_description": "Disfruta las emociones de esta competencia de golf femenino que se lleva a cabo en el en el Augusta National Golf Club de Augusta y en el Champions Retreat Golf Club de la cercana localidad de Evans, en Georgia."
     },
     {
-      "show_name": "Lo mejor de MotoGP",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/lo-mejor-de-motogp.webp",
-      "show_category": "Lo mejor de MotoGP",
+      "show_name": "ATP Tour Uncovered",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "ATP Tour Uncovered",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3."
+      "episode_description": "La actualidad del circuito profesional masculino de tenis."
+    },
+    {
+      "show_name": "World Baseball Classic",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-world-baseball-classic_l_m.jpg",
+      "show_category": "Especial de SportsCenter",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "Un especial en el que podrás ver las mejores jugadas, resultados de los partidos, así como análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas."
     },
     {
       "show_name": "PGA Tour Highlights - Texas Children's Houston Open",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "PGA Tour Highlights - Texas Children's Houston Open",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "15:00",
+      "end_time": "16:00",
       "episode_description": "Disfruta de lo más destacado del PGA Tour - Abierto Infantil de Houston de Texas."
     },
     {
-      "show_name": "Estados Unidos vs. Portugal",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Amistoso internacional",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
+      "show_name": "Atl. San Luis vs. Cruz Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "Fecha 15, Estadio Alfonso Lastras",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "Vive los partidos de la 18º edición del campeonato de liga de la Primera División Femenil de México con el que culmina la temporada 2026-2027."
     },
     {
-      "show_name": "Brasil vs. Croacia",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_name": "Estados Unidos vs. Portugal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Amistoso internacional",
-      "start_time": "17:00",
-      "end_time": "19:00",
+      "start_time": "18:00",
+      "end_time": "20:00",
       "episode_description": "Disfruta de los mejores partidos amistosos internacionales."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
-      "start_time": "19:00",
-      "end_time": "19:50",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
-      "show_name": "Rip City Remix vs. Capitanes de Ciudad de México",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/rip-city-remix-vs-capitanes-de-ciudad-de-méxico.webp",
-      "show_category": "Arena Ciudad de México, Mexico City, Mexico",
-      "start_time": "19:50",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
+      "show_category": "SportsCenter",
+      "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Liga menor de baloncesto promocionada y organizada por la NBA."
+      "episode_description": "Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas."
     },
     {
       "show_name": "Generación fútbol",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "Generación fútbol",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -140,7 +148,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:00",
       "end_time": "23:30",
@@ -148,7 +156,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/espn/today/sportscenter.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_noticiero-sportscenter-1_l_m.jpg",
       "show_category": "SportsCenter",
       "start_time": "23:30",
       "end_time": "00:00",

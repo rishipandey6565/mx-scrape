@@ -1,106 +1,138 @@
 {
   "channel": "El Financiero Bloomberg",
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/al-cierre.webp",
-      "show_category": "Noticiero",
+      "show_name": "Con Ortega a las diez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
+      "show_category": "Político",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
-    },
-    {
-      "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/con-ortega-a-las-diez.webp",
-      "show_category": "Político",
-      "start_time": "01:00",
-      "end_time": "02:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "The Pulse",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/the-pulse.webp",
-      "show_category": "Economía",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- The Oil Kingpin Who Built a Shadow Empire",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Cómo el hijo de un asesor del líder supremo de Irán, el ayatolá Jamenei, se convirtió en un actor importante en los mercados energéticos internacionales."
+    },
+    {
+      "show_name": "The Circuit: Sitting Down with the Newsoms",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Entrevista",
       "start_time": "02:00",
       "end_time": "03:00",
-      "episode_description": "Francine Lacqua te presenta las informaciones y noticias más relevantes, así como también sus comentarios y análisis, sobre el acontecer relacionado al complejo mundo de los negocios en Europa."
+      "episode_description": "Emily Chang conoce a la pareja presidencial de California, Gavin Newsom y Jennifer Seibel Newsom."
     },
     {
-      "show_name": "Bloomberg Brief",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-brief.webp",
-      "show_category": "Interés general",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- Inside North Korea's Secret Remote IT Workforce",
       "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "Noticias, datos y análisis de mercado que necesitas para marcar tu agenda."
+      "episode_description": "Esta es la historia de cómo la casa de una mujer de Arizona se convirtió en una puerta de entrada para los agentes informáticos de Corea del Norte: una \"granja de computadoras portátiles\" clandestina que se infiltró... ."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-surveillance.webp",
-      "show_category": "Economía",
+      "show_name": "The Infinite Explorer with Hannah Fry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 6 - Hannah Fry Decodes Spain's Complex Culture",
       "start_time": "04:00",
-      "end_time": "04:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "end_time": "05:00",
+      "episode_description": "Hannah Fry viaja a España para descifrar su historia y cultura. Aprende sobre los ritmos del flamenco, un lenguaje de silbos montañeses y el simbolismo oculto en su urbanismo."
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-surveillance.webp",
-      "show_category": "Economía",
-      "start_time": "04:00",
+      "show_name": "Is Europe Too Late to Compete in the Chip War?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Interés general",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Open to Debate, en colaboración con Bloomberg, analiza en profundidad una región que está definiendo su estrategia para convertirse en competidor en la carrera por el desarrollo de chips de IA: Europa."
+    },
+    {
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 2 - Rethink",
+      "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza."
+      "episode_description": "Los desechos contribuyen significativamente al calentamiento global, pero convertirlos en un recurso puede ayudar a reducir las emisiones y disminuir la huella ambiental de la humanidad."
     },
     {
-      "show_name": "Bloomberg Open Interest",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Economía",
+      "show_name": "The Infinite Explorer with Hannah Fry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 4 - Iceland's Dramatic Geology and Pioneering Spirit",
       "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Todas las noticias que necesitas saber sobre el movimiento del mercado para comenzar con impulso el día de operaciones en Estados Unidos."
+      "end_time": "08:00",
+      "episode_description": "Hannah Fry revela cómo los extremos geológicos de Islandia influyen en su cultura. Conoce a científicos que predicen flujos de lava y aprovechan la energía geotérmica, e incluso recorre antiguas rutas vikingas."
     },
     {
-      "show_name": "Bloomberg Technology",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-technology.webp",
-      "show_category": "Tecnología",
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 3 - Irretrievable",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "La demanda de óvulos humanos está en auge, lo que ha dado lugar a un mercado peligroso y en gran medida desregulado. En la India conocemos a una adolescente atrapada en este submundo de la fertilidad."
+    },
+    {
+      "show_name": "Bloomberg Investigates",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- The Scandal That Rocked the Philippines",
       "start_time": "09:00",
       "end_time": "10:00",
-      "episode_description": "Segmento dedicado a la tecnología, donde podrás observar reportajes y entrevistas sobre la atmósfera alrededor de este cambiante mundo, a través de conversaciones con expertos de la materia e informaciones relacionadas."
+      "episode_description": "Una redada policial en un pequeño pueblo de Filipinas reveló las supuestas conexiones de un joven alcalde con un escándalo de lavado de dinero de 2.000 millones de dólares en Singapur y con espionaje chino."
     },
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-markets.webp",
-      "show_category": "Negocios",
+      "show_name": "An Optimist's Guide to the Planet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 2 Episodio 1 - Protect",
       "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Conducido por Anna Edwards y Mark Cudmore, Bloomberg Markets Europe es una hora vertiginosa de noticias y análisis, que avanza hacia el drama y la emoción del inicio del comercio efectivo en todo el continente."
+      "episode_description": "¿Cómo podemos ser optimistas en 2025? Con el inicio de la segunda temporada de Nikolaj Coster-Waldau, recordamos el delicado equilibrio entre el progreso humano y la protección de nuestro planeta."
     },
     {
-      "show_name": "Bloomberg Balance of Power",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-balance-of-power.webp",
-      "show_category": "Periodístico",
+      "show_name": "Bloomberg Originals",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- El fin de las marcas de lujo",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Una mirada en profundidad a la intersección de la política y los negocios globales."
+      "episode_description": "Las grandes marcas como Starbucks, Gucci y Zara están enfrentando retos que podrían cambiar su futuro para siempre. En esta compilación analizamos cómo Starbucks ha perdido clientes por sus precios altos y tiempos de espera, cómo Gucci..."
     },
     {
-      "show_name": "Bloomberg Businessweek",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-businessweek.webp",
-      "show_category": "Negocios",
+      "show_name": "The Infinite Explorer with Hannah Fry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Why Ancient Greece Was the Birthplace of Big Ideas",
       "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "Carol Massar y Tim Stenovec reúnen las últimas noticias del mundo de los negocios y las finanzas y las interesantes historias de tecnología, política, economía y más a nivel global."
+      "episode_description": "Hannah Fry revela por qué la antigua Grecia fue la cuna de tantas grandes ideas. Descifra la geometría del Partenón, navega por el Egeo con herramientas antiguas y se deja llevar por un festival desenfrenado."
     },
     {
-      "show_name": "Bloomberg Markets: The Close",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/bloomberg-markets-the-close.webp",
-      "show_category": "Político",
+      "show_name": "The Circuit",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 8 - Meghan, the Duchess of Sussex",
       "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Meghan, la duquesa de Sussex, se sincera en una amplia entrevista con Emily Chang sobre la vida más allá de la atención real y sus últimos emprendimientos en los negocios y el entretenimiento."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Can Living Human Brain Cells Power AI?",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "En este episodio de Bloomberg Primer, exploramos el mundo de la bioinformática, donde los científicos están sentando las bases para un campo que puede difuminar las líneas entre lo biológico y lo sintético."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "- A la caza de un nuevo tipo de imán para impulsar el futuro",
+      "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "Bloomberg Markets: The Close. El programa acelerado es el espectáculo cercano al mercado por excelencia que lleva a los últimos minutos y segundos antes de la campana de cierre en Wall Street con las últimas noticias."
+      "episode_description": "Los científicos desarrollan imanes cada vez más potentes para obtener fuentes de energía limpia como la fusión. Pero el dominio chino de la cadena de suministro de imanes de tierras raras es una amenaza para la disponibilidad global de..."
     },
     {
       "show_name": "El Financiero Noticias 15 Hrs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "15:00",
       "end_time": "16:00",
@@ -108,7 +140,7 @@
     },
     {
       "show_name": "El Financiero Noticias 15 Hrs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -116,7 +148,7 @@
     },
     {
       "show_name": "El Financiero Noticias 17 Hrs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -124,7 +156,7 @@
     },
     {
       "show_name": "El Financiero Noticias 17 Hrs",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Noticiero",
       "start_time": "18:00",
       "end_time": "19:00",
@@ -132,7 +164,7 @@
     },
     {
       "show_name": "El Financiero a las 19hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-19hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-19hs_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "19:00",
       "end_time": "20:00",
@@ -140,35 +172,35 @@
     },
     {
       "show_name": "El Financiero a las 19hs.",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/el-financiero-a-las-19hs.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_el-financiero-a-las-19hs_l_m.jpg",
       "show_category": "Periodístico",
       "start_time": "20:00",
       "end_time": "21:00",
       "episode_description": "Noticiero informativo con la más alta calidad de temas coyunturales con reporteros especializados y analistas de primer nivel tanto nacional como internacional."
     },
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/al-cierre.webp",
-      "show_category": "Noticiero",
+      "show_name": "Aldea global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
     },
     {
       "show_name": "Con Ortega a las diez",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/con-ortega-a-las-diez.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_con-ortega-a-las-diez_l_m.jpg",
       "show_category": "Político",
       "start_time": "22:00",
       "end_time": "23:00",
       "episode_description": "Guillermo Ortega analiza la voz de los personajes de la vida nacional y las coyunturas política. A través del espacio, el presentador dialoga con expertos u personalidades invitadas para informar al público."
     },
     {
-      "show_name": "Al cierre",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/el-financiero-bloomberg/tomorrow/al-cierre.webp",
-      "show_category": "Noticiero",
+      "show_name": "Aldea global",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Periodístico",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Enrique Quintana y Leonardo Kourchenko te conducen por este espacio de análisis y debate de las informaciones más importantes del día, en el cual te hablarán de los acontecimientos financieros más resaltantes ocurridos recientemente."
+      "episode_description": "Un programa que aborda los hechos más destacados en relación al acontecer internacional actual. Todos los eventos que afectan las relaciones de los países del mundo son abordados por un equipo de expertos que los debaten."
     }
   ]
 }

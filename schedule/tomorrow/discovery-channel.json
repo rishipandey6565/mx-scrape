@@ -1,158 +1,214 @@
 {
-  "channel": null,
-  "date": "03/04/2026",
+  "channel": "Discovery Channel",
+  "date": "04/04/2026",
   "schedule": [
     {
-      "show_name": "Pequeños gigantes de la naturaleza",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/pequeños-gigantes-de-la-naturaleza.webp",
-      "show_category": "Temporada 1 Episodio 15 - Tanque de guerra",
-      "start_time": "06:00",
-      "end_time": "06:25",
-      "episode_description": "El escarabajo rinoceronte es una micromáquina con mucha fuerza. El equipo se encuentra en Tailandia para poner a prueba la legendaria fuerza de este escarabajo."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/operación-alaska.webp",
-      "show_category": "Temporada 9 Episodio 1 - Terreno inestable",
-      "start_time": "06:25",
-      "end_time": "07:07",
-      "episode_description": "Tres nuevos equipos de construcción llegan y comienzan a trabajar en sus cabañas únicas en el remoto desierto de Alaska."
-    },
-    {
-      "show_name": "Desafío x2",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/desafío-x2.webp",
-      "show_category": "Temporada 6 Episodio 16 - Escape and Evade",
-      "start_time": "07:07",
-      "end_time": "07:58",
-      "episode_description": "Joe y Matt deberán mostrar su capacidad de huida cruzando la frontera entre Texas y México. Allí, amarrados con abrazaderas de plástico, deberán enfrentar los peligros de las zonas desérticas y sobrevivir solos."
-    },
-    {
-      "show_name": "Operación Alaska",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/operación-alaska.webp",
-      "show_category": "Temporada 4 Episodio 5 - Plan B",
-      "start_time": "07:58",
-      "end_time": "08:42",
-      "episode_description": "Un oso daña la construcción de Creig. Por otro lado, se produce una demora en la construcción de Tom debido a una sorpresa que vino del cielo. Entretanto, la construcción de Rich sigue por buen camino."
-    },
-    {
-      "show_name": "Hombres del Ártico",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/hombres-del-ártico.webp",
-      "show_category": "Temporada 3 Episodio 1 - Época de cambios",
-      "start_time": "08:42",
-      "end_time": "09:33",
-      "episode_description": "Se acercan cambios para los hombres del Ártico: el gobierno ha prohibido un alimento esencial para su subsistencia. El gobernador de Alaska visita el pueblo y lleva noticias que cambiarán la vida de sus habitantes para siempre."
-    },
-    {
-      "show_name": "Tras la pista del oro",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/tras-la-pista-del-oro.webp",
-      "show_category": "Temporada 4 Episodio 7 - Duros riesgos",
-      "start_time": "09:33",
-      "end_time": "10:24",
-      "episode_description": "Tyler lleva a Parker a una prometedora mina de roca dura donde detonan altos explosivos para medir si las recompensas de la minería subterránea justifican los riesgos."
-    },
-    {
-      "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo.webp",
-      "show_category": "Temporada 2 Episodio 30 - Lluvia de terror",
-      "start_time": "10:24",
-      "end_time": "11:15",
-      "episode_description": "Una madre y un adicto a las aventuras compiten en el bosque, en Ecuador. La lluvia, los rayos, la claustrofobia y el pie de trinchera amenazan con evitar que esta pareja complete los 21 días del desafío."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: Apocalípsis",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7 - Enjaulado y enojado",
-      "start_time": "11:15",
-      "end_time": "12:57",
-      "episode_description": "En la última fuente de agua, una jaula abandonada podría ser el único refugio viable. Teal y Frank se alzan con el arco. Un segundo cocodrilo pone nervioso a Wes."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: Apocalípsis",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 8 - Fuera del Armagedón",
-      "start_time": "12:57",
-      "end_time": "14:38",
-      "episode_description": "A días del final, la caída en picada de Teal pone en peligro su desafío. Desesperados por comida, los supervivientes usan alambre recuperado para dragar el estanque."
+      "show_name": "Supervivencia al desnudo: edición extrema",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-edicion-extrema-s01e03-40-dias-sin-salida_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3 - 40 días: sin salida",
+      "start_time": "00:24",
+      "end_time": "01:13",
+      "episode_description": "Después de una semana en los terrenos peligrosos y solitarios de Colombia sin comida ni agua, un participante se rindió, otro está a punto de hacerlo y varios más pueden terminar rindiéndose por las dificultades."
     },
     {
       "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 1 - Bienvenidos a la jungla",
-      "start_time": "14:38",
-      "end_time": "15:34",
-      "episode_description": "Cinco parejas de completos desconocidos se aventuran veintiún días en la inhóspita selva colombiana, donde tendrán que sobrevivir en condiciones extremas."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 2 - La selva te rompe",
-      "start_time": "15:34",
-      "end_time": "16:28",
-      "episode_description": "Primeros días del desafío y algunos participantes no han acabado su refugio, conseguido comida o hecho fuego. Entonces, comienzan los roces entre las parejas, junto a el hambre, la sed y los peligros de la selva empiezan a hacer mella."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - El último hombre en pie",
-      "start_time": "16:28",
-      "end_time": "17:20",
-      "episode_description": "La selva se ha cobrado su primera víctima y amenaza con llevarse a más por delante. Ahora, a los depredadores y el hambre, se une la llegada de tormentas y el riesgo de hipotermia."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 4 - El hambre",
-      "start_time": "17:20",
-      "end_time": "18:12",
-      "episode_description": "Tras la tormenta, no llega la calma.. llegan los mosquitos, y su invasión es tan desesperante que puede costarles el desafío."
-    },
-    {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 5 - ¿Por qué sigo aquí?",
-      "start_time": "18:12",
-      "end_time": "19:04",
+      "start_time": "01:13",
+      "end_time": "02:02",
       "episode_description": "El agotamiento extremo ha tomado las riendas de la aventura. Estar sin dormir ni comer está llevando a los participantes al límite y algunos han decidido buscar otro lugar donde resistir hasta el día de la extracción."
     },
     {
       "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
       "show_category": "Temporada 1 Episodio 6 - Me voy",
-      "start_time": "19:04",
-      "end_time": "19:57",
+      "start_time": "02:02",
+      "end_time": "02:52",
       "episode_description": "Empieza la cuenta atrás del final del desafío y algunos ya han iniciado el éxodo hacia el punto de extracción. Las pocas fuerzas que les quedan se agotan con el inicio de la estación de lluvias. Parece que no todos llegarán al día 21."
     },
     {
-      "show_name": "Supervivencia al desnudo: España",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 7 - El camino de vuelta a casa",
-      "start_time": "19:57",
-      "end_time": "20:50",
-      "episode_description": "A solo tres días del final del desafío, algunos participantes han sufrido tal deterioro que se plantean abandonar. No todos llegarán a cumplir los 21 días, pero los que se queden inician hoy su camino de vuelta a casa."
-    },
-    {
-      "show_name": "Supervivencia al desnudo Brasil: la tribu",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/2026/01/pexels-caleboquendo-8254900.webp",
-      "show_category": "Temporada 1 Episodio 3 - Golpe de suerte",
-      "start_time": "20:50",
-      "end_time": "21:51",
-      "episode_description": "Una de las tribus sufre un accidente casi fatal, otra pierde su objeto de caza, mientras que una tercera recibe un golpe de suerte que le favorece. Con el paso de los días, las diferencias entre algunos participantes se acentúan."
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s01e02-castigo-en-panama_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 2 - Terror en Tanzania",
+      "start_time": "02:52",
+      "end_time": "03:40",
+      "episode_description": "Una pareja deberá sobrevivir en el desierto africano de Serengeti durante veintiún días, sin comida, agua o ropa. EJ Snyder y Kellie Night ponen sus destrezas ante la prueba más dura: vencer al terreno agreste lleno de depredadores."
     },
     {
       "show_name": "Supervivencia al desnudo",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s17e01-cocodrilo-asesino_l_m.jpg",
       "show_category": "Temporada 17 Episodio 1 - Cocodrilo asesino",
-      "start_time": "21:51",
-      "end_time": "23:34",
+      "start_time": "03:40",
+      "end_time": "05:16",
       "episode_description": "Una cazadora y un granjero unen sus conocimientos para sobrevivir veintiún días en Sudáfrica. Pero cuando la fauna africana resulta demasiado sigilosa para cazar, los supervivientes corren un riesgo mortal para conseguir comida."
     },
     {
-      "show_name": "Supervivencia al desnudo: edición extrema",
-      "show_logo": "https://programaciontv.com.mx/wp-content/uploads/downloaded-images/discovery-channel/tomorrow/supervivencia-al-desnudo-edición-extrema.webp",
-      "show_category": "Temporada 1 Episodio 2 - 40 días y 40 noches",
-      "start_time": "23:34",
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s09e03-pasemos-al-plan-radiografia_l_m.jpg",
+      "show_category": "Temporada 9 Episodio 3 - Pasemos al plan radiografía",
+      "start_time": "05:16",
+      "end_time": "06:00",
+      "episode_description": "Un constructor se queda sin madera y los armadores que contrató no aparecen. Luego, cortes y medidas incorrectos amenazan con dejar al equipo más atrás que nunca."
+    },
+    {
+      "show_name": "Pequeños gigantes de la naturaleza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_pequenos-gigantes-de-la-naturaleza-s01e09-silencioso-y-fatal_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 9 - Silencioso y fatal",
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": "En los montes de California, el equipo encuentra un insecto que tiene un arma secreta, los escarabajos bombarderos. Armado con gases tóxicos, este escarabajo es un arma química."
+    },
+    {
+      "show_name": "A prueba de todo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_a-prueba-de-todo-s07e04-sur-de-utah_l_m.jpg",
+      "show_category": "Temporada 7 Episodio 4 - Sur de Utah",
+      "start_time": "06:25",
+      "end_time": "07:16",
+      "episode_description": "En el sur del estado de Utah, Bear Grylls, armado de un lazo de vaquero, desciende una cumbre rocosa y queda preso en una garganta estrecha. Después, Bear acaba colgado sobre un barranco y hace una hazaña aérea increíble."
+    },
+    {
+      "show_name": "Desafío x2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desafio-x2-s06e02-caos-colombiano_l_m.jpg",
+      "show_category": "Temporada 6 Episodio 2 - Fractured Journey",
+      "start_time": "07:16",
+      "end_time": "08:07",
+      "episode_description": "Matt y Joe enfrentan uno de los riesgos más comunes y temibles: una lesión que necesita la intervención de un médico. Perdidos en medio de una selva espesa, este desafío pondrá a prueba su fuerza de voluntad y sus ansias de supervivencia."
+    },
+    {
+      "show_name": "Operación Alaska",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_operacion-alaska-s04e06-el-dia-de-la-independencia_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 6 - El día de la independencia",
+      "start_time": "08:07",
+      "end_time": "08:55",
+      "episode_description": "El equipo de Rich acelera el ritmo de trabajo para anticiparse a las entregas por helicóptero. Luego, un nuevo constructor llega al emplazamiento de Tom. Además, un terremoto pone en problemas la construcción de Creig."
+    },
+    {
+      "show_name": "Hombres del Ártico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_hombres-del-artico-s03e02-ajuste-de-cuentas_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 2 - Ajuste de cuentas",
+      "start_time": "08:55",
+      "end_time": "09:46",
+      "episode_description": "Un doble asesinato conmociona a la ciudad de Tanana, en Alaska. Pat debe tomar una decisión difícil mientras Joey fabrica una balsa para trasladar un camión de tres toneladas por el río."
+    },
+    {
+      "show_name": "Tras la pista del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_tras-la-pista-del-oro-s04e08-planes-para-el-futuro_l_m.jpg",
+      "show_category": "Temporada 4 Episodio 8 - Planes para el futuro",
+      "start_time": "09:46",
+      "end_time": "10:37",
+      "episode_description": "Parker viaja a las profundidades de la mina de oro australiana 'Super Pit', hace un nuevo reclamo y toma una gran decisión que podría cambiar su carrera minera."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s08e01-largados-pelados-e-abandonados_l_m.jpg",
+      "show_category": "Temporada 8 Episodio 1 - Perdidos en el mar",
+      "start_time": "10:37",
+      "end_time": "11:28",
+      "episode_description": "Un experto en buceo y un agente de la marina están atrapados en el mar. En su difícil viaje a tierra, se exponen a tiburones mortales y golpes de calor. Si logran llegar a tierra, ¿Podrán trabajar juntos a pesar de las diferencias?"
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s24e01-supervivencia-al-desnudo-edicion-shark-week-2_l_m.jpg",
+      "show_category": "Temporada 24 Episodio 1 - Supervivencia al desnudo edición Shark Week 2",
+      "start_time": "11:28",
+      "end_time": "13:10",
+      "episode_description": "En el borde del Triángulo de las Bermudas, veteranos de Supervivencia al desnudo compiten contra los principales depredadores del océano e intentan sobrevivir en aguas mortíferas."
+    },
+    {
+      "show_name": "Supervivencia al desnudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_supervivencia-al-desnudo-s05e01-alasquena-cocinada_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 1 - Supervivencia al desnudo: edición Shark Week",
+      "start_time": "13:10",
+      "end_time": "14:51",
+      "episode_description": "En una de las islas en medio de las aguas más llenas de tiburones de todo el mundo, cinco personas deberán sobrevivir durante 14 días, solo con lo que puedan conseguir del océano."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e15-rio-orinoco_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 15 - Río Orinoco",
+      "start_time": "14:51",
+      "end_time": "15:42",
+      "episode_description": "Rodeado por devastadores incendios forestales, Ed Stafford lucha por sobrevivir en la árida sabana y las densas selvas a lo largo del río Orinoco."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e13-montana-changbai_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 13 - Montaña ChangBai",
+      "start_time": "15:42",
+      "end_time": "16:33",
+      "episode_description": "Atrapado en casi dos metros de polvo, Ed Stafford tiene que descubrir cómo sobrevivir el tiempo suficiente para salir de la cima de la montaña ChangBai de China. Luego debe encontrar agua y comida en este árido paisaje nevado."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e14-montanas-de-erongo_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 14 - Montañas de Erongo",
+      "start_time": "16:33",
+      "end_time": "17:24",
+      "episode_description": "Las montañas de Erongo abarcan cientos de kilómetros de desierto árido, rocoso y abrasador, pero los bosquimanos han logrado sobrevivir aquí durante milenios. Ed Stafford se pregunta si podrá sobrevivir allí aprovechando sus tradiciones."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s05e04-karst-de-guangxi_l_m.jpg",
+      "show_category": "Temporada 5 Episodio 4 - Karst de Guangxi",
+      "start_time": "17:24",
+      "end_time": "18:15",
+      "episode_description": "Descalzo entre las agujas kársticas de Guangxi, China, Stafford debe aprender a navegar entre rocas afiladas y serpientes mortales para encontrar comida y refugio en este entorno con escasos recursos."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e05-islas-pearl_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 5 - Islas Pearl",
+      "start_time": "18:15",
+      "end_time": "19:06",
+      "episode_description": "Aislado en una isla desierta frente a la costa de Panamá, Ed Stafford está atrapado en una playa sin agua y sin salida. Debe usar restos flotantes y desechos para desafiar las aguas infestadas de tiburones y encontrar una nueva base."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e06-franja-de-caprivi-el-rio-kwando_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 6 - Franja de Caprivi / El río Kwando",
+      "start_time": "19:06",
+      "end_time": "19:58",
+      "episode_description": "Stafford se esfuerza por sobrevivir durante 10 días en el corazón de África, Caprivi, un lugar con la mayor concentración de caza peligrosa del mundo."
+    },
+    {
+      "show_name": "Desolado con Ed Stafford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_desolado-con-ed-stafford-s03e14-montanas-de-erongo_l_m.jpg",
+      "show_category": "Temporada 3 Episodio 14 - Montañas de Erongo",
+      "start_time": "19:58",
+      "end_time": "20:50",
+      "episode_description": "Las montañas de Erongo abarcan cientos de kilómetros de desierto árido, rocoso y abrasador, pero los bosquimanos han logrado sobrevivir aquí durante milenios. Ed Stafford se pregunta si podrá sobrevivir allí aprovechando sus tradiciones."
+    },
+    {
+      "show_name": "Ed Stafford: campamento salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 3",
+      "start_time": "20:50",
+      "end_time": "21:42",
+      "episode_description": "Ed decide cambiar el rumbo de las cosas cambiando las parejas. Cada niño hereda un nuevo papá por un día. Los papás deben guiarlos a través de Mountain Pine Ridge hasta la cima de Big Rock Falls, donde deben cruzar una imponente cascada."
+    },
+    {
+      "show_name": "Legado salvaje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Selvas",
+      "start_time": "21:42",
+      "end_time": "22:33",
+      "episode_description": "Criar a los cachorros en el complejo mundo de la selva requiere ingenio, y los padres deben convertirse en dueños de su entorno, aprendiendo a aprovechar cada oportunidad mediante la determinación y el trabajo en equipo."
+    },
+    {
+      "show_name": "Cacería",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episodio 5 - Sin escondite",
+      "start_time": "22:33",
+      "end_time": "23:30",
+      "episode_description": "En las pasturas y los desiertos, que constituyen ambientes expuestos, los depredadores pueden ver a sus presas, pero las presas también pueden verlos. El elemento sorpresa es fundamental."
+    },
+    {
+      "show_name": "Fiebre del oro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/mx_fiebre-del-oro-s15e468-el-veredicto-del-valle-vegas_l_m.jpg",
+      "show_category": "Temporada 15 Episodio 468 - El veredicto del Valle Vegas",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Doce supervivientes con experiencia se adentran en los terrenos desolados de Colombia. El reto es sobrevivir 40 días y 40 noches sin comida, sin agua y sin ropa en un lugar lleno de depredadores y con un calor agobiante."
+      "episode_description": "Rick comienza en su primera semana de limpieza en Valle Vegas. Parker confronta sus malas decisiones y se dirige a un lugar de confianza. Tony le encarga a su primo Mike la puesta en marcha de una nueva planta en el terreno del río Indian."
     }
   ]
 }
